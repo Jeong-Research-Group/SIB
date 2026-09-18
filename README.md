@@ -1,25 +1,27 @@
-# First-Principles Screening of Fluoride-Ion Battery Materials
+# First-Principles Screening of Sodium-Ion Battery Cathode Materials
 
-This repository contains crystal structures generated and screened for the discovery of candidate materials for fluoride-ion batteries (FIBs).
+This repository contains crystal structures and computational data generated and screened for the discovery of candidate cathode materials for sodium-ion batteries (SIBs).
 
 ## Screening Workflow
 
 ![Screening workflow](figures/screening_workflow.png)
 
-Candidate structures were generated using MatterGen and subsequently screened through multiple stages based on composition, predicted electronic properties, chemical criteria, oxidation states, and DFT calculations.
+Candidate structures were generated using MatterGen and subsequently screened through multiple stages based on structural stability, predicted electronic properties, oxidation states, electrochemical properties, mechanical properties, and DFT calculations.
 
 ## Repository Structure
 
 ```text
 .
-├── alex-mp-20/
-│   ├── README.txt
-│   ├── RED/
-│   ├── ORANGE/
-│   ├── YELLOW/
-│   ├── GREEN/
-│   ├── BLUE/
-│   └── NAVY/
+├── MP-Na/
+│   ├── alignn/
+│   ├── average_voltage/
+│   ├── ehull/
+│   ├── generation/
+│   ├── mattersim/
+│   ├── modulus/
+│   ├── oxidation_state/
+│   ├── revesiblity/
+│   └── spglib/
 │
 ├── structures/
 │   └── final_candidate/
@@ -34,28 +36,46 @@ Candidate structures were generated using MatterGen and subsequently screened th
 
 The screening workflow employs the following datasets and computational tools:
 
-- **Alex-MP-20**  
-  Used as the source dataset for materials screening.
+- **MP-Na**  
+  Used as the source dataset and reference chemical space for sodium-containing materials screening.
 
 - **MatterGen**  
-  Used for generative materials exploration.
+  Used for generative exploration of candidate sodium-ion battery cathode materials.
 
 - **MatterSim**  
   Used for machine-learning-based structural and thermodynamic stability evaluation.
 
 - **ALIGNN (Atomistic Line Graph Neural Network)**  
-  Used for machine-learning-based prediction of electronic band gaps.
+  Used for machine-learning-based prediction of electronic properties.
+
+- **Energy Above Hull (E_hull)**  
+  Used to evaluate the thermodynamic stability of the generated candidate structures.
+
+- **Oxidation-State Analysis**  
+  Used to evaluate chemically reasonable oxidation states and compositions of the generated structures.
+
+- **Average Voltage**  
+  Used to evaluate the predicted electrochemical voltage characteristics of candidate cathode materials.
+
+- **Reversibility Analysis**  
+  Used to assess structural and compositional criteria relevant to reversible Na-ion insertion and extraction.
+
+- **Elastic Modulus**  
+  Used to evaluate the mechanical properties of the screened candidate structures.
+
+- **Spglib**  
+  Used for crystal symmetry analysis and space-group identification.
 
 - **VASP (Vienna Ab initio Simulation Package)**  
   Used for density functional theory (DFT) calculations and validation of the screened candidate structures.
 
-Detailed information on each screening stage and the corresponding intermediate structures is provided in [`alex-mp-20/README.md`](alex-mp-20/README.md) and [`mp-F/README.md`](mp-F/README.md).
+Detailed data and intermediate structures generated at each screening stage are organized in the corresponding subdirectories under [`MP-Na/`](MP-Na/).
 
 ---
 
 ## References
 
-### MatterGen / Alex-MP-20
+### MatterGen
 
 1. C. Zeni et al., "A generative model for inorganic materials design," *Nature* (2025).  
    [DOI: 10.1038/s41586-025-08628-5](https://doi.org/10.1038/s41586-025-08628-5)
