@@ -119,7 +119,7 @@ The structures and computational data in this directory represent intermediate s
 
 The screening procedure progressively evaluates generated candidate materials based on thermodynamic stability, electronic properties, chemical validity, oxidation states, electrochemical properties, reversibility, and mechanical properties.
 
-Final candidate structures obtained after the complete screening and DFT validation are provided separately in the `../structures/final_candidate/` directory.
+Final candidate structures obtained after the complete screening and DFT validation are provided separately in the `../structures/final_candidate` directory.
 
 ## References
 
