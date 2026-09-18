@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       LiNaCrS3Mn
+_chemical_formula_sum              "Li1 Na1 Cr1 S3 Mn1"
+_cell_length_a       3.827401285018942
+_cell_length_b       3.8409454877895794
+_cell_length_c       10.213906288146973
+_cell_angle_alpha    90.0030760896127
+_cell_angle_beta     90.21260580030467
+_cell_angle_gamma    120.35718183346435
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.6224943409926503  0.5170751217576779  0.5492473844112518  1.0000
+  Na  Na1       1.0  0.2874864044278734  0.8505835521060232  0.7574940919302142  1.0000
+  Cr  Cr1       1.0  0.9567455653907986  0.18381012961609497  0.3307777647342697  1.0000
+  S   S1        1.0  0.9550808669323418  0.18302607532449325  0.5555770992073549  1.0000
+  S   S2        1.0  0.9562442288572598  0.18411204150934724  0.9375678896222291  1.0000
+  S   S3        1.0  0.28712081935291245  0.8481588945322867  0.23778110726489496  1.0000
+  Mn  Mn1       1.0  0.6249638790532491  0.5172764667549347  0.054925770017965225  1.0000

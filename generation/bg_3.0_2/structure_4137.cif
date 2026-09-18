@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Na3O2WO2
+_chemical_formula_sum              "Na3 O4 W1"
+_cell_length_a       5.075372598375204
+_cell_length_b       5.115938480192857
+_cell_length_c       5.079714775085449
+_cell_angle_alpha    89.93637246467057
+_cell_angle_beta     90.03327918515076
+_cell_angle_gamma    90.07740219890037
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.5158491125596236  0.3472872381299001  0.8051759002406752  1.0000
+  Na  Na2       1.0  0.016378951646385045  0.8487608427581156  0.8034133903476807  1.0000
+  Na  Na3       1.0  0.016393422631005548  0.3500673481314302  0.30461233903391416  1.0000
+  O   O1        1.0  0.7261927733148367  0.6392168397471015  0.09436629775619178  1.0000
+  O   O2        1.0  0.7262297279167174  0.05821264979680486  0.5131164780315319  1.0000
+  W   W1        1.0  0.5161873702143126  0.8481809502231848  0.3042059830775825  1.0000
+  O   O3        1.0  0.3073030106701937  0.6391597396768872  0.5136747961196301  1.0000
+  O   O4        1.0  0.305075496381364  0.05780791796268103  0.09573929054635141  1.0000

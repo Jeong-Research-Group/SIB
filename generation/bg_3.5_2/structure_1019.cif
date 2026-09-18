@@ -1,0 +1,27 @@
+data_image0
+_chemical_formula_structural       YCa
+_chemical_formula_sum              "Y1 Ca1"
+_cell_length_a       5.451089943791373
+_cell_length_b       3.863849568753462
+_cell_length_c       4.831399440765381
+_cell_angle_alpha    89.93114735767179
+_cell_angle_beta     90.23986510262368
+_cell_angle_gamma    45.13892561929491
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.6510148643166398  0.7047564391779776  0.30678418314722694  1.0000
+  Ca  Ca1       1.0  0.1507111200948947  0.7032137498556073  0.8049367671343162  1.0000

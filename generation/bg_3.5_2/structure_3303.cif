@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       HNaHO2
+_chemical_formula_sum              "H2 Na1 O2"
+_cell_length_a       3.6160081051041097
+_cell_length_b       3.6308379033548532
+_cell_length_c       5.471412658691406
+_cell_angle_alpha    89.89840343811832
+_cell_angle_beta     90.51566814727133
+_cell_angle_gamma    119.99243638425946
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.9421464806829634  0.6004464614844033  0.03327966547496895  1.0000
+  Na  Na1       1.0  0.6005274059381184  0.9342464219390179  0.6404324165673188  1.0000
+  H   H2        1.0  0.26319035864233403  0.26935553576825416  0.24417330345368224  1.0000
+  O   O1        1.0  0.2628954634206777  0.26374170030827315  0.4142434889514475  1.0000
+  O   O2        1.0  0.9369271382609253  0.6059209097581941  0.8630495072590608  1.0000

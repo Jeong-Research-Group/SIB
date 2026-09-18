@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NaGa2LiZr
+_chemical_formula_sum              "Na1 Ga2 Li1 Zr1"
+_cell_length_a       4.542377423122534
+_cell_length_b       4.5398898126598155
+_cell_length_c       6.793707847595215
+_cell_angle_alpha    90.28404956994217
+_cell_angle_beta     90.52302427065193
+_cell_angle_gamma    120.4948499303098
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.37945014165242563  0.597464203815053  0.5154212110268298  1.0000
+  Ga  Ga1       1.0  0.040370023841492936  0.9332293271624977  0.8398895269989608  1.0000
+  Ga  Ga2       1.0  0.04219611963122225  0.9326069939044609  0.22293312812864982  1.0000
+  Li  Li1       1.0  0.7078288787515352  0.265211463460324  0.13153141805234891  1.0000
+  Zr  Zr1       1.0  0.375463695228542  0.5993922952020198  0.017279651716815583  1.0000

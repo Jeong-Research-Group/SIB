@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NaPtO3
+_chemical_formula_sum              "Na1 Pt1 O3"
+_cell_length_a       3.9494702217359596
+_cell_length_b       3.948775434413124
+_cell_length_c       3.9579362869262695
+_cell_angle_alpha    89.91888034374041
+_cell_angle_beta     89.82221267200205
+_cell_angle_gamma    89.97221046532631
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.7318590284967543  0.5963225362227571  0.06233954783801465  1.0000
+  Pt  Pt1       1.0  0.23270484684812612  0.09484285060871023  0.5621423726143537  1.0000
+  O   O1        1.0  0.23217041910558237  0.5952276588603106  0.5619676706779393  1.0000
+  O   O2        1.0  0.7321093690578071  0.09533098222989506  0.5621530413776915  1.0000
+  O   O3        1.0  0.23182337100156797  0.09581015916623868  0.061404366317492416  1.0000

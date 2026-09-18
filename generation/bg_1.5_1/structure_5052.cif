@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ONbOTiNaO
+_chemical_formula_sum              "O3 Nb1 Ti1 Na1"
+_cell_length_a       3.0852692793250505
+_cell_length_b       3.074229666850382
+_cell_length_c       8.092069625854492
+_cell_angle_alpha    89.8360506499622
+_cell_angle_beta     89.79692732986983
+_cell_angle_gamma    60.618120434364364
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.13757567068514293  0.25039037889735444  0.35725659092502626  1.0000
+  Nb  Nb1       1.0  0.14045910516943744  0.24953208720653622  0.9122648233455222  1.0000
+  O   O2        1.0  0.8092573889841759  0.9136574851963222  0.7551820870680114  1.0000
+  Ti  Ti1       1.0  0.8058966990370546  0.9185047737346362  0.221132815260285  1.0000
+  Na  Na1       1.0  0.4738655976522482  0.5838423376614393  0.558014034792586  1.0000
+  O   O3        1.0  0.4758065932278085  0.5840380792945784  0.08110552989571015  1.0000

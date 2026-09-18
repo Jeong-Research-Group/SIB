@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NaTlCaNaCd
+_chemical_formula_sum              "Na2 Tl1 Ca1 Cd1"
+_cell_length_a       5.30706525440355
+_cell_length_b       5.3406630260255445
+_cell_length_c       6.273802757263184
+_cell_angle_alpha    89.56140877295609
+_cell_angle_beta     64.82470046701322
+_cell_angle_gamma    59.98493546570057
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.17295321763707228  0.96198999827074  0.633610964586827  1.0000
+  Tl  Tl1       1.0  0.7786914712807453  0.1597707709186972  0.22383622861081415  1.0000
+  Ca  Ca1       1.0  0.9845552434134932  0.5577746041566741  0.4139630798968885  1.0000
+  Na  Na2       1.0  0.3730778388957756  0.3615559946298928  0.833638489584813  1.0000
+  Cd  Cd1       1.0  0.570983528630769  0.7629538774211223  0.037597812093709215  1.0000

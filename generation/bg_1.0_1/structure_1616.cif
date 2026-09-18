@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Na3KNi
+_chemical_formula_sum              "Na3 K1 Ni1"
+_cell_length_a       5.428971973226688
+_cell_length_b       5.4492376136751455
+_cell_length_c       6.756708145141602
+_cell_angle_alpha    113.76720254719211
+_cell_angle_beta     113.05977764729302
+_cell_angle_gamma    90.11962084738236
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.8092047568349761  0.7011604911678275  0.4423956568251038  1.0000
+  Na  Na2       1.0  0.02981025284819466  0.4298239648547938  0.904039919510138  1.0000
+  Na  Na3       1.0  0.306264161407058  0.20314055700317887  0.4431762695970209  1.0000
+  K   K1        1.0  0.5564148430991814  0.9532181032352283  0.9507145879312418  1.0000
+  Ni  Ni1       1.0  0.2852157646117642  0.68051797091568  0.3961237367010528  1.0000

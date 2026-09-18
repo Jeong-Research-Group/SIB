@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       BrClNaBiCl2K
+_chemical_formula_sum              "Br1 Cl3 Na1 Bi1 K1"
+_cell_length_a       7.164809655067935
+_cell_length_b       4.126345656978331
+_cell_length_c       7.488912582397461
+_cell_angle_alpha    90.00598575030133
+_cell_angle_beta     69.38564481639436
+_cell_angle_gamma    90.0598759371002
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.8238037222082578  0.46172460918360664  0.5289464005314436  1.0000
+  Cl  Cl1       1.0  0.3324722048450313  0.4599918134408502  0.9846412539342331  1.0000
+  Na  Na1       1.0  0.0729774092632102  0.46064305349614515  0.7614644763318543  1.0000
+  Bi  Bi1       1.0  0.5737082955490499  0.9611749045094672  0.7568482751646146  1.0000
+  Cl  Cl2       1.0  0.32733127525598577  0.9615997067854549  0.5447440736455423  1.0000
+  Cl  Cl3       1.0  0.8197350498473599  0.9606390596048582  0.9795874357359673  1.0000
+  K   K1        1.0  0.5732102396247943  0.46047455079060096  0.2586748598126873  1.0000

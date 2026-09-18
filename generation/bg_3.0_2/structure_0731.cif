@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CdO3SO
+_chemical_formula_sum              "Cd1 O4 S1"
+_cell_length_a       4.360837006060724
+_cell_length_b       4.399272460299235
+_cell_length_c       4.401458740234375
+_cell_angle_alpha    89.96191054046406
+_cell_angle_beta     89.27752562687947
+_cell_angle_gamma    89.95400800837078
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.7227526305053668  0.950234235428235  0.6759240026090158  1.0000
+  O   O1        1.0  0.026771962732860338  0.2576281733592966  0.3748117386614764  1.0000
+  O   O2        1.0  0.030011546419315322  0.6541450614596346  0.9798973793391493  1.0000
+  O   O3        1.0  0.4177721152140885  0.6546207676455216  0.3749085365075659  1.0000
+  S   S1        1.0  0.22372262195736095  0.459804832160511  0.17435194508547114  1.0000
+  O   O4        1.0  0.418539135845062  0.2563843420246646  0.9774212836387492  1.0000

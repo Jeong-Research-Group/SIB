@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       HfIHfNNaClN
+_chemical_formula_sum              "Hf2 I1 N2 Na1 Cl1"
+_cell_length_a       3.606506825149594
+_cell_length_b       4.300863556470042
+_cell_length_c       9.219840049743652
+_cell_angle_alpha    90.4288154456438
+_cell_angle_beta     89.97051657608509
+_cell_angle_gamma    90.15208349916371
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.20330080363560343  0.6425481436951503  0.7796140912673041  1.0000
+  I   I1        1.0  0.2044101814164858  0.14743044914118217  0.1777082083449156  1.0000
+  Hf  Hf2       1.0  0.7017259583949624  0.14497739002858182  0.9385904666507022  1.0000
+  N   N1        1.0  0.7024706019642003  0.6432697773356175  0.9122409816659589  1.0000
+  Na  Na1       1.0  0.20602203947902595  0.14111842242643552  0.4980291129007933  1.0000
+  Cl  Cl1       1.0  0.7042521828723805  0.6390838627604252  0.5385938288249947  1.0000
+  N   N2        1.0  0.20405252267440266  0.1435347784505895  0.7964005465606295  1.0000

@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       NZrNa
+_chemical_formula_sum              "N1 Zr1 Na1"
+_cell_length_a       3.2347149379187305
+_cell_length_b       3.228219704479558
+_cell_length_c       6.021068096160889
+_cell_angle_alpha    74.47784332950205
+_cell_angle_beta     74.11524173685059
+_cell_angle_gamma    60.160182663270795
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  N   N1        1.0  0.5051188462359654  0.876325724978145  2.563102256544095e-05  1.0000
+  Zr  Zr1       1.0  0.7817040702531953  0.15298218881463682  0.17038369123794764  1.0000
+  Na  Na1       1.0  0.266375243001146  0.6416715369524955  0.7036058906752587  1.0000

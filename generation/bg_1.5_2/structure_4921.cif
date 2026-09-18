@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       SnNNa
+_chemical_formula_sum              "Sn1 N1 Na1"
+_cell_length_a       3.3608618702159747
+_cell_length_b       3.3730804891879984
+_cell_length_c       5.9300408363342285
+_cell_angle_alpha    106.02859795032447
+_cell_angle_beta     90.08185548712592
+_cell_angle_gamma    120.08458872788957
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.6282171002941851  0.5770221960735745  0.31821611529839483  1.0000
+  N   N1        1.0  0.8985743536508995  0.10864909817745814  0.11576696449779877  1.0000
+  Na  Na1       1.0  0.13489498142252884  0.5893772238473692  0.8325592283405968  1.0000

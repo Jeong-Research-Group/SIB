@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       TiO2Ti2OPrO2
+_chemical_formula_sum              "Ti3 O5 Pr1"
+_cell_length_a       3.2049633286248334
+_cell_length_b       5.0451509338913345
+_cell_length_c       6.9242401123046875
+_cell_angle_alpha    90.23417554946997
+_cell_angle_beta     89.8079580935588
+_cell_angle_gamma    89.90015880311643
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.7138850100808459  0.33104139545862193  0.7984545822377603  1.0000
+  O   O1        1.0  0.7143175614010031  0.6904851796095918  0.8607174157070172  1.0000
+  O   O2        1.0  0.7135433544819639  0.3386015295157938  0.5316323636599046  1.0000
+  Ti  Ti2       1.0  0.2135830958975249  0.8378139145337871  0.03171563839800126  1.0000
+  Ti  Ti3       1.0  0.7158664459261774  0.34381887401007616  0.2640268209925862  1.0000
+  O   O3        1.0  0.21638664540893934  0.14310753302166007  0.8538980482771004  1.0000
+  Pr  Pr1       1.0  0.21629464716488842  0.8386114248291419  0.5318654772868964  1.0000
+  O   O4        1.0  0.2127163256234153  0.5313131218597943  0.2138220222867642  1.0000
+  O   O5        1.0  0.7148317706088494  0.9813402300523716  0.20145273188944945  1.0000

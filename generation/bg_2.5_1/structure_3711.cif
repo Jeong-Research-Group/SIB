@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BrNaBr3Co
+_chemical_formula_sum              "Br4 Na1 Co1"
+_cell_length_a       4.987916006729457
+_cell_length_b       4.979386119205925
+_cell_length_c       8.627650260925293
+_cell_angle_alpha    73.1050376183818
+_cell_angle_beta     73.0827292891591
+_cell_angle_gamma    89.6995970390044
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.06310577778264535  0.6163675794650485  0.25264534364039487  1.0000
+  Na  Na1       1.0  0.20228698800991085  0.2553278508030799  0.970802009647403  1.0000
+  Br  Br2       1.0  0.7253907312192406  0.7768418185615972  0.9245620377680311  1.0000
+  Br  Br3       1.0  0.39366346510406897  0.4460352658024803  0.5900500413960799  1.0000
+  Br  Br4       1.0  0.5628368266636662  0.1156147049234588  0.25240892164904666  1.0000
+  Co  Co1       1.0  0.556376337896099  0.6108277438932196  0.2651823457878088  1.0000

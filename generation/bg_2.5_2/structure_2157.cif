@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NaCO2FCd
+_chemical_formula_sum              "Na1 C1 O2 F1 Cd1"
+_cell_length_a       3.6834572680805278
+_cell_length_b       5.489671003556607
+_cell_length_c       5.056518077850342
+_cell_angle_alpha    81.21814762684323
+_cell_angle_beta     89.63322134713191
+_cell_angle_gamma    90.19247042278
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.3169289832478848  0.672764063783137  0.03579187036758091  1.0000
+  C   C1        1.0  0.31507426403740546  0.1723334940787887  0.03436909959943871  1.0000
+  O   O1        1.0  0.3140279651125352  0.08620269645401517  0.8461421732257681  1.0000
+  O   O2        1.0  0.31691944626022894  0.25204604890500754  0.224437594669662  1.0000
+  F   F1        1.0  0.8136063215040048  0.6737480752115549  0.5321405530918406  1.0000
+  Cd  Cd1       1.0  0.8173168308905289  0.17482765003269832  0.5346157545716279  1.0000

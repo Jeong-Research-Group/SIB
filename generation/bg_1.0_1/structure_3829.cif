@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       ZnONaONi
+_chemical_formula_sum              "Zn1 O2 Na1 Ni1"
+_cell_length_a       3.3343336294481287
+_cell_length_b       3.293141568604769
+_cell_length_c       5.62367582321167
+_cell_angle_alpha    90.13054792003089
+_cell_angle_beta     89.90585516998958
+_cell_angle_gamma    89.79605304460023
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.543333948761144  0.5879587524266691  0.7748222941467607  1.0000
+  O   O1        1.0  0.04052948905842949  0.5853140353022073  0.997441768076599  1.0000
+  Na  Na1       1.0  0.5423788418461744  0.08850970751443067  0.27376428239936473  1.0000
+  O   O2        1.0  0.04218563840098069  0.5909345150674524  0.5517371898231754  1.0000
+  Ni  Ni1       1.0  0.041773251939060445  0.08836314706239345  0.7749628417520328  1.0000

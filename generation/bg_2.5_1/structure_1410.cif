@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       MoNaAgO2
+_chemical_formula_sum              "Mo1 Na1 Ag1 O2"
+_cell_length_a       3.2509420330332612
+_cell_length_b       3.25075169928242
+_cell_length_c       8.356891632080078
+_cell_angle_alpha    89.76688132191791
+_cell_angle_beta     90.34776841707335
+_cell_angle_gamma    119.62098208427383
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.6625275031453229  0.04357306020417363  0.773585975236135  1.0000
+  Na  Na1       1.0  0.9969624857543499  0.7070807202604147  0.08579023233132434  1.0000
+  Ag  Ag1       1.0  0.32988345610415926  0.3768474471795014  0.4445709883693587  1.0000
+  O   O1        1.0  0.3304459740238615  0.37411796965279387  0.90795803117745  1.0000
+  O   O2        1.0  0.9967797995196753  0.7088316675191395  0.6376903657520867  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Na2SbNaTl2Sb
+_chemical_formula_sum              "Na3 Sb2 Tl2"
+_cell_length_a       5.303650218937491
+_cell_length_b       5.305291395631132
+_cell_length_c       7.64171838760376
+_cell_angle_alpha    90.10437462052288
+_cell_angle_beta     89.70376351270626
+_cell_angle_gamma    89.98187518320107
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.3350681657889729  0.4301978059018424  0.5238095516993484  1.0000
+  Na  Na2       1.0  0.8333754536029546  0.9263676410878231  0.07113150474530952  1.0000
+  Sb  Sb1       1.0  0.3349501794446873  0.927248180468371  0.7982290386813133  1.0000
+  Na  Na3       1.0  0.8346164222642712  0.4281219540708105  0.7984474306486786  1.0000
+  Tl  Tl1       1.0  0.835379243026744  0.9275733827665282  0.5355641239954767  1.0000
+  Tl  Tl2       1.0  0.3347569100644307  0.42692828149535816  0.058598484883497795  1.0000
+  Sb  Sb2       1.0  0.8350207215356351  0.4268760392236489  0.2977086905459107  1.0000

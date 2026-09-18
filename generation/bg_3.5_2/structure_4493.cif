@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NaLiOGeO2
+_chemical_formula_sum              "Na1 Li1 O3 Ge1"
+_cell_length_a       3.118941494454355
+_cell_length_b       4.88595367448204
+_cell_length_c       5.737676620483398
+_cell_angle_alpha    64.89783887513624
+_cell_angle_beta     106.11594334929815
+_cell_angle_gamma    90.09567332612518
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.5560420155746119  0.09748647299240362  0.2704776233601819  1.0000
+  Li  Li1       1.0  0.22347706633872916  0.43703246172908855  0.603569090689937  1.0000
+  O   O1        1.0  0.36930644386517897  0.9830977913031406  0.8967329257453435  1.0000
+  Ge  Ge1       1.0  0.8835701351033186  0.7549163689505854  0.9253500699969508  1.0000
+  O   O2        1.0  0.7505832315969662  0.6544576291924309  0.6590377684790752  1.0000
+  O   O3        1.0  0.04238830991283944  0.4514390825177193  0.2482939812214195  1.0000

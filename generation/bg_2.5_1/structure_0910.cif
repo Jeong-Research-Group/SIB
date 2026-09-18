@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AuF2NaF2
+_chemical_formula_sum              "Au1 F4 Na1"
+_cell_length_a       3.5323719394386384
+_cell_length_b       4.923566009128966
+_cell_length_c       4.894519329071045
+_cell_angle_alpha    93.92321534966848
+_cell_angle_beta     86.34613793805451
+_cell_angle_gamma    93.47864521823793
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.18943519949900398  0.5960755951350729  0.4701049326869845  1.0000
+  F   F1        1.0  0.6313157680573772  0.7890096315977265  0.2776618900905645  1.0000
+  F   F2        1.0  0.18807187764245767  0.8809748297009864  0.7549373515321474  1.0000
+  Na  Na1       1.0  0.6896572104318995  0.09610386256687663  0.9704668524656268  1.0000
+  F   F3        1.0  0.19194234981740152  0.31001377102380767  0.1849028471988851  1.0000
+  F   F4        1.0  0.7489098916014107  0.40248700880731814  0.6636008609804244  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       O2NaMoCl
+_chemical_formula_sum              "O2 Na1 Mo1 Cl1"
+_cell_length_a       3.515245137137556
+_cell_length_b       3.900148293349876
+_cell_length_c       6.175360202789307
+_cell_angle_alpha    90.25466614200167
+_cell_angle_beta     72.8134013546665
+_cell_angle_gamma    90.46103350223186
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.04091169781232706  0.04619854972625317  0.88600742731019  1.0000
+  O   O2        1.0  0.47945845106078594  0.545871137693861  0.008100639486149497  1.0000
+  Na  Na1       1.0  0.36820152382078314  0.04578863569774915  0.23169110671121393  1.0000
+  Mo  Mo1       1.0  0.06833463262133257  0.5460738549719328  0.8346333506896476  1.0000
+  Cl  Cl1       1.0  0.7330304388432795  0.5465515251865367  0.5063681594695775  1.0000

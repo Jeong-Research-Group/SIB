@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       HNa2HTiH
+_chemical_formula_sum              "H3 Na2 Ti1"
+_cell_length_a       3.092255813953857
+_cell_length_b       4.99810827449128
+_cell_length_c       5.772678375244141
+_cell_angle_alpha    64.01065174839486
+_cell_angle_beta     105.44372881963805
+_cell_angle_gamma    90.17686399114322
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.19981939937910453  0.21759469754036023  0.7853833434127434  1.0000
+  Na  Na1       1.0  0.5294260396449113  0.28371533760117146  0.44539669095537876  1.0000
+  Na  Na2       1.0  0.8677005163635574  0.944437920778613  0.12130282774061199  1.0000
+  H   H2        1.0  0.8263463964000847  0.49700972539219535  0.04187760882253119  1.0000
+  Ti  Ti1       1.0  0.19267088070413801  0.5700259206937537  0.7842723128561222  1.0000
+  H   H3        1.0  0.5677575475203587  0.7581593390748659  0.5233447550119256  1.0000

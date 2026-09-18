@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       NaF3GaF3Au
+_chemical_formula_sum              "Na1 F6 Ga1 Au1"
+_cell_length_a       5.9915732948730795
+_cell_length_b       6.0039428844974
+_cell_length_c       5.99114465713501
+_cell_angle_alpha    60.153649029152035
+_cell_angle_beta     60.19127444008866
+_cell_angle_gamma    60.14597443078936
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.9423417445275015  0.8377991907419481  0.06429461479139251  1.0000
+  F   F1        1.0  0.9166225198439452  0.362871914095871  0.03888027107145341  1.0000
+  F   F2        1.0  0.9163078078167122  0.3633754849878106  0.5895926947732361  1.0000
+  F   F3        1.0  0.4679138953473556  0.3630544254547248  0.03883803584399699  1.0000
+  Ga  Ga1       1.0  0.6926532980189071  0.5870396487970175  0.8140921601842902  1.0000
+  F   F4        1.0  0.917008698363177  0.8117129804840686  0.59030443339498  1.0000
+  F   F5        1.0  0.4684650903455936  0.8118785622497336  0.03846873360851748  1.0000
+  F   F6        1.0  0.46767836843781657  0.8117770559602379  0.5898438082581579  1.0000
+  Au  Au1       1.0  0.19224348597726124  0.08754834490787827  0.31430283254381436  1.0000

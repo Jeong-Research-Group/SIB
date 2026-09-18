@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       ScLiNaOS
+_chemical_formula_sum              "Sc1 Li1 Na1 O1 S1"
+_cell_length_a       3.3072630368264093
+_cell_length_b       3.751414871648479
+_cell_length_c       6.375404357910156
+_cell_angle_alpha    89.70510910905122
+_cell_angle_beta     89.88368438421709
+_cell_angle_gamma    90.06833854882208
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.9042918085223519  0.34732058568995794  0.844754159092896  1.0000
+  Li  Li1       1.0  0.40302217123733247  0.8468516481495842  0.1169297103266232  1.0000
+  Na  Na1       1.0  0.9049053790809316  0.34793761484107144  0.3760313683133905  1.0000
+  O   O1        1.0  0.40475642671024764  0.3473938097524798  0.07419583240630297  1.0000
+  S   S1        1.0  0.40505295976375993  0.8473652002298552  0.6553125982148669  1.0000

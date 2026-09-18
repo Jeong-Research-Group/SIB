@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Na4IrRhN
+_chemical_formula_sum              "Na4 Ir1 Rh1 N1"
+_cell_length_a       4.863460516190872
+_cell_length_b       4.968560965236085
+_cell_length_c       6.427912712097168
+_cell_angle_alpha    93.01828399496456
+_cell_angle_beta     89.20575393627337
+_cell_angle_gamma    118.99536756125579
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.4480805987815599  0.12826794388907028  0.17815426016407987  1.0000
+  Na  Na2       1.0  0.4498315150801509  0.12699100416481016  0.6835798618152675  1.0000
+  Na  Na3       1.0  0.7832643981799956  0.7909706225597631  0.33778408239931607  1.0000
+  Na  Na4       1.0  0.7844755642228488  0.7893260113141854  0.8333238370640829  1.0000
+  Ir  Ir1       1.0  0.11649773177969555  0.462082743710424  0.5532223583026675  1.0000
+  Rh  Rh1       1.0  0.11605949634435754  0.45432805955175726  0.9587869043515085  1.0000
+  N   N1        1.0  0.11333841026691446  0.4560968586154958  0.2607616189136117  1.0000

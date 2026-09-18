@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       InSeKNa2ISe
+_chemical_formula_sum              "In1 Se2 K1 Na2 I1"
+_cell_length_a       4.08885845341259
+_cell_length_b       7.074069887286871
+_cell_length_c       7.699222087860107
+_cell_angle_alpha    71.66913310744759
+_cell_angle_beta     90.37194728791377
+_cell_angle_gamma    90.41766856364775
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.4194908726515015  0.5932481282722222  0.5539855365464945  1.0000
+  Se  Se1       1.0  0.9219298954383368  0.42950591379704023  0.42615830876345967  1.0000
+  K   K1        1.0  0.41933059675670875  0.5940989858058365  0.05381654579164408  1.0000
+  Na  Na1       1.0  0.9204295278850182  0.06611349380134973  0.32726058426127014  1.0000
+  Na  Na2       1.0  0.9183852666643042  0.1205844355161259  0.7809504870153678  1.0000
+  I   I1        1.0  0.41921240104054847  0.09505430593488942  0.055146970531282334  1.0000
+  Se  Se2       1.0  0.922681511038728  0.7560333020726705  0.6838265057091053  1.0000

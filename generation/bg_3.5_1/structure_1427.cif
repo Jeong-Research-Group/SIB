@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       OCdBrNaOCO
+_chemical_formula_sum              "O3 Cd1 Br1 Na1 C1"
+_cell_length_a       5.238825862048295
+_cell_length_b       5.196817436800191
+_cell_length_c       4.874541282653809
+_cell_angle_alpha    90.11791889645501
+_cell_angle_beta     90.00895688227995
+_cell_angle_gamma    59.85234547416446
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.9717805395889374  0.5419577349054566  0.13366323689054252  1.0000
+  Cd  Cd1       1.0  0.4515503343862571  0.5866770752772429  0.13218496837432792  1.0000
+  Br  Br1       1.0  0.4545737497494384  0.5875854494582289  0.6298437122166204  1.0000
+  Na  Na1       1.0  0.7871016274643782  0.9197092648167208  0.633607029378779  1.0000
+  O   O2        1.0  0.9752624627393766  0.10941812396154345  0.13213105536303604  1.0000
+  C   C1        1.0  0.11723203115835186  0.2521398075646394  0.12984253379400615  1.0000
+  O   O3        1.0  0.4109046459265823  0.10768774246641089  0.13171377722784888  1.0000

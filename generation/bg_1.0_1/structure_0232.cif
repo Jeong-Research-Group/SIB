@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AlNaTeNaTe2
+_chemical_formula_sum              "Al1 Na2 Te3"
+_cell_length_a       4.212752867395245
+_cell_length_b       4.2220892443691485
+_cell_length_c       11.398184776306152
+_cell_angle_alpha    90.05379707535432
+_cell_angle_beta     89.97139084289523
+_cell_angle_gamma    119.8088539349497
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.08086761803458327  0.49669307543878805  0.5809538368407275  1.0000
+  Na  Na1       1.0  0.748307944475703  0.8322478541039469  0.9053815008111238  1.0000
+  Te  Te1       1.0  0.08101921540435342  0.4962303049847989  0.08116605876584031  1.0000
+  Na  Na2       1.0  0.4148384044849142  0.1663200107073369  0.25626724961831704  1.0000
+  Te  Te2       1.0  0.7487431754327943  0.8318778866858957  0.44505161011844524  1.0000
+  Te  Te3       1.0  0.414081306755422  0.1662850983351489  0.7161146399738467  1.0000

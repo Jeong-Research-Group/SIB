@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       SnNaPdIn
+_chemical_formula_sum              "Sn1 Na1 Pd1 In1"
+_cell_length_a       4.84636505648946
+_cell_length_b       4.840317894219979
+_cell_length_c       4.896061420440674
+_cell_angle_alpha    119.23505230397294
+_cell_angle_beta     119.41708862605363
+_cell_angle_gamma    90.21029722028547
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.10319362499736968  0.3724119072677369  0.5212554928190709  1.0000
+  Na  Na1       1.0  0.35447710692246853  0.1213147791764622  0.02142953666110561  1.0000
+  Pd  Pd1       1.0  0.853873670549859  0.6216973075247905  0.02126568902146018  1.0000
+  In  In1       1.0  0.6042110333487147  0.8716652398682685  0.5217179065588977  1.0000

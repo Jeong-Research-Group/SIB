@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ZnONaOCoO
+_chemical_formula_sum              "Zn1 O3 Na1 Co1"
+_cell_length_a       3.021877720300791
+_cell_length_b       4.457292443056513
+_cell_length_c       5.375903606414795
+_cell_angle_alpha    65.1256555763557
+_cell_angle_beta     104.4727223267462
+_cell_angle_gamma    89.84148092090365
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.31273311413261484  0.8102772246667561  0.8162348263890622  1.0000
+  O   O1        1.0  0.9547960768457994  0.6596587901015348  0.11058382672353549  1.0000
+  Na  Na1       1.0  0.6430164585012345  0.4737509488499492  0.48962745036463035  1.0000
+  O   O2        1.0  0.678620039582614  0.9842026822078341  0.46794974793016436  1.0000
+  Co  Co1       1.0  0.9813985238196934  0.13865530488963393  0.15899872758202452  1.0000
+  O   O3        1.0  0.32669371469232683  0.277723610946327  0.8790468574692193  1.0000

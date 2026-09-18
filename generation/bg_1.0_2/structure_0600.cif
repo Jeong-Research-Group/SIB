@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Na2NbCrSe3
+_chemical_formula_sum              "Na2 Nb1 Cr1 Se3"
+_cell_length_a       3.8156532491170494
+_cell_length_b       3.823773374428029
+_cell_length_c       12.803123474121094
+_cell_angle_alpha    98.37967550301158
+_cell_angle_beta     81.57457524156436
+_cell_angle_gamma    119.84621630922261
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.5396568192282766  0.4369943144250003  0.3262399437399629  1.0000
+  Na  Na2       1.0  0.03989732687935287  0.9300136571094478  0.7942137719875403  1.0000
+  Nb  Nb1       1.0  0.2899962665558526  0.6821211591221407  0.05697739850977062  1.0000
+  Cr  Cr1       1.0  0.7940474142429441  0.18571610781284723  0.5649110075797421  1.0000
+  Se  Se1       1.0  0.15389797270607344  0.8244054328264735  0.48513060822260906  1.0000
+  Se  Se2       1.0  0.9199994783382253  0.054774465621254084  0.1757552626606407  1.0000
+  Se  Se3       1.0  0.658222853794235  0.31083339491053985  0.9410157798356015  1.0000

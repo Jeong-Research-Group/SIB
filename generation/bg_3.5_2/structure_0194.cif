@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       CdNaBiS3NaS
+_chemical_formula_sum              "Cd1 Na2 Bi1 S4"
+_cell_length_a       4.018027552719383
+_cell_length_b       6.882863791957306
+_cell_length_c       7.104302406311035
+_cell_angle_alpha    108.41337391735223
+_cell_angle_beta     89.7883007770253
+_cell_angle_gamma    89.82774512530379
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.8743548977689934  0.08015991797482809  0.22599951928561157  1.0000
+  Na  Na1       1.0  0.8748732809095268  0.580164730227792  0.7250686291376593  1.0000
+  Bi  Bi1       1.0  0.37411543750629983  0.5797058343506583  0.22364690840908646  1.0000
+  S   S1        1.0  0.873243034551763  0.33198675517732423  0.9888454079955845  1.0000
+  S   S2        1.0  0.3746506858458795  0.32123127605765456  0.45589780857306345  1.0000
+  S   S3        1.0  0.3748464591550275  0.8385747076215565  0.9952036139543188  1.0000
+  Na  Na2       1.0  0.3738818180489235  0.08020333941881802  0.725787163043471  1.0000
+  S   S4        1.0  0.8739221103381467  0.8290728335819758  0.4599737829360264  1.0000

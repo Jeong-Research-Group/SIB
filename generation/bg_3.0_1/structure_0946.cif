@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LiNaF3
+_chemical_formula_sum              "Li1 Na1 F3"
+_cell_length_a       3.913503138709541
+_cell_length_b       3.916845376889113
+_cell_length_c       3.9148662090301514
+_cell_angle_alpha    89.95427438623767
+_cell_angle_beta     90.03933756570358
+_cell_angle_gamma    90.00744058085537
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.9270816435744178  0.06627140973295435  0.43495255828817886  1.0000
+  Na  Na1       1.0  0.42711040387899357  0.5652495619627629  0.9343760600367222  1.0000
+  F   F1        1.0  0.9265828137932846  0.06464960405394644  0.9342819439948564  1.0000
+  F   F2        1.0  0.9265103947185963  0.5646789673859149  0.43371614805161357  1.0000
+  F   F3        1.0  0.4266487347907325  0.06447941857208302  0.43399459234050386  1.0000

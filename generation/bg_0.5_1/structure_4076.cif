@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       F2Ni2Na2F3
+_chemical_formula_sum              "F5 Ni2 Na2"
+_cell_length_a       3.900080178784319
+_cell_length_b       5.634594809730961
+_cell_length_c       5.636907577514648
+_cell_angle_alpha    90.03926243222983
+_cell_angle_beta     89.74587847386493
+_cell_angle_gamma    89.85160980953819
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.9399754413151529  0.2760119433379852  0.09427125742734879  1.0000
+  F   F2        1.0  0.9406833064679945  0.7838009001151401  0.09535746244675432  1.0000
+  Ni  Ni1       1.0  0.940165101412999  0.02913895072180429  0.34068336997888293  1.0000
+  Ni  Ni2       1.0  0.9409767994079742  0.5297204848840087  0.8409825559188684  1.0000
+  Na  Na1       1.0  0.4400351049216616  0.5283890374179546  0.3406157782757324  1.0000
+  Na  Na2       1.0  0.44068253051982065  0.030145376309909763  0.8411031955721207  1.0000
+  F   F3        1.0  0.9409517046458117  0.7822263837200828  0.5869941710038129  1.0000
+  F   F4        1.0  0.44033971370751984  0.5294241306541168  0.8396605255790051  1.0000
+  F   F5        1.0  0.9401819705722321  0.2748064397199279  0.5862527481163007  1.0000

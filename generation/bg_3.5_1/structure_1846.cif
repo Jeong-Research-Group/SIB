@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       GaHNaH3
+_chemical_formula_sum              "Ga1 H4 Na1"
+_cell_length_a       3.0351388942650543
+_cell_length_b       4.7811311268644525
+_cell_length_c       4.72452974319458
+_cell_angle_alpha    87.55879722628129
+_cell_angle_beta     90.50639271620389
+_cell_angle_gamma    90.33496863614317
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.9576594830560115  0.2537186153944566  0.3007367543680701  1.0000
+  H   H1        1.0  0.9577820910083121  0.9930518866586227  0.5500700467952955  1.0000
+  Na  Na1       1.0  0.4585895552992054  0.7545497426241462  0.8007928735272227  1.0000
+  H   H2        1.0  0.9579472548654536  0.5164275161538334  0.05132384213619658  1.0000
+  H   H3        1.0  0.45763009942937327  0.10017703453566487  0.12887190182271863  1.0000
+  H   H4        1.0  0.45576110628490835  0.4057325121301018  0.47391837742447496  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NaKTiNaOFO2
+_chemical_formula_sum              "Na2 K1 Ti1 O3 F1"
+_cell_length_a       3.899459307004108
+_cell_length_b       6.53851129332882
+_cell_length_c       6.0286431312561035
+_cell_angle_alpha    116.84526066529804
+_cell_angle_beta     89.46961096572038
+_cell_angle_gamma    72.92579254445924
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.4529421923013679  0.43007391656843913  0.8952249877192119  1.0000
+  K   K1        1.0  0.250314176904284  0.8325456978979744  0.5659387705809935  1.0000
+  Ti  Ti1       1.0  0.7342061388229716  0.8628132349310277  0.04607942726488967  1.0000
+  Na  Na2       1.0  0.009319649601062461  0.3148823073435256  0.29375752820814616  1.0000
+  O   O1        1.0  0.5908926125560339  0.14746800067215676  0.039918914533316203  1.0000
+  F   F1        1.0  0.8487136357345534  0.6345044374403193  0.21279258947423238  1.0000
+  O   O2        1.0  0.2259711186014248  0.8825154898011549  0.11874542304873902  1.0000
+  O   O3        1.0  0.8689603215031241  0.5988529318558786  0.7284408804654937  1.0000

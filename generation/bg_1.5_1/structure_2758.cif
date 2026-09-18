@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       PbNaKNa
+_chemical_formula_sum              "Pb1 Na2 K1"
+_cell_length_a       5.593850809506776
+_cell_length_b       5.609948698163665
+_cell_length_c       5.617644786834717
+_cell_angle_alpha    59.74277549172945
+_cell_angle_beta     59.88704253561477
+_cell_angle_gamma    60.19816328053665
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.8645783658686373  0.8686088334106651  0.4409392179876447  1.0000
+  Na  Na1       1.0  0.36507254869260686  0.36878600802636824  0.9402074807217953  1.0000
+  K   K1        1.0  0.6144096255165864  0.6190571189122004  0.19049832211092826  1.0000
+  Na  Na2       1.0  0.11439637717783319  0.11889569535149419  0.6908459064677283  1.0000

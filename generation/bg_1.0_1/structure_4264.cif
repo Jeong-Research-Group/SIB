@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       ORuONaO
+_chemical_formula_sum              "O3 Ru1 Na1"
+_cell_length_a       2.975435333587099
+_cell_length_b       3.7970785953803237
+_cell_length_c       5.56157112121582
+_cell_angle_alpha    89.51740181515773
+_cell_angle_beta     89.71971885189107
+_cell_angle_gamma    89.205391945321
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.6037523166316349  0.038670412670433384  0.36717090002001435  1.0000
+  Ru  Ru1       1.0  0.10449930923133527  0.03749188911934638  0.6108087301760124  1.0000
+  O   O2        1.0  0.10415305919747445  0.5378875719316185  0.6115798945659932  1.0000
+  Na  Na1       1.0  0.10472003432442102  0.5392264134152376  0.11111219922932598  1.0000
+  O   O3        1.0  0.6039252867291848  0.037691310656951534  0.8553376800499293  1.0000

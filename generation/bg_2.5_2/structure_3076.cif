@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ClNa2BiCuCl
+_chemical_formula_sum              "Cl2 Na2 Bi1 Cu1"
+_cell_length_a       3.9889321119932024
+_cell_length_b       5.993065866898217
+_cell_length_c       7.0177788734436035
+_cell_angle_alpha    115.17593371896564
+_cell_angle_beta     73.53809220629817
+_cell_angle_gamma    89.70535453046512
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.6949856293213335  0.2848200505375458  0.32191312360308766  1.0000
+  Na  Na1       1.0  0.38173368684657816  0.09571655089505039  0.9427766801273157  1.0000
+  Na  Na2       1.0  0.7102479941778994  0.7665008311431512  0.28466701581217535  1.0000
+  Bi  Bi1       1.0  0.3998595485408584  0.5748060339001534  0.9003643384961634  1.0000
+  Cu  Cu1       1.0  0.04735445713515799  0.4265163831259858  0.6086287490524094  1.0000
+  Cl  Cl2       1.0  0.047164968874749066  0.928894340903657  0.6127352708082144  1.0000

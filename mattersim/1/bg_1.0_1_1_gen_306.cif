@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AuCd2Na3Cd
+_chemical_formula_sum              "Au1 Cd3 Na3"
+_cell_length_a       4.988698082213866
+_cell_length_b       5.890839236217447
+_cell_length_c       5.907919883728027
+_cell_angle_alpha    84.84578454799578
+_cell_angle_beta     114.50171331517538
+_cell_angle_gamma    89.75690910516005
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.13233040273189545  0.7507563829421997  0.8730034232139587  1.0000
+  Cd  Cd1       1.0  0.9943743944168091  0.3247796595096588  0.5991153120994568  1.0000
+  Cd  Cd2       1.0  0.7022374272346497  0.4819712340831757  0.014227007515728435  1.0000
+  Na  Na1       1.0  0.2716110348701477  0.19473293423652652  0.1531059890985489  1.0000
+  Na  Na2       1.0  0.42209979891777033  0.6084354519844056  0.45370763540267944  1.0000
+  Na  Na3       1.0  0.8490039706230164  0.8997969627380372  0.30720341205596924  1.0000
+  Cd  Cd3       1.0  0.5648592710494995  0.03755143657326698  0.7409684658050537  1.0000

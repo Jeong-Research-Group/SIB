@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       SeNa2AsNaSe2Ta
+_chemical_formula_sum              "Se3 Na3 As1 Ta1"
+_cell_length_a       3.948615096008065
+_cell_length_b       5.676145373735202
+_cell_length_c       8.544913291931152
+_cell_angle_alpha    90.14017164642817
+_cell_angle_beta     89.96499095732328
+_cell_angle_gamma    89.66890227215696
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.18396048128992054  0.3112513712378  0.9320662021822959  1.0000
+  Na  Na1       1.0  0.1837971360305533  0.8114441040619483  0.43179014339383653  1.0000
+  Na  Na2       1.0  0.6835815312795548  0.31107026413397454  0.6835809355131705  1.0000
+  As  As1       1.0  0.6841088525484541  0.8111914998474343  0.14251837166605313  1.0000
+  Na  Na3       1.0  0.6835770613613922  0.3116258986214059  0.1823008210056748  1.0000
+  Se  Se2       1.0  0.6833025810487385  0.8110529788201837  0.7188507911389055  1.0000
+  Se  Se3       1.0  0.18319000243148165  0.31160047593875756  0.4333134299012741  1.0000
+  Ta  Ta1       1.0  0.18362407457094257  0.8108925216999564  0.9342180489044123  1.0000

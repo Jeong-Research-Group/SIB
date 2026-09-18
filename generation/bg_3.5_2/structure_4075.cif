@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       LiZrNa2N2
+_chemical_formula_sum              "Li1 Zr1 Na2 N2"
+_cell_length_a       3.6100097570239544
+_cell_length_b       3.2210863856825873
+_cell_length_c       9.185458183288574
+_cell_angle_alpha    89.4161169530417
+_cell_angle_beta     89.88525533170737
+_cell_angle_gamma    89.88433325882346
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.30701312496487226  0.8582912072589589  0.20086234834024522  1.0000
+  Zr  Zr1       1.0  0.8079318405945315  0.35431417930091474  0.38484615037496145  1.0000
+  Na  Na1       1.0  0.3077745732937451  0.8496487749454192  0.6883432272616821  1.0000
+  Na  Na2       1.0  0.8090751763972784  0.35394674618175676  0.003829610395422985  1.0000
+  N   N1        1.0  0.3071739067914205  0.8524152640834893  0.4358195066463326  1.0000
+  N   N2        1.0  0.8083836444224198  0.8580647714415782  0.19820725960675536  1.0000

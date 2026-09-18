@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Na2ClHgCl2
+_chemical_formula_sum              "Na2 Cl3 Hg1"
+_cell_length_a       3.986742378058662
+_cell_length_b       3.988782525255675
+_cell_length_c       9.746124267578125
+_cell_angle_alpha    90.31228558698011
+_cell_angle_beta     90.30344049791991
+_cell_angle_gamma    60.09917156965365
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.8983464831129456  0.5829520237178912  0.0744696780135778  1.0000
+  Na  Na2       1.0  0.23307411374753242  0.9131696826986944  0.7519019837953288  1.0000
+  Cl  Cl1       1.0  0.5676357754717283  0.2464782880737565  0.9137366411560969  1.0000
+  Hg  Hg1       1.0  0.5674905181375417  0.24582624348643542  0.4128860231430378  1.0000
+  Cl  Cl2       1.0  0.2333140954436192  0.9132751828275191  0.24352763585740886  1.0000
+  Cl  Cl3       1.0  0.8997083296932618  0.5790330178359561  0.5803810954833051  1.0000

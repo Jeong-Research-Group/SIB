@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       OBrBiNaLiNaBrLiO2
+_chemical_formula_sum              "O3 Br2 Bi1 Na2 Li2"
+_cell_length_a       4.052052821069621
+_cell_length_b       6.501075306659938
+_cell_length_c       8.672798156738281
+_cell_angle_alpha    87.449657805144
+_cell_angle_beta     88.4051941989789
+_cell_angle_gamma    72.45573741367916
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.7534067640752787  0.23929294963776662  0.041104700169671174  1.0000
+  Br  Br1       1.0  0.2169757779897932  0.3076688343642518  0.722694456375057  1.0000
+  Bi  Bi1       1.0  0.618895768013082  0.5215790270498367  0.18935978441294135  1.0000
+  Na  Na1       1.0  0.3256977202815194  0.07959675775537065  0.14403212099856003  1.0000
+  Li  Li1       1.0  0.6453810945354115  0.4407665722014763  0.8547806734764912  1.0000
+  Na  Na2       1.0  0.9151542178365627  0.9166778329359606  0.8720107676084301  1.0000
+  Br  Br2       1.0  0.9320666192633116  0.8674652577274982  0.4116079208317433  1.0000
+  Li  Li2       1.0  0.12063698342388585  0.5007147199324232  0.49056598503095544  1.0000
+  O   O2        1.0  0.17717607316032596  0.3944918517212467  0.2891616224119666  1.0000
+  O   O3        1.0  0.4905346040951034  0.7417321793967991  0.97351396095399  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Na4SO
+_chemical_formula_sum              "Na4 S1 O1"
+_cell_length_a       4.4877108840238655
+_cell_length_b       4.462787768365752
+_cell_length_c       6.323129177093506
+_cell_angle_alpha    90.25582723987183
+_cell_angle_beta     90.16034802403628
+_cell_angle_gamma    90.11399152586905
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.5866823784194513  0.6074814798184723  0.22859466075925397  1.0000
+  Na  Na2       1.0  0.5847011201995871  0.6092208618679484  0.7509394878090982  1.0000
+  Na  Na3       1.0  0.08403653570930811  0.10856953904202893  0.7521844512501553  1.0000
+  Na  Na4       1.0  0.08622307241511663  0.10783264776628886  0.22803495826822778  1.0000
+  S   S1        1.0  0.08551383110765194  0.6083123090184087  0.4897567033558153  1.0000
+  O   O1        1.0  0.5863446597288291  0.1082872233350137  0.9899817108946354  1.0000

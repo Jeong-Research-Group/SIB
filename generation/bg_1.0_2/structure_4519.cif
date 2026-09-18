@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       MgMnONaO
+_chemical_formula_sum              "Mg1 Mn1 O2 Na1"
+_cell_length_a       3.207379138176416
+_cell_length_b       3.2215515533754973
+_cell_length_c       8.067109107971191
+_cell_angle_alpha    89.92185830296283
+_cell_angle_beta     90.17967745689309
+_cell_angle_gamma    119.33822651282182
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.41436293771137167  0.5730165847136394  0.3537307078940214  1.0000
+  Mn  Mn1       1.0  0.7500622856026139  0.23710773904151358  0.6648923154348289  1.0000
+  O   O1        1.0  0.41913634587068216  0.5729231851262715  0.7876107094464085  1.0000
+  Na  Na1       1.0  0.08757837725907434  0.9074705831494231  0.9687398077105088  1.0000
+  O   O2        1.0  0.08190143795561737  0.9087902306551983  0.46185570918596835  1.0000

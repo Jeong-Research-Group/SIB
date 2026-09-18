@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AlO2MoO2Na
+_chemical_formula_sum              "Al1 O4 Mo1 Na1"
+_cell_length_a       5.225782825370754
+_cell_length_b       5.485008176028023
+_cell_length_c       5.47367525100708
+_cell_angle_alpha    56.51508506143353
+_cell_angle_beta     61.09973860529011
+_cell_angle_gamma    61.43992643758414
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.6660583008924518  0.5836522580540394  0.14553989559460975  1.0000
+  O   O1        1.0  0.5541100497954492  0.3051991168461578  0.17328131199459304  1.0000
+  O   O2        1.0  0.6910473098648353  0.46941959841968184  0.5101890577073904  1.0000
+  Mo  Mo1       1.0  0.4160594335533548  0.3327605137666202  0.8966264715448051  1.0000
+  O   O3        1.0  0.3929694890212973  0.9458801139306804  0.031008978978718755  1.0000
+  O   O4        1.0  0.030575684341586327  0.606823324659436  0.8739268193989277  1.0000
+  Na  Na1       1.0  0.9173446901332735  0.8343537453689339  0.39507678178917627  1.0000

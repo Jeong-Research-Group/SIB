@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CeNaO3
+_chemical_formula_sum              "Ce1 Na1 O3"
+_cell_length_a       4.32102764300255
+_cell_length_b       4.326783692120614
+_cell_length_c       4.322269916534424
+_cell_angle_alpha    90.04715812970757
+_cell_angle_beta     89.92500019277365
+_cell_angle_gamma    90.01397707217444
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.22430917553380259  0.2809157665447854  0.5529386394199338  1.0000
+  Na  Na1       1.0  0.7262396802462814  0.7794191833268067  0.055068731403621174  1.0000
+  O   O1        1.0  0.22566293231025333  0.7795693873318008  0.5540056225870481  1.0000
+  O   O2        1.0  0.22572210328948517  0.27997809741627055  0.054371022714494545  1.0000
+  O   O3        1.0  0.7252052430506662  0.28015419826502463  0.5541961781103693  1.0000

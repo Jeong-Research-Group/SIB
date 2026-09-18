@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       MgNaMg2NaMgHfMg
+_chemical_formula_sum              "Mg5 Na2 Hf1"
+_cell_length_a       5.086141105331536
+_cell_length_b       6.209712785930167
+_cell_length_c       7.173343181610107
+_cell_angle_alpha    124.58896155927418
+_cell_angle_beta     89.97529770998469
+_cell_angle_gamma    90.08938236223314
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.2992568018931534  0.09929072872157355  0.5062845942409845  1.0000
+  Na  Na1       1.0  0.8009496934518903  0.6030150056091154  0.2505403762728682  1.0000
+  Mg  Mg2       1.0  0.7996748094827213  0.588593184762733  0.745209156873451  1.0000
+  Mg  Mg3       1.0  0.3009761860209354  0.6091881397069345  0.5127590294754834  1.0000
+  Na  Na2       1.0  0.3000366692444307  0.08998241362740401  0.9978868965912385  1.0000
+  Mg  Mg4       1.0  0.3005272142141638  0.5800254949029211  0.9853764770016427  1.0000
+  Hf  Hf1       1.0  0.8008186814351168  0.09491790884400354  0.7421446451160505  1.0000
+  Mg  Mg5       1.0  0.8017144797916498  0.09868242645818953  0.2564428150709577  1.0000

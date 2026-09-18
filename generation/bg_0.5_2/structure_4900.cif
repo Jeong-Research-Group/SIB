@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Na3Pt2S2TeS
+_chemical_formula_sum              "Na3 Pt2 S3 Te1"
+_cell_length_a       3.734711927406552
+_cell_length_b       6.891007117562621
+_cell_length_c       8.345927238464355
+_cell_angle_alpha    87.89495887930401
+_cell_angle_beta     90.2939670283068
+_cell_angle_gamma    74.20968932147396
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.8828655478419597  0.05933630127623098  0.8805046079567154  1.0000
+  Na  Na2       1.0  0.1670719995272476  0.48849987942133866  0.25655847743924437  1.0000
+  Na  Na3       1.0  0.1169912286115624  0.5906458500849604  0.7174651622323881  1.0000
+  Pt  Pt1       1.0  0.9036907544157329  0.016133013695824133  0.4964538815200992  1.0000
+  Pt  Pt2       1.0  0.45048615414803406  0.9229202274626012  0.20499421697375375  1.0000
+  S   S1        1.0  0.31660744625819637  0.1925367720484985  0.6292014121782123  1.0000
+  S   S2        1.0  0.5381469120983275  0.7500353450013519  0.4645514193162619  1.0000
+  Te  Te1       1.0  0.5661731955949475  0.694138645701514  0.9847390655230853  1.0000
+  S   S3        1.0  0.8402883408584714  0.1440250722006727  0.21743954685705133  1.0000

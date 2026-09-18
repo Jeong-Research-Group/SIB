@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       FCuF2Na
+_chemical_formula_sum              "F3 Cu1 Na1"
+_cell_length_a       4.027034292995778
+_cell_length_b       4.027496079087409
+_cell_length_c       4.04539155960083
+_cell_angle_alpha    89.69021246310487
+_cell_angle_beta     89.75214177930246
+_cell_angle_gamma    89.65466812862529
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.6355999100088562  0.5457470422055619  0.4546017950104819  1.0000
+  Cu  Cu1       1.0  0.635579586479672  0.5440755496458201  0.9548841118978784  1.0000
+  F   F2        1.0  0.6362771975607366  0.04365744513588873  0.954569160121247  1.0000
+  F   F3        1.0  0.13539694372879935  0.5442810065829963  0.9558917891498695  1.0000
+  Na  Na1       1.0  0.13500134674043326  0.04325228936942575  0.45446002602435337  1.0000

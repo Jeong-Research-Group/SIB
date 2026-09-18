@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       CsNaH
+_chemical_formula_sum              "Cs1 Na1 H1"
+_cell_length_a       4.278091518309339
+_cell_length_b       6.142649284599938
+_cell_length_c       4.618110656738281
+_cell_angle_alpha    89.73361147483955
+_cell_angle_beta     89.60133121215196
+_cell_angle_gamma    45.7672674756608
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.534708023264518  0.002476452879469922  0.0019243952467360053  1.0000
+  Na  Na1       1.0  0.5369787205781535  0.49931079225657093  0.500428020476251  1.0000
+  H   H1        1.0  0.5326899886308799  0.5015385153915883  0.9952216148083876  1.0000

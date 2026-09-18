@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       VONa2OFNaO
+_chemical_formula_sum              "V1 O3 Na3 F1"
+_cell_length_a       3.199957125535056
+_cell_length_b       4.421412535539715
+_cell_length_c       6.795053005218506
+_cell_angle_alpha    90.41150088672967
+_cell_angle_beta     90.37336796307906
+_cell_angle_gamma    90.51130363732284
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.7297001491284951  0.21246930981088513  0.5565841203548576  1.0000
+  O   O1        1.0  0.7304925325651219  0.7126829628429723  0.04891313917822011  1.0000
+  Na  Na1       1.0  0.23016186001608813  0.7129744884809276  0.293470740673623  1.0000
+  Na  Na2       1.0  0.23103644019119335  0.7121049170853588  0.8012166024950897  1.0000
+  O   O2        1.0  0.231171086819377  0.21185681124951858  0.7352756265227476  1.0000
+  F   F1        1.0  0.22959594283619186  0.21292614874111399  0.34941083235747855  1.0000
+  Na  Na3       1.0  0.734348476112996  0.21259514894801806  0.03766607472971825  1.0000
+  O   O3        1.0  0.730052172212959  0.7126629362460427  0.5441731804055576  1.0000

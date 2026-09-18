@@ -1,0 +1,27 @@
+data_image0
+_chemical_formula_structural       TiN
+_chemical_formula_sum              "Ti1 N1"
+_cell_length_a       2.8014580688036723
+_cell_length_b       2.8049508788974737
+_cell_length_c       6.746669769287109
+_cell_angle_alpha    65.24276587829212
+_cell_angle_beta     93.95691574275926
+_cell_angle_gamma    90.25789677785363
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.38653147114795566  0.8662023556701801  0.7478879090152589  1.0000
+  N   N1        1.0  0.8834350117857565  0.3625080278190368  0.7513116596091494  1.0000

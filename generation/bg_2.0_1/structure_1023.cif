@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       NaInHg2
+_chemical_formula_sum              "Na1 In1 Hg2"
+_cell_length_a       5.113574813372931
+_cell_length_b       5.113650362857717
+_cell_length_c       5.110142707824707
+_cell_angle_alpha    60.002085442866246
+_cell_angle_beta     60.052661706655634
+_cell_angle_gamma    60.101102059885235
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.7842480547490568  0.4398229708328198  0.653034449096658  1.0000
+  In  In1       1.0  0.2846867427621107  0.9409638057309979  0.15400388775031415  1.0000
+  Hg  Hg1       1.0  0.5335875740720754  0.18934003959516013  0.4028630862035898  1.0000
+  Hg  Hg2       1.0  0.03507373817907572  0.6891468159808414  0.9041577589314389  1.0000

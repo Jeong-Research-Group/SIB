@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Mg5NaMgFe
+_chemical_formula_sum              "Mg6 Na1 Fe1"
+_cell_length_a       4.996405601743879
+_cell_length_b       6.19623586301137
+_cell_length_c       6.22288703918457
+_cell_angle_alpha    117.53360826522974
+_cell_angle_beta     89.99943559877153
+_cell_angle_gamma    89.92588128431792
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.21311248853126832  0.2596532396292214  0.784896671163235  1.0000
+  Mg  Mg2       1.0  0.2132668635789836  0.7967987055743917  0.32259768175798975  1.0000
+  Mg  Mg3       1.0  0.2140049180569708  0.7769610286657522  0.8059899813113529  1.0000
+  Mg  Mg4       1.0  0.7137502426060061  0.1038854573533991  0.9773168568332278  1.0000
+  Mg  Mg5       1.0  0.21380650926670933  0.2663579280424448  0.31522029625665593  1.0000
+  Na  Na1       1.0  0.7133390304012563  0.6027793279301598  0.9797723878142189  1.0000
+  Mg  Mg6       1.0  0.7138339873592825  0.6056914337195856  0.4786694058197994  1.0000
+  Fe  Fe1       1.0  0.713382542920288  0.0996420155821002  0.4841794374633614  1.0000

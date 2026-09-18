@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Na3SeTlSe2Tl
+_chemical_formula_sum              "Na3 Se3 Tl2"
+_cell_length_a       4.677756933825512
+_cell_length_b       4.666766657774793
+_cell_length_c       12.377423286437988
+_cell_angle_alpha    90.02628507103722
+_cell_angle_beta     89.91299955256315
+_cell_angle_gamma    119.62513777254365
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.1547108739614487  0.8254750967025758  0.17578193545341492  1.0000
+  Na  Na2       1.0  0.1531398743391037  0.8328710794448853  0.5598229765892029  1.0000
+  Na  Na3       1.0  0.8205907344818115  0.16613887250423431  0.7495986819267273  1.0000
+  Se  Se1       1.0  0.8216109871864319  0.1603543609380722  0.27985846996307373  1.0000
+  Tl  Tl1       1.0  0.8214895725250244  0.15901041030883792  0.005820631980895996  1.0000
+  Se  Se2       1.0  0.1577018648386002  0.8238418698310853  0.9114063382148743  1.0000
+  Se  Se3       1.0  0.4875234067440033  0.4987093210220337  0.6072214245796204  1.0000
+  Tl  Tl2       1.0  0.4857388734817505  0.49395611882209783  0.3751376271247864  1.0000

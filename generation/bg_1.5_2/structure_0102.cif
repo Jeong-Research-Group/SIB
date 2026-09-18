@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NHNa2SnZn
+_chemical_formula_sum              "N1 H1 Na2 Sn1 Zn1"
+_cell_length_a       4.51702446666207
+_cell_length_b       3.4158797982129645
+_cell_length_c       6.673397064208984
+_cell_angle_alpha    90.13420206329903
+_cell_angle_beta     90.1390446767877
+_cell_angle_gamma    90.24306847040351
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  N   N1        1.0  0.6749562016411516  0.6620736130278341  0.48976922083086155  1.0000
+  H   H1        1.0  0.6753568049644028  0.662389219181546  0.034775118981368425  1.0000
+  Na  Na1       1.0  0.6759817005605899  0.16332361124006534  0.7555288671278569  1.0000
+  Na  Na2       1.0  0.17623369469075026  0.6632063974806793  0.008148772386292504  1.0000
+  Sn  Sn1       1.0  0.6759008175516005  0.16274063304751973  0.26823699468450607  1.0000
+  Zn  Zn1       1.0  0.17509681052883394  0.6639990195916846  0.5122389796631875  1.0000

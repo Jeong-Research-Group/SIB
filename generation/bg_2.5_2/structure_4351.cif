@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ClNaNCuZrCl
+_chemical_formula_sum              "Cl2 Na1 N1 Cu1 Zr1"
+_cell_length_a       4.198874998371901
+_cell_length_b       4.009410604092186
+_cell_length_c       6.903267860412598
+_cell_angle_alpha    90.17104412009215
+_cell_angle_beta     90.06744379374706
+_cell_angle_gamma    89.61135108262536
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.027095031115083792  0.4032993017826277  0.06271372787388767  1.0000
+  Na  Na1       1.0  0.5316574583912813  0.9049044853037871  0.8046482206047179  1.0000
+  N   N1        1.0  0.5321385863437338  0.9051798575225194  0.30339464534496946  1.0000
+  Cu  Cu1       1.0  0.531757951372869  0.40454825777462877  0.30467697933882304  1.0000
+  Zr  Zr1       1.0  0.0320013304068547  0.9053853148038551  0.30340686409674283  1.0000
+  Cl  Cl2       1.0  0.03490385443633152  0.40610110716937736  0.5471148489961676  1.0000

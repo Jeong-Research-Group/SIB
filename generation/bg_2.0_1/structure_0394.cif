@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NaO2Li2FeO
+_chemical_formula_sum              "Na1 O3 Li2 Fe1"
+_cell_length_a       3.2284848921313007
+_cell_length_b       3.233009933105336
+_cell_length_c       9.411969184875488
+_cell_angle_alpha    90.01547288346129
+_cell_angle_beta     100.06395773050768
+_cell_angle_gamma    119.32216248537705
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.7315917591220913  0.5313283784714079  0.8161148432006963  1.0000
+  O   O1        1.0  0.007732643979456977  0.6748091580458135  0.22450806237374246  1.0000
+  O   O2        1.0  0.5690614578393401  0.4489240960384727  0.5615847110844945  1.0000
+  Li  Li1       1.0  0.4168772708599078  0.3763546041805751  0.3405995067433466  1.0000
+  Li  Li2       1.0  0.9030823124196338  0.11056876234515597  0.5619060992197479  1.0000
+  Fe  Fe1       1.0  0.586131155054371  0.9598457219974961  0.09744368510364862  1.0000
+  O   O3        1.0  0.16682413142536015  0.24743537641129038  0.9729509354739538  1.0000

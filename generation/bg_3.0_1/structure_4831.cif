@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Li3NaGaSn
+_chemical_formula_sum              "Li3 Na1 Ga1 Sn1"
+_cell_length_a       4.851268341898521
+_cell_length_b       4.868596119777785
+_cell_length_c       5.9295477867126465
+_cell_angle_alpha    90.43928610947206
+_cell_angle_beta     90.44373257073916
+_cell_angle_gamma    60.47390807969161
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.09239657193340481  0.7105961435243954  0.33247849344837305  1.0000
+  Li  Li2       1.0  0.7578877809769891  0.37811121335659104  0.18415981523224664  1.0000
+  Li  Li3       1.0  0.4266397364208769  0.04527569466303672  0.48577749781136226  1.0000
+  Na  Na1       1.0  0.09220380266450025  0.711683272702964  0.8361939780588751  1.0000
+  Ga  Ga1       1.0  0.4251050956650592  0.045611213351604986  0.0052368215027291665  1.0000
+  Sn  Sn1       1.0  0.7602868678489991  0.3785006992471718  0.6710481054819255  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NaSCuNa3S2
+_chemical_formula_sum              "Na4 S3 Cu1"
+_cell_length_a       4.042842146508759
+_cell_length_b       6.683388985476246
+_cell_length_c       6.818352222442627
+_cell_angle_alpha    112.23763685148825
+_cell_angle_beta     90.01954367756977
+_cell_angle_gamma    89.86511309568259
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.3092355431613191  0.6153370737674237  0.39188882689578997  1.0000
+  S   S1        1.0  0.8100157975790642  0.8316373830608024  0.6140155787655369  1.0000
+  Cu  Cu1       1.0  0.8110275861562087  0.3300793769113542  0.11195283429813124  1.0000
+  Na  Na2       1.0  0.8090199840356592  0.8300145858857788  0.11332308486688278  1.0000
+  Na  Na3       1.0  0.8088636407155824  0.3302877850322103  0.612665177335586  1.0000
+  Na  Na4       1.0  0.309418678629601  0.045368812192651334  0.8341540092205162  1.0000
+  S   S2        1.0  0.30843561992163954  0.1794786159826399  0.2623263301200457  1.0000
+  S   S3        1.0  0.3086069822633561  0.48029819072255053  0.9635387061018805  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NaTiBiO3
+_chemical_formula_sum              "Na1 Ti1 Bi1 O3"
+_cell_length_a       3.899669662704916
+_cell_length_b       3.9752856235147096
+_cell_length_c       6.398733615875244
+_cell_angle_alpha    107.58430264358591
+_cell_angle_beta     103.80460750774421
+_cell_angle_gamma    89.69728145754644
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.9814863813473925  0.12388866372937934  0.714440525186016  1.0000
+  Ti  Ti1       1.0  0.3434536753627227  0.48944872677361256  0.445549607271801  1.0000
+  Bi  Bi1       1.0  0.6264873155676036  0.8202747094692724  0.11034326209258116  1.0000
+  O   O1        1.0  0.2570000294271589  0.3234387629032181  0.10895060763468452  1.0000
+  O   O2        1.0  0.8866338126547266  0.5128831267537906  0.4866289197579413  1.0000
+  O   O3        1.0  0.3883860112802641  0.9944354284891538  0.4549451464138931  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       O2NaONaPb
+_chemical_formula_sum              "O3 Na2 Pb1"
+_cell_length_a       3.337220983306819
+_cell_length_b       5.714719919907459
+_cell_length_c       5.819337368011475
+_cell_angle_alpha    119.14448313147035
+_cell_angle_beta     106.5556414831905
+_cell_angle_gamma    53.94198214947531
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.5408481351247957  0.1383039797367302  0.15732437378238986  1.0000
+  O   O2        1.0  0.5405853986378494  0.7854278076543787  0.4507974375086639  1.0000
+  Na  Na1       1.0  0.041107211133496156  0.615167559030524  0.10773532145714826  1.0000
+  O   O3        1.0  0.5405821799353625  0.43291115789172835  0.7450104351072673  1.0000
+  Na  Na2       1.0  0.03997537022509596  0.9575823545390517  0.7946099630206458  1.0000
+  Pb  Pb1       1.0  0.0421393185341351  0.2854759984157534  0.4513759905613535  1.0000

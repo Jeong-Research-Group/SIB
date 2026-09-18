@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       NaPrAu2
+_chemical_formula_sum              "Na1 Pr1 Au2"
+_cell_length_a       5.1033921084339635
+_cell_length_b       5.101130013625143
+_cell_length_c       5.101480960845947
+_cell_angle_alpha    60.01620485944849
+_cell_angle_beta     59.980680416761935
+_cell_angle_gamma    59.97618699184367
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.4865283668998089  0.21682345902798825  0.7217133636296268  1.0000
+  Pr  Pr1       1.0  0.9861186142906911  0.7165470709945189  0.22178721473620527  1.0000
+  Au  Au1       1.0  0.7362753162826101  0.46660157988671175  0.972034275805324  1.0000
+  Au  Au2       1.0  0.23638878731526378  0.9667868009689944  0.4712829005811502  1.0000

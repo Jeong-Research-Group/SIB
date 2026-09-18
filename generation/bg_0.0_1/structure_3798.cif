@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Na2Ga2Se3
+_chemical_formula_sum              "Na2 Ga2 Se3"
+_cell_length_a       3.934338342117494
+_cell_length_b       7.058507728326436
+_cell_length_c       7.098917484283447
+_cell_angle_alpha    68.25422826254426
+_cell_angle_beta     74.13685422701022
+_cell_angle_gamma    73.83528602989527
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.4811956584826944  0.39697432471469574  0.5208181736094034  1.0000
+  Na  Na2       1.0  0.6638464938002401  0.8770930767322538  0.6742128133720591  1.0000
+  Ga  Ga1       1.0  0.19126299123878826  0.44677504833212406  0.052328725200669314  1.0000
+  Ga  Ga2       1.0  0.3899319172453163  0.9185774318702097  0.19170099499308166  1.0000
+  Se  Se1       1.0  0.0068307892331906876  0.810445368583598  0.06564809375555722  1.0000
+  Se  Se2       1.0  0.8031197796523071  0.4401105042499101  0.833405376125076  1.0000
+  Se  Se3       1.0  0.17138771639743852  0.15341037463308269  0.3797997542306533  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NaBiSNaAuSO
+_chemical_formula_sum              "Na2 Bi1 S2 Au1 O1"
+_cell_length_a       3.8827695358494885
+_cell_length_b       3.900899100473269
+_cell_length_c       9.788090705871582
+_cell_angle_alpha    89.84264862522488
+_cell_angle_beta     90.07979960304071
+_cell_angle_gamma    89.83050454421333
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.7256901869035023  0.7667964705821024  0.37486863159771316  1.0000
+  Bi  Bi1       1.0  0.2273938506158691  0.2664589580380006  0.6775146129658405  1.0000
+  S   S1        1.0  0.7259504804380917  0.766808688377946  0.681439698100231  1.0000
+  Na  Na2       1.0  0.2252180426426466  0.26751416953534196  0.13160352454420193  1.0000
+  Au  Au1       1.0  0.7247141599300643  0.7671698337079618  0.9205132718544838  1.0000
+  S   S2        1.0  0.2276097984959454  0.26662641823432626  0.41368350393699954  1.0000
+  O   O1        1.0  0.7253682614262164  0.7675079713338869  0.11921387946837643  1.0000

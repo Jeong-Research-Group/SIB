@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       LiMoNa2SeSGe
+_chemical_formula_sum              "Li1 Mo1 Na2 Se1 S1 Ge1"
+_cell_length_a       3.924946674127637
+_cell_length_b       6.333017184333204
+_cell_length_c       7.44265079498291
+_cell_angle_alpha    62.21076877441504
+_cell_angle_beta     90.03179703747583
+_cell_angle_gamma    89.96764107081187
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.5117328175135742  0.2877624327431483  0.11191888920084181  1.0000
+  Mo  Mo1       1.0  0.012791468664372746  0.6163352123575023  0.8989074231850506  1.0000
+  Na  Na1       1.0  0.01290384181025716  0.17034910605186737  0.7836368082014602  1.0000
+  Na  Na2       1.0  0.5129557240939153  0.808183609588831  0.5439866790760783  1.0000
+  Se  Se1       1.0  0.013269445109777657  0.9757063982276643  0.21831753858507205  1.0000
+  S   S1        1.0  0.512387037848624  0.3759707811443776  0.42877536945789013  1.0000
+  Ge  Ge1       1.0  0.01347569951545524  0.6003803012778561  0.23121738385499915  1.0000

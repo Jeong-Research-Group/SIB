@@ -1,0 +1,27 @@
+data_image0
+_chemical_formula_structural       TiNa
+_chemical_formula_sum              "Ti1 Na1"
+_cell_length_a       3.055446625744226
+_cell_length_b       3.054393093755355
+_cell_length_c       4.74907112121582
+_cell_angle_alpha    90.10416288247488
+_cell_angle_beta     90.00145733487552
+_cell_angle_gamma    90.69646330106949
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.13647906531595472  0.47812461909062987  0.4792824675298028  1.0000
+  Na  Na1       1.0  0.6351933489238216  0.9784792054523285  0.9786213626271161  1.0000

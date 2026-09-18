@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Na2LaTl
+_chemical_formula_sum              "Na2 La1 Tl1"
+_cell_length_a       5.495424896944371
+_cell_length_b       5.491955559896485
+_cell_length_c       5.492894649505615
+_cell_angle_alpha    59.919698697179726
+_cell_angle_beta     59.87966130220401
+_cell_angle_gamma    59.78746683159734
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.625512002751586  0.1437898735559692  0.1520259528233715  1.0000
+  Na  Na2       1.0  0.12574011111467365  0.6429283617773189  0.6519005303819804  1.0000
+  La  La1       1.0  0.875775396454727  0.3935346013328056  0.40160343067111137  1.0000
+  Tl  Tl1       1.0  0.37562543152910066  0.8934201603364007  0.9017357823106067  1.0000

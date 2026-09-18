@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NaSNaClSMn
+_chemical_formula_sum              "Na2 S2 Cl1 Mn1"
+_cell_length_a       3.835300021047415
+_cell_length_b       3.8436569138580063
+_cell_length_c       9.736571311950684
+_cell_angle_alpha    90.21220283160005
+_cell_angle_beta     90.25411970229742
+_cell_angle_gamma    60.06389889949609
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.05253813385134462  0.3646149323773224  0.04225789025749341  1.0000
+  S   S1        1.0  0.38744622466141904  0.6984776869349939  0.22478896397172177  1.0000
+  Na  Na2       1.0  0.38751506798810464  0.6970144498052024  0.6991252301166822  1.0000
+  Cl  Cl1       1.0  0.7184435120041563  0.031609745062173546  0.8712922336094366  1.0000
+  S   S2        1.0  0.05280227562261475  0.36386287302791065  0.5154327748871625  1.0000
+  Mn  Mn1       1.0  0.7197919494841578  0.031722998747169724  0.3707888126172231  1.0000

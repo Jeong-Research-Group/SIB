@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Na6Re2
+_chemical_formula_sum              "Na6 Re2"
+_cell_length_a       5.702336726923107
+_cell_length_b       5.381313835581781
+_cell_length_c       6.571339130401611
+_cell_angle_alpha    90.03472718525356
+_cell_angle_beta     89.97812540740746
+_cell_angle_gamma    90.02908545200546
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.7354543214540786  0.6755747791043148  0.3916509754379318  1.0000
+  Na  Na2       1.0  0.7353326088373437  0.6756017799538904  0.8864107722654826  1.0000
+  Na  Na3       1.0  0.08336827835422035  0.17571851676117248  0.3865279559393076  1.0000
+  Na  Na4       1.0  0.08367134667878794  0.1758457868358958  0.8918608431050117  1.0000
+  Na  Na5       1.0  0.2659377454069525  0.6757504351474655  0.1396175924479918  1.0000
+  Na  Na6       1.0  0.5527318128260683  0.17551922707694126  0.6387904879757904  1.0000
+  Re  Re1       1.0  0.5931404829340271  0.17638604354589227  0.13912740414128918  1.0000
+  Re  Re2       1.0  0.22472470942209455  0.6766397944454736  0.638722657471951  1.0000

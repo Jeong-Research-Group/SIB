@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Na2SeNaSeAuSe
+_chemical_formula_sum              "Na3 Se3 Au1"
+_cell_length_a       4.260820483788064
+_cell_length_b       4.260550051149509
+_cell_length_c       12.226116180419922
+_cell_angle_alpha    89.85640460707994
+_cell_angle_beta     89.86125404828076
+_cell_angle_gamma    119.69107616347165
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.19763369979231013  0.6478739984512785  0.06829404832418007  1.0000
+  Na  Na2       1.0  0.8615442514924048  0.9746170631856603  0.5981163980350064  1.0000
+  Se  Se1       1.0  0.8621993653572039  0.9793794161984156  0.1986113492595611  1.0000
+  Na  Na3       1.0  0.5317564013392548  0.3104711486401831  0.3415823578363596  1.0000
+  Se  Se2       1.0  0.5294802783758055  0.31844377471566604  0.8614140746803556  1.0000
+  Au  Au1       1.0  0.8650927536554771  0.9826186884100702  0.8604762553790647  1.0000
+  Se  Se3       1.0  0.19480280480552234  0.6413083674195453  0.48945304759733166  1.0000

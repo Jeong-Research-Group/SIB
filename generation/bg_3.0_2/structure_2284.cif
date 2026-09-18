@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NaNbLiNaLiAsSiB
+_chemical_formula_sum              "Na2 Nb1 Li2 As1 Si1 B1"
+_cell_length_a       4.170934183005496
+_cell_length_b       6.164253442129587
+_cell_length_c       7.313136577606201
+_cell_angle_alpha    114.76758530370618
+_cell_angle_beta     89.92268476560703
+_cell_angle_gamma    89.92019855853273
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.5964079503949785  0.7674146891576156  0.04321185094120248  1.0000
+  Nb  Nb1       1.0  0.5956196188523973  0.12149242333885621  0.5579493042644016  1.0000
+  Li  Li1       1.0  0.09491147056916853  0.38778674609336566  0.787609994105135  1.0000
+  Na  Na2       1.0  0.09549055210672974  0.37411779093369857  0.26546209996887504  1.0000
+  Li  Li2       1.0  0.09515222951089047  0.8611269004098933  0.7243350743227995  1.0000
+  As  As1       1.0  0.09624736009422817  0.9211564651577635  0.36065563519569177  1.0000
+  Si  Si1       1.0  0.5945118071833726  0.5295380950477313  0.6224027875155773  1.0000
+  B   B1        1.0  0.5965347880777843  0.19541276946535274  0.9070777301843862  1.0000

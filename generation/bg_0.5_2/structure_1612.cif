@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       CsCl2CsClHoClNaCl2
+_chemical_formula_sum              "Cs2 Cl6 Ho1 Na1"
+_cell_length_a       7.626626596499079
+_cell_length_b       7.64261412241961
+_cell_length_c       7.647144794464111
+_cell_angle_alpha    59.87398748466735
+_cell_angle_beta     59.797031109916
+_cell_angle_gamma    59.82163486525506
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.665359676821019  0.14096866473736852  0.890223145944712  1.0000
+  Cl  Cl1       1.0  0.6755162475510365  0.632029473016522  0.9004288324634723  1.0000
+  Cl  Cl2       1.0  0.6756566756953218  0.15100206424404247  0.38180449615816636  1.0000
+  Cs  Cs2       1.0  0.16530755168185957  0.6431293488784294  0.3915867509145384  1.0000
+  Cl  Cl3       1.0  0.674491047778442  0.6337833401615591  0.38060399906606257  1.0000
+  Ho  Ho1       1.0  0.9155755638223253  0.39115539155686846  0.1411355731731807  1.0000
+  Cl  Cl4       1.0  0.1573109625563666  0.15138118031201217  0.3814795614263265  1.0000
+  Na  Na1       1.0  0.4166197775015491  0.8909212346017775  0.6398710010045613  1.0000
+  Cl  Cl5       1.0  0.157656996600615  0.6323643331099428  0.8995647430913163  1.0000
+  Cl  Cl6       1.0  0.156599805448782  0.15012797704011227  0.8996505728395207  1.0000

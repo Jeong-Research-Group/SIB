@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       PbSnLi
+_chemical_formula_sum              "Pb1 Sn1 Li1"
+_cell_length_a       3.3613699284156047
+_cell_length_b       5.414229557926972
+_cell_length_c       5.449221611022949
+_cell_angle_alpha    60.136244520657925
+_cell_angle_beta     88.89595696991226
+_cell_angle_gamma    89.6062216123795
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.25532889320742336  0.06625529324130126  0.8714570410672531  1.0000
+  Sn  Sn1       1.0  0.9264588366467829  0.7319818147801883  0.5383486741111844  1.0000
+  Li  Li1       1.0  0.5886592279626119  0.40011650380842834  0.20364372468248926  1.0000

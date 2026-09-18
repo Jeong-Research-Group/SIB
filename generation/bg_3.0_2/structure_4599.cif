@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       HNaH2ScNaH2
+_chemical_formula_sum              "H5 Na2 Sc1"
+_cell_length_a       3.67276916806734
+_cell_length_b       3.639259966610207
+_cell_length_c       9.091801643371582
+_cell_angle_alpha    89.97348088063951
+_cell_angle_beta     90.05620812973574
+_cell_angle_gamma    119.822815612907
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.19098365254801267  0.6578629619722117  0.8148652905731256  1.0000
+  Na  Na1       1.0  0.5242618905784939  0.3252877880152051  0.9463967680091033  1.0000
+  H   H2        1.0  0.8575633758035682  0.9935312879289955  0.06012757129144768  1.0000
+  H   H3        1.0  0.1849534808570456  0.6629883638840236  0.2974531950572683  1.0000
+  Sc  Sc1       1.0  0.8541498181395794  0.9964336758867713  0.2651377018540289  1.0000
+  Na  Na2       1.0  0.18056049955863263  0.6629440190832256  0.5712206367817142  1.0000
+  H   H4        1.0  0.8454451551075917  0.9968607428284177  0.48668918046440607  1.0000
+  H   H5        1.0  0.5202680815537115  0.32804086819107847  0.23257170650966869  1.0000

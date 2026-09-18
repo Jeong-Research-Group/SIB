@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Na2H2VH3
+_chemical_formula_sum              "Na2 H5 V1"
+_cell_length_a       5.145024275619835
+_cell_length_b       5.136596995857931
+_cell_length_c       5.143813610076904
+_cell_angle_alpha    119.33514168495446
+_cell_angle_beta     119.75000651018102
+_cell_angle_gamma    59.857385362315235
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.20262590103213446  0.7601793400062213  0.02138905165786289  1.0000
+  Na  Na2       1.0  0.7027276162397972  0.2603035563732913  0.5235191577869355  1.0000
+  H   H1        1.0  0.1671801220111319  0.7360591288288456  0.4859425426484919  1.0000
+  H   H2        1.0  0.7255094044909232  0.7386957998309038  0.48348671162368895  1.0000
+  V   V1        1.0  0.9732000233833938  0.4898999026409399  0.2933588923922969  1.0000
+  H   H3        1.0  0.16727091353642617  0.2966685883931726  0.04389407467563042  1.0000
+  H   H4        1.0  0.18130408166435916  0.28087890123469955  0.5030837644571915  1.0000
+  H   H5        1.0  0.7260755307524632  0.2965240171590492  0.044361758415384575  1.0000

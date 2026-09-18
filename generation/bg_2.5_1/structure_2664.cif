@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NaSNaSBiSFe
+_chemical_formula_sum              "Na2 S3 Bi1 Fe1"
+_cell_length_a       4.18043035687796
+_cell_length_b       4.183300725110295
+_cell_length_c       10.370809555053711
+_cell_angle_alpha    90.0431010000143
+_cell_angle_beta     89.97427318235451
+_cell_angle_gamma    119.78876271155852
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.9722783566528527  0.46901121868239026  0.02330579997465606  1.0000
+  S   S1        1.0  0.6401013150013061  0.8018803606373246  0.11440483501923368  1.0000
+  Na  Na2       1.0  0.3061979106266983  0.13553129001621075  0.27255430823216603  1.0000
+  S   S2        1.0  0.30606695847705545  0.1334741996617572  0.8062739964547224  1.0000
+  Bi  Bi1       1.0  0.6394286157158305  0.8034363975443699  0.5850905180899598  1.0000
+  S   S3        1.0  0.9727486964243678  0.4694289261916365  0.45996212922050583  1.0000
+  Fe  Fe1       1.0  0.6393698452077472  0.8009940990601728  0.8797741528062641  1.0000

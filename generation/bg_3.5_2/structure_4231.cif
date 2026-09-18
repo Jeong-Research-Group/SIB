@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       CaCdNaCd
+_chemical_formula_sum              "Ca1 Cd2 Na1"
+_cell_length_a       5.287662758816089
+_cell_length_b       5.294773834078121
+_cell_length_c       5.29176139831543
+_cell_angle_alpha    59.98978574564228
+_cell_angle_beta     59.96737299397752
+_cell_angle_gamma    59.95294818799203
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.890767394915729  0.6779584874570861  0.6527815473751203  1.0000
+  Cd  Cd1       1.0  0.1393454530433209  0.9275606859840327  0.9032531387770625  1.0000
+  Na  Na1       1.0  0.39096650610072864  0.1780629743881573  0.15332870233972626  1.0000
+  Cd  Cd2       1.0  0.64112317615393  0.42851185690616317  0.40302661177355814  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       NaF3GaF2GaRb
+_chemical_formula_sum              "Na1 F5 Ga2 Rb1"
+_cell_length_a       6.279653194326821
+_cell_length_b       4.252828292789163
+_cell_length_c       6.220362663269043
+_cell_angle_alpha    90.0497331088631
+_cell_angle_beta     90.02502148990916
+_cell_angle_gamma    89.8415626017652
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.5444398520157427  0.4903106385197308  0.527367473008237  1.0000
+  F   F1        1.0  0.3085893986201488  0.48960322161370573  0.26006492959911737  1.0000
+  F   F2        1.0  0.7812013620943429  0.48959955580253517  0.7937139278044122  1.0000
+  F   F3        1.0  0.0450132719302459  0.9880286445861206  0.02606809473046368  1.0000
+  Ga  Ga1       1.0  0.045703061057641596  0.4908994726655598  0.027258859418418113  1.0000
+  F   F4        1.0  0.30856740492372614  0.48979225660885645  0.7929555176476271  1.0000
+  F   F5        1.0  0.7805925609556795  0.4904559259736182  0.26043331574762507  1.0000
+  Ga  Ga2       1.0  0.5449241989692664  0.48881465131388235  0.02763442327678832  1.0000
+  Rb  Rb1       1.0  0.04445341555135748  0.9902426605041602  0.5271691681569873  1.0000

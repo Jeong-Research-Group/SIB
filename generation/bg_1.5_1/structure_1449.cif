@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NiNaMgO2
+_chemical_formula_sum              "Ni1 Na1 Mg1 O2"
+_cell_length_a       3.2287654408903803
+_cell_length_b       3.2304559020226433
+_cell_length_c       7.713452339172363
+_cell_angle_alpha    101.00700914332356
+_cell_angle_beta     79.127665663382
+_cell_angle_gamma    119.7638581083471
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.3706581279472836  0.42640003412150346  0.3050568399799848  1.0000
+  Na  Na1       1.0  0.7932681435602866  0.007114418761318838  0.009229034452363288  1.0000
+  Mg  Mg1       1.0  0.21848383578421507  0.5776485818221979  0.6825855377713457  1.0000
+  O   O1        1.0  0.06708608713709381  0.734919967023598  0.21678769564109648  1.0000
+  O   O2        1.0  0.5236099954512976  0.27025923278824426  0.7746328114524154  1.0000

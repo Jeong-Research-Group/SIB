@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       GaCaNaSe2
+_chemical_formula_sum              "Ga1 Ca1 Na1 Se2"
+_cell_length_a       3.937462399872875
+_cell_length_b       4.569780606673286
+_cell_length_c       7.712317943572998
+_cell_angle_alpha    106.88130499977073
+_cell_angle_beta     89.88154654049328
+_cell_angle_gamma    90.07092034770838
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.3776061529060334  0.7735409729316814  0.45883575130727333  1.0000
+  Ca  Ca1       1.0  0.3849863998257174  0.11094664680432037  0.1316323133329114  1.0000
+  Na  Na1       1.0  0.8762229092818447  0.42342561486785324  0.7495762707889919  1.0000
+  Se  Se1       1.0  0.3752542731489294  0.9300004239664367  0.7621226305673643  1.0000
+  Se  Se2       1.0  0.8808950196750649  0.6683816912837112  0.2517115775013543  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cl2Na2Cl2PrClCu
+_chemical_formula_sum              "Cl5 Na2 Pr1 Cu1"
+_cell_length_a       7.353926858375744
+_cell_length_b       7.293081329957694
+_cell_length_c       7.372961521148682
+_cell_angle_alpha    59.99087700235641
+_cell_angle_beta     59.59652282776757
+_cell_angle_gamma    60.119160888331706
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.6234968302183537  0.13548886833114904  0.8426459427036721  1.0000
+  Cl  Cl2       1.0  0.6229457856622465  0.6587179296225003  0.842341304144497  1.0000
+  Na  Na1       1.0  0.11209152699311095  0.1463305053820475  0.8552213309868476  1.0000
+  Na  Na2       1.0  0.6118705271556454  0.6471905117256043  0.3551858367264537  1.0000
+  Cl  Cl3       1.0  0.09860685476991414  0.13612794884186397  0.3665731853074983  1.0000
+  Cl  Cl4       1.0  0.09882056008677371  0.6589339966188247  0.36670243702457056  1.0000
+  Pr  Pr1       1.0  0.365965157645115  0.39270776428147885  0.10895793121577489  1.0000
+  Cl  Cl5       1.0  0.10662009602782498  0.652882038818784  0.8502219326024585  1.0000
+  Cu  Cu1       1.0  0.8694981339095004  0.888248443192558  0.6140048509940318  1.0000

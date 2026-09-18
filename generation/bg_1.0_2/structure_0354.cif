@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CrNaP2LiPNa
+_chemical_formula_sum              "Cr1 Na2 P3 Li1"
+_cell_length_a       3.8388244544851746
+_cell_length_b       3.8409487880741544
+_cell_length_c       11.311113357543945
+_cell_angle_alpha    90.64943056252946
+_cell_angle_beta     89.72850250661482
+_cell_angle_gamma    120.05052047903271
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.8348249188371291  0.44159781977812984  0.2848522367861903  1.0000
+  Na  Na1       1.0  0.5006698964998643  0.7630342232283407  0.0013553253110277666  1.0000
+  P   P1        1.0  0.16610136543101495  0.10432060838287134  0.16519670196772432  1.0000
+  P   P2        1.0  0.8300031440964718  0.4231215129794192  0.808865844884743  1.0000
+  Li  Li1       1.0  0.16567128918508692  0.09087097583481069  0.8147361275043654  1.0000
+  P   P3        1.0  0.5022385123960501  0.7742469297713298  0.39249443979004056  1.0000
+  Na  Na2       1.0  0.4961372622402613  0.7532088768654535  0.6370359657116448  1.0000

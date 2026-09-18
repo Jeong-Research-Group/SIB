@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NaLaO3
+_chemical_formula_sum              "Na1 La1 O3"
+_cell_length_a       4.586723740419223
+_cell_length_b       4.5872693252397
+_cell_length_c       4.581367492675781
+_cell_angle_alpha    89.99477740994489
+_cell_angle_beta     89.96431476737433
+_cell_angle_gamma    89.95076367017563
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.10513310771647699  0.14020499659233052  0.6985487944312536  1.0000
+  La  La1       1.0  0.6027425534240795  0.6410857439162476  0.20085585158900293  1.0000
+  O   O1        1.0  0.10471345451322404  0.6414912336668063  0.1977334613133466  1.0000
+  O   O2        1.0  0.604926050780562  0.6409519910917324  0.6982796190379892  1.0000
+  O   O3        1.0  0.6043157584572272  0.14194765707674428  0.1990234998658854  1.0000

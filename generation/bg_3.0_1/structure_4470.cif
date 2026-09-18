@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       In2NaMg
+_chemical_formula_sum              "In2 Na1 Mg1"
+_cell_length_a       5.1253129566509505
+_cell_length_b       5.130179451960108
+_cell_length_c       5.12891149520874
+_cell_angle_alpha    60.06885842404274
+_cell_angle_beta     60.037214457047966
+_cell_angle_gamma    60.03757169604938
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.3292708099533789  0.007984494657155845  0.5817264923967073  1.0000
+  In  In2       1.0  0.07919041817385428  0.7575429685954458  0.33121156595040224  1.0000
+  Na  Na1       1.0  0.5798200377577846  0.25812709260281363  0.8316872127128863  1.0000
+  Mg  Mg1       1.0  0.8298866148485394  0.5082535755532448  0.08153752983563288  1.0000

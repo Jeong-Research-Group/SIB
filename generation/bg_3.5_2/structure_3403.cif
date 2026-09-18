@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       LiNaLiGa
+_chemical_formula_sum              "Li2 Na1 Ga1"
+_cell_length_a       4.953278191070514
+_cell_length_b       4.951982743420145
+_cell_length_c       4.94135856628418
+_cell_angle_alpha    59.99624607584071
+_cell_angle_beta     59.88804432884373
+_cell_angle_gamma    59.996853801293575
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.06210802595782337  0.7457157375033084  0.24257360329051156  1.0000
+  Na  Na1       1.0  0.561460436267924  0.24581000233472752  0.7420041549841717  1.0000
+  Li  Li2       1.0  0.8118587135030563  0.49501311681661303  0.9934111842099835  1.0000
+  Ga  Ga1       1.0  0.31136482954409145  0.9951153999011284  0.49260333204290263  1.0000

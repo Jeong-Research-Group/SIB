@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       FClNaNF2RhF
+_chemical_formula_sum              "F4 Cl1 Na1 N1 Rh1"
+_cell_length_a       5.600278389642686
+_cell_length_b       5.912294373725331
+_cell_length_c       5.6943678855896
+_cell_angle_alpha    100.28559165029401
+_cell_angle_beta     78.90463327705889
+_cell_angle_gamma    60.99841564843921
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.7296941274259412  0.1690152737454141  0.20130792351492555  1.0000
+  Cl  Cl1       1.0  0.28991779648179444  0.6288098690224505  0.6793864966113865  1.0000
+  Na  Na1       1.0  0.8063776495805896  0.4794892674378321  0.07766067966060304  1.0000
+  N   N1        1.0  0.5986044407540654  0.030608085010393565  0.6515215034964352  1.0000
+  F   F2        1.0  0.4297350650919547  0.912485003801999  0.21114233143045058  1.0000
+  F   F3        1.0  0.9916818132979198  0.3237642352756115  0.6593335877989093  1.0000
+  Rh  Rh1       1.0  0.36330249919372354  0.2582044602123832  0.44350835691669455  1.0000
+  F   F4        1.0  0.1368690583496546  0.46866479439378245  0.22666043040915526  1.0000

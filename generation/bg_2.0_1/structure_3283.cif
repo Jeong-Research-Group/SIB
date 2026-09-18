@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       KNaONa2MgIO
+_chemical_formula_sum              "K1 Na3 O2 Mg1 I1"
+_cell_length_a       3.5642238866699234
+_cell_length_b       6.283585818747603
+_cell_length_c       8.03156566619873
+_cell_angle_alpha    93.24520999204967
+_cell_angle_beta     89.0036007893216
+_cell_angle_gamma    89.49215062502277
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.9501352902481427  0.5830131180105089  0.22307796777313507  1.0000
+  Na  Na1       1.0  0.44630929690965815  0.4343870876968243  0.6086766718952726  1.0000
+  O   O1        1.0  0.9503151176722319  0.9360116118716689  0.048779018093209434  1.0000
+  Na  Na2       1.0  0.9488212476261647  0.2577721470991824  0.9170930385373169  1.0000
+  Na  Na3       1.0  0.44860252739899115  0.06100105573036218  0.24367122410151537  1.0000
+  Mg  Mg1       1.0  0.45262950587077827  0.81077516125973  0.9239860771544715  1.0000
+  I   I1        1.0  0.9473250514338397  0.9379897110331733  0.5897648338804582  1.0000
+  O   O2        1.0  0.44809427778541366  0.4933366176747206  0.9073789716964649  1.0000

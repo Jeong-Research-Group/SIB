@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       HgTe2NaTl
+_chemical_formula_sum              "Hg1 Te2 Na1 Tl1"
+_cell_length_a       4.732136945974256
+_cell_length_b       4.75686430352103
+_cell_length_c       8.88625717163086
+_cell_angle_alpha    105.00863087454914
+_cell_angle_beta     90.41351576958446
+_cell_angle_gamma    119.51947317159359
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.5954079027572722  0.09087167745376251  0.10517958520282852  1.0000
+  Te  Te1       1.0  0.2997647233308667  0.5009097454477164  0.2137190699280714  1.0000
+  Te  Te2       1.0  0.4744556246920668  0.8414747723215136  0.7265513539308225  1.0000
+  Na  Na1       1.0  0.046448157062257744  0.9891301994635092  0.45632711020990063  1.0000
+  Tl  Tl1       1.0  0.8366128788389692  0.5637887703811758  0.8229871394921138  1.0000

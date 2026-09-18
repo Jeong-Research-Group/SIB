@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BrNaOBiBr2
+_chemical_formula_sum              "Br3 Na1 O1 Bi1"
+_cell_length_a       6.886723505599876
+_cell_length_b       4.324339189837408
+_cell_length_c       6.489692211151123
+_cell_angle_alpha    90.05091473662668
+_cell_angle_beta     88.91636561677318
+_cell_angle_gamma    89.75514704557841
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.47401580161466145  0.13458924070843736  0.44809660323580985  1.0000
+  Na  Na1       1.0  0.3003623479338441  0.632952095088325  0.6836791630586091  1.0000
+  O   O1        1.0  0.9643273353183801  0.6318743825080019  0.41530373710396284  1.0000
+  Bi  Bi1       1.0  0.8006100064411339  0.13283805460194684  0.1859880980464489  1.0000
+  Br  Br2       1.0  0.6361407637411812  0.6307697892619915  0.9507389670940378  1.0000
+  Br  Br3       1.0  0.12904226829210091  0.1326918158255578  0.9245405193633047  1.0000

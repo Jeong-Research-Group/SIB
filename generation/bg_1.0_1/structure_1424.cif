@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       W2O4Na
+_chemical_formula_sum              "W2 O4 Na1"
+_cell_length_a       3.1401210537501005
+_cell_length_b       5.429985438199713
+_cell_length_c       5.954895496368408
+_cell_angle_alpha    79.50701514701609
+_cell_angle_beta     104.56904074062858
+_cell_angle_gamma    90.34502927203243
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  W   W1        1.0  0.5794243801479493  0.23873126507015902  0.8989716168623778  1.0000
+  W   W2        1.0  0.09715010964210671  0.7253252859400245  0.9366508724736086  1.0000
+  O   O1        1.0  0.9842988847308267  0.09360454301404722  0.7156115175386896  1.0000
+  O   O2        1.0  0.6901363123251846  0.8710787288256141  0.11930429967921666  1.0000
+  O   O3        1.0  0.49550876140768235  0.6151250610116862  0.7351344233408871  1.0000
+  O   O4        1.0  0.18420538331200487  0.34792420204877567  0.10033717099636512  1.0000
+  Na  Na1       1.0  0.338604866390923  0.9818257085110639  0.41766139857367446  1.0000

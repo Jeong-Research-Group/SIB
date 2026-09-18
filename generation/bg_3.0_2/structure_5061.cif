@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       FNaTiNaF2
+_chemical_formula_sum              "F3 Na2 Ti1"
+_cell_length_a       3.1763930753954086
+_cell_length_b       4.468064208438526
+_cell_length_c       5.734768390655518
+_cell_angle_alpha    67.11306957706809
+_cell_angle_beta     73.95739643120241
+_cell_angle_gamma    90.07945126829708
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.20410442297960596  0.5516780626242646  0.37997469340513107  1.0000
+  Na  Na1       1.0  0.522303819468751  0.3696147499509463  0.7449657913122703  1.0000
+  Ti  Ti1       1.0  0.8527594813571191  0.7006748922535081  0.08428792696761522  1.0000
+  Na  Na2       1.0  0.18287026910818538  0.02939064918097575  0.42336085449600663  1.0000
+  F   F2        1.0  0.4996232396729706  0.8471691604458459  0.7879380592468597  1.0000
+  F   F3        1.0  0.8532520523775448  0.20011481631736155  0.08380876530722733  1.0000

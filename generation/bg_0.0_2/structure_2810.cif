@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AsNa3GaAs
+_chemical_formula_sum              "As2 Na3 Ga1"
+_cell_length_a       4.597967179147051
+_cell_length_b       4.559496433159065
+_cell_length_c       6.584054470062256
+_cell_angle_alpha    90.38872221883791
+_cell_angle_beta     90.38088800403214
+_cell_angle_gamma    90.06510103325441
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.1397810872156408  0.2689932584726957  0.7570430629231162  1.0000
+  Na  Na1       1.0  0.6389659043554771  0.2679850749883056  0.47886943801697335  1.0000
+  Na  Na2       1.0  0.6393378964396615  0.2679125959676491  0.9788752798898719  1.0000
+  Na  Na3       1.0  0.1368664497558923  0.7672386177436786  0.47965767968519746  1.0000
+  Ga  Ga1       1.0  0.13784526254975893  0.767944036930742  0.9806851141405389  1.0000
+  As  As2       1.0  0.6378194693151112  0.7673215279881517  0.20265248347200096  1.0000

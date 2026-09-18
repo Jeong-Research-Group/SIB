@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       GeFe2NaGeNa
+_chemical_formula_sum              "Ge2 Fe2 Na2"
+_cell_length_a       4.15117891933892
+_cell_length_b       5.85376332592591
+_cell_length_c       6.192270755767822
+_cell_angle_alpha    102.70186519107276
+_cell_angle_beta     109.26009001074317
+_cell_angle_gamma    89.39231383543273
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.14428405474414152  0.8579196333905368  0.306383997465791  1.0000
+  Fe  Fe1       1.0  0.323306559821249  0.21697561400250703  0.6598404639492559  1.0000
+  Fe  Fe2       1.0  0.7414104354605608  0.9460583922226113  0.4991650281601239  1.0000
+  Na  Na1       1.0  0.6349357371646771  0.39422941231827513  0.2814908628793661  1.0000
+  Ge  Ge2       1.0  0.9218276136620851  0.29850199872835215  0.8580268029651035  1.0000
+  Na  Na2       1.0  0.4322747887249645  0.7692782280814212  0.8797372581333082  1.0000

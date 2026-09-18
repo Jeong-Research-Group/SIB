@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       OPrNaO2
+_chemical_formula_sum              "O3 Pr1 Na1"
+_cell_length_a       4.528876325343446
+_cell_length_b       4.530483328951582
+_cell_length_c       4.535984516143799
+_cell_angle_alpha    90.06531959784157
+_cell_angle_beta     90.00548031639562
+_cell_angle_gamma    90.02439994221375
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.021986028939529653  0.9030557873911083  0.8635854133486203  1.0000
+  Pr  Pr1       1.0  0.022475427847327714  0.9027278420059411  0.36506414332002046  1.0000
+  Na  Na1       1.0  0.521986187304036  0.40459001046248566  0.8627510071883016  1.0000
+  O   O2        1.0  0.02095869504186248  0.4032802287099306  0.36260408109322295  1.0000
+  O   O3        1.0  0.5210523019804604  0.9042001363408844  0.36432129253930157  1.0000

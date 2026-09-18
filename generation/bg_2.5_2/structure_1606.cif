@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Na2CaTa
+_chemical_formula_sum              "Na2 Ca1 Ta1"
+_cell_length_a       5.31843022817991
+_cell_length_b       5.314642763129096
+_cell_length_c       5.330888748168945
+_cell_angle_alpha    60.17658429170236
+_cell_angle_beta     60.18673994544743
+_cell_angle_gamma    60.123138154339955
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.9906793836309532  0.03928784018892841  0.512142240662074  1.0000
+  Na  Na2       1.0  0.7401371597879647  0.7892110345733191  0.2620733676626512  1.0000
+  Ca  Ca1       1.0  0.24120145988158861  0.28945806557507464  0.7616990817970586  1.0000
+  Ta  Ta1       1.0  0.4917027057957739  0.5394581547782743  0.010697956069429134  1.0000

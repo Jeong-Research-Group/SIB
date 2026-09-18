@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       NaGaNaIn
+_chemical_formula_sum              "Na2 Ga1 In1"
+_cell_length_a       5.246269220974962
+_cell_length_b       5.251477561844591
+_cell_length_c       5.24597692489624
+_cell_angle_alpha    60.04711824223227
+_cell_angle_beta     60.06128345317944
+_cell_angle_gamma    60.07141447445745
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.46860939222878367  0.03957363245249344  0.21879354140217952  1.0000
+  Ga  Ga1       1.0  0.9697037940096525  0.5392324924326624  0.7181318396405486  1.0000
+  Na  Na2       1.0  0.7184857125457587  0.28940820694245906  0.46878242600273634  1.0000
+  In  In1       1.0  0.21882188242743061  0.7894848585745893  0.9686986807115563  1.0000

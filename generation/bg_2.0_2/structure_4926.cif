@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       SrSeCo2SeLaSe2
+_chemical_formula_sum              "Sr1 Se4 Co2 La1"
+_cell_length_a       4.812157384724467
+_cell_length_b       4.8230257378647075
+_cell_length_c       8.458510398864746
+_cell_angle_alpha    89.70280048307298
+_cell_angle_beta     89.72002624254402
+_cell_angle_gamma    89.65265324954396
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.9295690066096026  0.4824713460748667  0.08786413791092881  1.0000
+  Se  Se1       1.0  0.4283513127331697  0.48336744266167525  0.8314635163437132  1.0000
+  Co  Co1       1.0  0.4299088716170486  0.9838306912147673  0.8364539741268125  1.0000
+  Co  Co2       1.0  0.4287060797883151  0.9806635976338558  0.33901253395395037  1.0000
+  Se  Se2       1.0  0.42928025175921747  0.48187148577941613  0.3436539773366936  1.0000
+  La  La1       1.0  0.9300477509114411  0.4828462014803866  0.5874382254811678  1.0000
+  Se  Se3       1.0  0.929571450048757  0.9828978779237475  0.8312917946256024  1.0000
+  Se  Se4       1.0  0.9275016785229472  0.9814927569402231  0.34333938415217885  1.0000

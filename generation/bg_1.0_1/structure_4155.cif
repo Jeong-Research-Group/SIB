@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       NaAuGe2
+_chemical_formula_sum              "Na1 Au1 Ge2"
+_cell_length_a       4.071440828804788
+_cell_length_b       4.0888680167026
+_cell_length_c       4.069684028625488
+_cell_angle_alpha    90.03648937452888
+_cell_angle_beta     90.38451484083787
+_cell_angle_gamma    89.95144669058323
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.5522643934337151  0.6275012501925119  0.6222641461501901  1.0000
+  Au  Au1       1.0  0.05237236725501072  0.12779940550395613  0.6217768798445171  1.0000
+  Ge  Ge1       1.0  0.5522481801415547  0.12761002780110142  0.12113152430670668  1.0000
+  Ge  Ge2       1.0  0.051745795455895166  0.627230167679148  0.12120081534313847  1.0000

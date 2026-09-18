@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       TeAsBaNaTeNa
+_chemical_formula_sum              "Te2 As1 Ba1 Na2"
+_cell_length_a       4.593646982204817
+_cell_length_b       4.599258330120201
+_cell_length_c       10.201313018798828
+_cell_angle_alpha    103.31460230617125
+_cell_angle_beta     76.93914416435167
+_cell_angle_gamma    90.0365507179409
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.1202810624417303  0.4431999316921505  0.7173432710322718  1.0000
+  As  As1       1.0  0.4513180556539912  0.11280060644468805  0.05390439186306742  1.0000
+  Ba  Ba1       1.0  0.9509381048283198  0.6126278048137479  0.05375960448724942  1.0000
+  Na  Na1       1.0  0.2844843861084238  0.278992741627298  0.3892655965486275  1.0000
+  Te  Te2       1.0  0.7843584425050808  0.7789628497079127  0.39049079998582364  1.0000
+  Na  Na2       1.0  0.6201295845391954  0.9431444996433136  0.7186131476461506  1.0000

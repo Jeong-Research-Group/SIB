@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NaOTiNaO2NdO
+_chemical_formula_sum              "Na2 O4 Ti1 Nd1"
+_cell_length_a       3.2758630313868564
+_cell_length_b       5.792442537524978
+_cell_length_c       6.847911834716797
+_cell_angle_alpha    125.10398681511835
+_cell_angle_beta     90.09632182911687
+_cell_angle_gamma    90.02780137830872
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.9736831196971195  0.51437652006283  0.30849710015017756  1.0000
+  O   O1        1.0  0.47476106998653084  0.5237684838624291  0.606306910643359  1.0000
+  Ti  Ti1       1.0  0.9774459008282332  0.515775740466383  0.8083753591720377  1.0000
+  Na  Na2       1.0  0.4756051911739534  0.01508723856709782  0.30915737044679814  1.0000
+  O   O2        1.0  0.9755144723709713  0.9589005104963322  0.018868202263149007  1.0000
+  O   O3        1.0  0.47622871408013745  0.5067177419408152  0.011021313122726039  1.0000
+  Nd  Nd1       1.0  0.47562667581851686  0.01493988201630128  0.8079969282480894  1.0000
+  O   O4        1.0  0.975420475548476  0.07150567261282272  0.5984169841016143  1.0000

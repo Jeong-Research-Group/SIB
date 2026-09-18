@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SbNbNaO3
+_chemical_formula_sum              "Sb1 Nb1 Na1 O3"
+_cell_length_a       3.152091438717196
+_cell_length_b       4.564003625895273
+_cell_length_c       5.814332485198975
+_cell_angle_alpha    113.37671948309239
+_cell_angle_beta     106.30080814165579
+_cell_angle_gamma    89.81748679641638
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.5658789280309651  0.7664682868026635  0.10478159803880369  1.0000
+  Nb  Nb1       1.0  0.23788139091219537  0.4388633976502543  0.44834545233259  1.0000
+  Na  Na1       1.0  0.904227852391145  0.10842716680809412  0.7818476551503695  1.0000
+  O   O1        1.0  0.8909834635761744  0.5922925463342236  0.74938440332766  1.0000
+  O   O2        1.0  0.5870780351636985  0.28688991097500777  0.14464877554388902  1.0000
+  O   O3        1.0  0.22483879363556217  0.9307731391652802  0.4251611837992882  1.0000

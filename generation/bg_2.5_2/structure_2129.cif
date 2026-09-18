@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NaTlNaLaHg
+_chemical_formula_sum              "Na2 Tl1 La1 Hg1"
+_cell_length_a       5.42104302212247
+_cell_length_b       5.423846283709544
+_cell_length_c       8.3600435256958
+_cell_angle_alpha    49.53080457044569
+_cell_angle_beta     49.55783701655248
+_cell_angle_gamma    59.88237400832944
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.4556848400347012  0.023177968331804695  0.7415301210199924  1.0000
+  Tl  Tl1       1.0  0.25758847620055014  0.8244173528463404  0.5383387808092911  1.0000
+  Na  Na2       1.0  0.05355869641886471  0.6207081674656499  0.3431501685384504  1.0000
+  La  La1       1.0  0.8610297446122469  0.4276329277214977  0.13421797766462729  1.0000
+  Hg  Hg1       1.0  0.657582162833488  0.22563080571877425  0.9374684687574462  1.0000

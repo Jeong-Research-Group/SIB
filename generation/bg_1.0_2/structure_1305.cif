@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       BaNa2Cl4
+_chemical_formula_sum              "Ba1 Na2 Cl4"
+_cell_length_a       5.822674161626154
+_cell_length_b       5.684930362999952
+_cell_length_c       5.737127304077148
+_cell_angle_alpha    90.39761514210849
+_cell_angle_beta     90.36792430477942
+_cell_angle_gamma    90.08841930386212
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.9323828212886298  0.7732978468193217  0.5728828906026238  1.0000
+  Na  Na1       1.0  0.43317559343270473  0.2733783428904181  0.5738738175353277  1.0000
+  Na  Na2       1.0  0.43308010667691715  0.7741249808129248  0.07169502958450859  1.0000
+  Cl  Cl1       1.0  0.9322527649417836  0.2735729816930846  0.5736568568952758  1.0000
+  Cl  Cl2       1.0  0.43232631618608763  0.27527356100772365  0.07411050855251942  1.0000
+  Cl  Cl3       1.0  0.9340527655165135  0.7733787891758568  0.07320456283063055  1.0000
+  Cl  Cl4       1.0  0.4329244490374356  0.7739815119196174  0.5727315549335452  1.0000

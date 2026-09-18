@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BiMgNaOMgO
+_chemical_formula_sum              "Bi1 Mg2 Na1 O2"
+_cell_length_a       3.060245189506055
+_cell_length_b       3.032345081402002
+_cell_length_c       10.199623107910156
+_cell_angle_alpha    90.65501085533404
+_cell_angle_beta     90.136899987128
+_cell_angle_gamma    90.19066724825014
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.7162113772062655  0.9620973481495132  0.5590491893960499  1.0000
+  Mg  Mg1       1.0  0.21825580238976128  0.4664174603698278  0.2999734283449896  1.0000
+  Na  Na1       1.0  0.7144198404727293  0.9623149641586923  0.05968269691719425  1.0000
+  O   O1        1.0  0.7188673021487562  0.9673154953652517  0.294257730670617  1.0000
+  Mg  Mg2       1.0  0.21214291533509588  0.45706108340509477  0.8191350105762978  1.0000
+  O   O2        1.0  0.7119149581170101  0.9567828759037658  0.82387864614896  1.0000

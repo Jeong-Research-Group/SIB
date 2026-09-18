@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       CsNaClHClGaClNaCl2
+_chemical_formula_sum              "Cs1 Na2 Cl5 H1 Ga1"
+_cell_length_a       7.320298035253163
+_cell_length_b       7.3686652614525725
+_cell_length_c       7.314299583435059
+_cell_angle_alpha    59.7683132796587
+_cell_angle_beta     60.5119460555276
+_cell_angle_gamma    59.75035314266577
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.7964248053911669  0.02093543287040344  0.9958521730382015  1.0000
+  Na  Na1       1.0  0.5444009305487834  0.7742591503362642  0.7421506040607428  1.0000
+  Cl  Cl1       1.0  0.8153941621343495  0.5026026971694729  0.01375820533099723  1.0000
+  H   H1        1.0  0.2681828436450051  0.04922405992934163  0.4686092731356983  1.0000
+  Cl  Cl2       1.0  0.2784491771572596  0.5016956928442143  0.014619449885450978  1.0000
+  Ga  Ga1       1.0  0.045648716884192954  0.2713421582328623  0.24509033596243024  1.0000
+  Cl  Cl3       1.0  0.816096843041356  0.039174205719747855  0.47661080945805934  1.0000
+  Na  Na2       1.0  0.29683250221620394  0.5211124427852057  0.4958944609972018  1.0000
+  Cl  Cl4       1.0  0.2780715529510077  0.040216795817788774  0.014596641460566518  1.0000
+  Cl  Cl5       1.0  0.8159051535300832  0.5016748310531822  0.47689723986165644  1.0000

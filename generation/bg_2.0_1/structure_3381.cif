@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       ClKClKNaClKCl
+_chemical_formula_sum              "Cl4 K3 Na1"
+_cell_length_a       6.082895062937746
+_cell_length_b       6.064855106568052
+_cell_length_c       6.084323406219482
+_cell_angle_alpha    89.997086013752
+_cell_angle_beta     89.98322072871572
+_cell_angle_gamma    89.9864104282183
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.8031218644200439  0.24866396111125103  0.5453866122605292  1.0000
+  K   K1        1.0  0.8008762602878414  0.24776969899546283  0.04356433885369768  1.0000
+  Cl  Cl2       1.0  0.29601547091316394  0.24696426175782615  0.0417079855374062  1.0000
+  K   K2        1.0  0.7998502256145361  0.7465645664467286  0.5428474540820639  1.0000
+  Na  Na1       1.0  0.2979591785326438  0.7478100653233684  0.041992191569182075  1.0000
+  Cl  Cl3       1.0  0.3003062002986122  0.7502735850904515  0.5445047020026169  1.0000
+  K   K3        1.0  0.29900181287984645  0.24649566357474237  0.5422641035052097  1.0000
+  Cl  Cl4       1.0  0.7982363107703826  0.7492858170282362  0.043743428605198593  1.0000

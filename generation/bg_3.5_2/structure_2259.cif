@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Na2ScTeBr
+_chemical_formula_sum              "Na2 Sc1 Te1 Br1"
+_cell_length_a       4.685022097671065
+_cell_length_b       4.671254478299578
+_cell_length_c       7.449134826660156
+_cell_angle_alpha    90.02121707344381
+_cell_angle_beta     89.76956556899452
+_cell_angle_gamma    60.1273995281995
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.8631457679867819  0.1519679723320798  0.36724325952751213  1.0000
+  Na  Na2       1.0  0.8615624905013697  0.15059764712686416  0.9144320481770631  1.0000
+  Sc  Sc1       1.0  0.5300847888297121  0.8171343212090414  0.7089121940893405  1.0000
+  Te  Te1       1.0  0.19546960339430314  0.48306775047330414  0.6303147080637239  1.0000
+  Br  Br1       1.0  0.527544557189464  0.8166458618927512  0.10778015054490477  1.0000

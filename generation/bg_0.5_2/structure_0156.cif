@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       NaLiSn
+_chemical_formula_sum              "Na1 Li1 Sn1"
+_cell_length_a       3.0342527370761934
+_cell_length_b       5.194413092509323
+_cell_length_c       5.223036766052246
+_cell_angle_alpha    59.72103553560959
+_cell_angle_beta     89.22029544837788
+_cell_angle_gamma    89.39676020773935
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.07954630269343495  0.34945648832715964  0.7787674665747075  1.0000
+  Li  Li1       1.0  0.7686871283358612  0.013248925917534059  0.4443361465738262  1.0000
+  Sn  Sn1       1.0  0.44191038579480074  0.6815324426193042  0.11164247219558207  1.0000

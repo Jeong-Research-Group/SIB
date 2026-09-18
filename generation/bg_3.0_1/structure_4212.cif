@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ONaCdClNaCl
+_chemical_formula_sum              "O1 Na2 Cd1 Cl2"
+_cell_length_a       3.9483117241327594
+_cell_length_b       3.9462932356408893
+_cell_length_c       8.708868980407715
+_cell_angle_alpha    103.52673461045366
+_cell_angle_beta     77.03503376489452
+_cell_angle_gamma    90.24217357222298
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.10455479537163886  0.9310408834253928  0.46954846334349104  1.0000
+  Na  Na1       1.0  0.9370939722146198  0.09791847205209582  0.8010082836334472  1.0000
+  Cd  Cd1       1.0  0.6047701846892642  0.4324119676045166  0.4680036903078393  1.0000
+  Cl  Cl1       1.0  0.7661173934624002  0.27168172650856376  0.14828589624379013  1.0000
+  Na  Na2       1.0  0.2718228091919886  0.7657068979610714  0.13662253312925826  1.0000
+  Cl  Cl2       1.0  0.44302830021994427  0.5916259874005824  0.7885267139808158  1.0000

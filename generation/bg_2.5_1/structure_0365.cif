@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       LiBiO2
+_chemical_formula_sum              "Li1 Bi1 O2"
+_cell_length_a       3.4800432980381957
+_cell_length_b       3.4873129971670247
+_cell_length_c       4.7212629318237305
+_cell_angle_alpha    89.96421231315422
+_cell_angle_beta     90.06192499820824
+_cell_angle_gamma    89.98008567234115
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.6120973833383596  0.5964527713937425  0.8284195668234222  1.0000
+  Bi  Bi1       1.0  0.11286960534699282  0.0967816845169263  0.3276864002483768  1.0000
+  O   O1        1.0  0.6123189332450396  0.5968374602198186  0.3282499620501882  1.0000
+  O   O2        1.0  0.11050046322134388  0.0970306556367316  0.8272141221510995  1.0000

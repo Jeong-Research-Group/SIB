@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       RbHKHNaH
+_chemical_formula_sum              "Rb1 H3 K1 Na1"
+_cell_length_a       3.900751909556663
+_cell_length_b       3.905572391700216
+_cell_length_c       9.572922706604004
+_cell_angle_alpha    89.96587887901524
+_cell_angle_beta     89.97683450259652
+_cell_angle_gamma    59.97662912322595
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.5370784413744444  0.4619301247391819  0.4019074734645982  1.0000
+  H   H1        1.0  0.20452091179899914  0.12838445625398617  0.5873864890509608  1.0000
+  K   K1        1.0  0.2071432922179028  0.13179778918897528  0.046574987331821714  1.0000
+  H   H2        1.0  0.5387035013697792  0.4651471381253278  0.8719185591712899  1.0000
+  Na  Na1       1.0  0.8688734766631782  0.7982949006626505  0.7276291251833659  1.0000
+  H   H3        1.0  0.8711601494908743  0.7974400533203712  0.21509540079313413  1.0000

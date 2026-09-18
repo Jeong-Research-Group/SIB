@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NaNGaH4Ni
+_chemical_formula_sum              "Na1 N1 Ga1 H4 Ni1"
+_cell_length_a       3.395332595114315
+_cell_length_b       3.4249631816845505
+_cell_length_c       10.84226131439209
+_cell_angle_alpha    90.6857124760555
+_cell_angle_beta     89.3866105625968
+_cell_angle_gamma    118.99726258838223
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.6550913454272863  0.5650652041565137  0.2346335348819577  1.0000
+  N   N1        1.0  0.3432658606064078  0.9063799382347548  0.8695415262735922  1.0000
+  Ga  Ga1       1.0  0.9933035963207012  0.23617571509336535  0.4998607930103191  1.0000
+  H   H1        1.0  0.31975674674027504  0.9025426502432794  0.12133756981683066  1.0000
+  H   H2        1.0  0.9886773831246838  0.23003606632491255  0.3438648876104563  1.0000
+  H   H3        1.0  0.3281805825952312  0.9013664141856872  0.024191383557826997  1.0000
+  H   H4        1.0  6.914082754184682e-05  0.23626826633848216  0.6548594235267647  1.0000
+  Ni  Ni1       1.0  0.013073771677207573  0.2399541720866915  0.8323830364366542  1.0000

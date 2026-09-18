@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       ClTlClNa2ClI
+_chemical_formula_sum              "Cl3 Tl1 Na2 I1"
+_cell_length_a       4.094663986686714
+_cell_length_b       7.0485732847392075
+_cell_length_c       7.135412693023682
+_cell_angle_alpha    81.28883441234753
+_cell_angle_beta     89.95398751811226
+_cell_angle_gamma    72.6800081972468
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.6854513288421277  0.7839468118069683  0.08894236391338657  1.0000
+  Tl  Tl1       1.0  0.574407458460536  0.008245868864030592  0.7343399525147856  1.0000
+  Cl  Cl2       1.0  0.45215910580426255  0.2526030833757634  0.37283271492930603  1.0000
+  Na  Na1       1.0  0.06889700852737288  0.015453608748295627  0.22639282028993057  1.0000
+  Na  Na2       1.0  0.8171200164215733  0.5185086727958942  0.4518321449784825  1.0000
+  Cl  Cl3       1.0  0.19795422390477435  0.7681525343215359  0.5908828384236519  1.0000
+  I   I1        1.0  0.9452716106347524  0.26358124672736616  0.8465059399088829  1.0000

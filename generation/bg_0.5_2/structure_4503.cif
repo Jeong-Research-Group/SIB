@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       ONa2RhO
+_chemical_formula_sum              "O2 Na2 Rh1"
+_cell_length_a       3.333067611935775
+_cell_length_b       3.4598115546930672
+_cell_length_c       7.824665546417236
+_cell_angle_alpha    90.23728329715829
+_cell_angle_beta     88.92756711476308
+_cell_angle_gamma    89.81270504926844
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.7126449345427398  0.012231680622482748  0.1924547256205302  1.0000
+  Na  Na1       1.0  0.19524961844658975  0.5196840757163935  0.7005816105897447  1.0000
+  Na  Na2       1.0  0.21362227282632024  0.5119887006853803  0.17265729629101698  1.0000
+  Rh  Rh1       1.0  0.7047225842924961  0.016322663739522823  0.4342060689502831  1.0000
+  O   O2        1.0  0.6970819838506261  0.019608236081873242  0.6764680747974727  1.0000

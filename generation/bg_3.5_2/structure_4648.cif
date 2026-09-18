@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Na2ScGa2
+_chemical_formula_sum              "Na2 Sc1 Ga2"
+_cell_length_a       4.0869301479496425
+_cell_length_b       4.912017934345435
+_cell_length_c       6.292570114135742
+_cell_angle_alpha    89.62111145028628
+_cell_angle_beta     90.08179402341935
+_cell_angle_gamma    89.95724551881374
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.9751768697317417  0.8208391079866338  0.3089833855377265  1.0000
+  Na  Na2       1.0  0.47437247675100336  0.8204582336768856  0.8324636217604016  1.0000
+  Sc  Sc1       1.0  0.9758781205320939  0.3196959202551607  0.6171379688970293  1.0000
+  Ga  Ga1       1.0  0.9745757582423672  0.3214143213440357  0.026155389677523053  1.0000
+  Ga  Ga2       1.0  0.4752195177466028  0.32033511978348145  0.30992716491713096  1.0000

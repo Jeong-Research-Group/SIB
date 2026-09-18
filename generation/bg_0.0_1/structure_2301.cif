@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       IrNNa3N
+_chemical_formula_sum              "Ir1 N2 Na3"
+_cell_length_a       3.164046444497397
+_cell_length_b       4.092263076077634
+_cell_length_c       8.273362159729004
+_cell_angle_alpha    90.18283300009998
+_cell_angle_beta     89.97135668994265
+_cell_angle_gamma    89.53854124188736
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ir  Ir1       1.0  0.7104352120713383  0.778281211404016  0.9603750701185279  1.0000
+  N   N1        1.0  0.7080121053813055  0.7783980362358861  0.7355096338276746  1.0000
+  Na  Na1       1.0  0.20896801400144993  0.2777781484830094  0.7404036521743086  1.0000
+  Na  Na2       1.0  0.7098776101823282  0.777473329789422  0.46084010622242144  1.0000
+  Na  Na3       1.0  0.21018213147341414  0.27759420912194877  0.1805375369229384  1.0000
+  N   N2        1.0  0.7106242184396879  0.7778278584287815  0.18558341282880844  1.0000

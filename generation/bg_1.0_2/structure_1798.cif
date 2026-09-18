@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       O2CuNaMgFeO
+_chemical_formula_sum              "O3 Cu1 Na1 Mg1 Fe1"
+_cell_length_a       4.348893115382902
+_cell_length_b       3.0445962256321675
+_cell_length_c       6.728119850158691
+_cell_angle_alpha    116.5471909560548
+_cell_angle_beta     89.38763501483324
+_cell_angle_gamma    90.05348290027212
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.5962173933693149  0.5199128376825424  0.5752682083177025  1.0000
+  O   O2        1.0  0.5906949045790574  0.026626494496343144  0.09193066459691177  1.0000
+  Cu  Cu1       1.0  0.09293632282150605  0.520293712950018  0.5777569418300295  1.0000
+  Na  Na1       1.0  0.0901748455812185  0.014612687520649145  0.07281905481540442  1.0000
+  Mg  Mg1       1.0  0.5921525357708611  0.2698202140482749  0.8273614645745164  1.0000
+  Fe  Fe1       1.0  0.5896140344574509  0.7741991868239526  0.3331998288419992  1.0000
+  O   O3        1.0  0.09356218508244593  0.23875304966913005  0.7965160613607838  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NaGaNaBiNaBi
+_chemical_formula_sum              "Na3 Ga1 Bi2"
+_cell_length_a       4.720034658930053
+_cell_length_b       4.909569759469027
+_cell_length_c       7.489304542541504
+_cell_angle_alpha    109.42369287899265
+_cell_angle_beta     90.00910714693698
+_cell_angle_gamma    89.98742812617749
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.17146702110767365  0.1273794174194336  0.42363899946212774  1.0000
+  Ga  Ga1       1.0  0.6702399253845215  0.6278352737426758  0.42404416203498846  1.0000
+  Na  Na2       1.0  0.6704558730125427  0.9630599617958069  0.09238746017217636  1.0000
+  Bi  Bi1       1.0  0.1709945946931839  0.46661269664764404  0.10112229734659198  1.0000
+  Na  Na3       1.0  0.6712595820426941  0.2916169762611389  0.7540440559387207  1.0000
+  Bi  Bi2       1.0  0.16997461020946503  0.7880554795265198  0.7450600862503052  1.0000

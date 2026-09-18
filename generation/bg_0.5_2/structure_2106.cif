@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       NaIrIn
+_chemical_formula_sum              "Na1 Ir1 In1"
+_cell_length_a       4.607005696085482
+_cell_length_b       4.59486725258397
+_cell_length_c       4.590750217437744
+_cell_angle_alpha    60.1249609572217
+_cell_angle_beta     60.217724002932435
+_cell_angle_gamma    60.082205287874686
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.5806109909142794  0.8327088361617374  0.5975576641632304  1.0000
+  Ir  Ir1       1.0  0.8328531977943774  0.08155345137859069  0.8458162555840768  1.0000
+  In  In1       1.0  0.07937821704612058  0.33246338323468533  0.09715545325645596  1.0000

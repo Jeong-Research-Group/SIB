@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       PdNaDyPdTl
+_chemical_formula_sum              "Pd2 Na1 Dy1 Tl1"
+_cell_length_a       4.726834651816943
+_cell_length_b       4.722675919101033
+_cell_length_c       7.377763748168945
+_cell_angle_alpha    49.95152118957308
+_cell_angle_beta     49.93539680179695
+_cell_angle_gamma    59.92906356002376
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.8271917116893396  0.054131827146217906  0.7440376278362669  1.0000
+  Na  Na1       1.0  0.22578643126342415  0.45297235363296307  0.14823944925322718  1.0000
+  Dy  Dy1       1.0  0.619887054362071  0.8464874621183208  0.5535868410421564  1.0000
+  Pd  Pd2       1.0  0.4229790277570293  0.6486439714291755  0.35156041290989437  1.0000
+  Tl  Tl1       1.0  0.03258521058679663  0.2594043327413969  0.9363187544187722  1.0000

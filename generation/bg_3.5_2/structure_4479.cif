@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CdNaLiO2
+_chemical_formula_sum              "Cd1 Na1 Li1 O2"
+_cell_length_a       3.4667936292168435
+_cell_length_b       3.481125930843664
+_cell_length_c       6.435981273651123
+_cell_angle_alpha    90.09343948567636
+_cell_angle_beta     90.15525954720823
+_cell_angle_gamma    120.02154471014536
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.0702636981413302  0.17893668966281204  0.38227325640974696  1.0000
+  Na  Na1       1.0  0.40466019439417195  0.8471632017074342  0.7757214906120361  1.0000
+  Li  Li1       1.0  0.7372282146231983  0.5129613860548302  0.06436071570296388  1.0000
+  O   O1        1.0  0.7355036152869452  0.5154057147952146  0.5450104478632053  1.0000
+  O   O2        1.0  0.07260640157875331  0.17758891112525005  0.03886378557391414  1.0000

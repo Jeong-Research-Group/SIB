@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       NaAlSiB
+_chemical_formula_sum              "Na1 Al1 Si1 B1"
+_cell_length_a       3.2751458387551615
+_cell_length_b       3.3123353902721746
+_cell_length_c       6.363125801086426
+_cell_angle_alpha    89.87979117878052
+_cell_angle_beta     89.83024497954148
+_cell_angle_gamma    90.04458314952247
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.4034631555444325  0.04882797683572114  0.9263369434665247  1.0000
+  Al  Al1       1.0  0.4011286498867535  0.05172137768794703  0.4080894582610904  1.0000
+  Si  Si1       1.0  0.9016508461005851  0.5484808671929375  0.6152493357849561  1.0000
+  B   B1        1.0  0.9015159597832707  0.5484191190639099  0.22947177319238957  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NNaMnNaCrN
+_chemical_formula_sum              "N2 Na2 Mn1 Cr1"
+_cell_length_a       3.0183984126310133
+_cell_length_b       3.021693229675754
+_cell_length_c       10.22978687286377
+_cell_angle_alpha    89.99996835353194
+_cell_angle_beta     89.94641967203955
+_cell_angle_gamma    119.93993961818865
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  N   N1        1.0  0.5879152427123621  0.2017873220209129  0.007027384512137282  1.0000
+  Na  Na1       1.0  0.5917713059399305  0.20823487765845983  0.31809881292168496  1.0000
+  Mn  Mn1       1.0  0.2598964879067596  0.5453193192489276  0.5641848448115874  1.0000
+  Na  Na2       1.0  0.9245107154846378  0.8689351068761376  0.8166678543907144  1.0000
+  Cr  Cr1       1.0  0.25437969044936815  0.5342458501887847  0.057724989504678074  1.0000
+  N   N2        1.0  0.9260386818804067  0.8784313192223535  0.5025848154460484  1.0000

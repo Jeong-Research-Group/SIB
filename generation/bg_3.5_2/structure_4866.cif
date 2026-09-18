@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       ClNa3ClBr2
+_chemical_formula_sum              "Cl2 Na3 Br2"
+_cell_length_a       4.312419122368461
+_cell_length_b       4.3011802011179725
+_cell_length_c       12.18209171295166
+_cell_angle_alpha    79.8626233526049
+_cell_angle_beta     79.82874479538972
+_cell_angle_gamma    60.17047868697797
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.9061512360294908  0.6372851727080949  0.04488530350688952  1.0000
+  Na  Na1       1.0  0.015799507458458224  0.7512973548198137  0.7127014993866595  1.0000
+  Na  Na2       1.0  0.23381054476344007  0.9708288898867149  0.05376248822980225  1.0000
+  Na  Na3       1.0  0.4516814642195695  0.1805133525279583  0.414580136154434  1.0000
+  Cl  Cl2       1.0  0.32209813530418113  0.05007268930307017  0.8079173566640035  1.0000
+  Br  Br1       1.0  0.15674793628860378  0.8888857369597074  0.29547932775044167  1.0000
+  Br  Br2       1.0  0.7364752896837541  0.4695878630760615  0.5584909322189936  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NaFeAsBrFeBr2
+_chemical_formula_sum              "Na1 Fe2 As1 Br3"
+_cell_length_a       3.795233113797094
+_cell_length_b       6.483941795821608
+_cell_length_c       7.9277262687683105
+_cell_angle_alpha    64.56982903342004
+_cell_angle_beta     76.50114352652282
+_cell_angle_gamma    89.9930972958358
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.09985555032217007  0.3306011254587981  0.822196961072523  1.0000
+  Fe  Fe1       1.0  0.8418629764800727  0.09713612474365146  0.3386444742770914  1.0000
+  As  As1       1.0  0.2473271789800541  0.14539651528121073  0.5332821010335967  1.0000
+  Br  Br1       1.0  0.7467695477929923  0.6470423332551383  0.5309939392158773  1.0000
+  Fe  Fe2       1.0  0.348731457379519  0.5725005276216589  0.31765329843959633  1.0000
+  Br  Br2       1.0  0.44851473085343785  0.024823117399610215  0.11722258485763103  1.0000
+  Br  Br3       1.0  0.9565632346800449  0.5332547418548066  0.10075676490455422  1.0000

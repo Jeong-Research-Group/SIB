@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       NaNCo
+_chemical_formula_sum              "Na1 N1 Co1"
+_cell_length_a       3.226902856769983
+_cell_length_b       3.2409382641655937
+_cell_length_c       4.505407810211182
+_cell_angle_alpha    90.08318055561412
+_cell_angle_beta     89.74546183601174
+_cell_angle_gamma    120.68142959312783
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.02834198629315264  0.5350658289975452  0.06822418486155991  1.0000
+  N   N1        1.0  0.36422613141250615  0.20228826822616533  0.5680447231239457  1.0000
+  Co  Co1       1.0  0.6971887960647593  0.8677769912990005  0.5689482086245505  1.0000

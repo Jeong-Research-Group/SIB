@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       PbGdNa
+_chemical_formula_sum              "Pb1 Gd1 Na1"
+_cell_length_a       5.131256544686728
+_cell_length_b       5.133984788555552
+_cell_length_c       5.13027811050415
+_cell_angle_alpha    59.59671909738367
+_cell_angle_beta     59.66091223939729
+_cell_angle_gamma    59.601561741490215
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.27366957129553776  0.3135438557514513  0.7476457943494683  1.0000
+  Gd  Gd1       1.0  0.523039758675646  0.5626410243803375  0.9968174105879063  1.0000
+  Na  Na1       1.0  0.7722591751414483  0.8121942871322861  0.24588701221204504  1.0000

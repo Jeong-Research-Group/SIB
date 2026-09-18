@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       MgPdHNaH3
+_chemical_formula_sum              "Mg1 Pd1 H4 Na1"
+_cell_length_a       5.146204505504331
+_cell_length_b       3.075886371919175
+_cell_length_c       5.901835918426514
+_cell_angle_alpha    89.85819412654462
+_cell_angle_beta     108.99848690922235
+_cell_angle_gamma    90.15277333320958
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.9437263617913532  0.6805106401096249  0.6174889810742767  1.0000
+  Pd  Pd1       1.0  0.44443279603357055  0.17937038998655186  0.616190910414432  1.0000
+  H   H1        1.0  0.8603419667128692  0.1823927176504196  0.14299812873385123  1.0000
+  Na  Na1       1.0  0.44321680055095336  0.6816603534770728  0.11762613006944955  1.0000
+  H   H2        1.0  0.6783354872983268  0.18058764844945663  0.4625982335609995  1.0000
+  H   H3        1.0  0.2079771156770854  0.18078178207888573  0.7695664168769341  1.0000
+  H   H4        1.0  0.02107062351595071  0.18120117548059644  0.09131014364406845  1.0000

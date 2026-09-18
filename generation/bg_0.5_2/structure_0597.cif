@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Tl2NaGa
+_chemical_formula_sum              "Tl2 Na1 Ga1"
+_cell_length_a       5.244454750584989
+_cell_length_b       5.246650006125416
+_cell_length_c       5.243680477142334
+_cell_angle_alpha    59.841111109511026
+_cell_angle_beta     59.77340300753297
+_cell_angle_gamma    59.8881085347117
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.5149625538817283  0.20782207052843274  0.30441081430315337  1.0000
+  Tl  Tl2       1.0  0.015543011175064765  0.7084574093570626  0.8050973414147169  1.0000
+  Na  Na1       1.0  0.765432059102969  0.45816355968525874  0.5545446869269798  1.0000
+  Ga  Ga1       1.0  0.26511952215301243  0.9578050969631303  0.05441973432743818  1.0000

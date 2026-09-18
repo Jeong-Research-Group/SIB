@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       OF2MgTaNa2O2
+_chemical_formula_sum              "O3 F2 Mg1 Ta1 Na2"
+_cell_length_a       4.019601450029632
+_cell_length_b       5.803310505454939
+_cell_length_c       5.755230903625488
+_cell_angle_alpha    98.89880378187634
+_cell_angle_beta     69.60764014165447
+_cell_angle_gamma    70.14609515703002
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.5173823832032671  0.2269206202672262  0.3835518956123275  1.0000
+  F   F1        1.0  0.3668580053082693  0.8554947976414154  0.06052630828334783  1.0000
+  F   F2        1.0  0.135793222277497  0.8473966128603568  0.5318971879313354  1.0000
+  Mg  Mg1       1.0  0.46686735768393256  0.5263845926477779  0.18871580034267768  1.0000
+  Ta  Ta1       1.0  0.024246376802728196  0.1875858463511828  0.41111430596359066  1.0000
+  Na  Na1       1.0  0.38417565898340733  0.09125544096171724  0.7889010903230386  1.0000
+  Na  Na2       1.0  0.09073379479564436  0.6351331480315139  0.8330861929757697  1.0000
+  O   O2        1.0  0.7547063227992761  0.3562451903660403  0.7795706395712021  1.0000
+  O   O3        1.0  0.002188444708312082  0.44531583763494537  0.19874972172615452  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       GaNa2Cl4
+_chemical_formula_sum              "Ga1 Na2 Cl4"
+_cell_length_a       3.8730236637323285
+_cell_length_b       6.421372164691222
+_cell_length_c       6.794654846191406
+_cell_angle_alpha    108.59883797202397
+_cell_angle_beta     90.40739596898491
+_cell_angle_gamma    90.0044899361727
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.5338889361565543  0.43255606320800255  0.3576409526595589  1.0000
+  Na  Na1       1.0  0.5339319698157905  0.9323679808727433  0.8576207165584829  1.0000
+  Na  Na2       1.0  0.03461469086303857  0.9328531027361382  0.3575389979308788  1.0000
+  Cl  Cl1       1.0  0.033518664648889286  0.655153393469843  0.5825047486955214  1.0000
+  Cl  Cl2       1.0  0.03374079686088736  0.21008518388813618  0.1329909408578498  1.0000
+  Cl  Cl3       1.0  0.533778549237675  0.660151661151339  0.1331234135937591  1.0000
+  Cl  Cl4       1.0  0.5351100575571014  0.20455571971989356  0.5831204060387509  1.0000

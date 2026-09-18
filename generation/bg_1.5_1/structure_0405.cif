@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NaRbNaTl2
+_chemical_formula_sum              "Na2 Rb1 Tl2"
+_cell_length_a       5.167140205022509
+_cell_length_b       6.8111394497889455
+_cell_length_c       6.820747375488281
+_cell_angle_alpha    60.07674046487293
+_cell_angle_beta     67.56845197096185
+_cell_angle_gamma    67.72071770966504
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.9690977338089917  0.3116124577572176  0.08619581912034133  1.0000
+  Rb  Rb1       1.0  0.16575255903050343  0.6120870709243845  0.3901613953084244  1.0000
+  Na  Na2       1.0  0.7632813459052191  0.0036922590842602084  0.7883282901451256  1.0000
+  Tl  Tl1       1.0  0.46338757873904896  0.04639106632144292  0.35591444341854467  1.0000
+  Tl  Tl2       1.0  0.4680835305523114  0.5670974262606737  0.8284999121258333  1.0000

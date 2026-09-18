@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       NaBiTe
+_chemical_formula_sum              "Na1 Bi1 Te1"
+_cell_length_a       4.29720120208348
+_cell_length_b       4.29842661250211
+_cell_length_c       6.2625017166137695
+_cell_angle_alpha    90.39384487306741
+_cell_angle_beta     90.45734513643482
+_cell_angle_gamma    60.248301997361104
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.7244160761068493  0.22239157541017676  0.6399825812490836  1.0000
+  Bi  Bi1       1.0  0.06119708873485715  0.5584753741163371  0.2262510362303713  1.0000
+  Te  Te1       1.0  0.3908457456084066  0.8866294625065646  0.9607880709030793  1.0000

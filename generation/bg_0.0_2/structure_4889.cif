@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       NaTiO2NaOTiONa
+_chemical_formula_sum              "Na3 Ti2 O4"
+_cell_length_a       3.050291527765378
+_cell_length_b       3.047476556639887
+_cell_length_c       13.93891429901123
+_cell_angle_alpha    89.8363921655238
+_cell_angle_beta     90.0932823939936
+_cell_angle_gamma    119.72637043209194
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.9433626540455485  0.11818648160996974  0.7441281678406618  1.0000
+  Ti  Ti1       1.0  0.2755006859502268  0.7862420693239295  0.9461708664713748  1.0000
+  O   O1        1.0  0.27363267468455704  0.7865022423052284  0.6243005992049877  1.0000
+  O   O2        1.0  0.9348002658704619  0.12040433224059673  0.461393386118317  1.0000
+  Na  Na2       1.0  0.26521095702353054  0.787784516139903  0.35568284954102486  1.0000
+  O   O3        1.0  0.9422782678583207  0.12144628246394573  0.028610629803970025  1.0000
+  Ti  Ti2       1.0  0.6040462838847618  0.4530588391417952  0.542772948683687  1.0000
+  O   O4        1.0  0.6101201764162025  0.45076465553518724  0.8649989364101851  1.0000
+  Na  Na3       1.0  0.6097090835949384  0.4567894059881769  0.13430166252683512  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NaFeN3FeNMg
+_chemical_formula_sum              "Na1 Fe2 N4 Mg1"
+_cell_length_a       3.062747987679404
+_cell_length_b       4.41846514643164
+_cell_length_c       6.396463394165039
+_cell_angle_alpha    89.91574528991062
+_cell_angle_beta     90.00832850500439
+_cell_angle_gamma    90.06075020312949
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.43886104222929284  0.08555660361936226  0.16990935843607188  1.0000
+  Fe  Fe1       1.0  0.9383884086917684  0.5849403132085746  0.41373437609111907  1.0000
+  N   N1        1.0  0.4389309896939993  0.5862984069494699  0.18842053404363326  1.0000
+  N   N2        1.0  0.9393947114299666  0.0853371107499216  0.4539986546649751  1.0000
+  N   N3        1.0  0.9382551908490674  0.08463805237268301  0.8820663689707045  1.0000
+  Fe  Fe2       1.0  0.43894511302279415  0.08508854438848414  0.6682491303054481  1.0000
+  N   N4        1.0  0.4385991707650585  0.5854043370948917  0.6599818462209596  1.0000
+  Mg  Mg1       1.0  0.9385696041498859  0.5845829238115087  0.9287273886036919  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       PbPdNaPd
+_chemical_formula_sum              "Pb1 Pd2 Na1"
+_cell_length_a       4.741889398290482
+_cell_length_b       4.73429331789625
+_cell_length_c       4.73676872253418
+_cell_angle_alpha    60.05863109836042
+_cell_angle_beta     60.223063723171684
+_cell_angle_gamma    60.321211328065864
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.5503658661375322  0.8060331944121429  0.6729720234999557  1.0000
+  Pd  Pd1       1.0  0.7999460106375763  0.05521553721674011  0.9222646945912351  1.0000
+  Na  Na1       1.0  0.05020307823997079  0.3058341152741373  0.17272621392596796  1.0000
+  Pd  Pd2       1.0  0.3011779476889837  0.5565150383981426  0.4233807035712903  1.0000

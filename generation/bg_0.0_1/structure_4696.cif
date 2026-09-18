@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NKNa2PtNaHPd
+_chemical_formula_sum              "N1 K1 Na3 Pt1 H1 Pd1"
+_cell_length_a       5.111428663171116
+_cell_length_b       5.540670104844539
+_cell_length_c       6.651415824890137
+_cell_angle_alpha    67.85114527737647
+_cell_angle_beta     83.7626256579797
+_cell_angle_gamma    81.27397129953934
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  N   N1        1.0  0.04252680081471397  0.685453116644203  0.24014508737262538  1.0000
+  K   K1        1.0  0.024441424911565673  0.19454172204101078  0.21876995312364297  1.0000
+  Na  Na1       1.0  0.11773081918140392  0.7767663604313974  0.8436030744839959  1.0000
+  Na  Na2       1.0  0.5292828674737022  0.21748614233616145  0.71726983838282  1.0000
+  Pt  Pt1       1.0  0.9870693684232811  0.5565251706095906  0.515741050115692  1.0000
+  Na  Na3       1.0  0.5340822927550428  0.6751655349294197  0.22458475756833882  1.0000
+  H   H1        1.0  0.5083358288871467  0.4055129880283014  0.9995487333047565  1.0000
+  Pd  Pd1       1.0  0.6624428633876156  0.6374475360426873  0.7831349963828173  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       ONaGaONaInO
+_chemical_formula_sum              "O3 Na2 Ga1 In1"
+_cell_length_a       3.270990745904151
+_cell_length_b       5.623673758205162
+_cell_length_c       5.6329216957092285
+_cell_angle_alpha    74.23420327974144
+_cell_angle_beta     90.33647130169784
+_cell_angle_gamma    73.19916388033286
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.6178818345654802  0.5716130726273213  0.1636378918939288  1.0000
+  Na  Na1       1.0  0.9973786474727779  0.8093830353852796  0.3348645872735485  1.0000
+  Ga  Ga1       1.0  0.507759927633955  0.7888075709744672  0.7997469904226256  1.0000
+  O   O2        1.0  0.10846560397823146  0.5858764060270774  0.7509740584265528  1.0000
+  Na  Na2       1.0  0.7416210176044722  0.3204750419380183  0.5919044612673  1.0000
+  In  In1       1.0  0.24080589474055053  0.3253532941537361  0.12487846686393632  1.0000
+  O   O3        1.0  0.37385150649045307  0.05811395947579595  0.48234581895036704  1.0000

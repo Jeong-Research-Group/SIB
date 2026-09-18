@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       MgAs2FeNa
+_chemical_formula_sum              "Mg1 As2 Fe1 Na1"
+_cell_length_a       3.9445893949555977
+_cell_length_b       3.8696528541369424
+_cell_length_c       6.924697399139404
+_cell_angle_alpha    89.92355902096482
+_cell_angle_beta     89.9107387562536
+_cell_angle_gamma    90.36922885241033
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.9897705921741826  0.692218899428927  0.7744933955866194  1.0000
+  As  As1       1.0  0.4888814688527112  0.6921905887825028  0.5189220303517745  1.0000
+  As  As2       1.0  0.9878513208874748  0.1927558930860137  0.0231137574163339  1.0000
+  Fe  Fe1       1.0  0.987434207346575  0.19196817228463303  0.4104173485259388  1.0000
+  Na  Na1       1.0  0.48839792523894676  0.6928861727078488  0.13094711322387442  1.0000

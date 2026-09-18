@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AuPbBaNa2SeAu
+_chemical_formula_sum              "Au2 Pb1 Ba1 Na2 Se1"
+_cell_length_a       4.527806945057492
+_cell_length_b       4.760062581091763
+_cell_length_c       8.700278282165527
+_cell_angle_alpha    74.08189783176525
+_cell_angle_beta     90.0610507357982
+_cell_angle_gamma    90.1937203415234
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.06827373734889239  0.06799697827932019  0.21059305928072472  1.0000
+  Pb  Pb1       1.0  0.5695038436226642  0.958430647531517  0.42492580396837104  1.0000
+  Ba  Ba1       1.0  0.5703318120512839  0.6436483259045703  0.05520512910366433  1.0000
+  Na  Na1       1.0  0.06944347944802698  0.822437287366599  0.6937687986727662  1.0000
+  Na  Na2       1.0  0.06949777951582911  0.4554322060091221  0.4330326317351554  1.0000
+  Se  Se1       1.0  0.07106136491116463  0.22533351117548675  0.8921481366301163  1.0000
+  Au  Au2       1.0  0.5679174076578417  0.32195720025965713  0.697493016445693  1.0000

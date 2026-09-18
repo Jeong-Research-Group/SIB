@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       MgOSiONaO
+_chemical_formula_sum              "Mg1 O3 Si1 Na1"
+_cell_length_a       3.022534407263932
+_cell_length_b       3.0227328862756306
+_cell_length_c       8.056541442871094
+_cell_angle_alpha    89.95100272760985
+_cell_angle_beta     89.96659605192265
+_cell_angle_gamma    59.92882797328232
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.5211371173867057  0.6596693399953619  0.7904068831610083  1.0000
+  O   O1        1.0  0.19508977037773745  0.3282105036291097  0.9984295960293541  1.0000
+  Si  Si1       1.0  0.5329345458784317  0.6610003128784945  0.13813467346108246  1.0000
+  O   O2        1.0  0.862299740897876  0.9924547071508947  0.24545480254351787  1.0000
+  Na  Na1       1.0  0.1890839349099911  0.32824537138988846  0.47735112872044666  1.0000
+  O   O3        1.0  0.8569766290049183  0.9948349584147737  0.6746824384879521  1.0000

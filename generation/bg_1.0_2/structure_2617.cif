@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       NaCrNaNCrN2RuN
+_chemical_formula_sum              "Na2 Cr2 N4 Ru1"
+_cell_length_a       3.9307239966207335
+_cell_length_b       5.008858045256163
+_cell_length_c       7.723730564117432
+_cell_angle_alpha    89.9521228787624
+_cell_angle_beta     89.84112548218216
+_cell_angle_gamma    90.06662416596335
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.9640707975590352  0.7008399971815985  0.7384166124331422  1.0000
+  Cr  Cr1       1.0  0.4653477960722029  0.20132115492274905  0.5130998485947661  1.0000
+  Na  Na2       1.0  0.46399033102961085  0.700731515257452  0.239896491332666  1.0000
+  N   N1        1.0  0.9649469245645774  0.20276622431274485  0.4766875204548042  1.0000
+  Cr  Cr2       1.0  0.9638776183098035  0.20086738435953258  0.24261909683054345  1.0000
+  N   N2        1.0  0.46356171389092354  0.19937647812730255  0.7378270024285305  1.0000
+  N   N3        1.0  0.46352484774137537  0.19852656097305507  0.24669522104534655  1.0000
+  Ru  Ru1       1.0  0.46357804446633805  0.2006720162742278  0.9685105089000821  1.0000
+  N   N4        1.0  0.9634332060096205  0.2023126633783639  0.006754505205043865  1.0000

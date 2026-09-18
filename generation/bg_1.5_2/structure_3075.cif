@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NaONbKO3
+_chemical_formula_sum              "Na1 O4 Nb1 K1"
+_cell_length_a       5.890322707844571
+_cell_length_b       3.242244011710646
+_cell_length_c       6.347060203552246
+_cell_angle_alpha    90.13188662273684
+_cell_angle_beta     72.81773260461141
+_cell_angle_gamma    73.6418144984376
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.4459872246388361  0.6271806939871295  0.6573649651826697  1.0000
+  O   O1        1.0  0.15438275094713375  0.272934347247396  0.629826545510196  1.0000
+  Nb  Nb1       1.0  0.8940516705972046  0.40409991058735995  0.9319742326413497  1.0000
+  K   K1        1.0  0.00754135727278541  0.8468151681465462  0.390907079112288  1.0000
+  O   O2        1.0  0.7144274716946594  0.9923433654907388  0.832778215913739  1.0000
+  O   O3        1.0  0.7136095766113053  0.49475595342983253  0.24317717511090553  1.0000
+  O   O4        1.0  0.10063516298512183  0.8002459989400864  0.9843965764277746  1.0000

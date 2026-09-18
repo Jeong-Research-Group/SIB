@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       FeO2WNaO2
+_chemical_formula_sum              "Fe1 O4 W1 Na1"
+_cell_length_a       3.8682053319213403
+_cell_length_b       5.428175646536034
+_cell_length_c       5.3734025955200195
+_cell_angle_alpha    90.15454919492163
+_cell_angle_beta     89.72264218862722
+_cell_angle_gamma    89.82174141375
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.7291877270447059  0.4430510402452584  0.7163568135210565  1.0000
+  O   O1        1.0  0.7314383387307425  0.6935479643695239  0.45733803593196537  1.0000
+  O   O2        1.0  0.7310743934629419  0.1938965325327471  0.9725666641021434  1.0000
+  W   W1        1.0  0.7317437539583292  0.9438698300290969  0.21326522591241664  1.0000
+  Na  Na1       1.0  0.2306833704281665  0.443373978382658  0.21526162314843963  1.0000
+  O   O3        1.0  0.7307183740121574  0.6912164097854421  0.9735835793752422  1.0000
+  O   O4        1.0  0.7316824796133573  0.19571121108273903  0.4568337505702534  1.0000

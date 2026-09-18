@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       PbNaMgO2
+_chemical_formula_sum              "Pb1 Na1 Mg1 O2"
+_cell_length_a       3.296936534197069
+_cell_length_b       3.303811839173515
+_cell_length_c       8.323729515075684
+_cell_angle_alpha    90.5962028844159
+_cell_angle_beta     90.18501183491274
+_cell_angle_gamma    59.95439913723459
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.6852029551827454  0.46777224447175786  0.12870132963800823  1.0000
+  Na  Na1       1.0  0.015119825179146736  0.8115421532072111  0.4563837347015873  1.0000
+  Mg  Mg1       1.0  0.34519863020152664  0.15375828817268775  0.7537149792177577  1.0000
+  O   O1        1.0  0.349740624160925  0.13873429600997503  0.27444893129283215  1.0000
+  O   O2        1.0  0.6794340594688776  0.4867143937975676  0.6634010669254581  1.0000

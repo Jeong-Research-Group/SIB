@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NaH2ClHS
+_chemical_formula_sum              "Na1 H3 Cl1 S1"
+_cell_length_a       4.279120526196148
+_cell_length_b       5.226477142328218
+_cell_length_c       5.440456390380859
+_cell_angle_alpha    89.58973351147289
+_cell_angle_beta     89.79909249528248
+_cell_angle_gamma    89.87845246480913
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.4112159904474347  0.5150853389365945  0.5710395575940177  1.0000
+  H   H1        1.0  0.9118698842916543  0.15644319410171512  0.07303785600240378  1.0000
+  H   H2        1.0  0.9157815569719878  0.5270949594418955  0.8609813452147308  1.0000
+  Cl  Cl1       1.0  0.4116148957856743  0.030846976456482992  0.5691317324647034  1.0000
+  H   H3        1.0  0.9118720291741028  0.5266320114025351  0.28025290320270224  1.0000
+  S   S1        1.0  0.9087921387732165  0.3965974148978013  0.07213330303856108  1.0000

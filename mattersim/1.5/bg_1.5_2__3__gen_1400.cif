@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       ZnSb2Na2BiSb
+_chemical_formula_sum              "Zn1 Sb3 Na2 Bi1"
+_cell_length_a       5.0512984397934115
+_cell_length_b       4.774660597172869
+_cell_length_c       7.432537078857422
+_cell_angle_alpha    90.77458696727871
+_cell_angle_beta     91.51368854943063
+_cell_angle_gamma    90.48303347167177
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.02199123054742813  0.43952643871307373  0.40911149978637695  1.0000
+  Sb  Sb1       1.0  0.9740915298461914  0.9304962754249574  0.21403983235359192  1.0000
+  Sb  Sb2       1.0  0.5367351770401001  0.4422363936901093  0.6026797294616699  1.0000
+  Na  Na1       1.0  0.47132396697998047  0.9487287402153015  0.9110156893730164  1.0000
+  Na  Na2       1.0  0.0032292159739881754  0.43949997425079346  0.9093639254570007  1.0000
+  Bi  Bi1       1.0  0.5116252899169922  0.473010003566742  0.20416103303432465  1.0000
+  Sb  Sb3       1.0  0.9148510098457336  0.9392385482788087  0.6087896823883057  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       CdO2Cd
+_chemical_formula_sum              "Cd2 O2"
+_cell_length_a       3.387645155869232
+_cell_length_b       3.3845189774615703
+_cell_length_c       4.723119258880615
+_cell_angle_alpha    90.04554620534935
+_cell_angle_beta     90.06314076781037
+_cell_angle_gamma    89.99759144773016
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.02175496137436365  0.4564273356666965  0.654749750352901  1.0000
+  O   O1        1.0  0.02008254369236458  0.45739078455108917  0.1543403425320005  1.0000
+  O   O2        1.0  0.5211184026724442  0.9545531270519904  0.6536486151687716  1.0000
+  Cd  Cd2       1.0  0.5202426306968656  0.9560095058149404  0.1556827429943532  1.0000

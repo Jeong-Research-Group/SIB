@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Na3PbNa4Hg
+_chemical_formula_sum              "Na7 Pb1 Hg1"
+_cell_length_a       5.367186502791458
+_cell_length_b       8.098882600020284
+_cell_length_c       6.206921100616455
+_cell_angle_alpha    110.1982725266989
+_cell_angle_beta     89.51221085761954
+_cell_angle_gamma    108.89476358195692
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.21879991917033456  0.6012567282563084  0.5130292766804244  1.0000
+  Na  Na2       1.0  0.8893269301790391  0.9419543147683367  0.8685779578350415  1.0000
+  Na  Na3       1.0  0.9961138375417583  0.1528324635513396  0.40220102658319756  1.0000
+  Pb  Pb1       1.0  0.5582931039437097  0.27885311820249475  0.19645577707013645  1.0000
+  Na  Na4       1.0  0.6671345831381282  0.49830356229718414  0.7538785335047408  1.0000
+  Na  Na5       1.0  0.337677925726878  0.8411436678246013  0.09852727494726186  1.0000
+  Na  Na6       1.0  0.11479686134468338  0.39468428458821503  0.9942773573243039  1.0000
+  Na  Na7       1.0  0.44527709440439694  0.05162776620881344  0.636352836510167  1.0000
+  Hg  Hg1       1.0  0.7741329071675873  0.7129496332376337  0.3083086901986404  1.0000

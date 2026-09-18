@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NaTeLiTeNaIn
+_chemical_formula_sum              "Na2 Te2 Li1 In1"
+_cell_length_a       4.61746192928266
+_cell_length_b       4.606912029763031
+_cell_length_c       7.570489883422852
+_cell_angle_alpha    90.18757999772113
+_cell_angle_beta     90.08837832568116
+_cell_angle_gamma    89.67735121641991
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.6593424685685014  0.8710010648276179  0.46772962769051085  1.0000
+  Te  Te1       1.0  0.6597156524403041  0.8711619373810924  0.052023849842736725  1.0000
+  Li  Li1       1.0  0.65935808501211  0.3711040910543867  0.8196777699241168  1.0000
+  Te  Te2       1.0  0.16063782587770092  0.3713490954968867  0.5867507458527497  1.0000
+  Na  Na2       1.0  0.1598391076800922  0.37039330705103396  0.17072267858652213  1.0000
+  In  In1       1.0  0.16045938375584143  0.8712788815317029  0.8199996943493061  1.0000

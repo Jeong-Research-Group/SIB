@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       PdCuNa2Pd3
+_chemical_formula_sum              "Pd4 Cu1 Na2"
+_cell_length_a       4.24073122957717
+_cell_length_b       6.602739250774461
+_cell_length_c       5.210660457611084
+_cell_angle_alpha    111.67067492264088
+_cell_angle_beta     114.10992844256207
+_cell_angle_gamma    89.90771218700853
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.4426634909360938  0.095705962891465  0.6065807935663168  1.0000
+  Cu  Cu1       1.0  0.32818001525023593  0.6616560811026001  0.3692296138134355  1.0000
+  Na  Na1       1.0  0.7963742599390015  0.3333784633747307  0.309265136140517  1.0000
+  Na  Na2       1.0  0.09297434278243606  0.8664894102341404  0.909961522197438  1.0000
+  Pd  Pd2       1.0  0.5646262770571209  0.53755718451136  0.8533632160482215  1.0000
+  Pd  Pd3       1.0  0.8172638422045951  0.8921325804461586  0.3525307777035674  1.0000
+  Pd  Pd4       1.0  0.07305316701801212  0.3040651677900449  0.8683503268242396  1.0000

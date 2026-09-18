@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       HLiHLiNaH
+_chemical_formula_sum              "H3 Li2 Na1"
+_cell_length_a       3.7813114498995297
+_cell_length_b       3.820531953121626
+_cell_length_c       5.1230878829956055
+_cell_angle_alpha    90.36460486605368
+_cell_angle_beta     89.88007804902016
+_cell_angle_gamma    90.10722964665908
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.38983899225937446  0.15046942133197705  0.08001252355131694  1.0000
+  Li  Li1       1.0  0.8869881629232009  0.15022061805035902  0.3541285106383157  1.0000
+  H   H2        1.0  0.8863511686369171  0.6498848195521278  0.35421657642955245  1.0000
+  Li  Li2       1.0  0.38757443451796336  0.6486826542567715  0.3532466893512459  1.0000
+  Na  Na1       1.0  0.8865653885173738  0.6498186597719379  0.8542587764869838  1.0000
+  H   H3        1.0  0.3814156364376428  0.14913097097272016  0.6279296878741879  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       KNaTiOTiO3
+_chemical_formula_sum              "K1 Na1 Ti2 O4"
+_cell_length_a       3.763884329443388
+_cell_length_b       3.778767382101262
+_cell_length_c       7.88624382019043
+_cell_angle_alpha    90.050457115562
+_cell_angle_beta     89.90857359405527
+_cell_angle_gamma    89.9871207675269
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.8433038580469114  0.014957777933329662  0.810215949574095  1.0000
+  Na  Na1       1.0  0.34231561463759086  0.5146854509015277  0.07709131352084327  1.0000
+  Ti  Ti1       1.0  0.8433572060569087  0.012868812811996182  0.34807503242187754  1.0000
+  O   O1        1.0  0.8432118304589553  0.5140686622168291  0.44836574823976016  1.0000
+  Ti  Ti2       1.0  0.342938482051529  0.5127457382152065  0.5369455212881288  1.0000
+  O   O2        1.0  0.8428110480526398  0.013515733027839805  0.12554007826551378  1.0000
+  O   O3        1.0  0.3407177935517137  0.5127270231099669  0.7605437634138018  1.0000
+  O   O4        1.0  0.3429032556574217  0.014054475066083962  0.4496631330044306  1.0000

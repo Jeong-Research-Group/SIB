@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Na2AsMgAsFeAsCu
+_chemical_formula_sum              "Na2 As3 Mg1 Fe1 Cu1"
+_cell_length_a       4.003145379642914
+_cell_length_b       6.022492241342838
+_cell_length_c       7.572594165802002
+_cell_angle_alpha    115.34480564951201
+_cell_angle_beta     90.08992194544253
+_cell_angle_gamma    90.21349372558066
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.3646871737932411  0.026791312166503014  0.48200795058845736  1.0000
+  Na  Na2       1.0  0.8623799084242425  0.6299748418371945  0.6913356180026239  1.0000
+  As  As1       1.0  0.3669922651087949  0.4661540395460733  0.34195727107311324  1.0000
+  Mg  Mg1       1.0  0.36438405616175507  0.16995559661824156  0.976504683669493  1.0000
+  As  As2       1.0  0.8641505835355647  0.1977279328429051  0.7909622791096147  1.0000
+  Fe  Fe1       1.0  0.8650975813470879  0.571247398590347  0.13784188087255908  1.0000
+  As  As3       1.0  0.3641835755146494  0.800986946395715  0.055761334321225986  1.0000
+  Cu  Cu1       1.0  0.8642532220354054  0.12450422379654554  0.2104398464467279  1.0000

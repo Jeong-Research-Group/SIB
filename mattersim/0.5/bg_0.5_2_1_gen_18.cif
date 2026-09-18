@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       BiNa3BiNaBi2Au
+_chemical_formula_sum              "Bi4 Na4 Au1"
+_cell_length_a       5.356874971830473
+_cell_length_b       8.271959279100125
+_cell_length_c       6.13089656829834
+_cell_angle_alpha    97.59962637595639
+_cell_angle_beta     89.99403291931482
+_cell_angle_gamma    90.2769461815753
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.9170429110527037  0.5595413446426392  0.72055983543396  1.0000
+  Na  Na1       1.0  0.4169857501983642  0.32667383551597595  0.6705816388130188  1.0000
+  Na  Na2       1.0  0.9184868335723876  0.8360171318054198  0.19610798358917236  1.0000
+  Na  Na3       1.0  0.4182130396366119  0.5701021552085876  0.23342028260231018  1.0000
+  Bi  Bi2       1.0  0.4187504351139068  0.13168831169605255  0.10070696473121643  1.0000
+  Na  Na4       1.0  0.9154117703437804  0.06125038117170334  0.7133054137229919  1.0000
+  Bi  Bi3       1.0  0.4172506928443908  0.7679458856582642  0.8036172986030579  1.0000
+  Bi  Bi4       1.0  0.9186773300170897  0.33912429213523865  0.1872776448726654  1.0000
+  Au  Au1       1.0  0.4171315431594848  0.9494852423667908  0.4538155794143677  1.0000

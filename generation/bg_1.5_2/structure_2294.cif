@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NiNa2FNiF3
+_chemical_formula_sum              "Ni2 Na2 F4"
+_cell_length_a       3.0727997061819377
+_cell_length_b       5.492746791983303
+_cell_length_c       5.314908504486084
+_cell_angle_alpha    81.00708123428166
+_cell_angle_beta     90.13371712113059
+_cell_angle_gamma    106.44477340470145
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.4681024558561642  0.38383242417682667  0.26214989995577737  1.0000
+  Na  Na1       1.0  0.21863302723510694  0.8833260535467631  0.011922655118914355  1.0000
+  Na  Na2       1.0  0.717381476604425  0.8834687467221644  0.5111776585280815  1.0000
+  F   F1        1.0  0.3596997858067808  0.168022230729741  0.6309182044265506  1.0000
+  Ni  Ni2       1.0  0.9683100593161048  0.38359657020054716  0.7616689791659969  1.0000
+  F   F2        1.0  0.5763034813555561  0.598312378651501  0.8928902139112064  1.0000
+  F   F3        1.0  0.07606968894669995  0.5985102061229183  0.39268067524305805  1.0000
+  F   F4        1.0  0.8603290911793307  0.16877315945673343  0.1302323040780869  1.0000

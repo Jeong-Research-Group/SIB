@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       SmOSnOCaSnO3
+_chemical_formula_sum              "Sm1 O5 Sn2 Ca1"
+_cell_length_a       5.787995618597296
+_cell_length_b       5.78503418973836
+_cell_length_c       5.790738582611084
+_cell_angle_alpha    60.19886154174249
+_cell_angle_beta     59.537660013540695
+_cell_angle_gamma    59.47716681278971
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.950765788543467  0.2240760623897471  0.7625279425120036  1.0000
+  O   O1        1.0  0.45072716489430426  0.22291088152799807  0.7627182002280731  1.0000
+  Sn  Sn1       1.0  0.20196138364802219  0.470576524071013  0.011270951060236617  1.0000
+  O   O2        1.0  0.44949931005996463  0.2234019786225294  0.2634257662581478  1.0000
+  Ca  Ca1       1.0  0.45043641341160995  0.7231166356242162  0.26335808593540605  1.0000
+  Sn  Sn2       1.0  0.6985494485937283  0.9753985412481313  0.514913380185195  1.0000
+  O   O3        1.0  0.9500114324018655  0.2246381642068444  0.263333261542963  1.0000
+  O   O4        1.0  0.9507449859278708  0.722969650569737  0.7640739694016268  1.0000
+  O   O5        1.0  0.4499849981163096  0.7234259247587995  0.7634912725876185  1.0000

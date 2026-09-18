@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       NaHgBrONaBrGaBr2O
+_chemical_formula_sum              "Na2 Hg1 Br4 O2 Ga1"
+_cell_length_a       6.063433475957989
+_cell_length_b       6.106096238294003
+_cell_length_c       7.00623893737793
+_cell_angle_alpha    102.20322126658738
+_cell_angle_beta     93.31649657797094
+_cell_angle_gamma    79.26913986618186
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.14606693363560644  0.06157428419939089  0.25909015532458785  1.0000
+  Hg  Hg1       1.0  0.11724052518871826  0.5546512598792896  0.6954424981633758  1.0000
+  Br  Br1       1.0  0.14491933675708044  0.021758022907701187  0.7418568132976002  1.0000
+  O   O1        1.0  0.7441501620033102  0.22634094999162127  0.175170451448695  1.0000
+  Na  Na2       1.0  0.6315230726230401  0.14738225920016404  0.7914364339767402  1.0000
+  Br  Br2       1.0  0.7384319900653612  0.6331254844322649  0.8553622958499124  1.0000
+  Ga  Ga1       1.0  0.5343521828637898  0.46990710532575475  0.301974892243796  1.0000
+  Br  Br3       1.0  0.6748290653734542  0.8016207214455768  0.39009538306601876  1.0000
+  Br  Br4       1.0  0.2463746068375118  0.5530425900945632  0.1100124346334877  1.0000
+  O   O2        1.0  0.3771298822546314  0.3708665964848306  0.5079159140386107  1.0000

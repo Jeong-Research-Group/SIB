@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       ONa2OFeONiO
+_chemical_formula_sum              "O4 Na2 Fe1 Ni1"
+_cell_length_a       2.9000139331069503
+_cell_length_b       6.387280428355434
+_cell_length_c       4.538270473480225
+_cell_angle_alpha    89.95613902887997
+_cell_angle_beta     89.99537163640444
+_cell_angle_gamma    89.88004390223279
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.11909996722616999  0.35531777164180967  0.35488775381800136  1.0000
+  Na  Na1       1.0  0.11853917098228739  0.8136837486487527  0.8565981383325373  1.0000
+  Na  Na2       1.0  0.6180541524527731  0.054324857972202975  0.35662147421451945  1.0000
+  O   O2        1.0  0.11892316437358097  0.7572078697077088  0.3565628826352666  1.0000
+  Fe  Fe1       1.0  0.11914634662394744  0.3166209762114867  0.8576452742309619  1.0000
+  O   O3        1.0  0.618206204330806  0.1106542579328705  0.8569263812364328  1.0000
+  Ni  Ni1       1.0  0.6189163927042154  0.5570399170286257  0.3564479945878113  1.0000
+  O   O4        1.0  0.6178370112839415  0.5265543455918168  0.8553508514646018  1.0000

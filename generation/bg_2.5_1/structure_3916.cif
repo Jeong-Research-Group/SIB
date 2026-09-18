@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BiNaCuS3
+_chemical_formula_sum              "Bi1 Na1 Cu1 S3"
+_cell_length_a       4.200672416185657
+_cell_length_b       5.090311958367376
+_cell_length_c       6.852078914642334
+_cell_angle_alpha    89.95773729203755
+_cell_angle_beta     88.04808475176519
+_cell_angle_gamma    90.09857579922688
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.38397187073972383  0.6420232651165186  0.9018916491922646  1.0000
+  Na  Na1       1.0  0.8841857324794954  0.14141379343833008  0.4034609202117692  1.0000
+  Cu  Cu1       1.0  0.8845624931929442  0.1393453624638599  0.9028854368924346  1.0000
+  S   S1        1.0  0.384021400249561  0.14222218149582555  0.9021849635291704  1.0000
+  S   S2        1.0  0.8936322328658661  0.6405361296191362  0.6632508035302138  1.0000
+  S   S3        1.0  0.8759159447559313  0.6427854889262654  0.14147466410766996  1.0000

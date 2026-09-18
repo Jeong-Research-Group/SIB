@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       CsPbCsF3NaF2
+_chemical_formula_sum              "Cs2 Pb1 F5 Na1"
+_cell_length_a       6.611372979119211
+_cell_length_b       6.613488751395797
+_cell_length_c       6.510492324829102
+_cell_angle_alpha    60.2881531080179
+_cell_angle_beta     59.82222236476656
+_cell_angle_gamma    58.13174126900827
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.4044424000074578  0.1102899978317529  0.24442096054944001  1.0000
+  Pb  Pb1       1.0  0.6639464502255402  0.36838859413278263  0.4855249818543636  1.0000
+  Cs  Cs2       1.0  0.9045676000597992  0.6095823644281314  0.7439063183470361  1.0000
+  F   F1        1.0  0.41049084022953697  0.6011627915433413  0.2520590128990001  1.0000
+  F   F2        1.0  0.4108686451728416  0.6015639905532598  0.7389080516257029  1.0000
+  F   F3        1.0  0.89548420790317  0.1160708748719275  0.2528173626936195  1.0000
+  Na  Na1       1.0  0.1402830189534382  0.845249355389653  0.008214108164510913  1.0000
+  F   F4        1.0  0.896070480821707  0.6011991501450207  0.25343498583063184  1.0000
+  F   F5        1.0  0.8961192976059029  0.11577188157697661  0.7393809559674094  1.0000

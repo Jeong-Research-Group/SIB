@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       ONaSnNa2O2
+_chemical_formula_sum              "O3 Na3 Sn1"
+_cell_length_a       3.5098800051470382
+_cell_length_b       5.675293507281348
+_cell_length_c       6.36345911026001
+_cell_angle_alpha    116.99599034573937
+_cell_angle_beta     105.45892571874339
+_cell_angle_gamma    89.77612946258434
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.09094064727115156  0.0676244942499391  0.42777153799121165  1.0000
+  Na  Na1       1.0  0.1888566325472945  0.8045748477857475  0.6161805986913178  1.0000
+  Sn  Sn1       1.0  0.9506435380943904  0.17191769245235056  0.15364877861412138  1.0000
+  Na  Na2       1.0  0.45169097218712134  0.7461187835946966  0.14847052011458262  1.0000
+  Na  Na3       1.0  0.6911041128915519  0.3425242307093512  0.6368845693480094  1.0000
+  O   O2        1.0  0.8135036222057322  0.8048923607391888  0.8733277315644226  1.0000
+  O   O3        1.0  0.4857454013545101  0.39215224949075383  0.22992846421442387  1.0000

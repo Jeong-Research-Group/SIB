@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       BrNaOVO
+_chemical_formula_sum              "Br1 Na1 O2 V1"
+_cell_length_a       3.8322272552497685
+_cell_length_b       3.86729199715906
+_cell_length_c       6.168047904968262
+_cell_angle_alpha    89.94566834690816
+_cell_angle_beta     90.10126688155466
+_cell_angle_gamma    89.92408494432492
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.12720635440788994  0.45194458943352656  0.30107215045089664  1.0000
+  Na  Na1       1.0  0.6271287796207345  0.9512558591414096  0.04260267353923765  1.0000
+  O   O1        1.0  0.13051828766541193  0.9476207499482403  0.7953097820319182  1.0000
+  V   V1        1.0  0.12529745822547078  0.4573246532299229  0.7292525766424452  1.0000
+  O   O2        1.0  0.6282035699493458  0.4499067059521446  0.7956336729645546  1.0000

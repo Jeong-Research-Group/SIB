@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       ONaOMoO
+_chemical_formula_sum              "O3 Na1 Mo1"
+_cell_length_a       3.9450931631432167
+_cell_length_b       3.944034286315835
+_cell_length_c       3.9405598640441895
+_cell_angle_alpha    90.01763122359472
+_cell_angle_beta     90.06309978714799
+_cell_angle_gamma    89.98178638945902
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.7712712291041213  0.818886399380439  0.6143282664409966  1.0000
+  Na  Na1       1.0  0.771145285092319  0.3188002998068837  0.11439187808801467  1.0000
+  O   O2        1.0  0.27121925354324705  0.3188267346709402  0.6141121381962841  1.0000
+  Mo  Mo1       1.0  0.2724641553289259  0.8196154828701804  0.615099609774429  1.0000
+  O   O3        1.0  0.27112370694132704  0.8189532167574274  0.11398083077249567  1.0000

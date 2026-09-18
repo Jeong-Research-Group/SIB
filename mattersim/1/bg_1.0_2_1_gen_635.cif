@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       SnNa3Tl
+_chemical_formula_sum              "Sn1 Na3 Tl1"
+_cell_length_a       5.313169226443266
+_cell_length_b       5.305885606815421
+_cell_length_c       6.163227558135986
+_cell_angle_alpha    65.70196650263513
+_cell_angle_beta     114.50355621207261
+_cell_angle_gamma    119.40675993864717
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.9354580044746399  0.02929350733757019  0.2763736844062805  1.0000
+  Na  Na1       1.0  0.333951860666275  0.6304242014884949  0.47329777479171753  1.0000
+  Na  Na2       1.0  0.7354074716567993  0.22885280847549436  0.6755146980285645  1.0000
+  Na  Na3       1.0  0.5350658297538757  0.4299745559692383  0.07683607935905458  1.0000
+  Tl  Tl1       1.0  0.12920328974723816  0.835884153842926  0.8593153357505798  1.0000

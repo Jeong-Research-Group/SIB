@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ti2Na2MoNa3
+_chemical_formula_sum              "Ti2 Na5 Mo1"
+_cell_length_a       4.675353570583062
+_cell_length_b       6.793089750088069
+_cell_length_c       6.581689357757568
+_cell_angle_alpha    91.27021953615781
+_cell_angle_beta     90.28001294504284
+_cell_angle_gamma    90.13837530323777
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.5620894439242216  0.21090033685111195  0.1563396003150343  1.0000
+  Ti  Ti2       1.0  0.5622311230270609  0.20835876471798265  0.6287812593015679  1.0000
+  Na  Na1       1.0  0.06188964015523538  0.9839544299554446  0.8952300555451024  1.0000
+  Na  Na2       1.0  0.06230765680348998  0.478650390515666  0.39388248385358926  1.0000
+  Mo  Mo1       1.0  0.0621676221394302  0.008006178314163255  0.395639687226959  1.0000
+  Na  Na3       1.0  0.06239768939769077  0.46492919369103813  0.8920373910405454  1.0000
+  Na  Na4       1.0  0.561902344156846  0.7307705286463888  0.6373409035903758  1.0000
+  Na  Na5       1.0  0.5622597933339355  0.7344597583093145  0.1518810834220984  1.0000

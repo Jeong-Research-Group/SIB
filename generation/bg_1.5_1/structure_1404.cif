@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       ZnLi2HP
+_chemical_formula_sum              "Zn1 Li2 H1 P1"
+_cell_length_a       4.224199305407735
+_cell_length_b       4.225074405093998
+_cell_length_c       4.810018062591553
+_cell_angle_alpha    90.44416286859038
+_cell_angle_beta     90.3762639824037
+_cell_angle_gamma    59.93207005974297
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.38374987233837055  0.04570607007793705  0.8705558173473875  1.0000
+  Li  Li1       1.0  0.05140097519190875  0.7115750315209312  0.19279967262108033  1.0000
+  Li  Li2       1.0  0.7189800134735292  0.37898305090999007  0.46787422805811496  1.0000
+  H   H1        1.0  0.7185219520839123  0.37698760501937967  0.9417722814444962  1.0000
+  P   P1        1.0  0.3852705962322053  0.04421582784945161  0.38711649256107034  1.0000

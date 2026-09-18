@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NaTiClNaO2
+_chemical_formula_sum              "Na2 Ti1 Cl1 O2"
+_cell_length_a       3.189806398956704
+_cell_length_b       4.956757431006368
+_cell_length_c       6.0500569343566895
+_cell_angle_alpha    65.760876539029
+_cell_angle_beta     105.22532593739678
+_cell_angle_gamma    90.05723268868734
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.15840654212217278  0.5946627847282083  0.8402951366436973  1.0000
+  Ti  Ti1       1.0  0.847274482318055  0.9056624764025679  0.21955965486225118  1.0000
+  Cl  Cl1       1.0  0.8478726737231651  0.40741527159233104  0.21724374587106388  1.0000
+  Na  Na2       1.0  0.5350712546352142  0.2176167975369252  0.5956466196468714  1.0000
+  O   O1        1.0  0.4762929072715688  0.7760791775491731  0.47797983830076995  1.0000
+  O   O2        1.0  0.21471524165466946  0.036850411635064945  0.9588555102902442  1.0000

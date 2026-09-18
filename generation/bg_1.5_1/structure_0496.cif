@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Co2NaF2O2
+_chemical_formula_sum              "Co2 Na1 F2 O2"
+_cell_length_a       5.1013743836248455
+_cell_length_b       3.0650488181209954
+_cell_length_c       5.636296272277832
+_cell_angle_alpha    89.89040528541645
+_cell_angle_beta     92.297575587516
+_cell_angle_gamma    89.64035891918698
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.8643976447031386  0.6642753467417453  0.04566535346220735  1.0000
+  Co  Co2       1.0  0.365622222153937  0.16394349904811117  0.046401436660185966  1.0000
+  Na  Na1       1.0  0.8656834952074401  0.6628432270491349  0.5449830297552383  1.0000
+  F   F1        1.0  0.20662099031069348  0.6674627071905176  0.23884405206690473  1.0000
+  F   F2        1.0  0.5240510707304968  0.6600695852818781  0.851744115347938  1.0000
+  O   O1        1.0  0.7042931912225769  0.1696929632650651  0.22903642042120165  1.0000
+  O   O2        1.0  0.026500634040877095  0.15652640309392268  0.8628662816003777  1.0000

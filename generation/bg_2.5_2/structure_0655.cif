@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NaVNaOVO3
+_chemical_formula_sum              "Na2 V2 O4"
+_cell_length_a       5.591318864323307
+_cell_length_b       5.683685315313848
+_cell_length_c       5.705863952636719
+_cell_angle_alpha    83.03667913245904
+_cell_angle_beta     59.08401353096692
+_cell_angle_gamma    59.504012484329216
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.8039812445410452  0.9772456281935632  0.3761337995506638  1.0000
+  V   V1        1.0  0.1575144073448197  0.3546253152734136  0.30861538658585935  1.0000
+  Na  Na2       1.0  0.30251011325614946  0.6930162302733918  0.6589758989613715  1.0000
+  O   O1        1.0  0.5085965391281312  0.38259795259248397  0.2620470527537288  1.0000
+  V   V2        1.0  0.6580022559808796  0.6235700258414015  0.036900521338663304  1.0000
+  O   O2        1.0  0.01591248065429348  0.5697539458649362  0.0619952088900988  1.0000
+  O   O3        1.0  0.27407318253318413  0.9747116569145804  0.29309198223430266  1.0000
+  O   O4        1.0  0.7752099030846331  0.607789636578602  0.6550050373301817  1.0000

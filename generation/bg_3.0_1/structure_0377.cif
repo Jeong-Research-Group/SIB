@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CaO3Ti
+_chemical_formula_sum              "Ca1 O3 Ti1"
+_cell_length_a       3.891920986427706
+_cell_length_b       3.894117822884524
+_cell_length_c       3.8972365856170654
+_cell_angle_alpha    89.9719235964564
+_cell_angle_beta     89.93734234578787
+_cell_angle_gamma    90.03426272957893
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.96546941885989  0.9336678377860017  0.016424663638540855  1.0000
+  O   O1        1.0  0.4665212917770489  0.9349439140920394  0.5137587189708511  1.0000
+  O   O2        1.0  0.9680043463494342  0.4337759005254085  0.5162345162976482  1.0000
+  O   O3        1.0  0.46637252058220086  0.4343968321030847  0.016894928056050664  1.0000
+  Ti  Ti1       1.0  0.4679173227706704  0.43442448920980836  0.5165106068996204  1.0000

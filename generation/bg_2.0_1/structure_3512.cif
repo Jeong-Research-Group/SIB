@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       NaHgPb
+_chemical_formula_sum              "Na1 Hg1 Pb1"
+_cell_length_a       3.2828751031932755
+_cell_length_b       5.321967288636822
+_cell_length_c       5.336433410644531
+_cell_angle_alpha    60.367105863111505
+_cell_angle_beta     89.08672419420982
+_cell_angle_gamma    89.61402170715132
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.8473125685842311  0.7285874485588981  0.320262402167827  1.0000
+  Hg  Hg1       1.0  0.5133548961898947  0.39617487683846153  0.9900493039110827  1.0000
+  Pb  Pb1       1.0  0.15906578182048392  0.06241839429309522  0.65298932800267  1.0000

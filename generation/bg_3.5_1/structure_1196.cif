@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       HNaHAlHNa
+_chemical_formula_sum              "H3 Na2 Al1"
+_cell_length_a       3.1779406935335954
+_cell_length_b       5.025154654798825
+_cell_length_c       5.799802303314209
+_cell_angle_alpha    65.17899900783001
+_cell_angle_beta     74.70853251198037
+_cell_angle_gamma    90.42764735694816
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.9053618308845399  0.15121804090991856  0.9418872006274075  1.0000
+  Na  Na1       1.0  0.6977434754964428  0.14645221822174193  0.3392965496246309  1.0000
+  H   H2        1.0  0.5396959782905467  0.6513624184931075  0.6649562126948133  1.0000
+  Al  Al1       1.0  0.04286816948858949  0.4725686617955915  0.6625473503058915  1.0000
+  H   H3        1.0  0.18192340320272382  0.4314135305533149  0.3809912802851485  1.0000
+  Na  Na2       1.0  0.3801499620658705  0.8221256729606128  0.9885550133801684  1.0000

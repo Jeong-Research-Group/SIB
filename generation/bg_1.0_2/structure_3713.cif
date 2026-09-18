@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NaNNaNOs
+_chemical_formula_sum              "Na2 N2 Os1"
+_cell_length_a       3.4237008884963576
+_cell_length_b       4.148999299481919
+_cell_length_c       6.555603981018066
+_cell_angle_alpha    71.01227429451204
+_cell_angle_beta     74.63907070212264
+_cell_angle_gamma    89.92281497341125
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.08686660168541985  0.8786292082811875  0.3727591938844315  1.0000
+  N   N1        1.0  0.30286919982884203  0.595727859651308  0.9349882005532999  1.0000
+  Na  Na2       1.0  0.3919880399230276  0.18367478212494007  0.7601300480172509  1.0000
+  N   N2        1.0  0.5881933555121358  0.38688266202875593  0.365049123919737  1.0000
+  Os  Os1       1.0  0.7387163640076967  0.5306311239962341  0.06662041012970742  1.0000

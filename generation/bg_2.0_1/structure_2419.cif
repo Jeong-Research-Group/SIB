@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NaONa2TlO2
+_chemical_formula_sum              "Na3 O3 Tl1"
+_cell_length_a       3.3125077242245533
+_cell_length_b       3.331064941156435
+_cell_length_c       12.123229026794434
+_cell_angle_alpha    89.99819250430455
+_cell_angle_beta     89.4218202105494
+_cell_angle_gamma    89.61103008305805
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.34389439287770196  0.8151664144836133  0.14900191096628332  1.0000
+  O   O1        1.0  0.845973790901902  0.3126608724647286  0.8279144171006652  1.0000
+  Na  Na2       1.0  0.34648066695176155  0.8144431126071043  0.8237025140860031  1.0000
+  Na  Na3       1.0  0.850727199834222  0.30033957986235527  0.6263796684585055  1.0000
+  Tl  Tl1       1.0  0.8467383988460259  0.31745877901512354  0.351812452060638  1.0000
+  O   O2        1.0  0.8440687665618172  0.3154771328348751  0.1693362297081854  1.0000
+  O   O3        1.0  0.3506741537234151  0.8007630100187116  0.6245247718913022  1.0000

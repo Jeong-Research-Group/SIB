@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       CrNa2Te2CrTe2
+_chemical_formula_sum              "Cr2 Na2 Te4"
+_cell_length_a       4.100797176143356
+_cell_length_b       6.100340937457506
+_cell_length_c       8.943230628967285
+_cell_angle_alpha    90.1870813892241
+_cell_angle_beta     89.92689898360496
+_cell_angle_gamma    90.05888555714901
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.23186005651950836  0.814112663269043  0.3459429144859314  1.0000
+  Na  Na1       1.0  0.734473705291748  0.31030890345573425  0.08023139089345932  1.0000
+  Na  Na2       1.0  0.23013117909431458  0.8140110969543457  0.846252977848053  1.0000
+  Te  Te1       1.0  0.7311258912086487  0.8135629892349243  0.5547057390213013  1.0000
+  Te  Te2       1.0  0.7319546341896057  0.812365174293518  0.132350355386734  1.0000
+  Cr  Cr2       1.0  0.7324762344360352  0.30976593494415283  0.5815585255622864  1.0000
+  Te  Te3       1.0  0.23323075473308563  0.31271681189537043  0.3701094388961792  1.0000
+  Te  Te4       1.0  0.23307575285434723  0.31173455715179443  0.7968242168426514  1.0000

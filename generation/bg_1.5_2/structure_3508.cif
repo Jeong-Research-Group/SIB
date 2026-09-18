@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       OBaOBaNa2O2
+_chemical_formula_sum              "O4 Ba2 Na2"
+_cell_length_a       5.019649136808258
+_cell_length_b       4.9882500105566505
+_cell_length_c       5.018990516662598
+_cell_angle_alpha    89.93145472296004
+_cell_angle_beta     90.01188703396679
+_cell_angle_gamma    89.895664537718
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.697102368486366  0.0006794924151220268  0.4628773935418705  1.0000
+  Ba  Ba1       1.0  0.697399675325814  0.49986740929487206  0.46138650272407256  1.0000
+  O   O2        1.0  0.697641552246897  0.5002573726315199  0.9628642792561535  1.0000
+  Ba  Ba2       1.0  0.19729730576147203  0.5007528060724967  0.9625571969751691  1.0000
+  Na  Na1       1.0  0.6973314873305905  0.9999211428927729  0.9625203616653388  1.0000
+  Na  Na2       1.0  0.19705306049324453  2.0504233469740372e-05  0.46176055008402783  1.0000
+  O   O3        1.0  0.19754107349684774  0.0009094593816858053  0.9619598979251475  1.0000
+  O   O4        1.0  0.19664905891743834  0.5006021857583315  0.4636293950730641  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       AgNaAgCd
+_chemical_formula_sum              "Ag2 Na1 Cd1"
+_cell_length_a       4.845405487593063
+_cell_length_b       4.849483224148336
+_cell_length_c       4.847978115081787
+_cell_angle_alpha    60.09698699128127
+_cell_angle_beta     60.1596160764419
+_cell_angle_gamma    60.16753302475515
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.2970921101275193  0.9249563223609178  0.6138437394494025  1.0000
+  Na  Na1       1.0  0.7966673985592146  0.4238767315084863  0.11400625150083225  1.0000
+  Ag  Ag2       1.0  0.047319139612068316  0.6737840778474553  0.36404871994185456  1.0000
+  Cd  Cd1       1.0  0.5470865375406819  0.174225538863059  0.8638808734816193  1.0000

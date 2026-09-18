@@ -1,0 +1,27 @@
+data_image0
+_chemical_formula_structural       OCa
+_chemical_formula_sum              "O1 Ca1"
+_cell_length_a       3.436936023232848
+_cell_length_b       3.433196801458522
+_cell_length_c       3.4230010509490967
+_cell_angle_alpha    60.06633793803981
+_cell_angle_beta     59.814411232710555
+_cell_angle_gamma    59.97894499671016
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.546579302632889  0.10392273922882744  0.4064247304915967  1.0000
+  Ca  Ca1       1.0  0.04876220699298718  0.6039441838987741  0.9020277242422667  1.0000

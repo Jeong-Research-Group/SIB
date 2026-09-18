@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       OsONaO2
+_chemical_formula_sum              "Os1 O3 Na1"
+_cell_length_a       3.852723905258847
+_cell_length_b       3.8643182044150506
+_cell_length_c       3.8540539741516113
+_cell_angle_alpha    89.81411208151388
+_cell_angle_beta     90.0614263904866
+_cell_angle_gamma    90.00838314660915
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Os  Os1       1.0  0.3583983491409961  0.7514183532672262  0.5788832296288705  1.0000
+  O   O1        1.0  0.35820844703822097  0.25194495959819196  0.5798084151260815  1.0000
+  Na  Na1       1.0  0.8589950201137599  0.2530006779155204  0.07911895891583252  1.0000
+  O   O2        1.0  0.8583790055171256  0.7522516844812867  0.5795381064899983  1.0000
+  O   O3        1.0  0.35844218844438447  0.7527964121637841  0.07932564718726628  1.0000

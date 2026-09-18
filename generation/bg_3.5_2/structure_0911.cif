@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       NaScO2
+_chemical_formula_sum              "Na1 Sc1 O2"
+_cell_length_a       3.162997839972256
+_cell_length_b       3.153093578606206
+_cell_length_c       5.67457914352417
+_cell_angle_alpha    89.6904515070255
+_cell_angle_beta     106.10498623655293
+_cell_angle_gamma    120.49794905143615
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.4618729966000744  0.4921334403480165  0.23341283247805122  1.0000
+  Sc  Sc1       1.0  0.4617988476232242  0.9913652528317545  0.7333378791263877  1.0000
+  O   O1        1.0  0.9905219069223854  0.2551075204635351  0.5250756136114437  1.0000
+  O   O2        1.0  0.9327091568299674  0.7275863898418244  0.9408043620849386  1.0000

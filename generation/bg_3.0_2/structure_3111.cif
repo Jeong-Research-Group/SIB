@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Na2LiGeLiGe2Ga
+_chemical_formula_sum              "Na2 Li2 Ge3 Ga1"
+_cell_length_a       4.200260252235351
+_cell_length_b       5.634458822128425
+_cell_length_c       7.061553955078125
+_cell_angle_alpha    97.22781733484078
+_cell_angle_beta     89.97023653983922
+_cell_angle_gamma    90.13360782833401
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.012388856369242654  0.9254513970801106  0.9269393088672876  1.0000
+  Na  Na2       1.0  0.5122365946751009  0.40552380754857464  0.7842284443968515  1.0000
+  Li  Li1       1.0  0.011932386386034608  0.09923263594964149  0.4487770504205132  1.0000
+  Ge  Ge1       1.0  0.01118916379632959  0.5971227884361414  0.49134686526086846  1.0000
+  Li  Li2       1.0  0.511489748883002  0.22903512475175228  0.26328027253963526  1.0000
+  Ge  Ge2       1.0  0.5114529734071649  0.8753705025948876  0.587861001644669  1.0000
+  Ge  Ge3       1.0  0.011745949788998762  0.4531524183135395  0.12652975277316555  1.0000
+  Ga  Ga1       1.0  0.5148002513823112  0.7224476937579399  0.23160974708850252  1.0000

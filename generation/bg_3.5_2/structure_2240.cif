@@ -1,0 +1,27 @@
+data_image0
+_chemical_formula_structural       WNa
+_chemical_formula_sum              "W1 Na1"
+_cell_length_a       3.1430327554446467
+_cell_length_b       3.153120877497123
+_cell_length_c       4.768322467803955
+_cell_angle_alpha    89.94315483775047
+_cell_angle_beta     90.40037454625842
+_cell_angle_gamma    90.08092658224463
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  W   W1        1.0  0.7773367757503716  0.3663586378255248  0.10919001737290907  1.0000
+  Na  Na1       1.0  0.2781883464832302  0.8650131829611015  0.6125813126332849  1.0000

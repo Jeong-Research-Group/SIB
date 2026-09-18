@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       RbMoLiO2NO
+_chemical_formula_sum              "Rb1 Mo1 Li1 O3 N1"
+_cell_length_a       4.580319212357805
+_cell_length_b       4.507517946405134
+_cell_length_c       6.379741191864014
+_cell_angle_alpha    89.13579235242365
+_cell_angle_beta     107.66857301836994
+_cell_angle_gamma    90.52346820196634
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.9461733091801774  0.5647297511219217  0.05953127121502859  1.0000
+  Mo  Mo1       1.0  0.44819295335165593  0.8493812688037689  0.557659089668463  1.0000
+  Li  Li1       1.0  0.9491406678411088  0.3382235465934492  0.5603206159670233  1.0000
+  O   O1        1.0  0.29495936538719125  0.6147800087187498  0.7301918264484075  1.0000
+  O   O2        1.0  0.14200843830520754  0.08085661406194522  0.38172984120769043  1.0000
+  N   N1        1.0  0.6033828256419441  0.6238344906102502  0.3871454887582945  1.0000
+  O   O3        1.0  0.7523059853600323  0.07423058848622212  0.7372601622907022  1.0000

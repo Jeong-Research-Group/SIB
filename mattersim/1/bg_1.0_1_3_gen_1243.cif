@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       AgBiF5NaF
+_chemical_formula_sum              "Ag1 Bi1 F6 Na1"
+_cell_length_a       3.945074390905149
+_cell_length_b       5.566760641855604
+_cell_length_c       6.811346530914307
+_cell_angle_alpha    65.49906284617353
+_cell_angle_beta     72.99931275342882
+_cell_angle_gamma    89.77324728582201
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.12866386771202087  0.5286874771118164  0.39642083644866943  1.0000
+  Bi  Bi1       1.0  0.801490843296051  0.20101605355739594  0.05218605324625969  1.0000
+  F   F1        1.0  0.29812127351760864  0.43597760796546936  0.05605945363640782  1.0000
+  F   F2        1.0  0.6373282670974731  0.7952507138252258  0.37921205163002014  1.0000
+  F   F3        1.0  0.6400139331817627  0.280793160200119  0.3765503764152527  1.0000
+  F   F4        1.0  0.3004172742366791  0.9610423445701599  0.05631637945771217  1.0000
+  F   F5        1.0  0.9592167735099792  0.6018568873405457  0.7371794581413269  1.0000
+  Na  Na1       1.0  0.46772679686546326  0.8668740987777711  0.7205619812011719  1.0000
+  F   F6        1.0  0.9593403935432434  0.11522557586431503  0.7385436296463013  1.0000

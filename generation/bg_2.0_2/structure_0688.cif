@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       HONa2OCdO
+_chemical_formula_sum              "H1 O3 Na2 Cd1"
+_cell_length_a       3.418915642023353
+_cell_length_b       3.4017860690094115
+_cell_length_c       9.215895652770996
+_cell_angle_alpha    81.53348498882382
+_cell_angle_beta     70.89248555712885
+_cell_angle_gamma    60.28242942330522
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.23444116155667735  0.6548160301967473  0.7169764637063819  1.0000
+  O   O1        1.0  0.11097432782981398  0.8717192419336172  0.08148834852123431  1.0000
+  Na  Na1       1.0  0.7089644674346188  0.9100169537641745  0.5307726857139818  1.0000
+  Na  Na2       1.0  0.6142593621533176  0.19861809787511361  0.9071440700301554  1.0000
+  O   O2        1.0  0.10357192274478327  0.4933762540588991  0.7274000042822775  1.0000
+  Cd  Cd1       1.0  0.6482765664073001  0.5477597120624473  0.22307534559795622  1.0000
+  O   O3        1.0  0.18310770619153616  0.22191217391235088  0.3666597898020156  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NaFeMnNaAs2
+_chemical_formula_sum              "Na2 Fe1 Mn1 As2"
+_cell_length_a       4.474726751477251
+_cell_length_b       4.486042199185236
+_cell_length_c       7.2727885246276855
+_cell_angle_alpha    89.68478930109282
+_cell_angle_beta     90.08003865651385
+_cell_angle_gamma    119.20971133599653
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.8164243704268664  0.5968946222242767  0.27126726498152154  1.0000
+  Fe  Fe1       1.0  0.14858999924401836  0.26212805448602405  0.08875338053403169  1.0000
+  Mn  Mn1       1.0  0.47794318277064113  0.9265296454381975  0.9537705180663764  1.0000
+  Na  Na2       1.0  0.14760327301214132  0.2620489311902922  0.6123959423795085  1.0000
+  As  As1       1.0  0.48264965437014967  0.934044361359706  0.3018257921940473  1.0000
+  As  As2       1.0  0.8129715912969274  0.5918473599336509  0.87742525333105  1.0000

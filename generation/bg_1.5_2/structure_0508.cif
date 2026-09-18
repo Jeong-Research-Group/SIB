@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       ZnCdP2Na3P
+_chemical_formula_sum              "Zn1 Cd1 P3 Na3"
+_cell_length_a       4.034774837735783
+_cell_length_b       7.2308490101875496
+_cell_length_c       7.117449760437012
+_cell_angle_alpha    56.30102193584534
+_cell_angle_beta     90.19916399076274
+_cell_angle_gamma    90.09040005026762
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.926634014131122  0.5496504300704728  0.28854653275604475  1.0000
+  Cd  Cd1       1.0  0.4262301913869811  0.9830299017424047  0.9971028568115882  1.0000
+  P   P1        1.0  0.9256480934805805  0.8825963133212162  0.3067931233856395  1.0000
+  P   P2        1.0  0.42602562867376176  0.5671064261380194  0.08218486518020493  1.0000
+  Na  Na1       1.0  0.42636758131792296  0.08368624057778155  0.48716795442189004  1.0000
+  Na  Na2       1.0  0.925664485718296  0.3499292127862924  0.005781054301542174  1.0000
+  Na  Na3       1.0  0.4269306960122905  0.5654308201486743  0.569200516228654  1.0000
+  P   P3        1.0  0.9264876237766586  0.22564548225070527  0.6890150309820969  1.0000

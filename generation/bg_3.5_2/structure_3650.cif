@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       ClCrClOCl
+_chemical_formula_sum              "Cl3 Cr1 O1"
+_cell_length_a       4.770477007207578
+_cell_length_b       3.4913084725381562
+_cell_length_c       7.223477363586426
+_cell_angle_alpha    89.8781929189416
+_cell_angle_beta     89.85876103545993
+_cell_angle_gamma    89.79903784667212
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.3952901671209965  0.19786331200618373  0.8963292834988705  1.0000
+  Cr  Cr1       1.0  0.39679855055112817  0.6986417757568113  0.11447878190512424  1.0000
+  Cl  Cl2       1.0  0.8967755429391621  0.6980717783712465  0.6072525974049646  1.0000
+  O   O1        1.0  0.39683723436944135  0.1975691905826095  0.32901111198691313  1.0000
+  Cl  Cl3       1.0  0.8946743021146544  0.6966021651584255  0.11372807688988004  1.0000

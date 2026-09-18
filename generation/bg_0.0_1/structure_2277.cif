@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       GeO2NaO2
+_chemical_formula_sum              "Ge1 O4 Na1"
+_cell_length_a       3.014015058483743
+_cell_length_b       5.161792697032984
+_cell_length_c       5.067533493041992
+_cell_angle_alpha    89.67061663371226
+_cell_angle_beta     90.80748110447578
+_cell_angle_gamma    89.85869273339007
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.1699376090223011  0.6082766059192157  0.629248558728808  1.0000
+  O   O1        1.0  0.6695556625404449  0.43891903703249574  0.45709550360000595  1.0000
+  O   O2        1.0  0.669484614709264  0.7751778962613228  0.8042766448429116  1.0000
+  Na  Na1       1.0  0.6696290981524184  0.10752819522255332  0.12971115060602345  1.0000
+  O   O3        1.0  0.17165492475314675  0.8662413349252075  0.3731288917524694  1.0000
+  O   O4        1.0  0.1695761670161815  0.3512945471937473  0.8848007922348599  1.0000

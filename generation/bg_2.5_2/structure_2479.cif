@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       BaBr2GaBrClBr
+_chemical_formula_sum              "Ba1 Br4 Ga1 Cl1"
+_cell_length_a       6.4947671878384705
+_cell_length_b       6.973227133184328
+_cell_length_c       6.9001851081848145
+_cell_angle_alpha    64.1504954943871
+_cell_angle_beta     75.64775226029073
+_cell_angle_gamma    58.890465738428624
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.4355410046998992  0.7903523436915848  0.6335473657717651  1.0000
+  Br  Br1       1.0  0.13630777545313602  0.9692226644617243  0.13258311121811914  1.0000
+  Br  Br2       1.0  0.1321934164047856  0.4383685298986456  0.6505119802996706  1.0000
+  Ga  Ga1       1.0  0.4373484245770226  0.0947163556642735  0.9296680695070412  1.0000
+  Br  Br3       1.0  0.43650010184074445  0.29531532453734016  0.12996675132626268  1.0000
+  Cl  Cl1       1.0  0.748189927000725  0.1323223704684917  0.6467127796410362  1.0000
+  Br  Br4       1.0  0.7341250778608492  0.6741377107312702  0.12700158444154536  1.0000

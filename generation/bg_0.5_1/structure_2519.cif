@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Na2TeNaPtMo2Te2
+_chemical_formula_sum              "Na3 Te3 Pt1 Mo2"
+_cell_length_a       4.07765563847647
+_cell_length_b       4.092962939046049
+_cell_length_c       15.88193416595459
+_cell_angle_alpha    89.92995890713536
+_cell_angle_beta     89.64334367904058
+_cell_angle_gamma    119.68262022570045
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.3164716660286902  0.4711487876619776  0.3404903413377974  1.0000
+  Na  Na2       1.0  0.6426865454253277  0.13678887367081585  0.9712682964013801  1.0000
+  Te  Te1       1.0  0.9831556677806261  0.8044247042207555  0.46681088228126866  1.0000
+  Na  Na3       1.0  0.9829992058068122  0.803983388944764  0.7790850403069512  1.0000
+  Pt  Pt1       1.0  0.9741290803892335  0.803119898693997  0.11083710951990164  1.0000
+  Mo  Mo1       1.0  0.3099147088625567  0.46819224950903787  0.08903992898731555  1.0000
+  Mo  Mo2       1.0  0.3180961004501402  0.4689382319217163  0.5680282117468112  1.0000
+  Te  Te2       1.0  0.6442410346338652  0.13627844970218614  0.20484335748542654  1.0000
+  Te  Te3       1.0  0.6514437802920143  0.13670322321330045  0.6619969607460212  1.0000

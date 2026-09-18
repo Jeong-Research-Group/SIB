@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       CoMg2NaMg3Zn
+_chemical_formula_sum              "Co1 Mg5 Na1 Zn1"
+_cell_length_a       4.893939714398644
+_cell_length_b       6.158295747118927
+_cell_length_c       6.185100555419922
+_cell_angle_alpha    119.17949489174491
+_cell_angle_beta     89.72355743220132
+_cell_angle_gamma    90.10233240067497
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.6302191015402044  0.38428187377792117  0.9464044568497083  1.0000
+  Mg  Mg1       1.0  0.6299543389307478  0.9249885674100877  0.9195217480057266  1.0000
+  Mg  Mg2       1.0  0.1305595046468716  0.10612802224147598  0.76087659578856  1.0000
+  Na  Na1       1.0  0.13015936333227057  0.5776795744531408  0.7536461350220963  1.0000
+  Mg  Mg3       1.0  0.6304314132371758  0.41259267849501946  0.40288436299782554  1.0000
+  Mg  Mg4       1.0  0.6304632416170008  0.9075429448679473  0.415579886047543  1.0000
+  Mg  Mg5       1.0  0.13042119175502842  0.08164198008528604  0.247734428111168  1.0000
+  Zn  Zn1       1.0  0.1307640076624946  0.5736569762355446  0.22978660544816315  1.0000

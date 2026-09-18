@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       Te2Hf
+_chemical_formula_sum              "Te2 Hf1"
+_cell_length_a       4.023390463610269
+_cell_length_b       4.010859824252639
+_cell_length_c       7.687736988067627
+_cell_angle_alpha    74.52410494333938
+_cell_angle_beta     74.13626612388694
+_cell_angle_gamma    60.14439870556663
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.15834009690964607  0.4290086336557202  0.1118234173462672  1.0000
+  Te  Te2       1.0  0.6673085106577259  0.939540623298317  0.5824401974259361  1.0000
+  Hf  Hf1       1.0  0.4130607855256577  0.6880928871012245  0.3469447497795953  1.0000

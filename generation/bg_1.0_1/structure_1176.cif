@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       LaNaPb
+_chemical_formula_sum              "La1 Na1 Pb1"
+_cell_length_a       5.493964674799197
+_cell_length_b       5.50127508085434
+_cell_length_c       3.4412641525268555
+_cell_angle_alpha    90.12404557704066
+_cell_angle_beta     90.24227615028309
+_cell_angle_gamma    59.73919330541797
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.9864467380228283  0.7023779154451089  0.10120023003098842  1.0000
+  Na  Na1       1.0  0.3211647568567177  0.034377642994454095  0.4058864110095481  1.0000
+  Pb  Pb1       1.0  0.6539901499863843  0.3679550292521934  0.7397443645773732  1.0000

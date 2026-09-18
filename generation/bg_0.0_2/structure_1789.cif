@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Na2N2ReN
+_chemical_formula_sum              "Na2 N3 Re1"
+_cell_length_a       3.260534663493416
+_cell_length_b       3.241325675929745
+_cell_length_c       7.272617340087891
+_cell_angle_alpha    102.95895518191388
+_cell_angle_beta     103.3425051464969
+_cell_angle_gamma    89.90384697696905
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.21101708771843036  0.6368340860556977  0.27701863651494824  1.0000
+  Na  Na2       1.0  0.8663765796928043  0.29018828137785013  0.5852223641015492  1.0000
+  N   N1        1.0  0.3960680068582068  0.8213744762533981  0.6525883679156702  1.0000
+  N   N2        1.0  0.03909896912022341  0.4634935256455884  0.9316409828850706  1.0000
+  Re  Re1       1.0  0.5365278117134039  0.9610665453606422  0.9297037124630517  1.0000
+  N   N3        1.0  0.6816349632529345  0.10412012881009924  0.2090715772558729  1.0000

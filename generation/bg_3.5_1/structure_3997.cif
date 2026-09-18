@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       KNaPdH3
+_chemical_formula_sum              "K1 Na1 Pd1 H3"
+_cell_length_a       3.8408553036428246
+_cell_length_b       3.8296077391658696
+_cell_length_c       7.033547401428223
+_cell_angle_alpha    90.17398791199075
+_cell_angle_beta     89.9823601262588
+_cell_angle_gamma    90.05941147960195
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.30754047730622913  0.41624268948602194  0.5138351317568522  1.0000
+  Na  Na1       1.0  0.30762010888676566  0.41612759355484413  0.008471156827672244  1.0000
+  Pd  Pd1       1.0  0.8081565493232247  0.9158154128416077  0.7756748793359078  1.0000
+  H   H1        1.0  0.8069577214769118  0.9162025458672833  0.26156118478637563  1.0000
+  H   H2        1.0  0.80726855913608  0.9162712086054533  0.5222293137245022  1.0000
+  H   H3        1.0  0.8068927516619065  0.9158648855260485  0.013948276179074267  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       PbNaTlNaTl
+_chemical_formula_sum              "Pb1 Na2 Tl2"
+_cell_length_a       5.550073785679881
+_cell_length_b       5.551231705533014
+_cell_length_c       8.517607688903809
+_cell_angle_alpha    49.02923235488111
+_cell_angle_beta     49.029618998161624
+_cell_angle_gamma    59.147819628634366
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.1798959683446257  0.3025159236176638  0.34831216898153494  1.0000
+  Na  Na1       1.0  0.37660509416212734  0.49967616798436343  0.5540887119959559  1.0000
+  Tl  Tl1       1.0  0.7782232168232708  0.9018035538478468  0.9491437077766819  1.0000
+  Na  Na2       1.0  0.9823546414960266  0.10454669699482975  0.14363406571172324  1.0000
+  Tl  Tl2       1.0  0.5812731383173783  0.7027304779502709  0.74785840461135  1.0000

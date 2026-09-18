@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       NaClCuCl2NaCl3In
+_chemical_formula_sum              "Na2 Cl6 Cu1 In1"
+_cell_length_a       7.079340792411632
+_cell_length_b       7.065735145945924
+_cell_length_c       7.081326484680176
+_cell_angle_alpha    60.029270653016354
+_cell_angle_beta     59.9305600611908
+_cell_angle_gamma    59.98358321863622
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.1462314581512056  0.24018432130975792  0.5389084818975819  1.0000
+  Cl  Cl1       1.0  0.649479210532748  0.2365041670895942  0.04207868841390141  1.0000
+  Cu  Cu1       1.0  0.8961242444705692  0.9901564714712302  0.28893935674650756  1.0000
+  Cl  Cl2       1.0  0.6492905609828253  0.7435300347508772  0.5348859439651183  1.0000
+  Cl  Cl3       1.0  0.6497822405796544  0.2366379789382473  0.5354429484944814  1.0000
+  Na  Na2       1.0  0.645627319394294  0.7398976094542615  0.03882852599042748  1.0000
+  Cl  Cl4       1.0  0.14195461577928664  0.7434002761263528  0.04209733358552346  1.0000
+  Cl  Cl5       1.0  0.14234232910936365  0.7440494296895982  0.5352439278480684  1.0000
+  Cl  Cl6       1.0  0.14225563360235285  0.2364811300816558  0.04244815605674315  1.0000
+  In  In1       1.0  0.39569112663982925  0.4900105003513145  0.7887246008914249  1.0000

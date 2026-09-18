@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       MoCl2NaClNaO
+_chemical_formula_sum              "Mo1 Cl3 Na2 O1"
+_cell_length_a       3.8559004163836343
+_cell_length_b       6.88194519467999
+_cell_length_c       6.768743991851807
+_cell_angle_alpha    100.24229427812398
+_cell_angle_beta     89.58192662537525
+_cell_angle_gamma    106.31862020522375
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.18981817378759488  0.6520839325935274  0.5842886564910585  1.0000
+  Cl  Cl1       1.0  0.30255463593314597  0.8759861587119199  0.934622407493258  1.0000
+  Cl  Cl2       1.0  0.7979315518105414  0.8703821305000072  0.46652233647220515  1.0000
+  Na  Na1       1.0  0.6798678622297015  0.6300647848801848  0.0719256772602856  1.0000
+  Cl  Cl3       1.0  0.06893379333823708  0.4055270855766494  0.23480050264907903  1.0000
+  Na  Na2       1.0  0.4319187692933239  0.13616937375231497  0.3327395324833469  1.0000
+  O   O1        1.0  0.5884634245529373  0.441793828502144  0.6806926137301246  1.0000

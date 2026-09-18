@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       LaO2NaO2FeO
+_chemical_formula_sum              "La1 O5 Na1 Fe1"
+_cell_length_a       4.368969858591048
+_cell_length_b       4.2558993274394945
+_cell_length_c       6.44832181930542
+_cell_angle_alpha    90.12365625328061
+_cell_angle_beta     90.23317833388224
+_cell_angle_gamma    90.03664646851063
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.7020423407011316  0.4883941413599658  0.5808696150265606  1.0000
+  O   O1        1.0  0.7030460247469876  0.988164901200335  0.7995920184591747  1.0000
+  O   O2        1.0  0.7033209807626228  0.9889384505975187  0.37893182003484943  1.0000
+  Na  Na1       1.0  0.20101265637288562  0.988929390209821  0.5854872467649496  1.0000
+  O   O3        1.0  0.20325349247280972  0.48972153750109004  0.5904454582115839  1.0000
+  O   O4        1.0  0.20073281242944807  0.9903899430342527  0.0914312381334482  1.0000
+  Fe  Fe1       1.0  0.7009757748219293  0.9870833150692253  0.08847372240996791  1.0000
+  O   O5        1.0  0.703771055625008  0.48924243425628516  0.09180404272264786  1.0000

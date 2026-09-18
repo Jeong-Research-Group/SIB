@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Na2RbBi
+_chemical_formula_sum              "Na2 Rb1 Bi1"
+_cell_length_a       5.551940269882856
+_cell_length_b       5.568090918035633
+_cell_length_c       5.556957721710205
+_cell_angle_alpha    60.204288988621535
+_cell_angle_beta     60.229420712862265
+_cell_angle_gamma    59.99480962824277
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.15450036573252257  0.809338092302028  0.12939271410339265  1.0000
+  Na  Na2       1.0  0.6555771821905424  0.31040445053722265  0.6296736594740336  1.0000
+  Rb  Rb1       1.0  0.40485537008220907  0.06025874942815792  0.3798264263519672  1.0000
+  Bi  Bi1       1.0  0.9041764743542282  0.5594543223800679  0.8794936527660697  1.0000

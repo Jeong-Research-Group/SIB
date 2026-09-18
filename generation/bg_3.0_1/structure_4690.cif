@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       F2GaFeNaF3
+_chemical_formula_sum              "F5 Ga1 Fe1 Na1"
+_cell_length_a       3.9972910625328706
+_cell_length_b       4.022202916778262
+_cell_length_c       6.667443752288818
+_cell_angle_alpha    72.41043366972438
+_cell_angle_beta     90.03904386715155
+_cell_angle_gamma    89.98602793610635
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.41148990331645763  0.5179913036149019  0.935060501213501  1.0000
+  F   F2        1.0  0.9097717393223426  0.9716502425713827  0.03034438168615625  1.0000
+  Ga  Ga1       1.0  0.910416959638948  0.8192337755908486  0.33951908311792134  1.0000
+  Fe  Fe1       1.0  0.9100790622908232  0.5030801888219737  0.9638994929822171  1.0000
+  Na  Na1       1.0  0.41080591188588  0.15684312532914527  0.6625776288843042  1.0000
+  F   F3        1.0  0.9108340139915068  0.668882132794942  0.6365047691288331  1.0000
+  F   F4        1.0  0.9099885216246278  0.3262046587119731  0.32406920187804605  1.0000
+  F   F5        1.0  0.40978443664286385  0.8062580820238922  0.36388677291013755  1.0000

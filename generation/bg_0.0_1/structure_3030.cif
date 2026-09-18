@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       HgNaHgNa2Hg2
+_chemical_formula_sum              "Hg4 Na3"
+_cell_length_a       4.872124090348893
+_cell_length_b       6.085612048586115
+_cell_length_c       6.173043251037598
+_cell_angle_alpha    103.92261206861583
+_cell_angle_beta     90.17151539007878
+_cell_angle_gamma    90.29932189204136
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.4619568588392189  0.972999035833766  0.9074015610935041  1.0000
+  Na  Na1       1.0  0.960781215971515  0.7218343022565525  0.6659097068888856  1.0000
+  Hg  Hg2       1.0  0.9605165116871738  0.22046177128602862  0.7054635878176351  1.0000
+  Na  Na2       1.0  0.46129480028176256  0.5070502157606329  0.010113356734268279  1.0000
+  Na  Na3       1.0  0.9613611708254228  0.18442286572334934  0.20457750502781763  1.0000
+  Hg  Hg3       1.0  0.46248480663075386  0.45474633579210444  0.49614617293154634  1.0000
+  Hg  Hg4       1.0  0.4608321788834285  0.9367798575018238  0.4023489062429308  1.0000

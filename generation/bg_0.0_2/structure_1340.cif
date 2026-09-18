@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       MgNa4RuNa
+_chemical_formula_sum              "Mg1 Na5 Ru1"
+_cell_length_a       6.434939129717245
+_cell_length_b       5.451272055617757
+_cell_length_c       6.383001804351807
+_cell_angle_alpha    123.19641075642784
+_cell_angle_beta     89.93213773766247
+_cell_angle_gamma    90.23136150942145
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.5083901289156106  0.6777833701182652  0.3854243754208183  1.0000
+  Na  Na1       1.0  0.4934876567755247  0.6788493386114295  0.8864845633454982  1.0000
+  Na  Na2       1.0  0.9829866879624093  0.6795583364524921  0.3876362737216577  1.0000
+  Na  Na3       1.0  0.23803642371262992  0.17863339099269043  0.38700234790390964  1.0000
+  Na  Na4       1.0  0.9774560325348473  0.6782683139873478  0.8878085610688908  1.0000
+  Ru  Ru1       1.0  0.7256101960786775  0.1785276228037142  0.3870019618001351  1.0000
+  Na  Na5       1.0  0.730240225696733  0.17879811025364545  0.8871816992278765  1.0000

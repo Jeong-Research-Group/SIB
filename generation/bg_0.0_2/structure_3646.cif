@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LiNi3Na
+_chemical_formula_sum              "Li1 Ni3 Na1"
+_cell_length_a       4.541105142808564
+_cell_length_b       4.0609664985906075
+_cell_length_c       4.871475696563721
+_cell_angle_alpha    114.37230178774129
+_cell_angle_beta     74.65757436222762
+_cell_angle_gamma    116.4257213976674
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.7941292535816692  0.7421963218085269  0.9096436507675449  1.0000
+  Ni  Ni1       1.0  0.1734417073901733  0.3355811226273373  0.7191624648663099  1.0000
+  Ni  Ni2       1.0  0.5922613745909269  0.9485368122314175  0.5248466731726568  1.0000
+  Ni  Ni3       1.0  0.993549526162303  0.5600243215060471  0.35136470259027647  1.0000
+  Na  Na1       1.0  0.38477751696495927  0.1452363135987198  0.1301601687071657  1.0000

@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       PdOAg
+_chemical_formula_sum              "Pd1 O1 Ag1"
+_cell_length_a       3.08252360103112
+_cell_length_b       3.0911622664747584
+_cell_length_c       5.303309440612793
+_cell_angle_alpha    73.11252263143251
+_cell_angle_beta     73.34748121788206
+_cell_angle_gamma    59.90179468710577
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.22459962918818474  0.9277088630798117  0.4545447522258533  1.0000
+  O   O1        1.0  0.49293106757377003  0.1971284907380119  0.6594316364054366  1.0000
+  Ag  Ag1       1.0  0.7251736519081692  0.43151184814847426  0.9668540965372322  1.0000

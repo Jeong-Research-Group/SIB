@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       NaTiN
+_chemical_formula_sum              "Na1 Ti1 N1"
+_cell_length_a       2.875979032677391
+_cell_length_b       2.8818663861603993
+_cell_length_c       5.0933451652526855
+_cell_angle_alpha    90.32936108222658
+_cell_angle_beta     90.02721397696496
+_cell_angle_gamma    90.03564926263171
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.7015916123273646  0.4912326342327764  0.7576638462351241  1.0000
+  Ti  Ti1       1.0  0.20080190973429193  0.9997222418066396  0.2503813793654895  1.0000
+  N   N1        1.0  0.7026239051205181  0.5067200060130334  0.2548954197970675  1.0000

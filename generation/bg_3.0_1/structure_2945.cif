@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       TlNaTlSnAsNaSi
+_chemical_formula_sum              "Tl2 Na2 Sn1 As1 Si1"
+_cell_length_a       4.915416650197152
+_cell_length_b       4.453622415082916
+_cell_length_c       9.81593132019043
+_cell_angle_alpha    116.96155171110416
+_cell_angle_beta     104.48333616240555
+_cell_angle_gamma    90.19148007572882
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.376006125401044  0.5790565010152943  0.2866701478191841  1.0000
+  Na  Na1       1.0  0.012343210942305444  0.8490385423097829  0.5571585897133845  1.0000
+  Tl  Tl2       1.0  0.8792902837150762  0.0847250601774951  0.2914567590153953  1.0000
+  Sn  Sn1       1.0  0.7729101178488631  0.3712581986377305  0.08075836248015449  1.0000
+  As  As1       1.0  0.5223929283540047  0.36947208618756255  0.5794744495386636  1.0000
+  Na  Na2       1.0  0.19680070845844408  0.7172286521302816  0.9256267550075775  1.0000
+  Si  Si1       1.0  0.6174784891939832  0.05534833204087776  0.7652339936918259  1.0000

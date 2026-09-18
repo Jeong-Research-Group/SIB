@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NaSnNa2SnNaPt
+_chemical_formula_sum              "Na4 Sn2 Pt1"
+_cell_length_a       5.3480982532904715
+_cell_length_b       5.3500181503119695
+_cell_length_c       7.645909786224365
+_cell_angle_alpha    89.98757156010669
+_cell_angle_beta     90.20235368899387
+_cell_angle_gamma    120.0302753942691
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.9704102867158008  0.7719648476464386  0.9576491709336001  1.0000
+  Sn  Sn1       1.0  0.30229872438057104  0.43870496795888475  0.8917034270728529  1.0000
+  Na  Na2       1.0  0.9702286719010124  0.7680049528003573  0.44133472501118354  1.0000
+  Na  Na3       1.0  0.638772070435969  0.1025805466505283  0.16919738066641965  1.0000
+  Sn  Sn2       1.0  0.3037705421069384  0.43502935815385363  0.2352625580345243  1.0000
+  Na  Na4       1.0  0.636234760214639  0.10362178735515885  0.6846955420369503  1.0000
+  Pt  Pt1       1.0  0.30219754718699576  0.436268330637773  0.5649219748777746  1.0000

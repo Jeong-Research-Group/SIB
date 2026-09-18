@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NaLaNaTe2YTe2
+_chemical_formula_sum              "Na2 La1 Te4 Y1"
+_cell_length_a       4.396642333369227
+_cell_length_b       4.418397628146391
+_cell_length_c       15.576421737670898
+_cell_angle_alpha    98.10781308993423
+_cell_angle_beta     81.84470188105814
+_cell_angle_gamma    119.78682124202716
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.25051257014274597  0.18793410062789917  0.3447269797325134  1.0000
+  La  La1       1.0  0.6672947406768799  0.7727943062782288  0.09068685770034791  1.0000
+  Na  Na2       1.0  0.7528002262115479  0.6886874437332153  0.8352636694908143  1.0000
+  Te  Te1       1.0  0.12792527675628662  0.31168296933174133  0.7103462815284729  1.0000
+  Te  Te2       1.0  0.37573865056037903  0.06281087547540665  0.9678576588630677  1.0000
+  Y   Y1        1.0  0.5004982352256775  0.9403661489486694  0.5952376127243042  1.0000
+  Te  Te3       1.0  0.8698243498802185  0.5690771937370301  0.4852119684219361  1.0000
+  Te  Te4       1.0  0.9625455737113953  0.47497725486755377  0.20830184221267703  1.0000

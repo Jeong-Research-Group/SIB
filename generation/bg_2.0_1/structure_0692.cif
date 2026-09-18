@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       F2CoNaFLiF2
+_chemical_formula_sum              "F5 Co1 Na1 Li1"
+_cell_length_a       3.9355918884859094
+_cell_length_b       3.926669574437872
+_cell_length_c       6.368563175201416
+_cell_angle_alpha    89.74990148550074
+_cell_angle_beta     107.91833411190755
+_cell_angle_gamma    89.91024016378071
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.3629671627172086  0.9093078961076807  0.8379917735832538  1.0000
+  F   F2        1.0  0.020961302294815135  0.9090089209454687  0.15482063537846297  1.0000
+  Co  Co1       1.0  0.8654326203749013  0.9110571157500915  0.8454475410589484  1.0000
+  Na  Na1       1.0  0.5398859972993675  0.40645676868133446  0.1937038892626823  1.0000
+  F   F3        1.0  0.1728678797513375  0.4059119531978283  0.4551458362022897  1.0000
+  Li  Li1       1.0  0.18407055712812792  0.9075540312414472  0.47722497552439974  1.0000
+  F   F4        1.0  0.8781331772257708  0.40906107368857153  0.8717367647009675  1.0000
+  F   F5        1.0  0.7092898483644245  0.9093524230228747  0.5321655869157335  1.0000

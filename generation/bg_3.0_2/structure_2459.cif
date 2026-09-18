@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       InNa2TePbTe3
+_chemical_formula_sum              "In1 Na2 Te4 Pb1"
+_cell_length_a       4.486320206334437
+_cell_length_b       4.483344286346534
+_cell_length_c       12.451231956481934
+_cell_angle_alpha    90.05566171506693
+_cell_angle_beta     90.03118231735115
+_cell_angle_gamma    90.02286997700767
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.6081138857380335  0.4012326597404762  0.891994357295762  1.0000
+  Na  Na1       1.0  0.10860573469402697  0.9016330828554282  0.6456162928432257  1.0000
+  Na  Na2       1.0  0.6077002872296002  0.40162605156151443  0.39906701421141466  1.0000
+  Te  Te1       1.0  0.10777044245585146  0.9017347101725153  0.9007536169475618  1.0000
+  Pb  Pb1       1.0  0.10695692966064808  0.9018472423016919  0.15147152512278822  1.0000
+  Te  Te2       1.0  0.10696150444219658  0.9009342202366589  0.39101606617265827  1.0000
+  Te  Te3       1.0  0.60901206760739  0.4014675314152251  0.6621787547904021  1.0000
+  Te  Te4       1.0  0.607494830081664  0.40184569352529015  0.12880851314413513  1.0000

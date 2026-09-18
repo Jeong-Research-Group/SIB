@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Cl2NaClNaClAg
+_chemical_formula_sum              "Cl4 Na2 Ag1"
+_cell_length_a       3.8764429872532116
+_cell_length_b       6.811834702771932
+_cell_length_c       6.6734490394592285
+_cell_angle_alpha    93.09550555747359
+_cell_angle_beta     89.67267252403694
+_cell_angle_gamma    89.97125423638848
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.46815600998970397  0.40982145037323836  0.12200052986503794  1.0000
+  Cl  Cl2       1.0  0.971271574693831  0.9119099968329016  0.07858637655713602  1.0000
+  Na  Na1       1.0  0.9721231449195351  0.2534252102861549  0.3644614812356266  1.0000
+  Cl  Cl3       1.0  0.9718526003045914  0.5988593694191239  0.650619805372905  1.0000
+  Na  Na2       1.0  0.9709142436340797  0.25536763708751514  0.8639082904099231  1.0000
+  Cl  Cl4       1.0  0.4701535410666387  0.09892641687755445  0.6051865819622079  1.0000
+  Ag  Ag1       1.0  0.4718666965925166  0.7552349564332811  0.8648675675109617  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NaSPbLiS
+_chemical_formula_sum              "Na1 S2 Pb1 Li1"
+_cell_length_a       4.099729111421403
+_cell_length_b       4.071911256125566
+_cell_length_c       8.785430908203125
+_cell_angle_alpha    62.82611528627385
+_cell_angle_beta     62.57029657796289
+_cell_angle_gamma    60.47764631717985
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.6225899449424817  0.5515989063405146  0.6893613939477012  1.0000
+  S   S1        1.0  0.7930226907457282  0.721362055601758  0.9327415825865295  1.0000
+  Pb  Pb1       1.0  0.007443106582527478  0.9291777608664556  0.11767248088446605  1.0000
+  Li  Li1       1.0  0.48677223880134407  0.41585523010590736  0.3978106372852094  1.0000
+  S   S2        1.0  0.13965628950836464  0.07211417034609698  0.4137460594808722  1.0000

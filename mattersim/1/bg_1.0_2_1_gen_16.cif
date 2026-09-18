@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Na3PbCd4
+_chemical_formula_sum              "Na3 Pb1 Cd4"
+_cell_length_a       5.171692206730032
+_cell_length_b       6.363499266578625
+_cell_length_c       6.3553619384765625
+_cell_angle_alpha    71.03145910732334
+_cell_angle_beta     89.93652955731024
+_cell_angle_gamma    89.92083378605948
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.22461865842342377  0.4848911464214325  0.6622004508972168  1.0000
+  Na  Na2       1.0  0.7247234582901001  0.23553331196308136  0.40694430470466614  1.0000
+  Na  Na3       1.0  0.7262774109840393  0.733363687992096  0.9192119240760803  1.0000
+  Pb  Pb1       1.0  0.22629007697105408  0.9831580519676208  0.6639819145202636  1.0000
+  Cd  Cd1       1.0  0.726894199848175  0.2292570173740387  0.9129535555839539  1.0000
+  Cd  Cd2       1.0  0.2278241068124771  0.9838250875473022  0.16297447681426996  1.0000
+  Cd  Cd3       1.0  0.2256513386964798  0.48275861144065857  0.16238652169704437  1.0000
+  Cd  Cd4       1.0  0.726202130317688  0.7384342551231384  0.41379156708717346  1.0000

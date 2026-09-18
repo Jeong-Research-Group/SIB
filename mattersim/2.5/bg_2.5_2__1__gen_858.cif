@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ta2Se4Na
+_chemical_formula_sum              "Ta2 Se4 Na1"
+_cell_length_a       3.6156481412859143
+_cell_length_b       6.188317784747822
+_cell_length_c       7.035203456878662
+_cell_angle_alpha    89.89688030409218
+_cell_angle_beta     90.04862661983539
+_cell_angle_gamma    90.08779092209066
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.28272971510887146  0.4315706193447113  0.91667240858078  1.0000
+  Ta  Ta2       1.0  0.78304523229599  0.9320698380470276  0.9168976545333862  1.0000
+  Se  Se1       1.0  0.783089280128479  0.2653839886188507  0.6991247534751892  1.0000
+  Se  Se2       1.0  0.783954918384552  0.595840036869049  0.13267430663108826  1.0000
+  Se  Se3       1.0  0.2829451858997345  0.09364585578441618  0.1315130740404129  1.0000
+  Se  Se4       1.0  0.28077924251556396  0.7705898880958556  0.704055666923523  1.0000
+  Na  Na1       1.0  0.2832232117652893  0.4327433407306671  0.4167454242706299  1.0000

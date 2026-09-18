@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       YMgCl2IClBiCl
+_chemical_formula_sum              "Y1 Mg1 Cl4 I1 Bi1"
+_cell_length_a       4.0707928883176345
+_cell_length_b       7.005345778856958
+_cell_length_c       8.935225486755371
+_cell_angle_alpha    105.51026916895664
+_cell_angle_beta     103.07978751462845
+_cell_angle_gamma    73.61921393726855
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.5537931328582679  0.49789226026118377  0.026023697659417918  1.0000
+  Mg  Mg1       1.0  0.3492773464603344  0.12530726190478544  0.2448374920979762  1.0000
+  Cl  Cl1       1.0  0.7557393310359103  0.3769123260972994  0.30895358301447745  1.0000
+  Cl  Cl2       1.0  0.5466102353759227  0.007968717803209345  0.5176494114783663  1.0000
+  I   I1        1.0  0.9534293411405806  0.8029455542210204  0.1274366224114107  1.0000
+  Cl  Cl3       1.0  0.15206918033275196  0.21249458217067269  0.9323174357327497  1.0000
+  Bi  Bi1       1.0  0.744675278043766  0.8927608735514991  0.7988928552908358  1.0000
+  Cl  Cl4       1.0  0.3501295437653695  0.609878540644111  0.7303246256829122  1.0000

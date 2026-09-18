@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       CaNa2Pb
+_chemical_formula_sum              "Ca1 Na2 Pb1"
+_cell_length_a       5.580962726154659
+_cell_length_b       5.581998266612805
+_cell_length_c       5.583497047424316
+_cell_angle_alpha    59.928186729216385
+_cell_angle_beta     59.78950900263273
+_cell_angle_gamma    59.89522010783198
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.5835868713303304  0.5298718206916335  0.32859587729199424  1.0000
+  Na  Na1       1.0  0.33407825278115066  0.27890935622112223  0.07884921880158918  1.0000
+  Na  Na2       1.0  0.8337394000022397  0.779254496476776  0.5790141215048495  1.0000
+  Pb  Pb1       1.0  0.0837072589206073  0.029581315751713154  0.828346073061266  1.0000

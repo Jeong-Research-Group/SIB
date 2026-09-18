@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       SnNaSnNaBiNa2Bi
+_chemical_formula_sum              "Sn2 Na4 Bi2"
+_cell_length_a       3.3340676138207126
+_cell_length_b       4.833550200824851
+_cell_length_c       13.237373352050781
+_cell_angle_alpha    90.421636870859
+_cell_angle_beta     90.62805202153888
+_cell_angle_gamma    89.97891087955442
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.7564857605593124  0.5590234389099012  0.4299684764256352  1.0000
+  Na  Na1       1.0  0.2574397908086991  0.059718382088688855  0.5522379871388209  1.0000
+  Sn  Sn2       1.0  0.25466155915025523  0.0598448557058956  0.8047382239102968  1.0000
+  Na  Na2       1.0  0.2548291970665888  0.058921678988509335  0.3099204299044687  1.0000
+  Bi  Bi1       1.0  0.7515995492211989  0.5582462540839689  0.1878569721358324  1.0000
+  Na  Na3       1.0  0.7548518768744013  0.5597442392193975  0.6817663314937678  1.0000
+  Na  Na4       1.0  0.2499132441128915  0.05874522832734305  0.05667442066601238  1.0000
+  Bi  Bi2       1.0  0.7515519269528148  0.5595824117469507  0.9239261746114649  1.0000

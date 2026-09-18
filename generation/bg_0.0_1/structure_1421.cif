@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       LiFLiGaOF2
+_chemical_formula_sum              "Li2 F3 Ga1 O1"
+_cell_length_a       3.809027355671652
+_cell_length_b       3.852220377726295
+_cell_length_c       6.534000873565674
+_cell_angle_alpha    72.77566480790023
+_cell_angle_beta     73.11577289012553
+_cell_angle_gamma    90.16544963556835
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.7675071362566199  0.2869704364754233  0.544435859328813  1.0000
+  F   F1        1.0  0.4202812614658688  0.4407079514373444  0.23851972858288023  1.0000
+  Li  Li2       1.0  0.07363819362058233  0.5925615421201863  0.9307773717609141  1.0000
+  Ga  Ga1       1.0  0.4201827654638416  0.9402524226039658  0.23821872439809713  1.0000
+  O   O1        1.0  0.9210073352073681  0.9400529859848257  0.23710256752512476  1.0000
+  F   F2        1.0  0.25670385412428903  0.7741697443254018  0.567844092169388  1.0000
+  F   F3        1.0  0.5863891849316364  0.10704535110035795  0.904252767516474  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LiPFeNaP
+_chemical_formula_sum              "Li1 P2 Fe1 Na1"
+_cell_length_a       3.924905990542469
+_cell_length_b       3.9021765842547578
+_cell_length_c       7.170566082000732
+_cell_angle_alpha    89.55310323346364
+_cell_angle_beta     90.30867239463005
+_cell_angle_gamma    119.18384971518785
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.5966578713042614  0.6133832321953261  0.4670205413238389  1.0000
+  P   P1        1.0  0.9346944103845322  0.28086343468741143  0.5891714099636859  1.0000
+  Fe  Fe1       1.0  0.9355566499045037  0.28246057085562654  0.2613757545476354  1.0000
+  Na  Na1       1.0  0.6033116580103028  0.6139492987142812  0.8705921172224126  1.0000
+  P   P2        1.0  0.26969647385782136  0.9487830398115077  0.14779165419042875  1.0000

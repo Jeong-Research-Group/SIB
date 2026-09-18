@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       HCs3HGaH3
+_chemical_formula_sum              "H5 Cs3 Ga1"
+_cell_length_a       6.463201072405241
+_cell_length_b       6.604058096869029
+_cell_length_c       6.476757526397705
+_cell_angle_alpha    59.077095184099285
+_cell_angle_beta     60.454489402468745
+_cell_angle_gamma    59.07432108820261
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.1337403655910581  0.8765240312243621  0.15977482494169123  1.0000
+  Cs  Cs1       1.0  0.5876979835091244  0.9232047201388354  0.6140606403474038  1.0000
+  Cs  Cs2       1.0  0.8256000875857137  0.18456216137546994  0.8528186077647232  1.0000
+  Cs  Cs3       1.0  0.08706746995027038  0.42218285891443397  0.1150536609500786  1.0000
+  H   H2        1.0  0.15750426087048405  0.8552731880379905  0.559957503711595  1.0000
+  Ga  Ga1       1.0  0.3168452673615514  0.6928883788843566  0.34425327284113666  1.0000
+  H   H3        1.0  0.538095236183355  0.4732943774402228  0.18203918583556877  1.0000
+  H   H4        1.0  0.15581554106748705  0.4740008716592943  0.5640653378403596  1.0000
+  H   H5        1.0  0.5356400606106317  0.855870544133894  0.18244132493477416  1.0000

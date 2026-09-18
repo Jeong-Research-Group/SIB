@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NaFMnF3
+_chemical_formula_sum              "Na1 F4 Mn1"
+_cell_length_a       3.2905003695571495
+_cell_length_b       4.832839250257332
+_cell_length_c       4.82899808883667
+_cell_angle_alpha    87.05565145150788
+_cell_angle_beta     92.40314313330603
+_cell_angle_gamma    92.1367113463649
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.5848960876335  0.9692295196494005  0.3542996653765395  1.0000
+  F   F1        1.0  0.08446173969776864  0.7417013045012838  0.5854164362991308  1.0000
+  Mn  Mn1       1.0  0.08466410667408489  0.46993541641097186  0.8560541265366824  1.0000
+  F   F2        1.0  0.5484052885722961  0.6451147785897382  0.03644585579652057  1.0000
+  F   F3        1.0  0.6193848844964529  0.2933652102891544  0.674022078918725  1.0000
+  F   F4        1.0  0.08504997317682528  0.19864098794773696  0.12406363389793595  1.0000

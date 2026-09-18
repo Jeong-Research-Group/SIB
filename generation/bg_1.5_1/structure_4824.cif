@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       VIO2NaLi
+_chemical_formula_sum              "V1 I1 O2 Na1 Li1"
+_cell_length_a       3.9846965854800516
+_cell_length_b       4.010376201140639
+_cell_length_c       6.633812427520752
+_cell_angle_alpha    90.1324467081283
+_cell_angle_beta     90.0180273736641
+_cell_angle_gamma    90.02317733784861
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.4468597176253597  0.12310063814463437  0.28693556809790055  1.0000
+  I   I1        1.0  0.44838380788960824  0.12301263119609053  0.7680891158967548  1.0000
+  O   O1        1.0  0.9464082728132107  0.12208759822404987  0.2839520874726489  1.0000
+  O   O2        1.0  0.4484657648977268  0.6243016713153492  0.28413823227626195  1.0000
+  Na  Na1       1.0  0.9470098022550318  0.625578462779405  0.04945394335959378  1.0000
+  Li  Li1       1.0  0.9470793004207207  0.6248456841208362  0.4975723332575937  1.0000

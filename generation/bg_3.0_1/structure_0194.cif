@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       PbLi2O2KO
+_chemical_formula_sum              "Pb1 Li2 O3 K1"
+_cell_length_a       3.7730462125347763
+_cell_length_b       5.61648962236794
+_cell_length_c       5.594669342041016
+_cell_angle_alpha    98.2045833550488
+_cell_angle_beta     89.96018250079746
+_cell_angle_gamma    89.81730860917499
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.02803522276355994  0.9627792246750703  0.7514060737885309  1.0000
+  Li  Li1       1.0  0.5288227198398391  0.4572611157404594  0.7161919472945633  1.0000
+  Li  Li2       1.0  0.5293732291241136  0.0034965216483029507  0.18103872173966082  1.0000
+  O   O1        1.0  0.5292030560707732  0.18568298138755304  0.9004748456193498  1.0000
+  O   O2        1.0  0.027993142403381147  0.5566643479543208  0.67381024313425  1.0000
+  K   K1        1.0  0.02860071972174309  0.47651737888447604  0.18681819686544382  1.0000
+  O   O3        1.0  0.029094195984921366  0.9479058986840243  0.1635051660995376  1.0000

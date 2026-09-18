@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       NaClLiBr
+_chemical_formula_sum              "Na1 Cl1 Li1 Br1"
+_cell_length_a       3.976009235629274
+_cell_length_b       3.9764886220651103
+_cell_length_c       5.724155426025391
+_cell_angle_alpha    90.09746930138924
+_cell_angle_beta     90.12926384506021
+_cell_angle_gamma    89.8444449402299
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.19188696051022708  0.9428434958497961  0.6796916715185386  1.0000
+  Cl  Cl1       1.0  0.6921878456884639  0.4426995809926957  0.6828057165921577  1.0000
+  Li  Li1       1.0  0.6915339228395401  0.44243398349952734  0.1817441277608979  1.0000
+  Br  Br1       1.0  0.19136416902787048  0.9420669675833683  0.18013277598774058  1.0000

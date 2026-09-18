@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Na2AuCuNaSTe
+_chemical_formula_sum              "Na3 Au1 Cu1 S1 Te1"
+_cell_length_a       4.303868297457867
+_cell_length_b       4.475041022789539
+_cell_length_c       9.016347885131836
+_cell_angle_alpha    89.90022027263527
+_cell_angle_beta     89.9976255985576
+_cell_angle_gamma    89.92073132786163
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.6044601213174662  0.16274054417336378  0.5818316335529703  1.0000
+  Na  Na2       1.0  0.603320537835912  0.6627004154389347  0.9709587695908634  1.0000
+  Au  Au1       1.0  0.10234123573243334  0.6633439664384211  0.6814377312111416  1.0000
+  Cu  Cu1       1.0  0.10370537660088994  0.1612946678181939  0.11281520110464001  1.0000
+  Na  Na3       1.0  0.10359314190816334  0.6626010529755516  0.33941966326485246  1.0000
+  S   S1        1.0  0.6040642869046141  0.16422000466127137  0.24221341360843993  1.0000
+  Te  Te1       1.0  0.10297820621123982  0.1625312561888125  0.8420775528317382  1.0000

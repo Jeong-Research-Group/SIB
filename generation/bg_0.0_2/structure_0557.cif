@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Cl3LiNaSbCl
+_chemical_formula_sum              "Cl4 Li1 Na1 Sb1"
+_cell_length_a       3.921569422670099
+_cell_length_b       7.3398607160364895
+_cell_length_c       6.851810932159424
+_cell_angle_alpha    117.6551737589118
+_cell_angle_beta     90.10631439528248
+_cell_angle_gamma    105.45868081195057
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.9267700914324161  0.7953870894922601  0.04890046647536928  1.0000
+  Cl  Cl2       1.0  0.6815211172932804  0.30435535295835564  0.09814437432315579  1.0000
+  Cl  Cl3       1.0  0.4153910885031045  0.7713009113741195  0.49210381546237064  1.0000
+  Li  Li1       1.0  0.30541068283345263  0.5513907678961332  0.06891647714165039  1.0000
+  Na  Na1       1.0  0.5732285381688743  0.09471460495779985  0.34340119418254844  1.0000
+  Sb  Sb1       1.0  0.029291335721012862  0.003415465361840169  0.790063559861093  1.0000
+  Cl  Cl4       1.0  0.176045790365445  0.29960212163337296  0.65047097197019  1.0000

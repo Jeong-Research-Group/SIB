@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Na2Cl2Cu
+_chemical_formula_sum              "Na2 Cl2 Cu1"
+_cell_length_a       3.5444284566011555
+_cell_length_b       6.435270671757757
+_cell_length_c       5.437961101531982
+_cell_angle_alpha    114.53085242475555
+_cell_angle_beta     90.13692730933236
+_cell_angle_gamma    73.78311573385271
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.12404812770220272  0.8067296150246068  0.08105172948440285  1.0000
+  Na  Na2       1.0  0.7970426084035152  0.46331849704168226  0.4131447370513718  1.0000
+  Cl  Cl1       1.0  0.8203499322336311  0.4165748663195446  0.8897967933215055  1.0000
+  Cl  Cl2       1.0  0.1024399471277647  0.8509249082472063  0.6045516128839473  1.0000
+  Cu  Cu1       1.0  0.4606766097044155  0.13376827591612664  0.7478854055175086  1.0000

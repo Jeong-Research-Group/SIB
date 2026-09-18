@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       F3NaMn
+_chemical_formula_sum              "F3 Na1 Mn1"
+_cell_length_a       4.131957549798795
+_cell_length_b       4.13775170885407
+_cell_length_c       4.179206371307373
+_cell_angle_alpha    89.75050254970878
+_cell_angle_beta     89.51220405740644
+_cell_angle_gamma    90.00160076911799
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.5424885157641969  0.9702723616520079  0.4471490079065511  1.0000
+  F   F2        1.0  0.5420185920927383  0.46949455143031166  0.947562097987192  1.0000
+  F   F3        1.0  0.042322340864784674  0.4706450397821819  0.44732469381285755  1.0000
+  Na  Na1       1.0  0.04202780949905283  0.9708232868350858  0.9474176766855636  1.0000
+  Mn  Mn1       1.0  0.5423130980863632  0.47043192444214404  0.44700422796665945  1.0000

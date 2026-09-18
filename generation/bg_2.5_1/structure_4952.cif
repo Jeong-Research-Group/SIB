@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       AlNa2Al2
+_chemical_formula_sum              "Al3 Na2"
+_cell_length_a       4.568262741141846
+_cell_length_b       4.566045073655161
+_cell_length_c       6.316208839416504
+_cell_angle_alpha    90.2464152398151
+_cell_angle_beta     90.13179100394585
+_cell_angle_gamma    59.908253824079175
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.0582995781131814  0.5039323561109136  0.04362811567383875  1.0000
+  Na  Na1       1.0  0.39235645633925637  0.8382604707952334  0.398145407308618  1.0000
+  Na  Na2       1.0  0.7249193200497382  0.1693917205733535  0.6870950461843905  1.0000
+  Al  Al2       1.0  0.39143696497186864  0.8361762760360416  0.934795856360157  1.0000
+  Al  Al3       1.0  0.7237156636112988  0.17040272033455844  0.14822438326359264  1.0000

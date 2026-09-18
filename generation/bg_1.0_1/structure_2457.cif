@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NaONaTeO2
+_chemical_formula_sum              "Na2 O3 Te1"
+_cell_length_a       3.176750481315126
+_cell_length_b       5.7734780699629145
+_cell_length_c       4.417954921722412
+_cell_angle_alpha    67.32646413459685
+_cell_angle_beta     90.05977348372981
+_cell_angle_gamma    105.96956993195961
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.17992098617735935  0.22622260460491725  0.8368778816495048  1.0000
+  O   O1        1.0  0.8778551221567091  0.6168095471928388  0.641725122704618  1.0000
+  Na  Na2       1.0  0.8376111384089246  0.5382709502935678  0.17967511705019318  1.0000
+  Te  Te1       1.0  0.5065132978020752  0.8807944066319005  0.5092094539357638  1.0000
+  O   O2        1.0  0.14187392745050514  0.14673347840781198  0.3765822942117819  1.0000
+  O   O3        1.0  0.5075986391512237  0.8820568331177303  0.007748448148886678  1.0000

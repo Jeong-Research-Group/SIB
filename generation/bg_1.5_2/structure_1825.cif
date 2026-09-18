@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       As2NaSnNa2As
+_chemical_formula_sum              "As3 Na3 Sn1"
+_cell_length_a       4.333070754785571
+_cell_length_b       7.10876834798018
+_cell_length_c       7.128078460693359
+_cell_angle_alpha    119.40098368684791
+_cell_angle_beta     89.91500080008754
+_cell_angle_gamma    89.89360181572731
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.9776176220098933  0.9450455303466075  0.0502084571175552  1.0000
+  As  As2       1.0  0.9786511667438664  0.606057048493002  0.3910949834377773  1.0000
+  Na  Na1       1.0  0.9775193939138827  0.4918617604457566  0.9386012548976489  1.0000
+  Sn  Sn1       1.0  0.9762197128843606  0.9878164523102198  0.4327905170936515  1.0000
+  Na  Na2       1.0  0.476819009154286  0.2706973544921368  0.2080182274239475  1.0000
+  Na  Na3       1.0  0.4777864516264714  0.7618014221870449  0.7169876095792316  1.0000
+  As  As3       1.0  0.47680419777881855  0.21865627198578316  0.6644983290086159  1.0000

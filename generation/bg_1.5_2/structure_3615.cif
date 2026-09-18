@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Ag2NaSn
+_chemical_formula_sum              "Ag2 Na1 Sn1"
+_cell_length_a       4.899966433559678
+_cell_length_b       4.9146663285515935
+_cell_length_c       4.892521381378174
+_cell_angle_alpha    59.810063352704816
+_cell_angle_beta     59.70294442174285
+_cell_angle_gamma    59.90622595407584
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.7441380017774306  0.16981936905086067  0.15790103389853702  1.0000
+  Ag  Ag2       1.0  0.49410185154166686  0.919091700875573  0.9089019300188862  1.0000
+  Na  Na1       1.0  0.24221231097624152  0.6695098867437342  0.6579856866395224  1.0000
+  Sn  Sn1       1.0  0.9942771793164269  0.41968926731179135  0.40880304579070975  1.0000

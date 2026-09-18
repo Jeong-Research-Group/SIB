@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NaHfNaAlN2
+_chemical_formula_sum              "Na2 Hf1 Al1 N2"
+_cell_length_a       3.3894853495411827
+_cell_length_b       3.3652736546690636
+_cell_length_c       8.894948959350586
+_cell_angle_alpha    90.05172069963626
+_cell_angle_beta     90.24309578438795
+_cell_angle_gamma    89.93045751544766
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.8764837372990206  0.9882755284384479  0.48359763643219467  1.0000
+  Hf  Hf1       1.0  0.3745242059756954  0.48621490619484636  0.7320626372520629  1.0000
+  Na  Na2       1.0  0.8761798753626998  0.986243545754997  0.026095894576725648  1.0000
+  Al  Al1       1.0  0.37725114859498066  0.4903755770318524  0.2730379994163315  1.0000
+  N   N1        1.0  0.8751770851110435  0.9864921558352204  0.7587065103258666  1.0000
+  N   N2        1.0  0.3752780844208852  0.4852578328628459  0.4924068746750616  1.0000

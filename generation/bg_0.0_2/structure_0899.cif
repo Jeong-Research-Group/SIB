@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       TeONaO2
+_chemical_formula_sum              "Te1 O3 Na1"
+_cell_length_a       3.977986495942212
+_cell_length_b       3.9860836410033746
+_cell_length_c       4.000815391540527
+_cell_angle_alpha    90.07023050272784
+_cell_angle_beta     89.9415838966105
+_cell_angle_gamma    89.99140329589113
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.8313442458896421  0.7718760376566548  0.7233002771261873  1.0000
+  O   O1        1.0  0.3309608408760968  0.771152020686363  0.7244380706509889  1.0000
+  Na  Na1       1.0  0.33106094707109074  0.2720932059818573  0.22486464643449305  1.0000
+  O   O2        1.0  0.8311719906492081  0.771558761081837  0.22451019403685413  1.0000
+  O   O3        1.0  0.8305349361239671  0.2712792761282386  0.7246592049196813  1.0000

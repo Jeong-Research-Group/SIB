@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NaO2IrO
+_chemical_formula_sum              "Na1 O3 Ir1"
+_cell_length_a       3.0456686405906197
+_cell_length_b       3.051257204477263
+_cell_length_c       6.22093391418457
+_cell_angle_alpha    90.10932651168937
+_cell_angle_beta     90.29311326966034
+_cell_angle_gamma    90.0131642793742
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.1473396109664848  0.9384955161858828  0.7773709900919641  1.0000
+  O   O1        1.0  0.6479893925598545  0.43903204722259354  0.5682934524370975  1.0000
+  O   O2        1.0  0.14696458075048402  0.9392715682260474  0.27882608705414896  1.0000
+  Ir  Ir1       1.0  0.647953392366887  0.4390276359180108  0.27832689894472057  1.0000
+  O   O3        1.0  0.6467275027983439  0.4391855907736348  0.9881905914449671  1.0000

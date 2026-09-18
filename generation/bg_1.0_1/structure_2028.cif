@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Na2IClCuCl2Na
+_chemical_formula_sum              "Na3 I1 Cl3 Cu1"
+_cell_length_a       5.5038382994540225
+_cell_length_b       5.757067597317039
+_cell_length_c       5.768131732940674
+_cell_angle_alpha    89.92327215178771
+_cell_angle_beta     89.98317974716076
+_cell_angle_gamma    89.9611523888405
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.1835893549117531  0.2722182862283513  0.5740486980915351  1.0000
+  Na  Na2       1.0  0.6838364007125868  0.2719052428257362  0.07558938814204885  1.0000
+  I   I1        1.0  0.18393229022496926  0.7716367835082892  0.5758419635443214  1.0000
+  Cl  Cl1       1.0  0.6839560868988228  0.7712101943247409  0.07579536774285632  1.0000
+  Cu  Cu1       1.0  0.6837137930139925  0.7715911873273855  0.575154125057029  1.0000
+  Cl  Cl2       1.0  0.18380546596442218  0.2711646861569732  0.07639297882992506  1.0000
+  Cl  Cl3       1.0  0.684026478929896  0.2709825046620504  0.5761022561701472  1.0000
+  Na  Na3       1.0  0.18385748556634346  0.7713273165832543  0.07576523041488374  1.0000

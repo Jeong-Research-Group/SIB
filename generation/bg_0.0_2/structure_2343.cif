@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NiNaMnAs2
+_chemical_formula_sum              "Ni1 Na1 Mn1 As2"
+_cell_length_a       4.050081425268492
+_cell_length_b       4.090716383363494
+_cell_length_c       7.132696628570557
+_cell_angle_alpha    90.62232838541358
+_cell_angle_beta     89.80866157837046
+_cell_angle_gamma    119.22841376034778
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.43288070050451055  0.3248466844413951  0.42980948130948826  1.0000
+  Na  Na1       1.0  0.7659037114138508  0.9947727919756042  0.06626392194215766  1.0000
+  Mn  Mn1       1.0  0.7657092813492665  0.9939351666680278  0.6037285321241082  1.0000
+  As  As1       1.0  0.4337875837220198  0.3273772593958937  0.7839758986164247  1.0000
+  As  As2       1.0  0.10049724517200004  0.6576661467848128  0.344286352920211  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Na3SHgSPbS
+_chemical_formula_sum              "Na3 S3 Hg1 Pb1"
+_cell_length_a       4.339229508568911
+_cell_length_b       4.347048514458631
+_cell_length_c       12.483572006225586
+_cell_angle_alpha    90.07342703626162
+_cell_angle_beta     90.02465265905299
+_cell_angle_gamma    120.0653957087517
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.2834008034603226  0.7574421163505748  0.8970651623216875  1.0000
+  Na  Na2       1.0  0.9524821634008571  0.09568173528766627  0.2826079128097849  1.0000
+  Na  Na3       1.0  0.2886743550856279  0.7633016112613334  0.458198458264972  1.0000
+  S   S1        1.0  0.6206188797509763  0.4293344619584941  0.3478006423844687  1.0000
+  Hg  Hg1       1.0  0.6267940993118832  0.4294312891696844  0.6726725698087922  1.0000
+  S   S2        1.0  0.9500958322935389  0.09157792600008183  0.01557186369255595  1.0000
+  Pb  Pb1       1.0  0.61729264263515  0.42590072684875624  0.10218917574736944  1.0000
+  S   S3        1.0  0.2895115314452921  0.7650677562859579  0.6789853572982554  1.0000

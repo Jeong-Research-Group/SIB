@@ -1,0 +1,27 @@
+data_image0
+_chemical_formula_structural       NaTe
+_chemical_formula_sum              "Na1 Te1"
+_cell_length_a       3.915550355655812
+_cell_length_b       4.0408769498309365
+_cell_length_c       3.8825950622558594
+_cell_angle_alpha    89.87190914828643
+_cell_angle_beta     89.79953644947403
+_cell_angle_gamma    89.75884901568814
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.6801191568374634  0.16908803582191467  0.3928825557231903  1.0000
+  Te  Te1       1.0  0.18500468134880066  0.6720334887504578  0.8925822377204895  1.0000

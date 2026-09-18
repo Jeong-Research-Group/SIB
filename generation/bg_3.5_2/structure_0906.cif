@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CdNa2ZnO3
+_chemical_formula_sum              "Cd1 Na2 Zn1 O3"
+_cell_length_a       3.4312694712064666
+_cell_length_b       3.4262502304735762
+_cell_length_c       10.726125717163086
+_cell_angle_alpha    89.97813223868076
+_cell_angle_beta     89.63861717598837
+_cell_angle_gamma    118.73320928567495
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.6984607572798244  0.7982103823969714  0.1783538017913987  1.0000
+  Na  Na1       1.0  0.37168055906794195  0.13207578706970552  0.9444168802841909  1.0000
+  Na  Na2       1.0  0.02351627328950301  0.4640316978361446  0.41025894843644606  1.0000
+  Zn  Zn1       1.0  0.035373363875794483  0.4652135060660885  0.701008736942874  1.0000
+  O   O1        1.0  0.35910847779036287  0.13111776137242007  0.29842439284778477  1.0000
+  O   O2        1.0  0.03625845077199621  0.4656913872205811  0.0534653514662179  1.0000
+  O   O3        1.0  0.3707332018768739  0.13106873571613248  0.7100748422823547  1.0000

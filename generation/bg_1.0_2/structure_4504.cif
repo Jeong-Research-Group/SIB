@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       LiNaO2Cu2O
+_chemical_formula_sum              "Li1 Na1 O3 Cu2"
+_cell_length_a       3.7675539111730916
+_cell_length_b       3.683762572759105
+_cell_length_c       6.500869274139404
+_cell_angle_alpha    90.24572538555533
+_cell_angle_beta     89.49762158566153
+_cell_angle_gamma    89.84467717751372
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.4618224493764935  0.7255011204238977  0.1736036535230161  1.0000
+  Na  Na1       1.0  0.46223196447002757  0.7260876886381098  0.6336316471450942  1.0000
+  O   O1        1.0  0.9620620001375232  0.7264859089368366  0.3826650984382298  1.0000
+  O   O2        1.0  0.4623676848126135  0.22516739476388525  0.9094598892203984  1.0000
+  Cu  Cu1       1.0  0.9626300924588423  0.22524639925185574  0.3836454746640119  1.0000
+  Cu  Cu2       1.0  0.9625398521553172  0.22642090929368458  0.9127632974549363  1.0000
+  O   O3        1.0  0.46228328226598836  0.22666454379137801  0.3818641009657048  1.0000

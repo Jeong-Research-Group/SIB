@@ -1,0 +1,27 @@
+data_image0
+_chemical_formula_structural       NaHg
+_chemical_formula_sum              "Na1 Hg1"
+_cell_length_a       3.645588951695971
+_cell_length_b       3.621534244811066
+_cell_length_c       3.6262478828430176
+_cell_angle_alpha    90.0156846200113
+_cell_angle_beta     89.90658600338902
+_cell_angle_gamma    89.99251661791584
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.6464365111865522  0.2062241425626684  0.13785538115728488  1.0000
+  Hg  Hg1       1.0  0.15036687200214086  0.700957120743658  0.6374058117839831  1.0000

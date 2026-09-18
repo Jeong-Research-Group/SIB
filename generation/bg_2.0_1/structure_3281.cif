@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       TiH2NaH2
+_chemical_formula_sum              "Ti1 H4 Na1"
+_cell_length_a       3.620624627221706
+_cell_length_b       3.6229255158024123
+_cell_length_c       5.667414665222168
+_cell_angle_alpha    90.13143582666399
+_cell_angle_beta     89.41729169519459
+_cell_angle_gamma    89.90877166654796
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.5728359225016133  0.652475595955635  0.8331610558608838  1.0000
+  H   H1        1.0  0.07280904676498014  0.6512752187743373  0.8347082137535683  1.0000
+  H   H2        1.0  0.5733629477624379  0.15344484060434233  0.8320520527095151  1.0000
+  Na  Na1       1.0  0.0724913477057664  0.15046967526292293  0.33317404966906805  1.0000
+  H   H3        1.0  0.5738962881023976  0.6515996457109555  0.5296429993725181  1.0000
+  H   H4        1.0  0.5714036832696984  0.6530329598704658  0.13562265012787503  1.0000

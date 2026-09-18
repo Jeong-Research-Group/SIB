@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NaPbNaSn2
+_chemical_formula_sum              "Na2 Pb1 Sn2"
+_cell_length_a       5.27767107470762
+_cell_length_b       5.299400592900119
+_cell_length_c       6.227503776550293
+_cell_angle_alpha    114.39121461876228
+_cell_angle_beta     65.30647020759774
+_cell_angle_gamma    119.79550781389094
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.6648878455162048  0.373563677072525  0.31477525830268865  1.0000
+  Pb  Pb1       1.0  0.8637628555297852  0.17613099515438083  0.7243554592132568  1.0000
+  Na  Na2       1.0  0.2623947560787201  0.7767808437347412  0.5235864520072937  1.0000
+  Sn  Sn1       1.0  0.06440702080726624  0.9745678901672363  0.11788873374462132  1.0000
+  Sn  Sn2       1.0  0.4631716012954712  0.5752719640731813  0.9207362532615662  1.0000

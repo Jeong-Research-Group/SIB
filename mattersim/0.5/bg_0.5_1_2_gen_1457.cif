@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Na4As2Ag2
+_chemical_formula_sum              "Na4 As2 Ag2"
+_cell_length_a       4.7893252243336395
+_cell_length_b       6.288576920515737
+_cell_length_c       6.241811752319336
+_cell_angle_alpha    90.84572338354374
+_cell_angle_beta     89.92780740445268
+_cell_angle_gamma    89.91076607661667
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.4173278212547302  0.5911726951599121  0.15813714265823364  1.0000
+  Na  Na2       1.0  0.9209195375442505  0.33185538649559027  0.9049036502838136  1.0000
+  Na  Na3       1.0  0.9166231751441956  0.9599462747573853  0.2787535786628723  1.0000
+  Na  Na4       1.0  0.42035073041915894  0.21235121786594388  0.5263358950614929  1.0000
+  As  As1       1.0  0.41981983184814453  0.028346948325634003  0.9707674384117128  1.0000
+  As  As2       1.0  0.9195513725280762  0.5180070400238037  0.46329149603843695  1.0000
+  Ag  Ag1       1.0  0.41960418224334717  0.6900846362113953  0.6367348432540894  1.0000
+  Ag  Ag2       1.0  0.9189634919166565  0.854832112789154  0.7976405024528505  1.0000

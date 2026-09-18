@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Cd2NaCdNaRhNaRh
+_chemical_formula_sum              "Cd3 Na3 Rh2"
+_cell_length_a       4.9538533397053275
+_cell_length_b       6.128251574374927
+_cell_length_c       6.131295680999756
+_cell_angle_alpha    120.6252133528697
+_cell_angle_beta     90.43136990960149
+_cell_angle_gamma    89.9652710088591
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.15184892705097816  0.2765973200935745  0.7031035413229775  1.0000
+  Cd  Cd2       1.0  0.1522550582806974  0.7927634723819219  0.7027501475183086  1.0000
+  Na  Na1       1.0  0.15265358919367422  0.2753812963624605  0.18417589306028964  1.0000
+  Cd  Cd3       1.0  0.6526113745807745  0.6192826633397858  0.8741267916160969  1.0000
+  Na  Na2       1.0  0.6516893510221153  0.09982477128470495  0.3600886165712414  1.0000
+  Rh  Rh1       1.0  0.6516729001902065  0.11003247606645754  0.8531800503770198  1.0000
+  Na  Na3       1.0  0.6523991820007253  0.6285520799613866  0.3615646962764911  1.0000
+  Rh  Rh2       1.0  0.1520599878508614  0.7762036913930871  0.1879833035924694  1.0000

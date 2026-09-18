@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NaSiNaGaTe3
+_chemical_formula_sum              "Na2 Si1 Ga1 Te3"
+_cell_length_a       7.342174846408011
+_cell_length_b       4.891634325238574
+_cell_length_c       6.505319595336914
+_cell_angle_alpha    78.54104979940276
+_cell_angle_beta     112.0812176197093
+_cell_angle_gamma    76.07113585178848
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.7623891830444336  0.6150293946266174  0.1668982058763504  1.0000
+  Si  Si1       1.0  0.09832248836755753  0.12977661192417142  0.9468857645988464  1.0000
+  Na  Na2       1.0  0.433370977640152  0.27694359421730036  0.5029636025428772  1.0000
+  Ga  Ga1       1.0  0.09653816372156143  0.7756018042564392  0.721458375453949  1.0000
+  Te  Te1       1.0  0.7834895849227905  0.593920886516571  0.6784157156944275  1.0000
+  Te  Te2       1.0  0.09892863780260086  0.9469106793403624  0.32816436886787415  1.0000
+  Te  Te3       1.0  0.4115951955318451  0.2802940607070923  0.995059072971344  1.0000

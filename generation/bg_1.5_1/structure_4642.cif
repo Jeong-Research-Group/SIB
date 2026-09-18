@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NCoNaCoN2
+_chemical_formula_sum              "N3 Co2 Na1"
+_cell_length_a       3.7292441256133744
+_cell_length_b       3.440911962588113
+_cell_length_c       6.089005470275879
+_cell_angle_alpha    90.1635650356212
+_cell_angle_beta     89.45656535807244
+_cell_angle_gamma    89.76110299607723
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  N   N1        1.0  0.34627243846179556  0.08258458325832206  0.9575179811569802  1.0000
+  Co  Co1       1.0  0.8427512040950951  0.08617781941203716  0.7620151042787299  1.0000
+  Na  Na1       1.0  0.3404375021580851  0.5842068777403667  0.2630843517096758  1.0000
+  Co  Co2       1.0  0.34266260272120846  0.5870488295462546  0.763373255805736  1.0000
+  N   N2        1.0  0.3376594488993076  0.09046891443509693  0.5699883705940645  1.0000
+  N   N3        1.0  0.842519402116814  0.5859521613811052  0.7596474885044735  1.0000

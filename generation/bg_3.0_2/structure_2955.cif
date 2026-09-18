@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Mg2NaMg2Al
+_chemical_formula_sum              "Mg4 Na1 Al1"
+_cell_length_a       4.470966067618547
+_cell_length_b       4.45677285057865
+_cell_length_c       8.398274421691895
+_cell_angle_alpha    121.93365965073382
+_cell_angle_beta     74.69156554818028
+_cell_angle_gamma    89.90848572704542
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.30776667608012276  0.6019515979131888  0.909812866884107  1.0000
+  Mg  Mg2       1.0  0.1502040473922925  0.4180276104578503  0.2280288194028549  1.0000
+  Na  Na1       1.0  0.48212790461891836  0.7521605483607658  0.5635038011200565  1.0000
+  Mg  Mg3       1.0  0.9824811214181833  0.24778093493313835  0.5587887769248487  1.0000
+  Mg  Mg4       1.0  0.8067914835759281  0.10236433871105642  0.9105823042535627  1.0000
+  Al  Al1       1.0  0.6514298918709015  0.9149147271106192  0.22344814249258643  1.0000

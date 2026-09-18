@@ -1,0 +1,27 @@
+data_image0
+_chemical_formula_structural       Na2
+_chemical_formula_sum              "Na2"
+_cell_length_a       3.4277084119397414
+_cell_length_b       3.4147201956799957
+_cell_length_c       4.769474029541016
+_cell_angle_alpha    89.8432838116604
+_cell_angle_beta     89.9430455500789
+_cell_angle_gamma    89.64043402290427
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.11471895810321107  0.7088762536028488  0.7846805451419765  1.0000
+  Na  Na2       1.0  0.6103253969587064  0.20841355756278074  0.28357124275153844  1.0000

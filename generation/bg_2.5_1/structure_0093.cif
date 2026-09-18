@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       GaNaMgPNa2P2Na
+_chemical_formula_sum              "Ga1 Na4 Mg1 P3"
+_cell_length_a       4.108580026066441
+_cell_length_b       6.5576214827103545
+_cell_length_c       7.58360481262207
+_cell_angle_alpha    110.26274257501042
+_cell_angle_beta     105.18639617930548
+_cell_angle_gamma    90.2490856153071
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.65649402223368  0.7159537672776258  0.05772145082554913  1.0000
+  Na  Na1       1.0  0.8185332414390072  0.48142698459365185  0.3811262546179127  1.0000
+  Mg  Mg1       1.0  0.07184655200711704  0.297041863152584  0.8895785213805607  1.0000
+  P   P1        1.0  0.47853884000451147  0.4209569982976366  0.6958755253630504  1.0000
+  Na  Na2       1.0  0.4227730045169604  0.9371309280241741  0.5856996774001676  1.0000
+  Na  Na3       1.0  0.2588486367994457  0.11934504612215203  0.26616394489408457  1.0000
+  P   P2        1.0  0.2229390587394087  0.6557496189505636  0.19532915971056264  1.0000
+  P   P3        1.0  0.6323522329071766  0.08250846783356815  0.002056241703907098  1.0000
+  Na  Na4       1.0  0.041854816712781906  0.7655728457403991  0.8216326827997812  1.0000

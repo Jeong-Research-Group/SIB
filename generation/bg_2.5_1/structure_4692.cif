@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NaNbF3
+_chemical_formula_sum              "Na1 Nb1 F3"
+_cell_length_a       3.0514797914383633
+_cell_length_b       3.270638962990377
+_cell_length_c       6.798018932342529
+_cell_angle_alpha    103.06959636935622
+_cell_angle_beta     90.25614142821384
+_cell_angle_gamma    89.6765315555645
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.12073118823274019  0.12190980411763519  0.28565916369070554  1.0000
+  Nb  Nb1       1.0  0.615013480385788  0.41865509636989356  0.8570325378885912  1.0000
+  F   F1        1.0  0.11020367659779508  0.29807275568537706  0.6157059676043057  1.0000
+  F   F2        1.0  0.11619828641440474  0.9523694513618641  0.9262715582754589  1.0000
+  F   F3        1.0  0.6195297852543498  0.5774537907887416  0.19055712241698053  1.0000

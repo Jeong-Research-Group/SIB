@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Na2SnNa2Fe
+_chemical_formula_sum              "Na4 Sn1 Fe1"
+_cell_length_a       5.370950627400927
+_cell_length_b       5.047795198814448
+_cell_length_c       6.511504173278809
+_cell_angle_alpha    90.0738641679071
+_cell_angle_beta     65.28537893780026
+_cell_angle_gamma    89.82014314016428
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.5133371945012802  0.8954713336034789  0.24538358984794165  1.0000
+  Na  Na2       1.0  0.33819219474532447  0.3956162622251711  0.5945920350121257  1.0000
+  Sn  Sn1       1.0  0.8261139398704422  0.8959842928806698  0.619437098523405  1.0000
+  Na  Na3       1.0  0.1731473810733362  0.8942206495429044  0.9244642846211494  1.0000
+  Na  Na4       1.0  0.0030410357163452926  0.3953244391140997  0.264338582111201  1.0000
+  Fe  Fe1       1.0  0.6854450116392481  0.3941211108095895  0.8996105792720143  1.0000

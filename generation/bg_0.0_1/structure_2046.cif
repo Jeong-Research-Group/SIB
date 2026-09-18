@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NaNiNaGaNiNa
+_chemical_formula_sum              "Na3 Ni2 Ga1"
+_cell_length_a       4.273032736364715
+_cell_length_b       4.304688978814813
+_cell_length_c       7.659005641937256
+_cell_angle_alpha    106.45432200588583
+_cell_angle_beta     124.44100718133811
+_cell_angle_gamma    89.86086576178401
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.29777416613958174  0.4916164287350313  0.41276144985970525  1.0000
+  Ni  Ni1       1.0  0.7927893397362272  0.990647137929619  0.4085077641815477  1.0000
+  Na  Na2       1.0  0.9652411933933025  0.8235992781810371  0.08116897200160574  1.0000
+  Ga  Ga1       1.0  0.6344584813009314  0.1580093938800989  0.7494422788720926  1.0000
+  Ni  Ni2       1.0  0.4712876377837193  0.3247555799626215  0.08659213819528033  1.0000
+  Na  Na3       1.0  0.13215781650531463  0.6574484699460434  0.7465412612860812  1.0000

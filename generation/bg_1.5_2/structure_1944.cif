@@ -1,0 +1,27 @@
+data_image0
+_chemical_formula_structural       BaNa
+_chemical_formula_sum              "Ba1 Na1"
+_cell_length_a       4.138302713858651
+_cell_length_b       4.249411301620651
+_cell_length_c       4.648543834686279
+_cell_angle_alpha    89.73073596898172
+_cell_angle_beta     89.75737369753864
+_cell_angle_gamma    90.39042292954592
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.5246703633300995  0.9476018551494941  0.04533383624587815  1.0000
+  Na  Na1       1.0  0.025202590265591993  0.44760009723745253  0.5444885481880192  1.0000

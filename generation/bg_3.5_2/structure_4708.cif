@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       F2NaFGa
+_chemical_formula_sum              "F3 Na1 Ga1"
+_cell_length_a       4.080273471621199
+_cell_length_b       4.089310144911017
+_cell_length_c       4.064154148101807
+_cell_angle_alpha    89.87641706006025
+_cell_angle_beta     90.11644357400374
+_cell_angle_gamma    90.04805971540291
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.7195061451777166  0.1307175906424258  0.2941301159310099  1.0000
+  F   F2        1.0  0.22062347812269412  0.13008807691195245  0.7936852578976099  1.0000
+  Na  Na1       1.0  0.22047138280968495  0.6301886431806322  0.29371804035719906  1.0000
+  F   F3        1.0  0.7205457102401212  0.630220352770314  0.7940856809697583  1.0000
+  Ga  Ga1       1.0  0.7211806177213927  0.1297685796256779  0.7939630140020635  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       NaHg2Ca
+_chemical_formula_sum              "Na1 Hg2 Ca1"
+_cell_length_a       5.204962617806095
+_cell_length_b       5.2063864475903046
+_cell_length_c       5.1944074630737305
+_cell_angle_alpha    59.931465579527234
+_cell_angle_beta     60.058031580182615
+_cell_angle_gamma    60.03055927956944
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.6503457423011282  0.7141740916685789  0.031222967670059668  1.0000
+  Hg  Hg1       1.0  0.3997180756568275  0.46338897969919907  0.7807716135717145  1.0000
+  Hg  Hg2       1.0  0.9012362356166114  0.9642871016867357  0.2818620218193654  1.0000
+  Ca  Ca1       1.0  0.15066085756239095  0.21450880064244918  0.5310102714461172  1.0000

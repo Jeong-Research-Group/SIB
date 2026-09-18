@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       PtNaCl4
+_chemical_formula_sum              "Pt1 Na1 Cl4"
+_cell_length_a       6.395785006641864
+_cell_length_b       3.748281186584242
+_cell_length_c       6.433084964752197
+_cell_angle_alpha    90.46095149588501
+_cell_angle_beta     107.68398889318289
+_cell_angle_gamma    89.81034181523178
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.9752751594271267  0.7565286751521824  0.7425338628253801  1.0000
+  Na  Na1       1.0  0.475308804968565  0.7572636601109899  0.24222992332857732  1.0000
+  Cl  Cl1       1.0  0.7428788549960135  0.7567273967464377  0.9744137533838949  1.0000
+  Cl  Cl2       1.0  0.20558345394849561  0.7552938473820041  0.5098882322603381  1.0000
+  Cl  Cl3       1.0  0.19651368287866375  0.25756305457910156  0.9642640953319573  1.0000
+  Cl  Cl4       1.0  0.7543816562990969  0.25743624563523504  0.5205487011625651  1.0000

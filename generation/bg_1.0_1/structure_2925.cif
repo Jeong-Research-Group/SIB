@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       NaCl2HgCl3GaClNa
+_chemical_formula_sum              "Na2 Cl6 Hg1 Ga1"
+_cell_length_a       7.2810407289497
+_cell_length_b       7.272148609494836
+_cell_length_c       7.277131080627441
+_cell_angle_alpha    59.96068036603543
+_cell_angle_beta     59.907822602692306
+_cell_angle_gamma    59.993453758174404
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.3011896311367249  0.5798405412528819  0.18514898440414687  1.0000
+  Cl  Cl1       1.0  0.28482639702235785  0.09606608825311298  0.16888099925040437  1.0000
+  Cl  Cl2       1.0  0.2845701570999359  0.5633944875048973  0.7017116540234807  1.0000
+  Hg  Hg1       1.0  0.5511277910843927  0.829593599288915  0.4351331585267434  1.0000
+  Cl  Cl3       1.0  0.8176691530202324  0.09638275136005844  0.16821785264474892  1.0000
+  Cl  Cl4       1.0  0.8176960946709046  0.5628427866418023  0.7014674539117685  1.0000
+  Cl  Cl5       1.0  0.2847582100590549  0.09666655950956131  0.7018413543201786  1.0000
+  Ga  Ga1       1.0  0.05112986684374146  0.32980784720564094  0.9358555084551093  1.0000
+  Cl  Cl6       1.0  0.8176035874550628  0.56335908243951  0.16875319117539206  1.0000
+  Na  Na2       1.0  0.8012453914316766  0.07983186021531692  0.6849305030671508  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AlNa2O2AgO
+_chemical_formula_sum              "Al1 Na2 O3 Ag1"
+_cell_length_a       3.173500002491617
+_cell_length_b       5.646230580469926
+_cell_length_c       5.460052490234375
+_cell_angle_alpha    92.08984234525673
+_cell_angle_beta     90.01929095964185
+_cell_angle_gamma    89.71596909525945
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.3347584901211111  0.7209289662695416  0.5039184090678471  1.0000
+  Na  Na1       1.0  0.8362395165222746  0.5825388427560682  0.04378254627332506  1.0000
+  Na  Na2       1.0  0.33599159090133235  0.06041214280836392  0.09439077262313637  1.0000
+  O   O1        1.0  0.8365127443617786  0.8631343841475105  0.38241216543762835  1.0000
+  O   O2        1.0  0.3361206337595909  0.4332801395143489  0.3403747086101649  1.0000
+  Ag  Ag1       1.0  0.8368528500730126  0.23723945041069938  0.5769101985624558  1.0000
+  O   O3        1.0  0.33428442471173564  0.7548691627646782  0.8183044799657141  1.0000

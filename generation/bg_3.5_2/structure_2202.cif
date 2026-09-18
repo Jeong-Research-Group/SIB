@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       VFNaF3
+_chemical_formula_sum              "V1 F4 Na1"
+_cell_length_a       3.313754609682192
+_cell_length_b       4.912848510131246
+_cell_length_c       6.895110607147217
+_cell_angle_alpha    132.5637557012331
+_cell_angle_beta     90.04963065911588
+_cell_angle_gamma    90.24737144066138
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.6415380822370117  0.3013968761244115  0.5441328876098782  1.0000
+  F   F1        1.0  0.6415896413677131  0.2927297663350465  0.2686515154105028  1.0000
+  Na  Na1       1.0  0.14084432882738673  0.3016234928437848  0.04427458293723974  1.0000
+  F   F2        1.0  0.64071321545398  0.3118601744956773  0.8214088685833111  1.0000
+  F   F3        1.0  0.1376825117187021  0.9517943862426305  0.3793275059810195  1.0000
+  F   F4        1.0  0.14365693896144174  0.6516647927767618  0.7109327906154408  1.0000

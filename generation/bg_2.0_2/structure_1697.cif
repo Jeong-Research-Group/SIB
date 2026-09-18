@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NaONaBrOCu
+_chemical_formula_sum              "Na2 O2 Br1 Cu1"
+_cell_length_a       3.5174478830710854
+_cell_length_b       5.79206141146381
+_cell_length_c       5.805590629577637
+_cell_angle_alpha    107.91560833413186
+_cell_angle_beta     90.09128797534575
+_cell_angle_gamma    90.02502831766532
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.571195601743232  0.2204689831892039  0.9052823194570712  1.0000
+  O   O1        1.0  0.5721111294382768  0.6450082667482179  0.023023668136198872  1.0000
+  Na  Na2       1.0  0.5707715166140951  0.7760658851891158  0.44920510029327254  1.0000
+  Br  Br1       1.0  0.07034509718152505  0.2771562040292907  0.4026705023324552  1.0000
+  O   O2        1.0  0.0716492154736923  0.9338866467473464  0.7400189041335404  1.0000
+  Cu  Cu1       1.0  0.07033876366998151  0.7242876285100435  0.9302691811283454  1.0000

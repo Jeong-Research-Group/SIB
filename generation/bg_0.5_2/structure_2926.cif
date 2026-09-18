@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NaHgNa4Ru2
+_chemical_formula_sum              "Na5 Hg1 Ru2"
+_cell_length_a       5.133092232025217
+_cell_length_b       5.525333207635149
+_cell_length_c       6.328420162200928
+_cell_angle_alpha    89.76245537802119
+_cell_angle_beta     89.85675978389251
+_cell_angle_gamma    89.71817525796273
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.5747638934271293  0.14889018264942835  0.3922184709577778  1.0000
+  Hg  Hg1       1.0  0.07317808927131396  0.9709222320543213  0.15299315747717854  1.0000
+  Na  Na2       1.0  0.0750150673209067  0.5005224950568657  0.9106949563045998  1.0000
+  Na  Na3       1.0  0.07436134715442352  0.5007457730779072  0.39467221571283956  1.0000
+  Na  Na4       1.0  0.5756770962757352  0.687437951255289  0.6524274940754538  1.0000
+  Na  Na5       1.0  0.5743629928058513  0.14894451171607254  0.9127807022393714  1.0000
+  Ru  Ru1       1.0  0.5730167633933471  0.6641420119886916  0.1524056947796813  1.0000
+  Ru  Ru2       1.0  0.07546378641042009  0.003941465373046177  0.6529405718834227  1.0000

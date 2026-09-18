@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NiHNa3H3
+_chemical_formula_sum              "Ni1 H4 Na3"
+_cell_length_a       3.231800451311532
+_cell_length_b       5.376711755463343
+_cell_length_c       5.375149250030518
+_cell_angle_alpha    99.37824166377987
+_cell_angle_beta     90.12558235215025
+_cell_angle_gamma    89.84617300786557
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.36159518361091614  0.41966342926025396  0.19998855888843534  1.0000
+  H   H1        1.0  0.36067456007003784  0.6730231046676636  0.45505312085151667  1.0000
+  Na  Na1       1.0  0.8617629408836365  0.9067909717559814  0.262906938791275  1.0000
+  Na  Na2       1.0  0.3601159155368805  0.0006070137023925782  0.7815086841583251  1.0000
+  Na  Na3       1.0  0.8611232042312622  0.4789986610412598  0.6866011619567871  1.0000
+  H   H2        1.0  0.3603183329105377  0.2131796032190323  0.43935331702232355  1.0000
+  H   H3        1.0  0.36064794659614563  0.6612384915351868  0.9942851066589354  1.0000
+  H   H4        1.0  0.8593423366546631  0.25377070903778076  0.03365287184715271  1.0000

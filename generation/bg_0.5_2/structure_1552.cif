@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       NaSeMnSe
+_chemical_formula_sum              "Na1 Se2 Mn1"
+_cell_length_a       4.022074810769752
+_cell_length_b       4.017493132191344
+_cell_length_c       5.570780277252197
+_cell_angle_alpha    90.23481758051713
+_cell_angle_beta     89.90649038526742
+_cell_angle_gamma    89.9498074451513
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.841458975032298  0.11595165650005228  0.22320267632462865  1.0000
+  Se  Se1       1.0  0.3404869137180504  0.6147262463314501  0.22334057103076724  1.0000
+  Mn  Mn1       1.0  0.34100961770598803  0.6161695122596026  0.7257642752404231  1.0000
+  Se  Se2       1.0  0.8409776092792757  0.11602116314131661  0.7242345220103592  1.0000

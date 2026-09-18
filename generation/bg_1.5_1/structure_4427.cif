@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       ZrNaO2NaTiO2
+_chemical_formula_sum              "Zr1 Na2 O4 Ti1"
+_cell_length_a       3.14007082160315
+_cell_length_b       5.434277243490494
+_cell_length_c       6.626498699188232
+_cell_angle_alpha    122.90802674902889
+_cell_angle_beta     90.02830681083364
+_cell_angle_gamma    89.88744781338232
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.7369311440348065  0.5193588133380475  0.8944503669903178  1.0000
+  Na  Na1       1.0  0.23709057230739902  0.019566290444462398  0.3947270810871493  1.0000
+  O   O1        1.0  0.23719777128060351  0.4880205394641617  0.10266148311276571  1.0000
+  O   O2        1.0  0.7366861687568316  0.0470969686258814  0.6924629805981154  1.0000
+  Na  Na2       1.0  0.7369040264240015  0.5197365281739211  0.3944528694740381  1.0000
+  Ti  Ti1       1.0  0.2367159434128967  0.018964230640672496  0.8940129283815815  1.0000
+  O   O3        1.0  0.23752739991476077  0.5522795309965988  0.686917542973689  1.0000
+  O   O4        1.0  0.7373332379969955  0.9931392678632257  0.09669369490052071  1.0000

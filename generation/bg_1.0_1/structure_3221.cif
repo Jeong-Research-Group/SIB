@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       KFNa2F2MgF
+_chemical_formula_sum              "K1 F4 Na2 Mg1"
+_cell_length_a       5.857546874579055
+_cell_length_b       5.024733232838483
+_cell_length_c       5.035141468048096
+_cell_angle_alpha    89.9543221986722
+_cell_angle_beta     64.49882353711509
+_cell_angle_gamma    115.6439954796317
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.21934558483367378  0.2557521173007374  0.3659065059651571  1.0000
+  F   F1        1.0  0.6346254951873136  0.9882929328997804  0.6330758330080023  1.0000
+  Na  Na1       1.0  0.7194823029396974  0.012081434390611823  0.10943935135536556  1.0000
+  Na  Na2       1.0  0.7191162713998283  0.5119886994928715  0.610871433125392  1.0000
+  F   F2        1.0  0.2195734230664512  0.3328985583086364  0.8560180062511485  1.0000
+  F   F3        1.0  0.8048940294110479  0.5724374648656769  0.049498250161290766  1.0000
+  Mg  Mg1       1.0  0.22115033866900702  0.7259089947983903  0.8953897948511437  1.0000
+  F   F4        1.0  0.2193000022629439  0.7658515577416601  0.288884073534421  1.0000

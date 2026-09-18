@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Se2MnGeSe2Na
+_chemical_formula_sum              "Se4 Mn1 Ge1 Na1"
+_cell_length_a       3.652338469736327
+_cell_length_b       6.323108796427979
+_cell_length_c       7.483844757080078
+_cell_angle_alpha    82.19828704392032
+_cell_angle_beta     76.18050192458885
+_cell_angle_gamma    90.22472940328363
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.709288120087861  0.8263257741472602  0.5057531590584783  1.0000
+  Se  Se2       1.0  0.2110573503011048  0.31686714252896536  0.510782957247879  1.0000
+  Mn  Mn1       1.0  0.11141639116409553  0.6260450474812667  0.7061052914698595  1.0000
+  Ge  Ge1       1.0  0.6101463429960198  0.11731931532376141  0.7085731625381293  1.0000
+  Se  Se3       1.0  0.5143395660857122  0.42090323558711773  0.9054176218290874  1.0000
+  Se  Se4       1.0  0.010453086373896988  0.9262689955235688  0.9100103377233861  1.0000
+  Na  Na1       1.0  0.861799119571394  0.527002155576414  0.20922040921543328  1.0000

@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       NaCaTl
+_chemical_formula_sum              "Na1 Ca1 Tl1"
+_cell_length_a       5.182265272236084
+_cell_length_b       5.2001796848175665
+_cell_length_c       5.19046688079834
+_cell_angle_alpha    60.015972699692405
+_cell_angle_beta     60.04792173363934
+_cell_angle_gamma    59.91449078794686
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.7002376314153177  0.7595661278446254  0.44883301937542613  1.0000
+  Ca  Ca1       1.0  0.45061376574877293  0.5100640060165547  0.2002605346868391  1.0000
+  Tl  Tl1       1.0  0.949947297849137  0.009810344252876118  0.6991509783260539  1.0000

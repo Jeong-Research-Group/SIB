@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       PtMgNa3
+_chemical_formula_sum              "Pt1 Mg1 Na3"
+_cell_length_a       4.980783875324631
+_cell_length_b       4.991838295890428
+_cell_length_c       7.665427207946777
+_cell_angle_alpha    49.42157026937664
+_cell_angle_beta     49.7044721541087
+_cell_angle_gamma    59.49686352592871
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.5016438372849665  0.8687484276011742  0.11772066234230802  1.0000
+  Mg  Mg1       1.0  0.2787767940454087  0.6451460115525782  0.9549747115616357  1.0000
+  Na  Na1       1.0  0.6972028609453423  0.0639440937787948  0.32564336077220246  1.0000
+  Na  Na2       1.0  0.08775933196778501  0.45026385900473787  0.7428976881327274  1.0000
+  Na  Na3       1.0  0.8922638285842499  0.2606167798190199  0.5287088153473254  1.0000

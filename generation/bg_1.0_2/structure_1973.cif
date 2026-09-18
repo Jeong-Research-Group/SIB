@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       TiTlO3
+_chemical_formula_sum              "Ti1 Tl1 O3"
+_cell_length_a       3.9175211057825345
+_cell_length_b       3.9164589215109697
+_cell_length_c       3.926853656768799
+_cell_angle_alpha    89.98868488116662
+_cell_angle_beta     90.03125062178813
+_cell_angle_gamma    90.02037012744681
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.007286637249560851  0.7959457638015555  0.21238935067043851  1.0000
+  Tl  Tl1       1.0  0.5067689411187342  0.2965754854809571  0.7125929006041124  1.0000
+  O   O1        1.0  0.506786883323954  0.7967038747137172  0.21243751013405313  1.0000
+  O   O2        1.0  0.006345526877267003  0.796549796741249  0.7129046929055738  1.0000
+  O   O3        1.0  0.006584991774134383  0.2957443902660472  0.2125497461531541  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       HNaCuHO2
+_chemical_formula_sum              "H2 Na1 Cu1 O2"
+_cell_length_a       3.4818437380090757
+_cell_length_b       4.24004991217665
+_cell_length_c       6.265538215637207
+_cell_angle_alpha    92.69203953747024
+_cell_angle_beta     88.16708041796134
+_cell_angle_gamma    71.01971711427313
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.6764353503693308  0.36185410697556136  0.5494895585124074  1.0000
+  Na  Na1       1.0  0.9934633971227536  0.7687662250449573  0.8000107406073883  1.0000
+  Cu  Cu1       1.0  0.4944357859041974  0.7696061133540328  0.3004951484724635  1.0000
+  H   H2        1.0  0.30581614406078117  0.1790497906518109  0.04870804746238111  1.0000
+  O   O1        1.0  0.5648365014299597  0.6108011006056226  0.5735136872324837  1.0000
+  O   O2        1.0  0.41949024775972643  0.9272983079499112  0.029365861642921907  1.0000

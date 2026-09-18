@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Na3MgSn3Na
+_chemical_formula_sum              "Na4 Mg1 Sn3"
+_cell_length_a       5.320387527323924
+_cell_length_b       6.6965318040197745
+_cell_length_c       6.704127788543701
+_cell_angle_alpha    120.40914822523634
+_cell_angle_beta     90.14823810358132
+_cell_angle_gamma    90.16747872523322
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.46076291782078505  0.9441553947648  0.29229092555993347  1.0000
+  Na  Na2       1.0  0.46247297474486077  0.44078469230353795  0.7879785290573806  1.0000
+  Na  Na3       1.0  0.9609726074462206  0.11015251341491078  0.12670290429533945  1.0000
+  Mg  Mg1       1.0  0.46100842919727225  0.9523903138081052  0.7823250299276893  1.0000
+  Sn  Sn1       1.0  0.4611614934856625  0.4485162798427561  0.2857241327966301  1.0000
+  Sn  Sn2       1.0  0.9610935448395964  0.10101027789214961  0.6319650414009267  1.0000
+  Sn  Sn3       1.0  0.9612696770738736  0.6029434209319716  0.12931421468847454  1.0000
+  Na  Na4       1.0  0.9616281397204648  0.606137871984338  0.6229881046793424  1.0000

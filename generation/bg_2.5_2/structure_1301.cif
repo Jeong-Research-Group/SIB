@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Na2SbInSb2Zn
+_chemical_formula_sum              "Na2 Sb3 In1 Zn1"
+_cell_length_a       4.352453096828704
+_cell_length_b       4.3611591952248725
+_cell_length_c       12.68862533569336
+_cell_angle_alpha    80.12906710868681
+_cell_angle_beta     99.64693439074114
+_cell_angle_gamma    119.61295196944991
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.8463626504196926  0.24153230984563498  0.5928452612229932  1.0000
+  Na  Na2       1.0  0.36811185026730103  0.713279725218078  0.16755564493437922  1.0000
+  Sb  Sb1       1.0  0.9866745465832584  0.09463037649409349  0.024571526698478525  1.0000
+  In  In1       1.0  0.6105293039992563  0.47447219588301  0.8896327015149434  1.0000
+  Sb  Sb2       1.0  0.4556004090389146  0.6330415593637326  0.41615960032413657  1.0000
+  Sb  Sb3       1.0  0.23450523736600964  0.8516815317531219  0.7584866286104391  1.0000
+  Zn  Zn1       1.0  0.1130983974847647  0.9750776882231782  0.38696080418965795  1.0000

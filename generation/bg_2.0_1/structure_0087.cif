@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       ZrS2NaS2ZrNa
+_chemical_formula_sum              "Zr2 S4 Na2"
+_cell_length_a       3.7457118671614573
+_cell_length_b       6.954015064130792
+_cell_length_c       6.477695465087891
+_cell_angle_alpha    72.3504361634191
+_cell_angle_beta     90.0105688072179
+_cell_angle_gamma    90.02134684652361
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.6655205488291702  0.49804574211775776  0.6571512821942015  1.0000
+  S   S1        1.0  0.16561630433476066  0.2787593311827392  0.8975988024498458  1.0000
+  S   S2        1.0  0.16621084599977598  0.7162709837364396  0.4179244037253437  1.0000
+  Na  Na1       1.0  0.1657708439259164  0.9976112240241743  0.6579099296031756  1.0000
+  S   S3        1.0  0.6657507415812653  0.27967438058244926  0.3973084980842211  1.0000
+  S   S4        1.0  0.6651433096995558  0.7163928743273337  0.9178522826214757  1.0000
+  Zr  Zr2       1.0  0.16559295386774103  0.4971404970235586  0.15818132439627802  1.0000
+  Na  Na2       1.0  0.6659374231400758  0.9974747303450194  0.1580322973930873  1.0000

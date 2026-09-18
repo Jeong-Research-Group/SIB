@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CrSNaS2
+_chemical_formula_sum              "Cr1 S3 Na1"
+_cell_length_a       4.461295379778817
+_cell_length_b       3.3102380646463065
+_cell_length_c       6.283559799194336
+_cell_angle_alpha    90.2438607374017
+_cell_angle_beta     90.07736121801257
+_cell_angle_gamma    89.60038179504963
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.49007201126044153  0.6416713591413551  0.0640332029210606  1.0000
+  S   S1        1.0  0.48977294667405885  0.14228177059218267  0.8054621215804817  1.0000
+  Na  Na1       1.0  0.9901077155840249  0.64249265071879  0.5634205937977195  1.0000
+  S   S2        1.0  0.9906064273769175  0.6411640645133714  0.06364539238295834  1.0000
+  S   S3        1.0  0.49026078083931546  0.14286263337888794  0.32229065910538957  1.0000

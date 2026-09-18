@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Na2HgCsO2
+_chemical_formula_sum              "Na2 Hg1 Cs1 O2"
+_cell_length_a       4.67342763978108
+_cell_length_b       4.684957052548677
+_cell_length_c       6.37446928024292
+_cell_angle_alpha    110.88915273739643
+_cell_angle_beta     111.10049069565486
+_cell_angle_gamma    89.65352718001908
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.24862924269579675  0.7152700419469602  0.5061639544900678  1.0000
+  Na  Na2       1.0  0.7477031357469488  0.2143958966814148  0.505886316973815  1.0000
+  Hg  Hg1       1.0  0.4964475632547948  0.46469974518523355  0.004631261185332757  1.0000
+  Cs  Cs1       1.0  0.995431483729531  0.9643120160899473  0.006585615916749399  1.0000
+  O   O1        1.0  0.3113720709230319  0.2783569404800532  0.6420606373933416  1.0000
+  O   O2        1.0  0.6827494494500781  0.6503652344545425  0.3679780964820798  1.0000

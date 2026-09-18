@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Na2SnCl3
+_chemical_formula_sum              "Na2 Sn1 Cl3"
+_cell_length_a       4.053605371105409
+_cell_length_b       5.640345244536094
+_cell_length_c       6.972861289978027
+_cell_angle_alpha    113.86170510292915
+_cell_angle_beta     107.12963225009749
+_cell_angle_gamma    90.09859658514739
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.6809800854752804  0.6822887058510916  0.05352633757457578  1.0000
+  Na  Na2       1.0  0.015820834324514064  0.01567133742765685  0.7191748018455343  1.0000
+  Sn  Sn1       1.0  0.3496902278429867  0.35009017570387563  0.3866608731321165  1.0000
+  Cl  Cl1       1.0  0.6772796520588988  0.17682752031589347  0.042273302374789226  1.0000
+  Cl  Cl2       1.0  0.01981327914246071  0.5206111675597378  0.7304927713955299  1.0000
+  Cl  Cl3       1.0  0.34875580791274324  0.8511359100691778  0.38624215121907923  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       CsTiONaCsONaO2
+_chemical_formula_sum              "Cs2 Ti1 O4 Na2"
+_cell_length_a       5.991278209920163
+_cell_length_b       6.354702230573861
+_cell_length_c       6.541750431060791
+_cell_angle_alpha    100.95414485007338
+_cell_angle_beta     64.78160590983128
+_cell_angle_gamma    116.33918394620869
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.29381197635511475  0.7598179581976312  0.010210787943751264  1.0000
+  Ti  Ti1       1.0  0.3568035968563248  0.4562949840161896  0.4855540094444637  1.0000
+  O   O1        1.0  0.3131815498169859  0.7247303131674349  0.4863443373885603  1.0000
+  Na  Na1       1.0  0.9976452596655688  0.8679867980679806  0.608873187735008  1.0000
+  Cs  Cs2       1.0  0.8164356946387307  0.1438010774493712  0.27017939013247116  1.0000
+  O   O2        1.0  0.4337708649145148  0.3222780227536433  0.2025573703506897  1.0000
+  Na  Na2       1.0  0.6823858617801607  0.3686929343258505  0.8326357008308761  1.0000
+  O   O3        1.0  0.0400979994778535  0.24844254517882985  0.6801720856043083  1.0000
+  O   O4        1.0  0.6275032157259968  0.5317701690282778  0.5848810668323126  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       CuBiNaSBiNaS2O
+_chemical_formula_sum              "Cu1 Bi2 Na2 S3 O1"
+_cell_length_a       4.031682377843007
+_cell_length_b       4.009659781161482
+_cell_length_c       12.588467597961426
+_cell_angle_alpha    99.2490554334611
+_cell_angle_beta     80.39211835658105
+_cell_angle_gamma    89.76904656894585
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.26513659923298527  0.662532628621318  0.27901059389817157  1.0000
+  Bi  Bi1       1.0  0.08098349827581838  0.843870699672742  0.641151964601501  1.0000
+  Na  Na1       1.0  0.6897560349370597  0.235194399957126  0.42847633374701605  1.0000
+  S   S1        1.0  0.9603607652075901  0.9619269380777006  0.8739409450424688  1.0000
+  Bi  Bi2       1.0  0.45716178399181523  0.47154396700661017  0.8886858822752536  1.0000
+  Na  Na2       1.0  0.8467197412142847  0.08123756167767066  0.11171684413067913  1.0000
+  S   S2        1.0  0.3488988876351409  0.5771514181092334  0.10578530285720063  1.0000
+  S   S3        1.0  0.5676701056527454  0.35446986497098526  0.6598218086927803  1.0000
+  O   O1        1.0  0.1817134029542107  0.7428220518134886  0.4405525026982611  1.0000

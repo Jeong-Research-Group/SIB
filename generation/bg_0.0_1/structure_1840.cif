@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       NaAu2Mn
+_chemical_formula_sum              "Na1 Au2 Mn1"
+_cell_length_a       4.7171736026924584
+_cell_length_b       4.721488236841879
+_cell_length_c       4.71744966506958
+_cell_angle_alpha    60.245189716867856
+_cell_angle_beta     60.21422564092026
+_cell_angle_gamma    60.19886912493437
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.6532236937298482  0.16293498781012394  0.38319975132773665  1.0000
+  Au  Au1       1.0  0.15482500223092796  0.6637668606196392  0.8842411033175807  1.0000
+  Au  Au2       1.0  0.9038109784062434  0.4127046769188033  0.6332736001028318  1.0000
+  Mn  Mn1       1.0  0.4045399731051066  0.9133256085434872  0.13341337323403996  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       TeBiNaTe2BiNaTe
+_chemical_formula_sum              "Te4 Bi2 Na2"
+_cell_length_a       4.446287463621206
+_cell_length_b       7.76681656529663
+_cell_length_c       9.135418891906738
+_cell_angle_alpha    90.39080543668042
+_cell_angle_beta     89.9568288764016
+_cell_angle_gamma    125.5057633971339
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.7254045605659485  0.8938453793525697  0.6311689615249634  1.0000
+  Bi  Bi1       1.0  0.22243668138980865  0.892754077911377  0.8661813139915466  1.0000
+  Na  Na1       1.0  0.22656786441802979  0.8962723612785339  0.3747785687446594  1.0000
+  Te  Te2       1.0  0.7253122329711914  0.3973272442817688  0.36070188879966736  1.0000
+  Te  Te3       1.0  0.7275283336639404  0.39680528640747076  0.8797239065170288  1.0000
+  Bi  Bi2       1.0  0.2253991961479187  0.39593854546546936  0.12599313259124756  1.0000
+  Na  Na2       1.0  0.2240609079599381  0.39451867341995245  0.6164723038673401  1.0000
+  Te  Te4       1.0  0.7257705926895142  0.8971850872039796  0.11219356954097748  1.0000

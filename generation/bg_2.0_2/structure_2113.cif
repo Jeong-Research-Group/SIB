@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Na2BiF3NaF
+_chemical_formula_sum              "Na3 Bi1 F4"
+_cell_length_a       4.872037238836208
+_cell_length_b       4.871755703861179
+_cell_length_c       4.854659080505371
+_cell_angle_alpha    90.01183239185262
+_cell_angle_beta     89.93980121995371
+_cell_angle_gamma    89.87958627879168
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.6697541476314365  0.49432846948960607  0.030309597191117844  1.0000
+  Na  Na2       1.0  0.6699661025398956  0.9945307379867057  0.5301064854263353  1.0000
+  Bi  Bi1       1.0  0.17014299297543992  0.9961947208651043  0.02954998138130121  1.0000
+  F   F1        1.0  0.1704500172370822  0.4961971038908064  0.030568830972959347  1.0000
+  F   F2        1.0  0.6697989110094984  0.994135499717125  0.02995518714884893  1.0000
+  F   F3        1.0  0.670738876690489  0.49454781390014424  0.5284128789792573  1.0000
+  Na  Na3       1.0  0.16993002607001828  0.49415844621716964  0.5302843455909932  1.0000
+  F   F4        1.0  0.17025808977631102  0.9934040307839652  0.5278013936935416  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cs2InClNaClBr3
+_chemical_formula_sum              "Cs2 In1 Cl2 Na1 Br3"
+_cell_length_a       7.817962292503466
+_cell_length_b       7.668994044094828
+_cell_length_c       7.762063980102539
+_cell_angle_alpha    60.82013806385739
+_cell_angle_beta     58.9485789131151
+_cell_angle_gamma    60.53173209287953
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.32505685152278524  0.3482486004603643  0.590924501242127  1.0000
+  Cs  Cs2       1.0  0.8254731290251088  0.8480924370631668  0.09091000308984579  1.0000
+  In  In1       1.0  0.5615336297427711  0.6155393715208453  0.8255333306849423  1.0000
+  Cl  Cl1       1.0  0.33996996323204054  0.8337767726059017  0.07828605073208877  1.0000
+  Na  Na1       1.0  0.09164935350627001  0.08403041970508338  0.3542793994676761  1.0000
+  Cl  Cl2       1.0  0.3344927131080172  0.8399718402517918  0.5983903414218142  1.0000
+  Br  Br1       1.0  0.3413308263951146  0.3598885233773648  0.07989811223900004  1.0000
+  Br  Br2       1.0  0.8146870728861315  0.3599222298533516  0.6039023403080367  1.0000
+  Br  Br3       1.0  0.8150179376804664  0.8340326554027362  0.605591118384828  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       GaNaCuTe2
+_chemical_formula_sum              "Ga1 Na1 Cu1 Te2"
+_cell_length_a       4.362348377537559
+_cell_length_b       4.367867279053466
+_cell_length_c       7.617945194244385
+_cell_angle_alpha    89.90496724759696
+_cell_angle_beta     90.1643232001813
+_cell_angle_gamma    119.97910329741704
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.8340048194221223  0.045213092907525065  0.0015566080671601836  1.0000
+  Na  Na1       1.0  0.500715017196277  0.3787916598717604  0.41962712944836666  1.0000
+  Cu  Cu1       1.0  0.1685327889356203  0.7110058057788403  0.7746461630651073  1.0000
+  Te  Te1       1.0  0.1674859217896144  0.710837304829187  0.13552467523713924  1.0000
+  Te  Te2       1.0  0.8327382205477735  0.0460764197551986  0.6657116406764918  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Se2NdBi
+_chemical_formula_sum              "Se2 Nd1 Bi1"
+_cell_length_a       4.263775622841361
+_cell_length_b       4.259774343720639
+_cell_length_c       7.245488166809082
+_cell_angle_alpha    73.03279441404187
+_cell_angle_beta     73.05652354905594
+_cell_angle_gamma    59.98958325942675
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.8380358809418023  0.6162168973040538  0.8063896897305226  1.0000
+  Se  Se2       1.0  0.3367131942823333  0.11663642514900534  0.3034134506256937  1.0000
+  Nd  Nd1       1.0  0.08806396197237726  0.8675139555522856  0.05358372565911139  1.0000
+  Bi  Bi1       1.0  0.5878729826085958  0.36504867536721014  0.5561695692285913  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Na2TiNa2KTi
+_chemical_formula_sum              "Na4 Ti2 K1"
+_cell_length_a       5.110732672575055
+_cell_length_b       6.938227509009995
+_cell_length_c       7.47800350189209
+_cell_angle_alpha    119.19828989261048
+_cell_angle_beta     89.38309980348298
+_cell_angle_gamma    89.90386764027899
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.2690733680174907  0.5905379062417726  0.04499283096820477  1.0000
+  Na  Na2       1.0  0.768886686072314  0.8075962661162032  0.9080168004679232  1.0000
+  Ti  Ti1       1.0  0.2700255803196249  0.09006524136402763  0.8756775257096057  1.0000
+  Na  Na3       1.0  0.7687035802054085  0.3769731519583709  0.18420596396788042  1.0000
+  Na  Na4       1.0  0.2678354373699458  0.5938369041770931  0.5459321147444335  1.0000
+  K   K1        1.0  0.7681038386344418  0.09232408570905282  0.5449168680636192  1.0000
+  Ti  Ti2       1.0  0.26953750769194645  0.09476564789085454  0.21559430648836042  1.0000

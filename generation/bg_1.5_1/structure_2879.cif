@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       ONaCrO2
+_chemical_formula_sum              "O3 Na1 Cr1"
+_cell_length_a       3.7501389523680486
+_cell_length_b       3.7531166968808156
+_cell_length_c       3.7644293308258057
+_cell_angle_alpha    89.95265563176035
+_cell_angle_beta     90.12727624836425
+_cell_angle_gamma    90.0740485843921
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.5298645506209707  0.23728297774435778  0.18239557650228194  1.0000
+  Na  Na1       1.0  0.030098766107923298  0.23849046359869094  0.6820421217604435  1.0000
+  Cr  Cr1       1.0  0.5300984389017701  0.7379049055679218  0.18193271785004458  1.0000
+  O   O2        1.0  0.5297024845128989  0.7379440677321842  0.6828254466906561  1.0000
+  O   O3        1.0  0.030397546627707658  0.7380314458798796  0.18218508356269972  1.0000

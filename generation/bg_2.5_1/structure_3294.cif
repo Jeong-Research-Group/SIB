@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NiNaO2NaCoO2
+_chemical_formula_sum              "Ni1 Na2 O4 Co1"
+_cell_length_a       2.986878934582808
+_cell_length_b       5.436980167582908
+_cell_length_c       5.749213695526123
+_cell_angle_alpha    105.50116459577279
+_cell_angle_beta     119.26432462783362
+_cell_angle_gamma    89.1132049307766
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.6044662013071119  0.6819422841320532  0.15310998348499355  1.0000
+  Na  Na1       1.0  0.10290393916321605  0.18275840517877062  0.15484563907574975  1.0000
+  O   O1        1.0  0.8342442501505523  0.48425304889560383  0.917233586637964  1.0000
+  O   O2        1.0  0.37444287550975036  0.88000005511872  0.3901264362606658  1.0000
+  Na  Na2       1.0  0.10581162551228905  0.18215541569479793  0.6541693217170383  1.0000
+  Co  Co1       1.0  0.604260088580026  0.682625413373257  0.654327036018459  1.0000
+  O   O3        1.0  0.8692109574276216  0.4898786841242044  0.41745725260360667  1.0000
+  O   O4        1.0  0.34013104549927564  0.8752490282550541  0.8910173177593802  1.0000

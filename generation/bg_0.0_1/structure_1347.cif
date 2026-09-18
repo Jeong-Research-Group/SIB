@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Na3CuNaMg
+_chemical_formula_sum              "Na4 Cu1 Mg1"
+_cell_length_a       5.188201327768118
+_cell_length_b       5.186431950133993
+_cell_length_c       6.355922698974609
+_cell_angle_alpha    89.05411692858902
+_cell_angle_beta     89.0267141821401
+_cell_angle_gamma    60.380360996089166
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.7379822138899303  0.4412282411279128  0.504947900050924  1.0000
+  Na  Na2       1.0  0.07213447290047681  0.7746230953056487  0.17464996940716077  1.0000
+  Na  Na3       1.0  0.07221073587799767  0.7743493325062099  0.6593511109974793  1.0000
+  Cu  Cu1       1.0  0.4052466151583623  0.10710439085724727  0.33421140856532205  1.0000
+  Na  Na4       1.0  0.4055601959125837  0.10641735770893684  0.8407307857623348  1.0000
+  Mg  Mg1       1.0  0.7364683737383068  0.4391573379821931  0.02435160003603668  1.0000

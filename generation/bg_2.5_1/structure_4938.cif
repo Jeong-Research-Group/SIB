@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AuNaVNaTl2
+_chemical_formula_sum              "Au1 Na2 V1 Tl2"
+_cell_length_a       5.015313289363768
+_cell_length_b       4.975679776371571
+_cell_length_c       6.511175155639648
+_cell_angle_alpha    90.05492405338099
+_cell_angle_beta     89.7411998075235
+_cell_angle_gamma    60.04618809497715
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.37255695527284555  0.9538683285460227  0.21219530633681646  1.0000
+  Na  Na1       1.0  0.7065924999971607  0.28715455578358495  0.4597342016986894  1.0000
+  V   V1        1.0  0.040020224752069074  0.6205646393105907  0.712189316035338  1.0000
+  Na  Na2       1.0  0.7057244781409004  0.287642806928209  0.9652546053153999  1.0000
+  Tl  Tl1       1.0  0.37244155968034504  0.9535911077079416  0.7120903735199395  1.0000
+  Tl  Tl2       1.0  0.03970066442769367  0.6204258212850118  0.2099978322021636  1.0000

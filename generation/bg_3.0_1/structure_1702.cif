@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       NaHGaH2NaHNaH
+_chemical_formula_sum              "Na3 H5 Ga1"
+_cell_length_a       5.158216233610943
+_cell_length_b       5.506268292456795
+_cell_length_c       5.058821201324463
+_cell_angle_alpha    117.20542881547819
+_cell_angle_beta     90.39914508296658
+_cell_angle_gamma    117.81234813218573
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.8849340077060244  0.4334486728800602  0.7338274726633309  1.0000
+  H   H1        1.0  0.12509703627971355  0.43554455023216826  0.3746783431820316  1.0000
+  Ga  Ga1       1.0  0.38684305588036494  0.43237864906051077  0.21217365611749295  1.0000
+  H   H2        1.0  0.351090610818662  0.4294704804432762  0.8851277831943186  1.0000
+  H   H3        1.0  0.15919350158152873  0.9809015995887427  0.005101562378411661  1.0000
+  Na  Na2       1.0  0.6393392682465358  0.9426164027226883  0.9842793930717526  1.0000
+  H   H4        1.0  0.6099358195545445  0.8819826831670009  0.45329192210131397  1.0000
+  Na  Na3       1.0  0.1312363591948411  0.9213215122439519  0.47400230250424263  1.0000
+  H   H5        1.0  0.6803138260805556  0.43355253449897213  0.3283942346222236  1.0000

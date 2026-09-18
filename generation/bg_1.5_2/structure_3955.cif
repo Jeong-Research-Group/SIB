@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       STiNaS2NaS
+_chemical_formula_sum              "S4 Ti1 Na2"
+_cell_length_a       3.667730147816176
+_cell_length_b       6.5500952515679405
+_cell_length_c       6.82341194152832
+_cell_angle_alpha    107.42522210628692
+_cell_angle_beta     89.74260680972374
+_cell_angle_gamma    90.24047981346683
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.08638910863553004  0.29148167400042696  0.5678400996078948  1.0000
+  Ti  Ti1       1.0  0.5858110191997985  0.5060072538226519  0.7855167394148179  1.0000
+  Na  Na1       1.0  0.5856472845085476  0.005120216301388233  0.285899341638578  1.0000
+  S   S2        1.0  0.08558128782657053  0.7186775207800193  0.005150475632397615  1.0000
+  S   S3        1.0  0.5857881309899072  0.29154524254767406  0.020807334731960545  1.0000
+  Na  Na2       1.0  0.08557122996605662  0.0056098366871834135  0.7872650019915978  1.0000
+  S   S4        1.0  0.5856140864784684  0.7187634112049339  0.552632391351556  1.0000

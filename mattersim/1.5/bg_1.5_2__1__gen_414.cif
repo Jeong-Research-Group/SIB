@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AgFNaF2NaF
+_chemical_formula_sum              "Ag1 F4 Na2"
+_cell_length_a       5.78513380635886
+_cell_length_b       3.3471025670491086
+_cell_length_c       5.597341537475586
+_cell_angle_alpha    102.87033290278971
+_cell_angle_beta     73.77368490489162
+_cell_angle_gamma    87.77846294762277
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.6679877638816833  0.41329759359359736  0.26810580492019653  1.0000
+  F   F1        1.0  0.7774706482887268  0.09136725217103958  0.5208980441093445  1.0000
+  Na  Na1       1.0  0.3992408514022827  0.17069141566753385  0.8162693381309509  1.0000
+  F   F2        1.0  0.5572912096977234  0.7362587451934814  0.016076188534498187  1.0000
+  F   F3        1.0  0.999032199382782  0.25204196572303766  0.9774547219276428  1.0000
+  Na  Na2       1.0  0.9369031786918642  0.6573110818862914  0.7213351130485535  1.0000
+  F   F4        1.0  0.3344804048538208  0.5744519829750061  0.559930682182312  1.0000

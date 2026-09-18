@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Rb2Br3GaNaBr
+_chemical_formula_sum              "Rb2 Br4 Ga1 Na1"
+_cell_length_a       7.284227522140112
+_cell_length_b       7.336024022480322
+_cell_length_c       7.285408973693848
+_cell_angle_alpha    60.43597994254528
+_cell_angle_beta     60.60627749880677
+_cell_angle_gamma    60.527861238110894
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.13230280578136447  0.31156197190284723  0.40540164709091187  1.0000
+  Rb  Rb2       1.0  0.6328153014183047  0.8132002353668212  0.905505895614624  1.0000
+  Br  Br1       1.0  0.1125739961862564  0.29323625564575195  0.9240336418151855  1.0000
+  Br  Br2       1.0  0.6533384919166565  0.8321546912193297  0.3865864276885988  1.0000
+  Br  Br3       1.0  0.11409667879343034  0.8326082825660706  0.9243075847625732  1.0000
+  Ga  Ga1       1.0  0.8827421665191652  0.06298575550317764  0.1561944186687469  1.0000
+  Na  Na1       1.0  0.3833480775356293  0.562463879585266  0.6550204753875732  1.0000
+  Br  Br4       1.0  0.6531981229782107  0.29187378287315363  0.38636481761932373  1.0000

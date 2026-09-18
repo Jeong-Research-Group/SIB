@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Se2NaCrSeCrSe2Cr
+_chemical_formula_sum              "Se5 Na1 Cr3"
+_cell_length_a       3.5724575207485505
+_cell_length_b       6.030719559262692
+_cell_length_c       10.304973602294922
+_cell_angle_alpha    95.3204811486482
+_cell_angle_beta     90.42481979441497
+_cell_angle_gamma    90.27932994447254
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.6633775831685788  0.9931403394840723  0.3465722200551715  1.0000
+  Se  Se2       1.0  0.662739575644111  0.5800551179161102  0.551843523929063  1.0000
+  Na  Na1       1.0  0.16297276334264527  0.6445346478650598  0.7748769523003651  1.0000
+  Cr  Cr1       1.0  0.6628833403406602  0.21485783093478705  0.13836982846167853  1.0000
+  Se  Se3       1.0  0.6627310520853233  0.44699203897064327  0.9541654586358556  1.0000
+  Cr  Cr2       1.0  0.164421007268969  0.7508027558062289  0.4333756860627887  1.0000
+  Se  Se4       1.0  0.16226764127991053  0.9595887655046422  0.03925298887033913  1.0000
+  Se  Se5       1.0  0.16529901438843195  0.47699883612510435  0.24369275558803571  1.0000
+  Cr  Cr3       1.0  0.6623284822565586  0.7230471365463277  0.1398542819739162  1.0000

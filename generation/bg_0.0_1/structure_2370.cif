@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       NaNCa
+_chemical_formula_sum              "Na1 N1 Ca1"
+_cell_length_a       4.188452667662869
+_cell_length_b       4.184661866100835
+_cell_length_c       4.180035591125488
+_cell_angle_alpha    59.968942864284855
+_cell_angle_beta     60.0320768179006
+_cell_angle_gamma    60.09958030709647
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.6384685629024858  0.2975417963708991  0.04018117635548866  1.0000
+  N   N1        1.0  0.38725206367262016  0.04388819524060391  0.7903051378820513  1.0000
+  Ca  Ca1       1.0  0.14067162600759822  0.7974262240176316  0.5430207245737926  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NaPb2Na2Pb2
+_chemical_formula_sum              "Na3 Pb4"
+_cell_length_a       5.329971577954202
+_cell_length_b       5.314349681289522
+_cell_length_c       7.799532413482666
+_cell_angle_alpha    89.99391680616517
+_cell_angle_beta     89.98195031339071
+_cell_angle_gamma    90.01895628015875
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.36206695466106686  0.7835078233680721  0.09465828579040407  1.0000
+  Pb  Pb1       1.0  0.8619556429295029  0.28349205854260934  0.09598842984949077  1.0000
+  Pb  Pb2       1.0  0.8617618683944198  0.2831493016261058  0.5765643118445396  1.0000
+  Na  Na2       1.0  0.3617817162508461  0.7831082937444057  0.5777957438581286  1.0000
+  Na  Na3       1.0  0.8618016235744866  0.7833313351591888  0.8375681048522441  1.0000
+  Pb  Pb3       1.0  0.3620016882239424  0.2832437459251084  0.8371797804777991  1.0000
+  Pb  Pb4       1.0  0.8626835344072326  0.7831831570951223  0.3361457285014442  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CrNa2O3
+_chemical_formula_sum              "Cr1 Na2 O3"
+_cell_length_a       2.976040217264303
+_cell_length_b       4.981628978767843
+_cell_length_c       5.626495838165283
+_cell_angle_alpha    115.70348708954623
+_cell_angle_beta     105.15948304895824
+_cell_angle_gamma    89.45198257903978
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.6724513188404839  0.8929304485068803  0.5274450188991892  1.0000
+  Na  Na1       1.0  0.3468131423574552  0.521994353045583  0.8732000590758489  1.0000
+  Na  Na2       1.0  0.9981997619903238  0.17291490832927955  0.17987829491280008  1.0000
+  O   O1        1.0  0.04320486388163765  0.6906850341349864  0.2640243476196607  1.0000
+  O   O2        1.0  0.673106609563711  0.23877890437489757  0.5264793030262909  1.0000
+  O   O3        1.0  0.3020041568485551  0.9520706530710983  0.7887066008592536  1.0000

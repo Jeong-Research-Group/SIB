@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NaSnPPdAs
+_chemical_formula_sum              "Na1 Sn1 P1 Pd1 As1"
+_cell_length_a       3.9804452085014175
+_cell_length_b       4.051476826588813
+_cell_length_c       6.789485931396484
+_cell_angle_alpha    90.04592870047607
+_cell_angle_beta     90.18203388718045
+_cell_angle_gamma    90.23093119808188
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.7711537476451085  0.47830101851188433  0.7912863498187128  1.0000
+  Sn  Sn1       1.0  0.2695170645611767  0.481750607082313  0.28791779346129676  1.0000
+  P   P1        1.0  0.2673000690381927  0.9793618906551851  0.043550603489724435  1.0000
+  Pd  Pd1       1.0  0.7664006343020107  0.9789204602345503  0.2884250587544591  1.0000
+  As  As1       1.0  0.2681131356056551  0.9799482225495918  0.5346035963270714  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       NaZrTe4NaTeMn
+_chemical_formula_sum              "Na2 Zr1 Te5 Mn1"
+_cell_length_a       4.126935769734393
+_cell_length_b       4.1584383603061585
+_cell_length_c       16.000322341918945
+_cell_angle_alpha    90.45528240993976
+_cell_angle_beta     90.07077692096463
+_cell_angle_gamma    90.84986934767608
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.03612658408807474  0.999187349881509  0.3673033119930743  1.0000
+  Zr  Zr1       1.0  0.5356593139161798  0.5019939545104191  0.5665609238483663  1.0000
+  Te  Te1       1.0  0.035765956566946595  0.9999856953728461  0.5646210312282971  1.0000
+  Te  Te2       1.0  0.5399428612048588  0.5017417062924371  0.9869325162767327  1.0000
+  Te  Te3       1.0  0.03909536726818562  0.0016405574146091707  0.1749919655602828  1.0000
+  Te  Te4       1.0  0.5358400932541362  0.5019590253919919  0.7482402322592813  1.0000
+  Na  Na2       1.0  0.03954127372649713  0.002398420435288358  0.8655478955862895  1.0000
+  Te  Te5       1.0  0.5379620788424028  0.49939233044731357  0.3724537489696339  1.0000
+  Mn  Mn1       1.0  0.5397663127398014  0.49904271938610606  0.16379144810751026  1.0000

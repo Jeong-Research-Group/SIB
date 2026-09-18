@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       CdBiNaO4Ca
+_chemical_formula_sum              "Cd1 Bi1 Na1 O4 Ca1"
+_cell_length_a       3.5090399846572513
+_cell_length_b       4.863682555778206
+_cell_length_c       6.919407844543457
+_cell_angle_alpha    89.86914974528028
+_cell_angle_beta     89.83176812084399
+_cell_angle_gamma    89.82497206565867
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.07335876635282981  0.9954977639929651  0.3158044812127523  1.0000
+  Bi  Bi1       1.0  0.5738174913492721  0.4961580624822556  0.04569848641531899  1.0000
+  Na  Na1       1.0  0.5737066866216624  0.4955561458890639  0.5424189565278796  1.0000
+  O   O1        1.0  0.07420271658628602  0.4956092829660831  0.8187908537450291  1.0000
+  O   O2        1.0  0.07256916047647044  0.49635052709708355  0.2763432864383849  1.0000
+  O   O3        1.0  0.5738471734132038  0.9955124854552565  0.5437351459745191  1.0000
+  O   O4        1.0  0.5745502716259812  0.9950504906041474  0.046411544030407544  1.0000
+  Ca  Ca1       1.0  0.07422207953180442  0.9956726430397794  0.7784746293729071  1.0000

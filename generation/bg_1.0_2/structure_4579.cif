@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       TiNa2NClN
+_chemical_formula_sum              "Ti1 Na2 N2 Cl1"
+_cell_length_a       3.4253404284448834
+_cell_length_b       3.4079789010613792
+_cell_length_c       7.8811869621276855
+_cell_angle_alpha    77.23728884460071
+_cell_angle_beta     103.00044064472554
+_cell_angle_gamma    90.55854797195748
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.2074096489122082  0.6666678199180889  0.04026904710595442  1.0000
+  Na  Na1       1.0  0.8862743368083038  0.9892423167773818  0.4008513093616322  1.0000
+  Na  Na2       1.0  0.5581279987152936  0.31919741555685666  0.7433275581566229  1.0000
+  N   N1        1.0  0.07591853954319908  0.8003880979918014  0.7812392115213258  1.0000
+  Cl  Cl1       1.0  0.3741231567800281  0.5017639981406153  0.3748101896304694  1.0000
+  N   N2        1.0  0.7181742181853712  0.15826731912733039  0.060121956602868135  1.0000

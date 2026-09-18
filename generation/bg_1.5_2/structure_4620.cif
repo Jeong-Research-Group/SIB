@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       NaClHAlBaHClH2
+_chemical_formula_sum              "Na1 Cl2 H4 Al1 Ba1"
+_cell_length_a       6.104322516447871
+_cell_length_b       5.919267684473935
+_cell_length_c       5.957751750946045
+_cell_angle_alpha    60.9481682077316
+_cell_angle_beta     59.189414922571046
+_cell_angle_gamma    59.30339159436491
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.8160495162990032  0.14787232781843537  0.5699891456396066  1.0000
+  Cl  Cl1       1.0  0.3021709312967426  0.6297597890024187  0.5887129302856323  1.0000
+  H   H1        1.0  0.28519788444530686  0.17708708369016438  0.6053340428106061  1.0000
+  Al  Al1       1.0  0.0654968688217761  0.39326021017815715  0.8255556825765081  1.0000
+  Ba  Ba1       1.0  0.31534424340772677  0.6473665240563949  0.07062777159879323  1.0000
+  H   H2        1.0  0.27842021016966545  0.17894792508560928  0.038752742816429285  1.0000
+  Cl  Cl2       1.0  0.8313896059142474  0.6292148232415844  0.5865156657412225  1.0000
+  H   H3        1.0  0.851087153470997  0.17972707648941808  0.0389817364787362  1.0000
+  H   H4        1.0  0.8476142876420968  0.6123692389516411  0.04105459579719129  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       NaCaGaIn
+_chemical_formula_sum              "Na1 Ca1 Ga1 In1"
+_cell_length_a       5.278476721816265
+_cell_length_b       5.2839219881887844
+_cell_length_c       5.284927845001221
+_cell_angle_alpha    60.06089335571249
+_cell_angle_beta     60.04138826744484
+_cell_angle_gamma    60.03530072398602
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.430782676104325  0.8395487672822156  0.2660310258251623  1.0000
+  Ca  Ca1       1.0  0.6817458875114485  0.08888966635805089  0.5167391294948328  1.0000
+  Ga  Ga1       1.0  0.9319548594612761  0.34062343890373425  0.7649664883265703  1.0000
+  In  In1       1.0  0.18145057448215088  0.5898809438995505  0.015011042246966273  1.0000

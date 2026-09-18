@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Na2CdNaAs2
+_chemical_formula_sum              "Na3 Cd1 As2"
+_cell_length_a       4.718106851426844
+_cell_length_b       4.72800063574709
+_cell_length_c       6.7203803062438965
+_cell_angle_alpha    90.24410663117537
+_cell_angle_beta     89.93078537090035
+_cell_angle_gamma    90.23659342690749
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.4073881506919861  0.32312771677970886  0.37734514474868774  1.0000
+  Na  Na2       1.0  0.40803295373916626  0.3218722641468048  0.8764309287071228  1.0000
+  Cd  Cd1       1.0  0.9080342054367065  0.8210103511810303  0.8771270513534546  1.0000
+  Na  Na3       1.0  0.9072480201721191  0.8225823640823364  0.376822829246521  1.0000
+  As  As1       1.0  0.4082840085029602  0.8230875730514526  0.6383020281791687  1.0000
+  As  As2       1.0  0.9071919322013855  0.3205973207950592  0.1154882088303566  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Au2TiNa2Au
+_chemical_formula_sum              "Au3 Ti1 Na2"
+_cell_length_a       4.782930987649068
+_cell_length_b       4.77192442995818
+_cell_length_c       5.865572452545166
+_cell_angle_alpha    90.0433332252622
+_cell_angle_beta     90.14980903873756
+_cell_angle_gamma    59.90918889379003
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.7555540207356617  0.5601573598207558  0.11992143828962314  1.0000
+  Au  Au2       1.0  0.4227313693238201  0.22742781128552136  0.4674081502651523  1.0000
+  Ti  Ti1       1.0  0.42235636765417706  0.2273551682562133  0.9664191610129698  1.0000
+  Na  Na1       1.0  0.08895122186741487  0.8940899372775576  0.30074959980072286  1.0000
+  Na  Na2       1.0  0.7560434345379593  0.5608193285986481  0.6329858891844948  1.0000
+  Au  Au3       1.0  0.08964782186674314  0.8946826465593645  0.8135042192237766  1.0000

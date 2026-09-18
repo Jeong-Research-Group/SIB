@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       OSbOCuO2
+_chemical_formula_sum              "O4 Sb1 Cu1"
+_cell_length_a       3.0020373620015066
+_cell_length_b       5.163159924649848
+_cell_length_c       5.9379096031188965
+_cell_angle_alpha    83.7120762023581
+_cell_angle_beta     93.09021236970588
+_cell_angle_gamma    89.39715629157705
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.9818776845932008  0.7831336855888367  0.36238053441047674  1.0000
+  Sb  Sb1       1.0  0.45990052819252014  0.6401949524879456  0.1932473033666611  1.0000
+  O   O2        1.0  0.4378243088722229  0.9904925227165222  0.0298477727919817  1.0000
+  Cu  Cu1       1.0  0.9577425122261047  0.14039713144302368  0.19025313854217532  1.0000
+  O   O3        1.0  0.9420790672302246  0.49368345737457275  0.02079055272042752  1.0000
+  O   O4        1.0  0.4798099994659424  0.2851429283618927  0.3528788089752197  1.0000

@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       NaAuHg
+_chemical_formula_sum              "Na1 Au1 Hg1"
+_cell_length_a       4.892819656941165
+_cell_length_b       3.176458094859188
+_cell_length_c       4.868642807006836
+_cell_angle_alpha    90.26813523401704
+_cell_angle_beta     60.27533612702761
+_cell_angle_gamma    90.36840241690999
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.746088563235865  0.47685748426178376  0.9004327069838465  1.0000
+  Au  Au1       1.0  0.41172683299744844  0.9762322320632797  0.570345639855994  1.0000
+  Hg  Hg1       1.0  0.07931862799784073  0.9766716368561571  0.23656989624035737  1.0000

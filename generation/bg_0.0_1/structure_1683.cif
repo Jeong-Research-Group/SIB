@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NaH3Ir
+_chemical_formula_sum              "Na1 H3 Ir1"
+_cell_length_a       3.788641108222167
+_cell_length_b       3.776807221005537
+_cell_length_c       3.7849111557006836
+_cell_angle_alpha    90.11806916548153
+_cell_angle_beta     89.98485997456294
+_cell_angle_gamma    89.9755914067159
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.6081776023208558  0.8233286750517864  0.312270225143739  1.0000
+  H   H1        1.0  0.10833171669666421  0.8226234905556365  0.8120970720742247  1.0000
+  H   H2        1.0  0.608405529948568  0.3234911563510817  0.812378585975116  1.0000
+  H   H3        1.0  0.10831985747648648  0.3231933406499604  0.3123281005788521  1.0000
+  Ir  Ir1       1.0  0.1074651559000169  0.322726191070075  0.8121505962956608  1.0000

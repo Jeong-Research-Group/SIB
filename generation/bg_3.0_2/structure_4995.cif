@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NaIMgO4
+_chemical_formula_sum              "Na1 I1 Mg1 O4"
+_cell_length_a       3.2049889828485427
+_cell_length_b       5.215453021498118
+_cell_length_c       5.767518520355225
+_cell_angle_alpha    73.51716986388202
+_cell_angle_beta     90.17134464082874
+_cell_angle_gamma    89.93777948525472
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.7349128718996879  0.7446441057527046  0.6307733652588408  1.0000
+  I   I1        1.0  0.7346696844495628  0.2445403643263306  0.13046085736914761  1.0000
+  Mg  Mg1       1.0  0.23432113091926715  0.7446223505944233  0.13095140430343435  1.0000
+  O   O1        1.0  0.23107324511698876  0.020984773734291976  0.32835936580186453  1.0000
+  O   O2        1.0  0.7364235520548954  0.506415784649778  0.3143725984035561  1.0000
+  O   O3        1.0  0.734239221709546  0.9831886284833872  0.9468884471867787  1.0000
+  O   O4        1.0  0.23865386726137344  0.4686225957118428  0.9324363473087995  1.0000

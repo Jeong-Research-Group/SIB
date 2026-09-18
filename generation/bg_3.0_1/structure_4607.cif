@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Na2Br2Na2Br2Li
+_chemical_formula_sum              "Na4 Br4 Li1"
+_cell_length_a       5.352461412517616
+_cell_length_b       5.430096907947513
+_cell_length_c       8.632030487060547
+_cell_angle_alpha    89.13805317036363
+_cell_angle_beta     89.95703378667409
+_cell_angle_gamma    89.88296720796781
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.7236523032983085  0.6703582409045544  0.7184183000029445  1.0000
+  Na  Na2       1.0  0.22377939603607877  0.17194503590441162  0.7827737925497078  1.0000
+  Br  Br1       1.0  0.7251128563608362  0.17317377065331002  0.02441567934423222  1.0000
+  Br  Br2       1.0  0.7226661441436683  0.17345382186426525  0.5272048111518586  1.0000
+  Na  Na3       1.0  0.22450540936100652  0.1727866077232548  0.268749863232307  1.0000
+  Na  Na4       1.0  0.7224996093837966  0.6735900638894613  0.32449078504085765  1.0000
+  Br  Br3       1.0  0.2249542923801886  0.6723898641475099  0.02613490847081335  1.0000
+  Br  Br4       1.0  0.22295325981256967  0.6738228802983662  0.5224440098426708  1.0000
+  Li  Li1       1.0  0.7254353757766343  0.6725971697850198  0.022867052162407545  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NaTlNa3Tl2
+_chemical_formula_sum              "Na4 Tl3"
+_cell_length_a       5.272959368139186
+_cell_length_b       6.569051623485715
+_cell_length_c       7.689952850341797
+_cell_angle_alpha    126.37185981183103
+_cell_angle_beta     90.21832950143188
+_cell_angle_gamma    89.92229543260918
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.2845887839794159  0.48713919520378113  0.44170767068862915  1.0000
+  Tl  Tl1       1.0  0.28448495268821716  0.9672161340713501  0.4198618829250336  1.0000
+  Na  Na2       1.0  0.7842056751251221  0.98719722032547  0.1762828677892685  1.0000
+  Na  Na3       1.0  0.2842625677585602  0.488899052143097  0.9142888784408569  1.0000
+  Na  Na4       1.0  0.7843345999717712  0.9890743494033813  0.6774507164955139  1.0000
+  Tl  Tl2       1.0  0.7832434773445129  0.4882661104202271  0.17666016519069672  1.0000
+  Tl  Tl3       1.0  0.2831399738788605  0.009056360460817814  0.9371960759162903  1.0000

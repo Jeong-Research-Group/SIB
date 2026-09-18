@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       MoMg4NaMg
+_chemical_formula_sum              "Mo1 Mg5 Na1"
+_cell_length_a       4.684618192577139
+_cell_length_b       5.888632730025428
+_cell_length_c       5.9368815422058105
+_cell_angle_alpha    107.47273137575527
+_cell_angle_beta     90.1924362595373
+_cell_angle_gamma    89.95901454225815
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.7211515308750577  0.6098908790496342  0.4530883433813812  1.0000
+  Mg  Mg1       1.0  0.7202793951598799  0.143809750138977  0.5157775873451995  1.0000
+  Mg  Mg2       1.0  0.22118204833101937  0.8386596443148294  0.7018152474293211  1.0000
+  Mg  Mg3       1.0  0.7220144264604171  0.12223589485227196  0.01423551510104908  1.0000
+  Mg  Mg4       1.0  0.22107061663717775  0.3844601503409438  0.2431097774119137  1.0000
+  Na  Na1       1.0  0.22176602454945882  0.8644823431942128  0.221810579022767  1.0000
+  Mg  Mg5       1.0  0.7203680281194568  0.5793055292767558  0.9299192422791974  1.0000

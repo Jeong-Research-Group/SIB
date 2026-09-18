@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       ClNaTiS
+_chemical_formula_sum              "Cl1 Na1 Ti1 S1"
+_cell_length_a       3.7263144845598886
+_cell_length_b       3.6941848329142504
+_cell_length_c       5.479997158050537
+_cell_angle_alpha    90.08290734254649
+_cell_angle_beta     90.15165319931508
+_cell_angle_gamma    89.99250978721497
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.9660155771840659  0.1666029847254555  0.8987056020162544  1.0000
+  Na  Na1       1.0  0.46572291856280695  0.6671262379699903  0.8984858986220154  1.0000
+  Ti  Ti1       1.0  0.9668968927769738  0.16541363312722568  0.39899599518379936  1.0000
+  S   S1        1.0  0.465989529530403  0.6650510418349123  0.39872574831373425  1.0000

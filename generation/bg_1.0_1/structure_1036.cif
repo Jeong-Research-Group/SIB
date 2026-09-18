@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NaCuNaI2
+_chemical_formula_sum              "Na2 Cu1 I2"
+_cell_length_a       4.624316739620932
+_cell_length_b       4.624491979550677
+_cell_length_c       7.576837539672852
+_cell_angle_alpha    89.74032556158807
+_cell_angle_beta     89.86707336897217
+_cell_angle_gamma    59.618506131112234
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.2564775648696191  0.909379541532552  0.5358977914417946  1.0000
+  Cu  Cu1       1.0  0.9218493094858793  0.5753287083642761  0.1779665202391344  1.0000
+  Na  Na2       1.0  0.589990140557421  0.2434438605444715  0.9115585687989033  1.0000
+  I   I1        1.0  0.5898145442844385  0.2427009642745943  0.29545518775472007  1.0000
+  I   I2        1.0  0.922423184505891  0.5761623974411365  0.7884241941389456  1.0000

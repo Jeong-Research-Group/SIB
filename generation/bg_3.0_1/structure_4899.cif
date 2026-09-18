@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NaGaNaF3KF
+_chemical_formula_sum              "Na2 Ga1 F4 K1"
+_cell_length_a       5.853955211604533
+_cell_length_b       5.883133580979113
+_cell_length_c       5.9439496994018555
+_cell_angle_alpha    60.620270950604535
+_cell_angle_beta     61.40634235496956
+_cell_angle_gamma    60.2454175115057
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.5851871365125094  0.4080248777028276  0.2557175452426911  1.0000
+  Ga  Ga1       1.0  0.08677442343743974  0.9081780313256788  0.6929714675632246  1.0000
+  Na  Na2       1.0  0.831469774881655  0.6554461120821946  0.48204118008151586  1.0000
+  F   F1        1.0  0.8451495765601418  0.14647671541972454  0.5123554463143601  1.0000
+  F   F2        1.0  0.31025680826233626  0.13287535369252182  0.5133362407544488  1.0000
+  F   F3        1.0  0.3236967326524268  0.6675540810276445  0.5122302771673402  1.0000
+  K   K1        1.0  0.3388811639845407  0.1614173205660383  0.9811915170329457  1.0000
+  F   F4        1.0  0.8617738482353141  0.6838380102981962  0.9580637809529436  1.0000

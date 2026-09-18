@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       HgNaTl
+_chemical_formula_sum              "Hg1 Na1 Tl1"
+_cell_length_a       4.971520521570168
+_cell_length_b       4.977916209469161
+_cell_length_c       4.961058139801025
+_cell_angle_alpha    60.061425535515795
+_cell_angle_beta     59.99427992455004
+_cell_angle_gamma    59.896714216370604
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.505287348293238  0.8652400379361833  0.6639593835290099  1.0000
+  Na  Na1       1.0  0.7534088496548388  0.11526287368315423  0.9147930740580518  1.0000
+  Tl  Tl1       1.0  0.25305199743257556  0.615722059172452  0.41548389226327453  1.0000

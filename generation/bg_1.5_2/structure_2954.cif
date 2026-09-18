@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NaMgNaTeNaTeZn
+_chemical_formula_sum              "Na3 Mg1 Te2 Zn1"
+_cell_length_a       4.981914314855416
+_cell_length_b       4.972859813849574
+_cell_length_c       9.4550142288208
+_cell_angle_alpha    90.16999908093682
+_cell_angle_beta     90.05358533665341
+_cell_angle_gamma    119.97060577755946
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.8417171240325841  0.5792680374010275  0.2950700817354475  1.0000
+  Mg  Mg1       1.0  0.17805735756636434  0.2510311007239043  0.061072442377008006  1.0000
+  Na  Na2       1.0  0.17160090770361275  0.2428769182612321  0.5399105546947743  1.0000
+  Te  Te1       1.0  0.5120168328269811  0.9152390945442915  0.08850406090049105  1.0000
+  Na  Na3       1.0  0.5074315666328613  0.9100741753598643  0.7654172177030626  1.0000
+  Te  Te2       1.0  0.8387195477600546  0.5761356359030393  0.6446049217575344  1.0000
+  Zn  Zn1       1.0  0.844082177480423  0.579271257094044  0.931224227187214  1.0000

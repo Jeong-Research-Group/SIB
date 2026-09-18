@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Na3RhNa3Cr
+_chemical_formula_sum              "Na6 Rh1 Cr1"
+_cell_length_a       5.3335367141597825
+_cell_length_b       6.566173863025788
+_cell_length_c       6.53386926651001
+_cell_angle_alpha    120.26326613953093
+_cell_angle_beta     89.98951816432285
+_cell_angle_gamma    90.10597972337528
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.6714264747766124  0.23745135914960402  0.8024299734561837  1.0000
+  Na  Na2       1.0  0.6721948983395107  0.7735036007706619  0.8006868351169357  1.0000
+  Na  Na3       1.0  0.17148245936872633  0.5918512945669491  0.4478138393682405  1.0000
+  Rh  Rh1       1.0  0.17129304957313224  0.0830347987755114  0.9567748306066731  1.0000
+  Na  Na4       1.0  0.6712920061474497  0.23823529531956833  0.2669360050879789  1.0000
+  Na  Na5       1.0  0.1719598772062301  0.5924280283993506  0.9761494395846353  1.0000
+  Na  Na6       1.0  0.17097504350035297  0.06430199075080673  0.4468940201282204  1.0000
+  Cr  Cr1       1.0  0.6717364796834203  0.7498950957461913  0.29020109738592526  1.0000

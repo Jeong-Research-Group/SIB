@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NaCdNaS2FeS
+_chemical_formula_sum              "Na2 Cd1 S3 Fe1"
+_cell_length_a       3.926737792601388
+_cell_length_b       6.8162277877573265
+_cell_length_c       7.117879867553711
+_cell_angle_alpha    108.23414251791266
+_cell_angle_beta     105.47290108562085
+_cell_angle_gamma    106.5794799401763
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.8416272989697235  0.22208768087616587  0.6578291049109575  1.0000
+  Cd  Cd1       1.0  0.7512875208443033  0.4914027744699881  0.2062575375269862  1.0000
+  Na  Na2       1.0  0.378337293342373  0.9011455773691723  0.04412813864025097  1.0000
+  S   S1        1.0  0.6235631689152704  0.5594978329490841  0.8802853219154965  1.0000
+  S   S2        1.0  0.1201281999500817  0.8474054939747788  0.5841903089739806  1.0000
+  Fe  Fe1       1.0  0.5194211616413331  0.6382721068287568  0.5938088893409883  1.0000
+  S   S3        1.0  0.18090428308954826  0.2773766520778998  0.27248725332186496  1.0000

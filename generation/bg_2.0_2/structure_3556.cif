@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       SeNa2SeTi2Se2
+_chemical_formula_sum              "Se4 Na2 Ti2"
+_cell_length_a       3.7921385799582525
+_cell_length_b       7.252327298811311
+_cell_length_c       6.552124977111816
+_cell_angle_alpha    81.50131497842509
+_cell_angle_beta     89.86368559051182
+_cell_angle_gamma    74.45158342142241
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.9910656226320235  0.6625254152665426  0.9092966920613806  1.0000
+  Na  Na1       1.0  0.8490821714289853  0.9491671327258618  0.528167784839043  1.0000
+  Na  Na2       1.0  0.3475772739703778  0.9473195069342257  0.02907063509376593  1.0000
+  Se  Se2       1.0  0.70439976452805  0.23376686936515148  0.14577867111050805  1.0000
+  Ti  Ti1       1.0  0.09675172600323204  0.44894370434282166  0.27682057088683226  1.0000
+  Ti  Ti2       1.0  0.6001183391760633  0.4484497610607975  0.7793078424337727  1.0000
+  Se  Se3       1.0  0.4936089228050241  0.6627231243690072  0.40870347685160385  1.0000
+  Se  Se4       1.0  0.20662046865768877  0.23546671840293  0.6450245376269095  1.0000

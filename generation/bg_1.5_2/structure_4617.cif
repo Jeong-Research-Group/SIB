@@ -1,0 +1,27 @@
+data_image0
+_chemical_formula_structural       NaEr
+_chemical_formula_sum              "Na1 Er1"
+_cell_length_a       3.3890579247124597
+_cell_length_b       3.385546126263316
+_cell_length_c       4.731422424316406
+_cell_angle_alpha    89.85000472760579
+_cell_angle_beta     89.83185691677761
+_cell_angle_gamma    90.03392122157393
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.8702403914613327  0.22561469739582543  0.6183532468086321  1.0000
+  Er  Er1       1.0  0.36842885466739217  0.7274833928855586  0.1175628893509571  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       FeCoS2NaSNa
+_chemical_formula_sum              "Fe1 Co1 S3 Na2"
+_cell_length_a       3.7399018380102804
+_cell_length_b       4.834244001663704
+_cell_length_c       7.918591022491455
+_cell_angle_alpha    108.77841724156714
+_cell_angle_beta     103.49378582337948
+_cell_angle_gamma    90.4081954905002
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.9368918531446601  0.7629380230050152  0.8192629213314725  1.0000
+  Co  Co1       1.0  0.433290005954598  0.0802228532837894  0.811883926060646  1.0000
+  S   S1        1.0  0.0592574547934735  0.157620818251784  0.06876149758492055  1.0000
+  S   S2        1.0  0.43523234103692565  0.5497068753380514  0.8164096468398941  1.0000
+  Na  Na1       1.0  0.2569880175173567  0.3533965950216733  0.46558764576446654  1.0000
+  S   S3        1.0  0.8087956307387688  0.9012234200539829  0.5627154107503766  1.0000
+  Na  Na2       1.0  0.6067550181193597  0.6997806421517776  0.16558054127158128  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NaSNaSTiSTi
+_chemical_formula_sum              "Na2 S3 Ti2"
+_cell_length_a       3.851911706411479
+_cell_length_b       6.6484298247926565
+_cell_length_c       6.848666667938232
+_cell_angle_alpha    106.77126448474847
+_cell_angle_beta     106.75479625612867
+_cell_angle_gamma    106.24966262372958
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.8255133632001213  0.7780480379063999  0.02513141404859493  1.0000
+  S   S1        1.0  0.05427056864651633  0.6211768991682807  0.6399341823371016  1.0000
+  Na  Na2       1.0  0.34424445047820185  0.15556076137375222  0.698699832579569  1.0000
+  S   S2        1.0  0.11707872135991712  0.3090893035234993  0.08400308372941949  1.0000
+  Ti  Ti1       1.0  0.7096789470638268  0.2863517998790348  0.2924453608840026  1.0000
+  S   S3        1.0  0.586000203870544  0.9661108843617563  0.3620011799815661  1.0000
+  Ti  Ti2       1.0  0.45903119461781183  0.6446870572098051  0.43166390080840406  1.0000

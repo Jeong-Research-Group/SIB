@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Na2BrTlBrAgBr2
+_chemical_formula_sum              "Na2 Br4 Tl1 Ag1"
+_cell_length_a       5.914904229249458
+_cell_length_b       4.264573407691718
+_cell_length_c       8.462667465209961
+_cell_angle_alpha    90.15482241447793
+_cell_angle_beta     89.72852980648754
+_cell_angle_gamma    89.83423382202145
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.36054915124022247  0.7412118317213849  0.5514834525428356  1.0000
+  Na  Na2       1.0  0.36119169037377746  0.7409225695621079  0.05931048135988878  1.0000
+  Br  Br1       1.0  0.8607766037727361  0.7416311501169516  0.05204683525772357  1.0000
+  Tl  Tl1       1.0  0.8604401939737554  0.24094271611573442  0.8056173325241507  1.0000
+  Br  Br2       1.0  0.36046204046076047  0.24114042560686405  0.3057569266166227  1.0000
+  Ag  Ag1       1.0  0.862152159521864  0.24112680631796213  0.3057896193533355  1.0000
+  Br  Br3       1.0  0.8612154122103431  0.7407249210388693  0.560306370103039  1.0000
+  Br  Br4       1.0  0.36080959367543014  0.24047868011697213  0.8055450917019383  1.0000

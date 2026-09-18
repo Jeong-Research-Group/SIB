@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ClNaFeClNaCl
+_chemical_formula_sum              "Cl3 Na2 Fe1"
+_cell_length_a       3.933418692602432
+_cell_length_b       3.937378658867457
+_cell_length_c       8.555299758911133
+_cell_angle_alpha    103.04886032153004
+_cell_angle_beta     76.71135659094233
+_cell_angle_gamma    90.00916877363805
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.6282786140331096  0.09572652660355992  0.4161566194966518  1.0000
+  Na  Na1       1.0  0.45212379069498454  0.2740842697203068  0.7739456895829587  1.0000
+  Fe  Fe1       1.0  0.7822761528326593  0.9413175581783089  0.11359538165809188  1.0000
+  Cl  Cl2       1.0  0.9344867479755778  0.7900065780719865  0.8092095849896495  1.0000
+  Na  Na2       1.0  0.11404631271828122  0.6108055720487661  0.44901973054314037  1.0000
+  Cl  Cl3       1.0  0.27901074385953745  0.443156838861589  0.11124706989819469  1.0000

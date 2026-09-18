@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NaBAsBGa
+_chemical_formula_sum              "Na1 B2 As1 Ga1"
+_cell_length_a       3.8540755657849917
+_cell_length_b       4.57471849781145
+_cell_length_c       5.681858539581299
+_cell_angle_alpha    90.98094742232303
+_cell_angle_beta     89.88677846762694
+_cell_angle_gamma    89.5493466208697
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.34702450139366026  0.47438526154099114  0.22909508573456702  1.0000
+  B   B1        1.0  0.33983856492014825  0.2135165786886939  0.7290109398760335  1.0000
+  As  As1       1.0  0.8429104092458015  0.47117438832646136  0.7296402447577042  1.0000
+  B   B2        1.0  0.3430341491080822  0.7207261315718515  0.7304354908600017  1.0000
+  Ga  Ga1       1.0  0.841281652640148  0.9730845092291646  0.7275697591955652  1.0000

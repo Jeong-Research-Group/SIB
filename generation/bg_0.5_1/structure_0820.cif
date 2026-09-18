@@ -1,0 +1,27 @@
+data_image0
+_chemical_formula_structural       OIn
+_chemical_formula_sum              "O1 In1"
+_cell_length_a       3.29884077719597
+_cell_length_b       3.2895556549825664
+_cell_length_c       3.2924678325653076
+_cell_angle_alpha    120.12533737887418
+_cell_angle_beta     59.93676283018767
+_cell_angle_gamma    120.19783385873382
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.4720605619942621  0.3870109930770327  0.689749302194976  1.0000
+  In  In1       1.0  0.9737435567919449  0.8852345347799535  0.18939222597549568  1.0000

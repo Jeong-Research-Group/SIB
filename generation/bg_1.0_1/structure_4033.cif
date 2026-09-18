@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       PBaNaCd2
+_chemical_formula_sum              "P1 Ba1 Na1 Cd2"
+_cell_length_a       5.323856649352409
+_cell_length_b       5.304297976288646
+_cell_length_c       5.80685567855835
+_cell_angle_alpha    89.84234808231463
+_cell_angle_beta     89.66872467899448
+_cell_angle_gamma    89.81168052395435
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  P   P1        1.0  0.9758315081957564  0.6170550587496978  0.41580384943457266  1.0000
+  Ba  Ba1       1.0  0.47372618251061227  0.11543039925615163  0.9163145418940359  1.0000
+  Na  Na1       1.0  0.9743144517151301  0.616626023503363  0.9155542857718216  1.0000
+  Cd  Cd1       1.0  0.4748909480816982  0.6169809690979157  0.41535005042956424  1.0000
+  Cd  Cd2       1.0  0.9740332368576571  0.11685996435664782  0.4154448804893957  1.0000

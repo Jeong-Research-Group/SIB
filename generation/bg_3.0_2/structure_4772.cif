@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Na2H2BH2
+_chemical_formula_sum              "Na2 H4 B1"
+_cell_length_a       4.8345562678895755
+_cell_length_b       4.848240755786998
+_cell_length_c       5.047811508178711
+_cell_angle_alpha    60.787443254486476
+_cell_angle_beta     60.85756649071024
+_cell_angle_gamma    59.97810319274961
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.24251654756563834  0.7862162586611714  0.6389716870395407  1.0000
+  Na  Na2       1.0  0.7422889468358012  0.28966841112848657  0.1331580879433837  1.0000
+  H   H1        1.0  0.7897953991888076  0.7575184117434053  0.5676928756368846  1.0000
+  H   H2        1.0  0.21231093876655663  0.3345593218321848  0.5702474122914263  1.0000
+  B   B1        1.0  0.9693629733182592  0.5134890681165393  0.45155626584025976  1.0000
+  H   H3        1.0  0.07386136781487201  0.616308451744381  0.1386908443946686  1.0000
+  H   H4        1.0  0.7870517965422035  0.33343619047634093  0.5677568319838985  1.0000

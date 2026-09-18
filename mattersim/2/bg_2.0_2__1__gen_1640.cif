@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       FNa2FCoF2
+_chemical_formula_sum              "F4 Na2 Co1"
+_cell_length_a       2.9798628661210667
+_cell_length_b       5.761025841470703
+_cell_length_c       5.381787300109863
+_cell_angle_alpha    66.18285892171677
+_cell_angle_beta     73.91597763408826
+_cell_angle_gamma    75.0606901389304
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.888637125492096  0.18051639199256897  0.7148042321205139  1.0000
+  Na  Na1       1.0  0.8900885581970216  0.577053964138031  0.3193482458591461  1.0000
+  Na  Na2       1.0  0.5885517001152039  0.9492321014404297  0.5535300374031068  1.0000
+  F   F2        1.0  0.19758224487304688  0.6024052500724792  0.6797938942909241  1.0000
+  Co  Co1       1.0  0.23969876766204837  0.2629799246788025  0.9366759061813354  1.0000
+  F   F3        1.0  0.2803817093372345  0.9238911271095276  0.19365327060222626  1.0000
+  F   F4        1.0  0.5886095762252808  0.3472193777561188  0.1583124548196793  1.0000

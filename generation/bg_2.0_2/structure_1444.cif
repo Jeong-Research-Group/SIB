@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       BiSSrSNa
+_chemical_formula_sum              "Bi1 S2 Sr1 Na1"
+_cell_length_a       4.715851799542091
+_cell_length_b       4.744509456068255
+_cell_length_c       6.424018383026123
+_cell_angle_alpha    90.04057382746788
+_cell_angle_beta     90.38565549913147
+_cell_angle_gamma    60.35750132390086
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.4287354651327236  0.011719673643990436  0.7393305307453607  1.0000
+  S   S1        1.0  0.09624314977575177  0.678420484663073  0.8463335043057042  1.0000
+  Sr  Sr1       1.0  0.09572843506079579  0.6775264144478281  0.37508568223235017  1.0000
+  S   S2        1.0  0.4297338126420625  0.014061991811890925  0.31393206084530717  1.0000
+  Na  Na1       1.0  0.7627513409221344  0.34529316382987496  0.08404788419644643  1.0000

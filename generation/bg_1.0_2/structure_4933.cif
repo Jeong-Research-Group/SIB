@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       SeNbNaSeNbSe2
+_chemical_formula_sum              "Se4 Nb2 Na1"
+_cell_length_a       3.8351363165099848
+_cell_length_b       3.843461203140169
+_cell_length_c       11.030616760253906
+_cell_angle_alpha    90.36644216414189
+_cell_angle_beta     90.75528482676567
+_cell_angle_gamma    92.12032574954999
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.7054279444636268  0.25337913546792284  0.7307701110840643  1.0000
+  Nb  Nb1       1.0  0.7056649338635175  0.25325024098833876  0.4939860404959319  1.0000
+  Na  Na1       1.0  0.20614154546596436  0.7540041798035853  0.227654516558885  1.0000
+  Se  Se2       1.0  0.7057948103054976  0.2538270050549476  0.2276526241025215  1.0000
+  Nb  Nb2       1.0  0.7071670882153881  0.25384640757311466  0.965682327984568  1.0000
+  Se  Se3       1.0  0.20533133917649563  0.7533686171503196  0.49045869704061446  1.0000
+  Se  Se4       1.0  0.2061523195485705  0.7531883705685066  0.9683979753090368  1.0000

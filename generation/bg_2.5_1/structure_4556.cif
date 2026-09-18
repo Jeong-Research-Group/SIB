@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       ZnOMgONa
+_chemical_formula_sum              "Zn1 O2 Mg1 Na1"
+_cell_length_a       3.0124433080158224
+_cell_length_b       3.0024877358961364
+_cell_length_c       7.256527423858643
+_cell_angle_alpha    102.62807873338518
+_cell_angle_beta     101.69892857091601
+_cell_angle_gamma    90.26219330627336
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.8791114699296707  0.9676054136564295  0.10845598559303987  1.0000
+  O   O1        1.0  0.3716768016484815  0.46037396773830463  0.09386737685382815  1.0000
+  Mg  Mg1       1.0  0.5163174863117072  0.6139197350166196  0.3994300664731418  1.0000
+  O   O2        1.0  0.027578551947855544  0.1233901000434507  0.41815438825927914  1.0000
+  Na  Na1       1.0  0.20141598496270383  0.2935123133010756  0.760420798974238  1.0000

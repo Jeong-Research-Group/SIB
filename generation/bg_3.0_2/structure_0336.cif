@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ClNaBiOClO
+_chemical_formula_sum              "Cl2 Na1 Bi1 O2"
+_cell_length_a       4.75944808136661
+_cell_length_b       4.595940053644418
+_cell_length_c       6.653860092163086
+_cell_angle_alpha    89.95574287784086
+_cell_angle_beta     89.41849386123523
+_cell_angle_gamma    90.27565527472039
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.5550046566151278  0.53367507514201  0.5302791000231702  1.0000
+  Na  Na1       1.0  0.5564571629172088  0.03277932100678987  0.7888420816915565  1.0000
+  Bi  Bi1       1.0  0.05603049008248103  0.5339053876776388  0.2883607738063256  1.0000
+  O   O1        1.0  0.057665180023092365  0.03410175391916303  0.05481123854726289  1.0000
+  Cl  Cl2       1.0  0.557629585405074  0.5328086022584624  0.04235257272936663  1.0000
+  O   O2        1.0  0.05628968740746947  0.03309227485613647  0.5207971327805481  1.0000

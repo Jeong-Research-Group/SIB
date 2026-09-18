@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       H2CaHNaIr
+_chemical_formula_sum              "H3 Ca1 Na1 Ir1"
+_cell_length_a       3.620420320909595
+_cell_length_b       3.9564943672146207
+_cell_length_c       5.823348522186279
+_cell_angle_alpha    109.71330101458372
+_cell_angle_beta     89.93283441463774
+_cell_angle_gamma    90.03737730080391
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.3472712634282579  0.18595354215918034  0.12678363903089376  1.0000
+  H   H2        1.0  0.8472968329029333  0.9562374349392864  0.6624529366230341  1.0000
+  Ca  Ca1       1.0  0.3467806868846744  0.7944378246836079  0.34633788386347697  1.0000
+  H   H3        1.0  0.8479694122431817  0.6580078591955695  0.07339528136008118  1.0000
+  Na  Na1       1.0  0.3475421357299139  0.5125521426993146  0.7860928175655291  1.0000
+  Ir  Ir1       1.0  0.8470312942933264  0.13232046477197934  0.0174892530015632  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       OLiOBiNaO2
+_chemical_formula_sum              "O4 Li1 Bi1 Na1"
+_cell_length_a       3.2074321104643286
+_cell_length_b       5.612592973871781
+_cell_length_c       5.743388652801514
+_cell_angle_alpha    106.22597636896457
+_cell_angle_beta     90.48012384555132
+_cell_angle_gamma    73.01705092712908
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.2749633788762041  0.44593605348434384  0.3421409724355478  1.0000
+  Li  Li1       1.0  0.9026700862376829  0.19734877442806664  0.357387840596204  1.0000
+  O   O2        1.0  0.00017845562524033295  0.9964990023216534  0.9920139319866518  1.0000
+  Bi  Bi1       1.0  0.12890604142792186  0.7363529204644865  0.6574096089758011  1.0000
+  Na  Na1       1.0  0.3503189963062031  0.29618167940552803  0.9412884722488363  1.0000
+  O   O3        1.0  0.5145398969880207  0.9580944767630358  0.5397506956821496  1.0000
+  O   O4        1.0  0.7424198973295941  0.5118214491939664  0.7578948731850556  1.0000

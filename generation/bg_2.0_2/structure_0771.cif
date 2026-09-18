@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Na2AlNa2
+_chemical_formula_sum              "Na4 Al1"
+_cell_length_a       5.43326711700563
+_cell_length_b       5.39528892733737
+_cell_length_c       6.258053302764893
+_cell_angle_alpha    114.2653494821021
+_cell_angle_beta     65.91649598186311
+_cell_angle_gamma    119.17887869232806
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.016020786333565927  0.3159331392033493  0.5264581443203161  1.0000
+  Na  Na2       1.0  0.6136249901019845  0.719838916223521  0.739121735190926  1.0000
+  Al  Al1       1.0  0.8175570973724258  0.5175676350467344  0.13295403100946346  1.0000
+  Na  Na3       1.0  0.21281810016367309  0.12119688797765542  0.9447377330010022  1.0000
+  Na  Na4       1.0  0.4199504546902899  0.9139298794886533  0.31982609692061165  1.0000

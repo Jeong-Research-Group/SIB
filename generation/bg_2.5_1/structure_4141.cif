@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CdNa2H2LiH
+_chemical_formula_sum              "Cd1 Na2 H3 Li1"
+_cell_length_a       3.9469300064078365
+_cell_length_b       6.610336334128349
+_cell_length_c       4.020151615142822
+_cell_angle_alpha    90.64119331208892
+_cell_angle_beta     90.35864208664334
+_cell_angle_gamma    90.5553515368206
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.9399291862392978  0.44958636098972055  0.23613008901585125  1.0000
+  Na  Na1       1.0  0.43890637278694616  0.7058921455916393  0.7370041602548845  1.0000
+  Na  Na2       1.0  0.44114702948429946  0.19868427558827131  0.7369644630966812  1.0000
+  H   H1        1.0  0.9395064112029682  0.9546613100441163  0.7372742900246346  1.0000
+  H   H2        1.0  0.4402107299776616  0.4548696581819008  0.2357686746585519  1.0000
+  Li  Li1       1.0  0.939559279881091  0.9528882501081957  0.23608773847266754  1.0000
+  H   H3        1.0  0.9394495489518861  0.4523024255039283  0.7351651780615354  1.0000

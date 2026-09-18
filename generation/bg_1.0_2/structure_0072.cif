@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ti2Na2As2
+_chemical_formula_sum              "Ti2 Na2 As2"
+_cell_length_a       4.067534978415764
+_cell_length_b       4.072837684849324
+_cell_length_c       9.527743339538574
+_cell_angle_alpha    89.74940287609277
+_cell_angle_beta     89.86661573890932
+_cell_angle_gamma    119.06945760690076
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.08676478967618662  0.719122470383013  0.3926723305699266  1.0000
+  Ti  Ti2       1.0  0.7458599224557773  0.04594548122839818  0.8938590888802281  1.0000
+  Na  Na1       1.0  0.41641324792900203  0.38234725732167807  0.1426014601477709  1.0000
+  Na  Na2       1.0  0.4169267705149808  0.3820448821783311  0.6422725316762158  1.0000
+  As  As1       1.0  0.08117624373076143  0.7117416846378906  0.8923568127126699  1.0000
+  As  As2       1.0  0.7509641645513578  0.05437583349392438  0.39399313979172057  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NaCaTiNaAu
+_chemical_formula_sum              "Na2 Ca1 Ti1 Au1"
+_cell_length_a       5.093628792480941
+_cell_length_b       7.760318293971806
+_cell_length_c       5.081946849822998
+_cell_angle_alpha    49.48874292422182
+_cell_angle_beta     59.51728586297453
+_cell_angle_gamma    49.24132242756548
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.7987672082357115  0.2257174101155628  0.563436806942956  1.0000
+  Ca  Ca1       1.0  0.19623208056455155  0.6312148579938371  0.9634930473920115  1.0000
+  Ti  Ti1       1.0  0.9911629553794727  0.4378608458743339  0.7582771791084336  1.0000
+  Na  Na2       1.0  0.6022079591326776  0.02086435780745444  0.3709177665981217  1.0000
+  Au  Au1       1.0  0.3998983802485839  0.8244494790097464  0.16784331207578446  1.0000

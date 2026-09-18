@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Na2AgNaSe2
+_chemical_formula_sum              "Na3 Ag1 Se2"
+_cell_length_a       4.599553915888104
+_cell_length_b       5.242111184703643
+_cell_length_c       7.152092456817627
+_cell_angle_alpha    85.6803242316143
+_cell_angle_beta     107.72904905574677
+_cell_angle_gamma    89.44789101315624
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.663305222752237  0.5296557553384559  0.4041501586798913  1.0000
+  Na  Na2       1.0  0.4020529986643107  0.7913867235758079  0.8820250041178082  1.0000
+  Ag  Ag1       1.0  0.9014391893129061  0.2915191650906507  0.8824457521961646  1.0000
+  Na  Na3       1.0  0.14196738672102716  0.051683328476291306  0.3608480397769071  1.0000
+  Se  Se1       1.0  0.7692481883138046  0.004959940483405958  0.6183025239837001  1.0000
+  Se  Se2       1.0  0.03553817766352471  0.5792145736294738  0.14691854942118743  1.0000

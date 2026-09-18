@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       CdSbAuNa
+_chemical_formula_sum              "Cd1 Sb1 Au1 Na1"
+_cell_length_a       4.562847496450411
+_cell_length_b       4.393896708764671
+_cell_length_c       4.701170444488525
+_cell_angle_alpha    89.47402328194481
+_cell_angle_beta     89.56188004237484
+_cell_angle_gamma    89.55609486592847
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.3882502324747129  0.5964321489450859  0.8823013296341751  1.0000
+  Sb  Sb1       1.0  0.8874074818475634  0.09593709510404598  0.8817700138915653  1.0000
+  Au  Au1       1.0  0.3886019892300779  0.09608573464030251  0.38154178918882525  1.0000
+  Na  Na1       1.0  0.8875736008481545  0.5966807593010373  0.38132947712396076  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Li2LaSSeNaS
+_chemical_formula_sum              "Li2 La1 S2 Se1 Na1"
+_cell_length_a       4.086835431312525
+_cell_length_b       4.1134133048761266
+_cell_length_c       10.337608337402344
+_cell_angle_alpha    89.9615826909883
+_cell_angle_beta     89.552768537378
+_cell_angle_gamma    89.37716441466888
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.01999186168743533  0.8772141930835714  0.546262741543701  1.0000
+  Li  Li2       1.0  0.5166714787064632  0.37572342107384665  0.323696464273262  1.0000
+  La  La1       1.0  0.018801240388617885  0.875144003691244  0.04637313259192662  1.0000
+  S   S1        1.0  0.020719247594700216  0.8757116194833328  0.7654972072480087  1.0000
+  Se  Se1       1.0  0.5185613627349203  0.3753645421175885  0.059508308890260986  1.0000
+  Na  Na1       1.0  0.5214510570227083  0.3751845349507309  0.7666896584099177  1.0000
+  S   S2        1.0  0.017215077961139563  0.8771605483221355  0.32298940433182866  1.0000

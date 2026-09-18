@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NaNCr2NO2
+_chemical_formula_sum              "Na1 N2 Cr2 O2"
+_cell_length_a       2.872223974007448
+_cell_length_b       2.872415212224767
+_cell_length_c       11.11270809173584
+_cell_angle_alpha    90.52751168884383
+_cell_angle_beta     90.43893093146806
+_cell_angle_gamma    60.936367370011695
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.9173165537472704  0.2232070434870348  0.14219902416441355  1.0000
+  N   N1        1.0  0.913325072698927  0.22337514181679075  0.8158544894138375  1.0000
+  Cr  Cr1       1.0  0.5794952520747825  0.8903037316703699  0.8927297594454827  1.0000
+  Cr  Cr2       1.0  0.5826836812283819  0.8970133659078116  0.38931313149431146  1.0000
+  N   N2        1.0  0.9172547437279281  0.2313413035014671  0.46579939090193756  1.0000
+  O   O1        1.0  0.2500037839957971  0.5629745139647884  0.29170075094708386  1.0000
+  O   O2        1.0  0.24697278367715148  0.5554108618268409  0.9901047943148419  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NaKBiCl5
+_chemical_formula_sum              "Na1 K1 Bi1 Cl5"
+_cell_length_a       7.670471994853872
+_cell_length_b       7.602734405920567
+_cell_length_c       7.669614791870117
+_cell_angle_alpha    58.54526853475671
+_cell_angle_beta     60.16000743718467
+_cell_angle_gamma    60.11141087163384
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.4653518801911673  0.5743857623979735  0.8129742147784718  1.0000
+  K   K1        1.0  0.7073310023459508  0.8330928088286013  0.0722536140630397  1.0000
+  Bi  Bi1       1.0  0.9580444698757293  0.08144682631924759  0.3214925827971372  1.0000
+  Cl  Cl1       1.0  0.7088592655509056  0.8352390525853318  0.5702518219827917  1.0000
+  Cl  Cl2       1.0  0.20484832001031034  0.32972732176418584  0.07589573374621789  1.0000
+  Cl  Cl3       1.0  0.7098113300225576  0.3304560481463172  0.07527261978071662  1.0000
+  Cl  Cl4       1.0  0.20371159928276436  0.8380746248887233  0.5703934434316482  1.0000
+  Cl  Cl5       1.0  0.7105614538182171  0.32628676316697225  0.5647160416592705  1.0000

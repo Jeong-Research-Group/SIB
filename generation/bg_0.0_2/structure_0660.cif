@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       SbNa2O3Pd
+_chemical_formula_sum              "Sb1 Na2 O3 Pd1"
+_cell_length_a       5.016879524339455
+_cell_length_b       3.082264081522283
+_cell_length_c       6.452486038208008
+_cell_angle_alpha    89.90031590040388
+_cell_angle_beta     90.84046412161689
+_cell_angle_gamma    90.03063590175603
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.41338393118306493  0.7288336144546271  0.5451151727919846  1.0000
+  Na  Na1       1.0  0.4261534516915938  0.7268991469205117  0.04778710307295557  1.0000
+  Na  Na2       1.0  0.9238424299373956  0.22808590586864086  0.8100785024428444  1.0000
+  O   O1        1.0  0.014262920566402253  0.7273350350118816  0.5158914322835513  1.0000
+  O   O2        1.0  0.9127425547898177  0.7280038010009411  0.0881037568092187  1.0000
+  O   O3        1.0  0.4231289914898551  0.22832857204169443  0.758259236451245  1.0000
+  Pd  Pd1       1.0  0.9303902973945173  0.2272245279035152  0.29504773009058743  1.0000

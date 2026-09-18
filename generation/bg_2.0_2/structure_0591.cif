@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Zn2O2K
+_chemical_formula_sum              "Zn2 O2 K1"
+_cell_length_a       3.9698062901647764
+_cell_length_b       4.044476824013901
+_cell_length_c       5.996913909912109
+_cell_angle_alpha    91.34060475995372
+_cell_angle_beta     105.81742209212125
+_cell_angle_gamma    90.46022741677108
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.36150699853979257  0.9583384995636979  0.8789615035157905  1.0000
+  Zn  Zn2       1.0  0.8612739445616484  0.45994722927389736  0.87645822770799  1.0000
+  O   O1        1.0  0.8625425091050338  0.9589214327677708  0.8783055545767117  1.0000
+  O   O2        1.0  0.3607922799117855  0.4594644910766371  0.8780594471901554  1.0000
+  K   K1        1.0  0.8645493376456342  0.961403787064754  0.37869080881227674  1.0000

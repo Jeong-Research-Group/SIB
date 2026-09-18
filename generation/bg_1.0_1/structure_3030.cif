@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       ONa2OBiO2Ti
+_chemical_formula_sum              "O4 Na2 Bi1 Ti1"
+_cell_length_a       4.160394427043398
+_cell_length_b       4.230987164731928
+_cell_length_c       6.347689151763916
+_cell_angle_alpha    90.53526393984636
+_cell_angle_beta     90.069902648702
+_cell_angle_gamma    90.24935221467669
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.822835504339614  0.1375591311231358  0.9156290287329883  1.0000
+  Na  Na1       1.0  0.32300797203025805  0.6383989447330718  0.21395380873185446  1.0000
+  Na  Na2       1.0  0.8238024709021589  0.6381677381701208  0.7170213460656472  1.0000
+  O   O2        1.0  0.8231644036088315  0.6373996732676398  0.21562266364761276  1.0000
+  Bi  Bi1       1.0  0.3223152761127969  0.1382465958927515  0.7149325606545689  1.0000
+  O   O3        1.0  0.8218592409781004  0.1413763912338842  0.5143828989766194  1.0000
+  O   O4        1.0  0.32132697184064835  0.1405079212567994  0.21338884456840673  1.0000
+  Ti  Ti1       1.0  0.8217597015468726  0.13909310056090032  0.21625533650395773  1.0000

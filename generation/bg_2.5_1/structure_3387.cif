@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       NaScS
+_chemical_formula_sum              "Na1 Sc1 S1"
+_cell_length_a       4.496070861482861
+_cell_length_b       4.49835593813221
+_cell_length_c       4.502607345581055
+_cell_angle_alpha    60.13259938112535
+_cell_angle_beta     60.20610358407231
+_cell_angle_gamma    60.12085618352792
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.16576406438788593  0.1533050397622468  0.4513364118787613  1.0000
+  Sc  Sc1       1.0  0.9149276626948747  0.9042428730634873  0.20159879168525385  1.0000
+  S   S1        1.0  0.6648209703105878  0.6551605454974069  0.949468136160704  1.0000

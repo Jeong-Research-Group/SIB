@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NaO2FeNaONa
+_chemical_formula_sum              "Na3 O3 Fe1"
+_cell_length_a       4.438061817685397
+_cell_length_b       4.468418125269991
+_cell_length_c       4.4329423904418945
+_cell_angle_alpha    90.10254412985272
+_cell_angle_beta     90.19375447426307
+_cell_angle_gamma    90.24942735388254
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.7308911078814266  0.44792541752047726  0.486757219908098  1.0000
+  O   O1        1.0  0.7311900847862749  0.9481044415940222  0.48750072688781027  1.0000
+  O   O2        1.0  0.23045285146727643  0.9497980485525503  0.9864500760288532  1.0000
+  Fe  Fe1       1.0  0.7289234399303293  0.9502249963291685  0.986229599544182  1.0000
+  Na  Na2       1.0  0.23167467103039854  0.9493709217396691  0.48602688225718726  1.0000
+  O   O3        1.0  0.7310987108272385  0.4495398994025277  0.9868342865362005  1.0000
+  Na  Na3       1.0  0.23223410599340227  0.44917973886590623  0.9867533448773054  1.0000

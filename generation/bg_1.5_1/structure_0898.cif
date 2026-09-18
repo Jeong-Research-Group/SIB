@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ClNaSeNaSnSe
+_chemical_formula_sum              "Cl1 Na2 Se2 Sn1"
+_cell_length_a       4.032711369485336
+_cell_length_b       4.029247224762642
+_cell_length_c       10.129234313964844
+_cell_angle_alpha    90.20836426775472
+_cell_angle_beta     90.14668082778057
+_cell_angle_gamma    60.19768690764455
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.8183103208400191  0.8083332789398687  0.08376608081542902  1.0000
+  Na  Na1       1.0  0.15453428131219693  0.14315751164391824  0.920686960459107  1.0000
+  Se  Se1       1.0  0.486450403507332  0.4757694604040172  0.7372153992607172  1.0000
+  Na  Na2       1.0  0.4852896926524456  0.47571098795901395  0.25029537084819364  1.0000
+  Sn  Sn1       1.0  0.8201420900148577  0.8095838439137331  0.5835170154524388  1.0000
+  Se  Se2       1.0  0.1536361294540772  0.14297222972943194  0.43181738217350846  1.0000

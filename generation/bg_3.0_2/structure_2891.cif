@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       ZnNaBrBiIBr2
+_chemical_formula_sum              "Zn1 Na1 Br3 Bi1 I1"
+_cell_length_a       4.121757478702308
+_cell_length_b       7.068345778246401
+_cell_length_c       8.038415908813477
+_cell_angle_alpha    65.97558310158864
+_cell_angle_beta     75.23956067705444
+_cell_angle_gamma    90.34423738023156
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.754026472576477  0.04831953298850751  0.9760985968591438  1.0000
+  Na  Na1       1.0  0.500282704037681  0.7873064876498043  0.4855105282106763  1.0000
+  Br  Br1       1.0  0.8584327698082114  0.8162851934083658  0.7681273811543841  1.0000
+  Bi  Bi1       1.0  0.2367824469857409  0.5180020324564852  0.013580126881329398  1.0000
+  I   I1        1.0  0.36291179062078655  0.30869180039062805  0.7602828733138155  1.0000
+  Br  Br2       1.0  0.6301147944579272  0.23862266520048653  0.23304501151525317  1.0000
+  Br  Br3       1.0  0.13776503515378902  0.7778561705690351  0.21264170173129068  1.0000

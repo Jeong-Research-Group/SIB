@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NaHgONaHgO2
+_chemical_formula_sum              "Na2 Hg2 O3"
+_cell_length_a       3.6950428307351
+_cell_length_b       5.7932385101519746
+_cell_length_c       5.786467552185059
+_cell_angle_alpha    107.22944847736586
+_cell_angle_beta     90.0579430002381
+_cell_angle_gamma    89.66803481828903
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.8177230358363385  0.8510985974363365  0.7002866865236094  1.0000
+  Hg  Hg1       1.0  0.31488147479731904  0.3387413912794279  0.7103263131431717  1.0000
+  O   O1        1.0  0.8114333759198257  0.4302113651556009  0.6199451081169989  1.0000
+  Na  Na2       1.0  0.817116439479396  0.3507748545741913  0.19928903831003011  1.0000
+  Hg  Hg2       1.0  0.3178441225955713  0.8637474172504561  0.1868359152083184  1.0000
+  O   O2        1.0  0.3176190244411522  0.10119999250484783  0.9487081171113692  1.0000
+  O   O3        1.0  0.8182142379211292  0.7718930244702213  0.2813647397873611  1.0000

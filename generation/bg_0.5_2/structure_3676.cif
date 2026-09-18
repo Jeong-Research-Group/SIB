@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       ZnNaZnTe3Na
+_chemical_formula_sum              "Zn2 Na2 Te3"
+_cell_length_a       6.570778143922008
+_cell_length_b       4.525651680183035
+_cell_length_c       8.24081802368164
+_cell_angle_alpha    74.75602157372077
+_cell_angle_beta     73.35095179919875
+_cell_angle_gamma    89.86684775350156
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.9674522286864319  0.5368836523895729  0.6265376805993581  1.0000
+  Na  Na1       1.0  0.5420086377938028  0.9346153128802376  0.8338859681874076  1.0000
+  Zn  Zn2       1.0  0.44736552213931347  0.14159429067228124  0.42729017149160586  1.0000
+  Te  Te1       1.0  0.38453215289939763  0.29835337429640946  0.11689586995445668  1.0000
+  Te  Te2       1.0  0.6705554731301678  0.6153796313845921  0.4778886140396529  1.0000
+  Te  Te3       1.0  0.08481979436214412  0.9903282529132008  0.7225661271216686  1.0000
+  Na  Na2       1.0  0.04164151024025474  0.790842950204889  0.13557445972558108  1.0000

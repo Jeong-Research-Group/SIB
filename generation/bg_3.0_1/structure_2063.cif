@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Li2NaPt2
+_chemical_formula_sum              "Li2 Na1 Pt2"
+_cell_length_a       4.115619058169979
+_cell_length_b       4.127477459097434
+_cell_length_c       5.839231967926025
+_cell_angle_alpha    110.63433102719623
+_cell_angle_beta     110.61388295938272
+_cell_angle_gamma    89.8734041013375
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.15691691591693457  0.07399600689026604  0.16683202997694266  1.0000
+  Li  Li2       1.0  0.6577180611506482  0.5741208187280604  0.1664923866501997  1.0000
+  Na  Na1       1.0  0.40711292679492295  0.823664068516278  0.6664393541839264  1.0000
+  Pt  Pt1       1.0  0.7888090004325832  0.2073075911852328  0.4347670369354887  1.0000
+  Pt  Pt2       1.0  0.023385481741255702  0.44111216003802783  0.8991792200458124  1.0000

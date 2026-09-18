@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       LiNaAu
+_chemical_formula_sum              "Li1 Na1 Au1"
+_cell_length_a       4.438975941587602
+_cell_length_b       4.42357149614215
+_cell_length_c       4.429109573364258
+_cell_angle_alpha    59.99202583638291
+_cell_angle_beta     60.15636803403584
+_cell_angle_gamma    59.96822332053145
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.3181107052502781  0.21642538870101669  0.862371027076956  1.0000
+  Na  Na1       1.0  0.5673711284327406  0.4658142937265474  0.11352363159437276  1.0000
+  Au  Au1       1.0  0.06756911475934034  0.9651393901931647  0.6113264545066495  1.0000

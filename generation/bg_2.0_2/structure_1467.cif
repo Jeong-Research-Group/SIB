@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       NaTaS2
+_chemical_formula_sum              "Na1 Ta1 S2"
+_cell_length_a       3.621530186375235
+_cell_length_b       3.6199685835934297
+_cell_length_c       6.899050235748291
+_cell_angle_alpha    105.32166773239415
+_cell_angle_beta     75.0415521850656
+_cell_angle_gamma    120.16384559526286
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.14791002910739012  0.7408583160712938  0.6581354141056551  1.0000
+  Ta  Ta1       1.0  0.648200392664232  0.2410061955122582  0.15972976328475805  1.0000
+  S   S1        1.0  0.3861769142270519  0.5039099453588649  0.9447872644105021  1.0000
+  S   S2        1.0  0.9100344178138341  0.9773265724345715  0.3726553616496239  1.0000

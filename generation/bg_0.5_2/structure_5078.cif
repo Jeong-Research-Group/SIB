@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Te2NaRb2TeNaSnTe
+_chemical_formula_sum              "Te4 Na2 Rb2 Sn1"
+_cell_length_a       7.329391502226985
+_cell_length_b       4.612803646329524
+_cell_length_c       9.9110746383667
+_cell_angle_alpha    89.98367835087683
+_cell_angle_beta     89.53968874462856
+_cell_angle_gamma    89.89435313831497
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.2492139938605253  0.13580956958859516  0.12910155999159315  1.0000
+  Te  Te2       1.0  0.15930704835937448  0.13761250660451296  0.5908612607661684  1.0000
+  Na  Na1       1.0  0.2660073639363434  0.6362146128361684  0.33357879539297686  1.0000
+  Rb  Rb1       1.0  0.7576000093138971  0.13719259205537226  0.11446816516268536  1.0000
+  Rb  Rb2       1.0  0.2459566148008963  0.6363238090893059  0.8793476225227281  1.0000
+  Te  Te3       1.0  0.7272229197307859  0.6320143335420935  0.8240848180428554  1.0000
+  Na  Na2       1.0  0.5824556951441362  0.13619913161162553  0.6082909705453028  1.0000
+  Sn  Sn1       1.0  0.9213441611483254  0.633356153229694  0.5979294780728105  1.0000
+  Te  Te4       1.0  0.705832064341777  0.6386291377528479  0.3855581288286838  1.0000

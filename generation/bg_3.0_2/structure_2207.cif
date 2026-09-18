@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       OCrHfO3
+_chemical_formula_sum              "O4 Cr1 Hf1"
+_cell_length_a       3.141310289762335
+_cell_length_b       4.711208994724581
+_cell_length_c       4.664299011230469
+_cell_angle_alpha    89.54658727179738
+_cell_angle_beta     89.91264438452873
+_cell_angle_gamma    89.94911759915684
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.6834190489948325  0.41315829693458045  0.43208479934929966  1.0000
+  Cr  Cr1       1.0  0.6842688924350782  0.7150564790075986  0.13927723545756188  1.0000
+  Hf  Hf1       1.0  0.1829649653792465  0.21415419898671273  0.6459148530887943  1.0000
+  O   O2        1.0  0.18759647026661866  0.532207311230794  0.9478298431800062  1.0000
+  O   O3        1.0  0.684325992924555  0.01744244092764959  0.8537281160149136  1.0000
+  O   O4        1.0  0.1835860323984022  0.8982155919140113  0.33824187566604486  1.0000

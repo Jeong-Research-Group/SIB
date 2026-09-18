@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NaODyO2
+_chemical_formula_sum              "Na1 O3 Dy1"
+_cell_length_a       4.319669278408469
+_cell_length_b       4.320359883164216
+_cell_length_c       4.320497989654541
+_cell_angle_alpha    90.01636763879387
+_cell_angle_beta     90.05428885161642
+_cell_angle_gamma    90.03487062143043
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.5986088518641143  0.29076045701823977  0.3301872320294787  1.0000
+  O   O1        1.0  0.5982398394453536  0.7894880782334246  0.8302177797338561  1.0000
+  Dy  Dy1       1.0  0.0988124758419254  0.7892330299784145  0.8313587302714351  1.0000
+  O   O2        1.0  0.09802745340285808  0.7908578510066404  0.3300964538129229  1.0000
+  O   O3        1.0  0.09890753756774151  0.2902484833493593  0.8303353194283736  1.0000

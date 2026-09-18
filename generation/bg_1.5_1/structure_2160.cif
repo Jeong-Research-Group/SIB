@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NbNa2OHfO3
+_chemical_formula_sum              "Nb1 Na2 O4 Hf1"
+_cell_length_a       3.162305248364279
+_cell_length_b       4.540676672599385
+_cell_length_c       6.818268299102783
+_cell_angle_alpha    89.85578305524928
+_cell_angle_beta     89.97227876714844
+_cell_angle_gamma    89.88839721260567
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.06617937253256569  0.686015962829826  0.4977418780852529  1.0000
+  Na  Na1       1.0  0.06594330227276897  0.6848038444034724  0.01224863110231407  1.0000
+  Na  Na2       1.0  0.5660488618192414  0.1834393432475397  0.23977901044859085  1.0000
+  O   O1        1.0  0.06872053555450504  0.18459697172219655  0.953234136028763  1.0000
+  Hf  Hf1       1.0  0.566485406312966  0.18496137960585646  0.7547348735040003  1.0000
+  O   O2        1.0  0.5662518751740784  0.6856771702007205  0.7233536243142423  1.0000
+  O   O3        1.0  0.06678359054474833  0.1850891849925216  0.5312010044761756  1.0000
+  O   O4        1.0  0.5671092862774858  0.6834093337364096  0.29793605270099643  1.0000

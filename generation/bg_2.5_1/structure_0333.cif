@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       TiOCoMgOZnO2
+_chemical_formula_sum              "Ti1 O4 Co1 Mg1 Zn1"
+_cell_length_a       4.2468736873439745
+_cell_length_b       4.242325552629428
+_cell_length_c       4.25709342956543
+_cell_angle_alpha    90.05773809722648
+_cell_angle_beta     90.1074003854393
+_cell_angle_gamma    89.98998944689001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.5646845699201337  0.7463524346918115  0.08422879927429004  1.0000
+  O   O1        1.0  0.5649047492949537  0.7473721495174293  0.586890638284506  1.0000
+  Co  Co1       1.0  0.06409677076860291  0.747890174624509  0.5863913288243857  1.0000
+  Mg  Mg1       1.0  0.5649329416299268  0.24833807250160525  0.5853055723546615  1.0000
+  O   O2        1.0  0.565640927081314  0.24446529131504277  0.08307892036040895  1.0000
+  Zn  Zn1       1.0  0.06476086260932194  0.24678279500891506  0.08477018040611177  1.0000
+  O   O3        1.0  0.06610396491404368  0.7441735272230587  0.08445119864114256  1.0000
+  O   O4        1.0  0.0669614311413086  0.24600513386918024  0.5869214530800231  1.0000

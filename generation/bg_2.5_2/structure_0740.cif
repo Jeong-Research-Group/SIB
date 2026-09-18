@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NaAlS2Sn
+_chemical_formula_sum              "Na1 Al1 S2 Sn1"
+_cell_length_a       3.759504830947069
+_cell_length_b       3.754444685496546
+_cell_length_c       8.814617156982422
+_cell_angle_alpha    90.7402788929245
+_cell_angle_beta     89.54916219523552
+_cell_angle_gamma    119.48298571863614
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.5976954105920796  0.9955744755902054  0.11074446160948541  1.0000
+  Al  Al1       1.0  0.9264893537527528  0.6545915601576572  0.7736119036542969  1.0000
+  S   S1        1.0  0.9349291313565099  0.666537284858393  0.3185503180983057  1.0000
+  S   S2        1.0  0.2604950681425001  0.32317948486989184  0.8907095189441034  1.0000
+  Sn  Sn1       1.0  0.2700527314546107  0.3352898967514943  0.4936362510198804  1.0000

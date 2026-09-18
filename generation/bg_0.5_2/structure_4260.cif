@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       CNa4CuNP
+_chemical_formula_sum              "C1 Na4 Cu1 N1 P1"
+_cell_length_a       4.260260978155155
+_cell_length_b       4.2790285295925035
+_cell_length_c       9.853775978088379
+_cell_angle_alpha    89.45481678975362
+_cell_angle_beta     90.05958223921608
+_cell_angle_gamma    119.95749205301354
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  C   C1        1.0  0.7619776126462535  0.8443065286666732  0.5149866345141634  1.0000
+  Na  Na1       1.0  0.4276264606164112  0.18150548524768698  0.41446819938693696  1.0000
+  Na  Na2       1.0  0.7615183600201068  0.8517962096585732  0.7828429939508356  1.0000
+  Na  Na3       1.0  0.7606791870525719  0.8471645128674822  0.214986741797154  1.0000
+  Na  Na4       1.0  0.09499026062278182  0.5148726704974843  0.03390199737378205  1.0000
+  Cu  Cu1       1.0  0.09394732174004332  0.5148139593723229  0.5746873614609106  1.0000
+  N   N1        1.0  0.42737165186645076  0.1806094210303893  0.1320158834962836  1.0000
+  P   P1        1.0  0.42785540254417675  0.18112932132888937  0.9509272574866524  1.0000

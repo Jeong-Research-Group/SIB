@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       BiH2Na
+_chemical_formula_sum              "Bi1 H2 Na1"
+_cell_length_a       3.5592318905077502
+_cell_length_b       3.5908938402041297
+_cell_length_c       6.187053680419922
+_cell_angle_alpha    73.26591435947506
+_cell_angle_beta     73.23054643473634
+_cell_angle_gamma    60.66809755560004
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.6310053482063527  0.9568701983096488  0.828627704638246  1.0000
+  H   H1        1.0  0.3742150958165466  0.6985756746609841  0.6005471348429837  1.0000
+  H   H2        1.0  0.8886207942438298  0.21403729804375052  0.05976209863274772  1.0000
+  Na  Na1       1.0  0.13186356443146252  0.4570189405542151  0.3298636074581517  1.0000

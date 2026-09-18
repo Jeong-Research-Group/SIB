@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       RbNaFOBi2F2
+_chemical_formula_sum              "Rb1 Na1 F3 O1 Bi2"
+_cell_length_a       4.577029276506201
+_cell_length_b       3.9667614834450915
+_cell_length_c       8.154879570007324
+_cell_angle_alpha    89.82060076302803
+_cell_angle_beta     90.19589233405219
+_cell_angle_gamma    90.09436156842479
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.6771456593067863  0.909625469687083  0.5740694403128429  1.0000
+  Na  Na1       1.0  0.6760063163735014  0.9098572723155104  0.08875031765735565  1.0000
+  F   F1        1.0  0.17558503056422856  0.4082989698478824  0.5707366470998796  1.0000
+  O   O1        1.0  0.17811986801326504  0.9136810904908194  0.17698816912203394  1.0000
+  Bi  Bi1       1.0  0.17676469792748095  0.40749171435829973  0.8544997568740215  1.0000
+  Bi  Bi2       1.0  0.17545877432333581  0.41105759255171165  0.29556909257012937  1.0000
+  F   F2        1.0  0.677010476172808  0.4073931572755551  0.8700417876423707  1.0000
+  F   F3        1.0  0.6758163582039785  0.4107209455566321  0.2880991399459645  1.0000

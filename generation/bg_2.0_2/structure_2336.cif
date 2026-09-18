@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       SnLaOSn2O4
+_chemical_formula_sum              "Sn3 La1 O5"
+_cell_length_a       4.07692088832333
+_cell_length_b       4.075439080425844
+_cell_length_c       8.085134506225586
+_cell_angle_alpha    90.01295254323185
+_cell_angle_beta     89.95367333233831
+_cell_angle_gamma    90.00789820296578
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.5625438103655713  0.21909049151667165  0.7300426954593533  1.0000
+  La  La1       1.0  0.062381096108536524  0.7191843982520059  0.4718691701435421  1.0000
+  O   O1        1.0  0.06261975302150855  0.21861685909829362  0.22274768377399565  1.0000
+  Sn  Sn2       1.0  0.5619827505984843  0.21897368201289039  0.21474751825118815  1.0000
+  Sn  Sn3       1.0  0.06274218146873753  0.7183751455431708  0.9733399151286496  1.0000
+  O   O2        1.0  0.062452659334971426  0.21935205107290678  0.721656322219519  1.0000
+  O   O3        1.0  0.5618343955264874  0.2196301364564283  0.4720082282908792  1.0000
+  O   O4        1.0  0.5621258615725373  0.7191258671333587  0.7231743330915311  1.0000
+  O   O5        1.0  0.5622722511808845  0.7186244119450326  0.2210662962455869  1.0000

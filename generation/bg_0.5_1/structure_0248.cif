@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       FeYNaClO3
+_chemical_formula_sum              "Fe1 Y1 Na1 Cl1 O3"
+_cell_length_a       3.9146577363827872
+_cell_length_b       3.9307499704695332
+_cell_length_c       7.504122734069824
+_cell_angle_alpha    74.76747158433398
+_cell_angle_beta     74.55180130864264
+_cell_angle_gamma    89.90908621816907
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.7681858546751603  0.16814698251060808  0.4947175384824524  1.0000
+  Y   Y1        1.0  0.39501905424136474  0.7938502442204106  0.24197882369781126  1.0000
+  Na  Na1       1.0  0.1404739333098072  0.5411329274441671  0.7503128641360548  1.0000
+  Cl  Cl1       1.0  0.5903940805714408  0.9905722129167676  0.847947478330556  1.0000
+  O   O1        1.0  0.9367541072233785  0.33629575489865665  0.15884064103799356  1.0000
+  O   O2        1.0  0.28420543747687205  0.1828485281897244  0.4633421897804636  1.0000
+  O   O3        1.0  0.784547388506006  0.6839003573291804  0.4621405308524719  1.0000

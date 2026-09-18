@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NaCeO3
+_chemical_formula_sum              "Na1 Ce1 O3"
+_cell_length_a       4.3161598906435295
+_cell_length_b       4.330563816361242
+_cell_length_c       4.334456443786621
+_cell_angle_alpha    90.23527519385682
+_cell_angle_beta     90.12443491328848
+_cell_angle_gamma    90.07363877298448
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.8838319187077154  0.7306492319410788  0.6764781466824349  1.0000
+  Ce  Ce1       1.0  0.38406521085378437  0.22938574953551236  0.17690236792488104  1.0000
+  O   O1        1.0  0.8837658770232193  0.23007915989937378  0.176065967049072  1.0000
+  O   O2        1.0  0.3838890187839775  0.23050604822443793  0.6764131781906265  1.0000
+  O   O3        1.0  0.38403543852679783  0.729447721365078  0.17618572744267566  1.0000

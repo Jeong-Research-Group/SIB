@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       PbNa2SrPb
+_chemical_formula_sum              "Pb2 Na2 Sr1"
+_cell_length_a       5.114705146308029
+_cell_length_b       6.1864224289331675
+_cell_length_c       6.083186626434326
+_cell_angle_alpha    79.03020634130728
+_cell_angle_beta     65.07585492891492
+_cell_angle_gamma    65.62629265420026
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.589834153660272  0.0791341664168916  0.9510055774674918  1.0000
+  Na  Na1       1.0  0.8017045255743581  0.4683079429543784  0.13650563340872757  1.0000
+  Na  Na2       1.0  0.390411227148355  0.672691702822802  0.755338728309158  1.0000
+  Sr  Sr1       1.0  0.9848341352349558  0.8794461489357658  0.36035290412617194  1.0000
+  Pb  Pb2       1.0  0.1927478752907298  0.2732073962370527  0.5512728095303702  1.0000

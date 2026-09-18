@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       TeTiCuNaAsCu
+_chemical_formula_sum              "Te1 Ti1 Cu2 Na1 As1"
+_cell_length_a       4.3013645935358715
+_cell_length_b       4.310527128042764
+_cell_length_c       7.493321895599365
+_cell_angle_alpha    90.38735616046255
+_cell_angle_beta     90.04945307115838
+_cell_angle_gamma    119.74544231672118
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.14119863557412715  0.5934205658821627  0.9771112798323932  1.0000
+  Ti  Ti1       1.0  0.14181275644330799  0.5928867451856675  0.31274876000137497  1.0000
+  Cu  Cu1       1.0  0.4729806792869813  0.26095202653421873  0.09207873736951296  1.0000
+  Na  Na1       1.0  0.8075562726639626  0.92580437700309  0.7118940349348505  1.0000
+  As  As1       1.0  0.4724892091617722  0.2597348702419028  0.4394699040157304  1.0000
+  Cu  Cu2       1.0  0.8091862194704209  0.9280941473848067  0.20644499328929378  1.0000

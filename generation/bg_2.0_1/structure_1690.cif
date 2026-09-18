@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ZnBrINaCl2
+_chemical_formula_sum              "Zn1 Br1 I1 Na1 Cl2"
+_cell_length_a       4.02761881859011
+_cell_length_b       6.478759762036267
+_cell_length_c       6.52736759185791
+_cell_angle_alpha    83.99091794705544
+_cell_angle_beta     90.20837792213807
+_cell_angle_gamma    90.20221027389007
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.15368811830600096  0.1991393864092921  0.9613165858176369  1.0000
+  Br  Br1       1.0  0.6561957587874765  0.3847106394179762  0.14270019532675157  1.0000
+  I   I1        1.0  0.6557113521648699  0.01014465686364706  0.7757959965917033  1.0000
+  Na  Na1       1.0  0.6539148088867248  0.6906687019444877  0.455394536306253  1.0000
+  Cl  Cl1       1.0  0.15503779059082196  0.48401430192941436  0.6781719331794845  1.0000
+  Cl  Cl2       1.0  0.15406027381344614  0.9168350107618389  0.2469395243725759  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       KIrO3MgNa
+_chemical_formula_sum              "K1 Ir1 O3 Mg1 Na1"
+_cell_length_a       3.482700884124358
+_cell_length_b       6.331766225296803
+_cell_length_c       5.862009048461914
+_cell_angle_alpha    64.88524618283598
+_cell_angle_beta     73.4268073138459
+_cell_angle_gamma    74.53517651031363
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.41861954332428  0.11983475032268179  0.37690210438658883  1.0000
+  Ir  Ir1       1.0  0.8273109797640672  0.6100817927213655  0.05076242115404643  1.0000
+  O   O1        1.0  0.8892040851202072  0.851388692137382  0.7067245246790547  1.0000
+  O   O2        1.0  0.6854893560155407  0.5278517002040817  0.4281100938234088  1.0000
+  O   O3        1.0  0.0268967425936244  0.33702900995980606  0.9519068011074676  1.0000
+  Mg  Mg1       1.0  0.07920612385249934  0.587858915698687  0.5764883166371478  1.0000
+  Na  Na1       1.0  0.6693323257307686  0.16446371304182525  0.8349329826087817  1.0000

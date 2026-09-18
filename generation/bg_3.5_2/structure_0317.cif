@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       ZrNiNa2O3
+_chemical_formula_sum              "Zr1 Ni1 Na2 O3"
+_cell_length_a       3.2920485312723597
+_cell_length_b       3.318504550267255
+_cell_length_c       8.14536190032959
+_cell_angle_alpha    90.15343587747053
+_cell_angle_beta     89.81455603754047
+_cell_angle_gamma    90.04558718846825
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.4612332297066111  0.7743138062878133  0.47889736250014725  1.0000
+  Ni  Ni1       1.0  0.4610924714030034  0.7746275060400379  0.9796307083584634  1.0000
+  Na  Na1       1.0  0.9606203434885926  0.273512364357694  0.19438950713059197  1.0000
+  Na  Na2       1.0  0.9612492316607502  0.2757598463002583  0.7647733683970681  1.0000
+  O   O1        1.0  0.9619078625270499  0.27459329220297607  0.4783734081199522  1.0000
+  O   O2        1.0  0.4611198294774272  0.7755134115458182  0.7365862134855751  1.0000
+  O   O3        1.0  0.46070468475855597  0.7733387337647294  0.22205702941046598  1.0000

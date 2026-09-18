@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Na2CaIn
+_chemical_formula_sum              "Na2 Ca1 In1"
+_cell_length_a       5.496052570687522
+_cell_length_b       5.501578147095517
+_cell_length_c       5.4953413009643555
+_cell_angle_alpha    60.41535213030155
+_cell_angle_beta     60.28823427479773
+_cell_angle_gamma    60.21907115719807
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.4420239338284353  0.9315811393589848  0.6792455905792153  1.0000
+  Na  Na2       1.0  0.9420068860002101  0.43171981035142937  0.17901138905097058  1.0000
+  Ca  Ca1       1.0  0.1920353321768679  0.6820579169333905  0.4290046999837743  1.0000
+  In  In1       1.0  0.6927954549233272  0.18121935440320797  0.929930985040016  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       OK2BiO3TaO
+_chemical_formula_sum              "O5 K2 Bi1 Ta1"
+_cell_length_a       6.125751626145138
+_cell_length_b       5.985399174229847
+_cell_length_c       6.122369766235352
+_cell_angle_alpha    60.48424822218553
+_cell_angle_beta     58.550016156646855
+_cell_angle_gamma    60.262160511866355
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.6547537452344387  0.07916585436954071  0.1560401906222484  1.0000
+  K   K1        1.0  0.18010762349484735  0.593142925827013  0.14198017167579857  1.0000
+  K   K2        1.0  0.679754196976276  0.09232709645107182  0.6435536749217367  1.0000
+  Bi  Bi1       1.0  0.9184268719502777  0.3533477485307259  0.8820973037718759  1.0000
+  O   O2        1.0  0.6547352079400549  0.6185645459323525  0.15588673904436606  1.0000
+  O   O3        1.0  0.19419258731030214  0.07932458155177717  0.6165602803499823  1.0000
+  O   O4        1.0  0.1928268667819636  0.6183164112653217  0.6170129777329452  1.0000
+  Ta  Ta1       1.0  0.4490573108248539  0.8235136863102521  0.41092008399389157  1.0000
+  O   O5        1.0  0.6701470616032199  0.6030300856882054  0.6321164959650347  1.0000

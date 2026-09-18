@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       MgCuNaO2
+_chemical_formula_sum              "Mg1 Cu1 Na1 O2"
+_cell_length_a       4.66752691141249
+_cell_length_b       3.4827247112787907
+_cell_length_c       5.367927551269531
+_cell_angle_alpha    89.4631633126821
+_cell_angle_beta     90.29232090988737
+_cell_angle_gamma    88.90678975407424
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.38427016172754114  0.05284108876383652  0.13437338217279307  1.0000
+  Cu  Cu1       1.0  0.38593244618140765  0.5620645889418192  0.6379981631843284  1.0000
+  Na  Na1       1.0  0.8848564034122849  0.06679406155965385  0.6634312864425974  1.0000
+  O   O1        1.0  0.38066220178459587  0.5517413625734572  0.2839131954219563  1.0000
+  O   O2        1.0  0.3847534354450655  0.058081663796677604  0.7671723367023136  1.0000

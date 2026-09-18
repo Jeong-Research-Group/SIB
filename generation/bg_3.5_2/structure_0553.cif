@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       Se2La
+_chemical_formula_sum              "Se2 La1"
+_cell_length_a       4.9736656926504965
+_cell_length_b       5.011070873023511
+_cell_length_c       4.997396945953369
+_cell_angle_alpha    59.9263664082849
+_cell_angle_beta     59.92284059257443
+_cell_angle_gamma    59.84047228213086
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.5384786131004271  0.6516959071853582  0.7942852966978408  1.0000
+  Se  Se2       1.0  0.03779310253880526  0.1497176448394055  0.29682522981743265  1.0000
+  La  La1       1.0  0.7887732978688073  0.9010156987151581  0.045157251123692115  1.0000

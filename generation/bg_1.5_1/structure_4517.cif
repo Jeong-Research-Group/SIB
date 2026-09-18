@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       PONaO2
+_chemical_formula_sum              "P1 O3 Na1"
+_cell_length_a       3.3841849243960858
+_cell_length_b       3.4371223933038073
+_cell_length_c       4.632253646850586
+_cell_angle_alpha    90.28568203598543
+_cell_angle_beta     89.57398308854077
+_cell_angle_gamma    89.96447868870926
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  P   P1        1.0  0.9839143160160378  0.651063204574592  0.6003543738950592  1.0000
+  O   O1        1.0  0.9820465444927442  0.6530201424700041  0.26898479405797504  1.0000
+  Na  Na1       1.0  0.48714816482722506  0.15171325163378066  0.0878884864829657  1.0000
+  O   O2        1.0  0.4824912264421561  0.6492228511419216  0.69554215661461  1.0000
+  O   O3        1.0  0.9840319765307828  0.15496218197262604  0.6934320921969361  1.0000

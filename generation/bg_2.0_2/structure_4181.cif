@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       NaInNaK
+_chemical_formula_sum              "Na2 In1 K1"
+_cell_length_a       5.701472233070382
+_cell_length_b       5.6952955988257274
+_cell_length_c       5.686064720153809
+_cell_angle_alpha    60.29623942260552
+_cell_angle_beta     60.17469206216671
+_cell_angle_gamma    59.99901756834318
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.39210477473677785  0.15961699089937323  0.3137368862264565  1.0000
+  In  In1       1.0  0.8908746841272696  0.6600735180506038  0.813726186871015  1.0000
+  Na  Na2       1.0  0.1403802776710826  0.9094465974816145  0.0640341340250685  1.0000
+  K   K1        1.0  0.6418159595381091  0.41023096456373903  0.563714743562  1.0000

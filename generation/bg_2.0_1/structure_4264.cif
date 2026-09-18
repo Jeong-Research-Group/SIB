@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       VNaONaO3Co
+_chemical_formula_sum              "V1 Na2 O4 Co1"
+_cell_length_a       3.3075889784617694
+_cell_length_b       5.120652644102144
+_cell_length_c       6.570948123931885
+_cell_angle_alpha    89.78883354242936
+_cell_angle_beta     89.60439796048293
+_cell_angle_gamma    90.5328119004771
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.6868044744241776  0.6757693894857636  0.8525021666802339  1.0000
+  Na  Na1       1.0  0.18744082765047013  0.18155109866349045  0.6001288885390971  1.0000
+  O   O1        1.0  0.1887350244262587  0.870285213915409  0.3536423441021058  1.0000
+  Na  Na2       1.0  0.18711860470530886  0.18057693558158283  0.10601881107373089  1.0000
+  O   O2        1.0  0.6888892053468847  0.4871314160100138  0.09755522009614036  1.0000
+  O   O3        1.0  0.18760553074321354  0.8657984137841503  0.8529188030321143  1.0000
+  O   O4        1.0  0.6885834926876597  0.4874351327993381  0.6091451042922517  1.0000
+  Co  Co1       1.0  0.6870212551060693  0.6891503936646843  0.353124678049687  1.0000

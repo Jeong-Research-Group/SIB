@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NaSnNaSnNaTiNaSn
+_chemical_formula_sum              "Na4 Sn3 Ti1"
+_cell_length_a       6.079872760185671
+_cell_length_b       6.008018307931168
+_cell_length_c       5.9649977684021
+_cell_angle_alpha    89.89388185074188
+_cell_angle_beta     89.62074939436928
+_cell_angle_gamma    88.8609045037251
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.8053805225053057  0.08672261314322276  0.19624680266174815  1.0000
+  Sn  Sn1       1.0  0.3036023382481052  0.5851907724371158  0.6967909336590047  1.0000
+  Na  Na2       1.0  0.30379486121835714  0.08570593579055014  0.19472277185434408  1.0000
+  Sn  Sn2       1.0  0.30251273446197513  0.08163993723826744  0.6939308046542499  1.0000
+  Na  Na3       1.0  0.8037765620856882  0.08575962474523115  0.695964395234882  1.0000
+  Ti  Ti1       1.0  0.8043923979426735  0.5879504080145527  0.19756518332248782  1.0000
+  Na  Na4       1.0  0.30511140883393373  0.5850400920967396  0.1968107963193158  1.0000
+  Sn  Sn3       1.0  0.8044902086569554  0.5860199329997928  0.6978973143675362  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       TiF2NaF2
+_chemical_formula_sum              "Ti1 F4 Na1"
+_cell_length_a       3.243347457399027
+_cell_length_b       4.986036954214106
+_cell_length_c       4.968783855438232
+_cell_angle_alpha    88.06827471012261
+_cell_angle_beta     89.57958387912362
+_cell_angle_gamma    89.60495800116034
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.3524596691131592  0.5234172344207764  0.06937342137098312  1.0000
+  F   F1        1.0  0.8549927473068237  0.3472442030906677  0.8854393362998962  1.0000
+  F   F2        1.0  0.35198482871055603  0.24997764825820923  0.3388647437095642  1.0000
+  Na  Na1       1.0  0.8523182272911072  0.018758714199066162  0.5640665888786316  1.0000
+  F   F3        1.0  0.35254523158073425  0.7926151752471924  0.7956511378288269  1.0000
+  F   F4        1.0  0.8496953845024109  0.6987514495849609  0.24444088339805603  1.0000

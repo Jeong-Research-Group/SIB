@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CrNNa2CuN
+_chemical_formula_sum              "Cr1 N2 Na2 Cu1"
+_cell_length_a       3.4747370154008057
+_cell_length_b       5.275837325366201
+_cell_length_c       5.859002590179443
+_cell_angle_alpha    111.45024575651695
+_cell_angle_beta     106.94701317521128
+_cell_angle_gamma    90.24655140934418
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.058542317511518414  0.9958823317888749  0.5645169614557576  1.0000
+  N   N1        1.0  0.9219399689293932  0.6830415719519071  0.2831045986829057  1.0000
+  Na  Na1       1.0  0.5169632425225291  0.4987710717475593  0.48219948962426024  1.0000
+  Na  Na2       1.0  0.3261960758161544  0.8639300473537322  0.08557405345628065  1.0000
+  Cu  Cu1       1.0  0.7769639498511552  0.3687518839800725  0.9949471364640345  1.0000
+  N   N2        1.0  0.6114448322120906  0.0905026572899195  0.6674710509290633  1.0000

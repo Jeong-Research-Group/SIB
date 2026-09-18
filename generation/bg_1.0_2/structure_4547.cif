@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NaCdSeNaAs2Zn
+_chemical_formula_sum              "Na2 Cd1 Se1 As2 Zn1"
+_cell_length_a       4.496135718311203
+_cell_length_b       4.492134293367999
+_cell_length_c       11.40784740447998
+_cell_angle_alpha    89.67838256026319
+_cell_angle_beta     101.5749941283891
+_cell_angle_gamma    120.23647755081645
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.6841049208485334  0.394522131533186  0.11049672929667195  1.0000
+  Cd  Cd1       1.0  0.563620090249722  0.8424628976092522  0.42305761617039433  1.0000
+  Se  Se1       1.0  0.7202476852669051  0.921115099233664  0.6682253478857142  1.0000
+  Na  Na2       1.0  0.05711264506690116  0.5842061644565415  0.6627737878127908  1.0000
+  As  As1       1.0  0.8582832801879073  0.4900309430665827  0.36546987249928437  1.0000
+  As  As2       1.0  0.253700671979057  0.6805218448856857  0.9657800197083006  1.0000
+  Zn  Zn1       1.0  0.8714097142620104  0.989908635638491  0.89032393716413  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NaEuNaO2
+_chemical_formula_sum              "Na2 Eu1 O2"
+_cell_length_a       3.496611213804576
+_cell_length_b       3.4809317950550507
+_cell_length_c       8.546475410461426
+_cell_angle_alpha    90.00826020365322
+_cell_angle_beta     89.75198467950146
+_cell_angle_gamma    60.229675567878985
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.113163024187088  0.38299754261970526  0.4575035572052002  1.0000
+  Eu  Eu1       1.0  0.7748785614967346  0.04880300536751748  0.7597735524177551  1.0000
+  Na  Na2       1.0  0.43938359618186934  0.7153826355934144  0.06182175502181053  1.0000
+  O   O1        1.0  0.44283351302146906  0.7155296206474304  0.6084559559822083  1.0000
+  O   O2        1.0  0.10559618473052972  0.38128516077995306  0.908744752407074  1.0000

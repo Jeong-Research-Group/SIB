@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       NaClNa2Cl2NaInCl2
+_chemical_formula_sum              "Na4 Cl5 In1"
+_cell_length_a       5.607659252898863
+_cell_length_b       6.849117801653296
+_cell_length_c       6.852476119995117
+_cell_angle_alpha    80.1066655518934
+_cell_angle_beta     65.76399640310613
+_cell_angle_gamma    65.78773703556364
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.7415035953715373  0.3070622983443969  0.11407544474504783  1.0000
+  Cl  Cl1       1.0  0.42611715202073175  0.5138461000127599  0.5404412155810845  1.0000
+  Na  Na2       1.0  0.9443017846530607  0.5030639769866881  0.5143905286266257  1.0000
+  Na  Na3       1.0  0.3436217914881553  0.9063140151722212  0.3090055580223781  1.0000
+  Cl  Cl2       1.0  0.05247884229651987  0.07612784267741254  0.7207286951268275  1.0000
+  Cl  Cl3       1.0  0.6439409856959313  0.7050316341068033  0.9123319983475057  1.0000
+  Na  Na4       1.0  0.5459105374672059  0.10255309955116845  0.7096583848655703  1.0000
+  In  In1       1.0  0.14419579392515186  0.7047003511239482  0.9122151133495434  1.0000
+  Cl  Cl4       1.0  0.8619566557222389  0.8950533265679972  0.28326514341261144  1.0000
+  Cl  Cl5       1.0  0.2347243284931958  0.33256795990397964  0.101931706277044  1.0000

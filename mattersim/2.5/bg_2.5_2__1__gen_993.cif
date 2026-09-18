@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       AuCsBrNaBr2ICsBr2
+_chemical_formula_sum              "Au1 Cs2 Br5 Na1 I1"
+_cell_length_a       7.96230687627954
+_cell_length_b       8.002161200305176
+_cell_length_c       8.000154495239258
+_cell_angle_alpha    59.86069855907721
+_cell_angle_beta     60.19853533272385
+_cell_angle_gamma    60.18150070063528
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.5363072156906129  0.6486436128616332  0.6144822239875793  1.0000
+  Cs  Cs1       1.0  0.2863239943981171  0.3976052105426788  0.3643638491630554  1.0000
+  Br  Br1       1.0  0.7744163274765015  0.8860986232757568  0.3763369023799896  1.0000
+  Na  Na1       1.0  0.039365902543067925  0.14472432434558868  0.11122254282236099  1.0000
+  Br  Br2       1.0  0.2980925738811493  0.8852564096450806  0.3761945664882659  1.0000
+  Br  Br3       1.0  0.29859137535095215  0.4095977544784546  0.8523818850517273  1.0000
+  I   I1        1.0  0.7741453051567078  0.4098142087459564  0.3760826289653778  1.0000
+  Cs  Cs2       1.0  0.7864842414855957  0.8974884152412413  0.8642765879631042  1.0000
+  Br  Br4       1.0  0.77413010597229  0.4103126227855682  0.8528213500976562  1.0000
+  Br  Br5       1.0  0.29986846446990967  0.8843824863433838  0.8510215878486633  1.0000

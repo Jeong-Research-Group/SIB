@@ -1,0 +1,27 @@
+data_image0
+_chemical_formula_structural       NAu
+_chemical_formula_sum              "N1 Au1"
+_cell_length_a       4.221786102542892
+_cell_length_b       2.934538732218252
+_cell_length_c       2.921403169631958
+_cell_angle_alpha    90.5136190295768
+_cell_angle_beta     92.02281070153767
+_cell_angle_gamma    88.89723417123389
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  N   N1        1.0  0.5486147412914447  0.07695574312443414  0.6709647188910136  1.0000
+  Au  Au1       1.0  0.5548305512421058  0.5853708977765975  0.16882178288754746  1.0000

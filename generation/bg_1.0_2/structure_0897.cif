@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       BrRb2BrOCrO2
+_chemical_formula_sum              "Br2 Rb2 O3 Cr1"
+_cell_length_a       6.23182473084041
+_cell_length_b       6.557336385251285
+_cell_length_c       6.681203365325928
+_cell_angle_alpha    66.22694779260453
+_cell_angle_beta     60.746462024317175
+_cell_angle_gamma    61.70856040560416
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.9329480539734927  0.06234481116126656  0.9566997878092581  1.0000
+  Rb  Rb1       1.0  0.4590557214133723  0.006601051987051495  0.48264649520785824  1.0000
+  Rb  Rb2       1.0  0.9268025169285109  0.5369784227351923  0.008044231783825592  1.0000
+  Br  Br2       1.0  0.22771392701693907  0.6184079640178214  0.3959243002744902  1.0000
+  O   O1        1.0  0.8547906873218736  0.21960836678695486  0.49110630103767444  1.0000
+  Cr  Cr1       1.0  0.6861781478067405  0.23653641399950748  0.7752462621168248  1.0000
+  O   O2        1.0  0.5426200625146657  0.5270988939112249  0.8028291463551879  1.0000
+  O   O3        1.0  0.46636685683547324  0.09143950126178471  0.9199345104211866  1.0000

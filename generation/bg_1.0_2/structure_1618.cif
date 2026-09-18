@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       K2ONiO
+_chemical_formula_sum              "K2 O2 Ni1"
+_cell_length_a       3.1057840344765757
+_cell_length_b       6.116556128439033
+_cell_length_c       5.380708694458008
+_cell_angle_alpha    116.26821979268132
+_cell_angle_beta     90.05216465828188
+_cell_angle_gamma    104.7185189760226
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.22214645312336662  0.3276355865534193  0.3916433761505136  1.0000
+  K   K2        1.0  0.5696418291418145  0.02041142396341884  0.7382807126347876  1.0000
+  O   O1        1.0  0.5157239442085586  0.9164447783210324  0.1899934706146019  1.0000
+  Ni  Ni1       1.0  0.895400703324431  0.671959877003559  0.06699160443864517  1.0000
+  O   O2        1.0  0.273666978194524  0.43191465804803175  0.9461665158310957  1.0000

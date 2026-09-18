@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NaFeCuSeAsNa
+_chemical_formula_sum              "Na2 Fe1 Cu1 Se1 As1"
+_cell_length_a       4.007132614629992
+_cell_length_b       4.005131488445073
+_cell_length_c       7.005077838897705
+_cell_angle_alpha    89.93436438101158
+_cell_angle_beta     90.16340794426362
+_cell_angle_gamma    90.14797172928695
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.9559699295340408  0.39469677097252065  0.9371848110363566  1.0000
+  Fe  Fe1       1.0  0.4554571218323031  0.3936049647664022  0.2808398904444932  1.0000
+  Cu  Cu1       1.0  0.955254792438812  0.8930362474099574  0.28386038503395583  1.0000
+  Se  Se1       1.0  0.9553807370506839  0.3938349781059396  0.49954322017809805  1.0000
+  As  As1       1.0  0.45544925375765744  0.8941823841336266  0.06611657861326761  1.0000
+  Na  Na2       1.0  0.45587408519429573  0.8946924218543625  0.6273605227111494  1.0000

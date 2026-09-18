@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       MgNaEuO2
+_chemical_formula_sum              "Mg1 Na1 Eu1 O2"
+_cell_length_a       3.3444785394702663
+_cell_length_b       3.3580092610401664
+_cell_length_c       8.126230239868164
+_cell_angle_alpha    89.37697310216615
+_cell_angle_beta     89.90153165794301
+_cell_angle_gamma    119.5634338417338
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.45552343285990965  0.1142731688970957  0.6314970848191106  1.0000
+  Na  Na1       1.0  0.12372925798590274  0.44985154185437826  0.3359733222851735  1.0000
+  Eu  Eu1       1.0  0.7941575053925323  0.7828048471852993  0.9975889319376258  1.0000
+  O   O1        1.0  0.4618104996572971  0.11930441155447669  0.1534196587363797  1.0000
+  O   O2        1.0  0.7882611146684674  0.78204506605289  0.5406761769998298  1.0000

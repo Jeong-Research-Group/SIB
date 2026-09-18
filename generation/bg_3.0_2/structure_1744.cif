@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       KNaLiF3
+_chemical_formula_sum              "K1 Na1 Li1 F3"
+_cell_length_a       3.9787225154900767
+_cell_length_b       6.389274205043003
+_cell_length_c       3.985454559326172
+_cell_angle_alpha    72.09254338118566
+_cell_angle_beta     90.01731020449152
+_cell_angle_gamma    108.1309442018629
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.38041806155296765  0.7207580214440653  0.7020760187352229  1.0000
+  Na  Na1       1.0  0.09541592756766831  0.14886984253239255  0.9854231465479144  1.0000
+  Li  Li1       1.0  0.7329915757153458  0.4244200584004022  0.3484178793910187  1.0000
+  F   F1        1.0  0.6994611626710712  0.35511970446100205  0.8813441395527518  1.0000
+  F   F2        1.0  0.19732789735967665  0.3525331013655541  0.3829361512491635  1.0000
+  F   F3        1.0  0.9045726052305179  0.7683740265981461  0.17796021598612502  1.0000

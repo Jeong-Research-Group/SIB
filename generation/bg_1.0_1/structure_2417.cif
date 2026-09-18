@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       MnNaTe3Na
+_chemical_formula_sum              "Mn1 Na2 Te3"
+_cell_length_a       4.326755608106738
+_cell_length_b       4.326682889217512
+_cell_length_c       12.17035961151123
+_cell_angle_alpha    90.34097241557988
+_cell_angle_beta     89.35881167789267
+_cell_angle_gamma    89.58750688337749
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.604831160104875  0.9090947511755045  0.11450204990814619  1.0000
+  Na  Na1       1.0  0.11118543826772066  0.4045902780817042  0.8684308532514471  1.0000
+  Te  Te1       1.0  0.6101643435513362  0.9046141512358775  0.8970164059615675  1.0000
+  Te  Te2       1.0  0.5977252124448316  0.9127975708801882  0.3316930236387637  1.0000
+  Te  Te3       1.0  0.10381148788384609  0.4079486131590821  0.11345245720629402  1.0000
+  Na  Na2       1.0  0.09826166882802685  0.4139162307406305  0.358854770573501  1.0000

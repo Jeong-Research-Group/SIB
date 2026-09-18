@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       PdTe2SmNa
+_chemical_formula_sum              "Pd1 Te2 Sm1 Na1"
+_cell_length_a       4.75683879274231
+_cell_length_b       4.741523714827318
+_cell_length_c       6.603912830352783
+_cell_angle_alpha    89.66998824410314
+_cell_angle_beta     89.6126351912704
+_cell_angle_gamma    60.05486524803928
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.46470296421818996  0.18724903501442752  0.9128348231900717  1.0000
+  Te  Te1       1.0  0.1317782253438928  0.857093514137269  0.1685539630005226  1.0000
+  Te  Te2       1.0  0.7977973828887601  0.5195710652825516  0.6632872227534482  1.0000
+  Sm  Sm1       1.0  0.4645050454146993  0.1879548733725163  0.42728257199811415  1.0000
+  Na  Na1       1.0  0.7981360548867661  0.5202681413884399  0.11862009718974319  1.0000

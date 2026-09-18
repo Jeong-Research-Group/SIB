@@ -1,0 +1,27 @@
+data_image0
+_chemical_formula_structural       BaBi
+_chemical_formula_sum              "Ba1 Bi1"
+_cell_length_a       3.954511815686506
+_cell_length_b       4.000336595095301
+_cell_length_c       4.754858493804932
+_cell_angle_alpha    90.3895418805143
+_cell_angle_beta     90.6256068590116
+_cell_angle_gamma    90.00399816516747
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.29590195533799035  0.9723767034218731  0.8776007304573724  1.0000
+  Bi  Bi1       1.0  0.798560558634088  0.475386499641624  0.3753472862574621  1.0000

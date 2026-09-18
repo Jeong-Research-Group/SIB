@@ -1,0 +1,27 @@
+data_image0
+_chemical_formula_structural       CaLi
+_chemical_formula_sum              "Ca1 Li1"
+_cell_length_a       3.604617844410871
+_cell_length_b       6.290511582234408
+_cell_length_c       3.6247854232788086
+_cell_angle_alpha    55.22975975372958
+_cell_angle_beta     90.21050892876782
+_cell_angle_gamma    55.308189725899496
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.048873659824076425  0.5197792643959259  0.037402344261888106  1.0000
+  Li  Li1       1.0  0.04431208684563139  0.02454770042363165  0.03117617322099956  1.0000

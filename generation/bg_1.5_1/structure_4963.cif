@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CoOPtO2NaO
+_chemical_formula_sum              "Co1 O4 Pt1 Na1"
+_cell_length_a       3.066528151707949
+_cell_length_b       5.832073215655804
+_cell_length_c       5.22504186630249
+_cell_angle_alpha    106.1177595223107
+_cell_angle_beta     88.43131958288237
+_cell_angle_gamma    88.5893703571671
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.0642195047536118  0.5470772394357893  0.4228976368944408  1.0000
+  O   O1        1.0  0.5956067430447242  0.38764935747392576  0.5483235114332147  1.0000
+  Pt  Pt1       1.0  0.561152399679762  0.5851204988135305  0.9380519391993619  1.0000
+  O   O2        1.0  0.05879574690506638  0.7662827963301792  0.8293784856892628  1.0000
+  O   O3        1.0  0.06008248821977634  0.3805430822539514  0.018740164399785864  1.0000
+  Na  Na1       1.0  0.5569090838854458  0.061134315201090514  0.7547168729471467  1.0000
+  O   O4        1.0  0.5258234141725239  0.7418338055211894  0.3339223557929433  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       BiNaSnNa3Pt
+_chemical_formula_sum              "Bi1 Na4 Sn1 Pt1"
+_cell_length_a       5.008075812428986
+_cell_length_b       6.415809552406873
+_cell_length_c       7.729512691497803
+_cell_angle_alpha    127.88194778174822
+_cell_angle_beta     89.83376253430792
+_cell_angle_gamma    89.80364821825475
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.738044439763617  0.7772879010126957  0.9564200646736218  1.0000
+  Na  Na1       1.0  0.23735020957485525  0.8095970750302354  0.690581143509087  1.0000
+  Sn  Sn1       1.0  0.23768742287692496  0.2420893168515115  0.21681462221083006  1.0000
+  Na  Na2       1.0  0.737058937667012  0.2783324710040343  0.4647366993421881  1.0000
+  Na  Na3       1.0  0.23816362120784862  0.7570464608299189  0.2276269649472133  1.0000
+  Na  Na4       1.0  0.7364899524915348  0.28302314809563683  0.9517495027672219  1.0000
+  Pt  Pt1       1.0  0.23642215207258743  0.3434327548937517  0.7069376110597791  1.0000

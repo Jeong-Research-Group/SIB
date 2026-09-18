@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NaAg2RuAg
+_chemical_formula_sum              "Na1 Ag3 Ru1"
+_cell_length_a       4.147982739930973
+_cell_length_b       4.174151905438064
+_cell_length_c       5.593687057495117
+_cell_angle_alpha    89.90909951593349
+_cell_angle_beta     90.07914389665235
+_cell_angle_gamma    89.83997119320827
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.5665143123271711  0.045723974627279854  0.9582057004658884  1.0000
+  Ag  Ag1       1.0  0.5665107380878398  0.5444314484698235  0.471886366873581  1.0000
+  Ag  Ag2       1.0  0.06734283315842313  0.04428448436154139  0.4737408760487566  1.0000
+  Ru  Ru1       1.0  0.06743162806863694  0.5457718378532753  0.738315701668356  1.0000
+  Ag  Ag3       1.0  0.0673734629915587  0.546012460430174  0.1715101306443137  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Mg2SnMg2NaMg
+_chemical_formula_sum              "Mg5 Sn1 Na1"
+_cell_length_a       5.097077190323438
+_cell_length_b       6.474500236085549
+_cell_length_c       6.416806221008301
+_cell_angle_alpha    120.45049719538646
+_cell_angle_beta     89.75016100875405
+_cell_angle_gamma    90.18724533435785
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.674367964467713  0.3002318737980208  0.7349699731709027  1.0000
+  Mg  Mg2       1.0  0.17427450327202326  0.13668903775521404  0.8950761557586626  1.0000
+  Sn  Sn1       1.0  0.6737084992220886  0.7892438775518207  0.22339007272355862  1.0000
+  Mg  Mg3       1.0  0.1741086849398309  0.6261480453416104  0.38686734408996654  1.0000
+  Mg  Mg4       1.0  0.1729202423227085  0.6294429304736053  0.8868165010183275  1.0000
+  Na  Na1       1.0  0.17346581718910975  0.1359919018344677  0.38591828946571644  1.0000
+  Mg  Mg5       1.0  0.6738197201937082  0.8012398477197964  0.7272979013047999  1.0000

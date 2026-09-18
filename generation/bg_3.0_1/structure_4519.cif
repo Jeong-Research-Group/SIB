@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       NaHfO2
+_chemical_formula_sum              "Na1 Hf1 O2"
+_cell_length_a       3.16567313042279
+_cell_length_b       3.172354282893411
+_cell_length_c       5.771409511566162
+_cell_angle_alpha    105.69526385343855
+_cell_angle_beta     90.28691140664706
+_cell_angle_gamma    119.81010893014904
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.6326750511254993  0.9822369830613938  0.6108352537582075  1.0000
+  Hf  Hf1       1.0  0.13309797698670905  0.9826976048394358  0.111100360940497  1.0000
+  O   O1        1.0  0.8687504518903697  0.45392992915005137  0.31602111442118735  1.0000
+  O   O2        1.0  0.39687326574954535  0.5123587242951652  0.9048696160327652  1.0000

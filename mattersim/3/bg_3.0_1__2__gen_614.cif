@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       F3CrFNa
+_chemical_formula_sum              "F4 Cr1 Na1"
+_cell_length_a       3.2110126902770406
+_cell_length_b       4.906734287934511
+_cell_length_c       4.94225549697876
+_cell_angle_alpha    88.61883581257807
+_cell_angle_beta     90.32477803796876
+_cell_angle_gamma    90.23318518877969
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.4760853052139283  0.8306332826614379  0.9459536075592042  1.0000
+  F   F2        1.0  0.9754840135574342  0.7348681688308716  0.39021679759025574  1.0000
+  F   F3        1.0  0.4758444726467133  0.18166552484035492  0.2871587872505188  1.0000
+  Cr  Cr1       1.0  0.9756386876106263  0.005119919776916504  0.11782273650169371  1.0000
+  F   F4        1.0  0.9757220149040223  0.274143785238266  0.8460342288017273  1.0000
+  Na  Na1       1.0  0.4754816591739655  0.5049790143966675  0.6177583336830139  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ZnNaO3Ti
+_chemical_formula_sum              "Zn1 Na1 O3 Ti1"
+_cell_length_a       2.9136283024338243
+_cell_length_b       5.361463060897183
+_cell_length_c       5.9167094230651855
+_cell_angle_alpha    119.35901766040071
+_cell_angle_beta     75.38453020802359
+_cell_angle_gamma    105.7011046122691
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.1432762447945383  0.7307600977551971  0.4647613762223359  1.0000
+  Na  Na1       1.0  0.4842332007069656  0.9678621879712462  0.024632938841327355  1.0000
+  O   O1        1.0  0.4796851873097564  0.5098044270739908  0.5732994676793096  1.0000
+  O   O2        1.0  0.8041622641885765  0.9085256451581774  0.32123267602559197  1.0000
+  O   O3        1.0  0.1884078079081648  0.1443699602433053  0.7905318734604775  1.0000
+  Ti  Ti1       1.0  0.8271825909980731  0.2571275535799788  0.6300536389223285  1.0000

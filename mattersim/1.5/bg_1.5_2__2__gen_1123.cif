@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       CuNaZrTe2CuTe2
+_chemical_formula_sum              "Cu2 Na1 Zr1 Te4"
+_cell_length_a       4.039492834793537
+_cell_length_b       6.748899816550193
+_cell_length_c       7.984199047088623
+_cell_angle_alpha    88.1892237488757
+_cell_angle_beta     90.39613979788663
+_cell_angle_gamma    90.42456705639441
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.5170250535011292  0.5296650528907776  0.9419654011726379  1.0000
+  Na  Na1       1.0  0.01711455173790455  0.9914283752441406  0.3948201835155487  1.0000
+  Zr  Zr1       1.0  0.5179769396781921  0.006033230572938919  0.8978890776634216  1.0000
+  Te  Te1       1.0  0.517831027507782  0.7455054521560669  0.20340539515018463  1.0000
+  Te  Te2       1.0  0.5177400708198547  0.2577279806137085  0.5817826986312866  1.0000
+  Cu  Cu2       1.0  0.01900356262922287  0.3544587194919586  0.7437416315078735  1.0000
+  Te  Te3       1.0  0.017733866348862648  0.2627497613430023  0.05912853404879571  1.0000
+  Te  Te4       1.0  0.018830901011824608  0.744205117225647  0.7540695667266846  1.0000

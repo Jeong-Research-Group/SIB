@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       NaCrS
+_chemical_formula_sum              "Na1 Cr1 S1"
+_cell_length_a       3.6700515559323166
+_cell_length_b       3.6784382177911037
+_cell_length_c       5.6301188468933105
+_cell_angle_alpha    71.08354660903716
+_cell_angle_beta     71.11639258219705
+_cell_angle_gamma    60.31163822443228
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.04629157378067373  0.8466896424099185  0.15804293760748692  1.0000
+  Cr  Cr1       1.0  0.5458605900563136  0.34701749637106805  0.6512295595188325  1.0000
+  S   S1        1.0  0.8506163966825198  0.6522292486510758  0.7432503110540544  1.0000

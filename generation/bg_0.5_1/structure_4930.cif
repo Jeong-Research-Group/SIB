@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NaCr2S2Mo
+_chemical_formula_sum              "Na1 Cr2 S2 Mo1"
+_cell_length_a       3.9446265609516273
+_cell_length_b       3.951713608633188
+_cell_length_c       7.4858717918396
+_cell_angle_alpha    89.65515993101128
+_cell_angle_beta     90.2190944919287
+_cell_angle_gamma    119.74116985601817
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.585510434034905  0.10959711791142575  0.21059200170731607  1.0000
+  Cr  Cr1       1.0  0.9207674251684915  0.7753117080298897  0.5731086726725255  1.0000
+  Cr  Cr2       1.0  0.252366215143212  0.44441425917586874  0.8487999439972034  1.0000
+  S   S1        1.0  0.9200997348350894  0.7782880075069919  0.9467328194957066  1.0000
+  S   S2        1.0  0.2535514828323384  0.44133114669620166  0.473305672637541  1.0000
+  Mo  Mo1       1.0  0.588299691036053  0.11140551284434323  0.7093502875184935  1.0000

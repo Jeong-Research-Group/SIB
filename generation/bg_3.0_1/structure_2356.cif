@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Na2PGaNaLiP
+_chemical_formula_sum              "Na3 P2 Ga1 Li1"
+_cell_length_a       4.150549463015189
+_cell_length_b       5.438662024285489
+_cell_length_c       6.96141242980957
+_cell_angle_alpha    77.93493779356034
+_cell_angle_beta     90.27616071727081
+_cell_angle_gamma    89.94019053997113
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.9476243262804066  0.9090362198371146  0.1289908285212654  1.0000
+  Na  Na2       1.0  0.45080658795142453  0.3744510119518072  0.2577359078015709  1.0000
+  P   P1        1.0  0.9496886719809734  0.4656499925059554  0.9375333789415872  1.0000
+  Ga  Ga1       1.0  0.4486699096395001  0.6806014179918669  0.8170679216691786  1.0000
+  Na  Na3       1.0  0.4454499175437348  0.2241674358952164  0.7028740647050531  1.0000
+  Li  Li1       1.0  0.9460337757832348  0.7367070316034311  0.573736250359809  1.0000
+  P   P2        1.0  0.4474101060259255  0.8218485713609595  0.46043601576189785  1.0000

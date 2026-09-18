@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Na5TlNaCa
+_chemical_formula_sum              "Na6 Tl1 Ca1"
+_cell_length_a       5.589153507055161
+_cell_length_b       7.838045603100435
+_cell_length_c       6.830577850341797
+_cell_angle_alpha    125.11631982870587
+_cell_angle_beta     89.97144548264893
+_cell_angle_gamma    89.98682023642066
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.821746230229181  0.7120782737511199  0.45288059155059085  1.0000
+  Na  Na2       1.0  0.3201059103850194  0.9681255816753124  0.9535938504788589  1.0000
+  Na  Na3       1.0  0.32085025394347655  0.9643824094617788  0.45001876311714856  1.0000
+  Na  Na4       1.0  0.8220362062743678  0.22318829633957127  0.9673858885910498  1.0000
+  Na  Na5       1.0  0.8217620853876865  0.21823115706242696  0.4516606330672144  1.0000
+  Tl  Tl1       1.0  0.3218586742882141  0.46674308142103543  0.4552317253796467  1.0000
+  Na  Na6       1.0  0.32112261688586075  0.46279674795348597  0.9537304041826001  1.0000
+  Ca  Ca1       1.0  0.8217712041849435  0.7095071074694415  0.9394984243791031  1.0000

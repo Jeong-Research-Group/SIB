@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Bi2Na2Bi
+_chemical_formula_sum              "Bi3 Na2"
+_cell_length_a       5.262949506083507
+_cell_length_b       5.266156735071149
+_cell_length_c       6.697757244110107
+_cell_angle_alpha    89.53281757928438
+_cell_angle_beta     90.38724009678253
+_cell_angle_gamma    120.39166098604268
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.6330118775367738  0.9955055117607118  0.33655077219009405  1.0000
+  Bi  Bi2       1.0  0.3010031580924988  0.32551926374435425  0.162687286734581  1.0000
+  Na  Na1       1.0  0.6342983245849609  0.9935051202774048  0.81966632604599  1.0000
+  Na  Na2       1.0  0.9678750038146974  0.659088134765625  0.505997896194458  1.0000
+  Bi  Bi3       1.0  0.9676671028137208  0.656295120716095  0.9891757369041444  1.0000

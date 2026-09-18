@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Na2MgCuNaPb
+_chemical_formula_sum              "Na3 Mg1 Cu1 Pb1"
+_cell_length_a       4.652404307331165
+_cell_length_b       4.6936919307467075
+_cell_length_c       7.126266002655029
+_cell_angle_alpha    90.01673646861781
+_cell_angle_beta     109.09692372853786
+_cell_angle_gamma    89.76549479416589
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.15992867898124008  0.07180596101844176  0.7337933184843338  1.0000
+  Na  Na2       1.0  0.3348868180691728  0.5711988815989708  0.08875083158798641  1.0000
+  Mg  Mg1       1.0  0.9931561358419487  0.5733758804322975  0.40305265741925383  1.0000
+  Cu  Cu1       1.0  0.49068585037123547  0.0720526496435093  0.3947621882390778  1.0000
+  Na  Na3       1.0  0.6609367720896046  0.5725833777512345  0.7363774175016722  1.0000
+  Pb  Pb1       1.0  0.84262067003991  0.07292108257502175  0.10161313362048331  1.0000

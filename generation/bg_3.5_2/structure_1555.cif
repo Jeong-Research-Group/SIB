@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       TiNaO3
+_chemical_formula_sum              "Ti1 Na1 O3"
+_cell_length_a       3.6699913724584436
+_cell_length_b       2.9730404076396133
+_cell_length_c       5.949301242828369
+_cell_angle_alpha    89.71965056796799
+_cell_angle_beta     85.3672761254366
+_cell_angle_gamma    113.50545677931537
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.4926972382590519  0.613034246570796  0.7363069061358306  1.0000
+  Na  Na1       1.0  0.04173569258445738  0.884517669471908  0.24877114543278875  1.0000
+  O   O1        1.0  0.07496201970684277  0.9033440934607906  0.7479317790106247  1.0000
+  O   O2        1.0  0.4514038556409394  0.5860177263508209  0.03974766314090343  1.0000
+  O   O3        1.0  0.64257329574914  0.18977886334589833  0.5070089706584667  1.0000

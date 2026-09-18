@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       HCsNa2Cl2H
+_chemical_formula_sum              "H2 Cs1 Na2 Cl2"
+_cell_length_a       4.162959712850036
+_cell_length_b       4.171324143143984
+_cell_length_c       11.030754089355469
+_cell_angle_alpha    90.02403111097706
+_cell_angle_beta     89.92105234828055
+_cell_angle_gamma    60.17467316817186
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.32696723961446766  0.5276178117631073  0.5840867164477703  1.0000
+  Cs  Cs1       1.0  0.9876536716323097  0.20188926183449038  0.8917014602218926  1.0000
+  Na  Na1       1.0  0.6556491245151865  0.8613787892694501  0.5169165135133791  1.0000
+  Na  Na2       1.0  0.3206865789063838  0.5315690649950464  0.23528233197162318  1.0000
+  Cl  Cl1       1.0  0.6554107066712701  0.8641132120045251  0.09440312497661114  1.0000
+  Cl  Cl2       1.0  0.9895963670595519  0.1962133787683558  0.3820894066649156  1.0000
+  H   H2        1.0  0.6607933636170276  0.8624255666902322  0.7495825889777171  1.0000

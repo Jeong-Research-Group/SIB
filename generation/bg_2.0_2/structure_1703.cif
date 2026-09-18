@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       TeAlNaAlSb2Al
+_chemical_formula_sum              "Te1 Al3 Na1 Sb2"
+_cell_length_a       4.450291544586799
+_cell_length_b       4.447831464376642
+_cell_length_c       11.764314651489258
+_cell_angle_alpha    89.93157766295067
+_cell_angle_beta     89.86012022793405
+_cell_angle_gamma    119.09458002933081
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.2327290481479572  0.772288857951285  0.2713141144590568  1.0000
+  Al  Al1       1.0  0.8954398029903217  0.10921877527292788  0.26951599115133434  1.0000
+  Na  Na1       1.0  0.9126643550900183  0.10707826196063976  0.7707070110679742  1.0000
+  Al  Al2       1.0  0.24574013109556617  0.7762202019798514  0.030640954324731306  1.0000
+  Sb  Sb1       1.0  0.579790234779061  0.4405801897488644  0.961029112612443  1.0000
+  Sb  Sb2       1.0  0.5746721634382971  0.4386699198882493  0.5778498054996308  1.0000
+  Al  Al3       1.0  0.24144019242072426  0.7732471833458  0.5108166931233782  1.0000

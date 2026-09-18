@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NaZn2Ge2
+_chemical_formula_sum              "Na1 Zn2 Ge2"
+_cell_length_a       4.194293861774052
+_cell_length_b       4.220109668739145
+_cell_length_c       7.393014430999756
+_cell_angle_alpha    90.14523281260945
+_cell_angle_beta     89.92896170144631
+_cell_angle_gamma    119.89692511572787
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.8826249258487455  0.03637346724333057  0.24491170005500573  1.0000
+  Zn  Zn1       1.0  0.549034059815076  0.3690470470296477  0.8651959891648842  1.0000
+  Zn  Zn2       1.0  0.21545361032161386  0.7020617116523397  0.6238798492472241  1.0000
+  Ge  Ge1       1.0  0.21557350376272136  0.704208791852209  0.9784680606568884  1.0000
+  Ge  Ge2       1.0  0.5488094678666475  0.3679043639006799  0.5109068152593388  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       CuSbNaCu2NaCuSb
+_chemical_formula_sum              "Cu4 Sb2 Na2"
+_cell_length_a       4.447558803229819
+_cell_length_b       4.458258880688973
+_cell_length_c       7.240423679351807
+_cell_angle_alpha    89.69378463784228
+_cell_angle_beta     89.93061461061615
+_cell_angle_gamma    89.99005774967824
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.23462481704142138  0.5085690610416336  0.9073572162638375  1.0000
+  Sb  Sb1       1.0  0.23532173081205676  0.008058880065356091  0.6566120392524157  1.0000
+  Na  Na1       1.0  0.2353703529559622  0.0066091813001681295  0.15613153555143724  1.0000
+  Cu  Cu2       1.0  0.2360990502553549  0.5084829925795491  0.4050063497172107  1.0000
+  Cu  Cu3       1.0  0.7356132265338848  0.008173803253568458  0.9064810866843777  1.0000
+  Na  Na2       1.0  0.7350286838038175  0.5078294276494073  0.6566690802630135  1.0000
+  Cu  Cu4       1.0  0.7349932780227617  0.009819202290093677  0.4049936535570962  1.0000
+  Sb  Sb2       1.0  0.7351930145329572  0.5078293670867826  0.1569542591591323  1.0000

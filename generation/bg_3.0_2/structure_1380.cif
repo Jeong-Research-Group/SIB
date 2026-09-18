@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       PLiNaSn2P2
+_chemical_formula_sum              "P3 Li1 Na1 Sn2"
+_cell_length_a       3.8473294853903033
+_cell_length_b       3.921480201180862
+_cell_length_c       11.40708065032959
+_cell_angle_alpha    89.97109031296891
+_cell_angle_beta     80.18241764401245
+_cell_angle_gamma    89.7483236990343
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  P   P1        1.0  0.4826963532669856  0.4678804872516685  0.29670950778931005  1.0000
+  Li  Li1       1.0  0.28199457999748345  0.9705292590672602  0.6968955994934435  1.0000
+  Na  Na1       1.0  0.0427187006641597  0.968126117722163  0.1789673867152039  1.0000
+  Sn  Sn1       1.0  0.6655123842138941  0.47135618296155624  0.9414692519588667  1.0000
+  Sn  Sn2       1.0  0.9084000593915535  0.46850791457152363  0.4423600431070859  1.0000
+  P   P2        1.0  0.8413725483980166  0.968075513891373  0.5779180524768044  1.0000
+  P   P3        1.0  0.1738200645168667  0.9717785111764198  0.9231709836080878  1.0000

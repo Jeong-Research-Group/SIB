@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       SnNaSi
+_chemical_formula_sum              "Sn1 Na1 Si1"
+_cell_length_a       3.2628003989003775
+_cell_length_b       5.158811538350058
+_cell_length_c       5.258084774017334
+_cell_angle_alpha    61.16913379890922
+_cell_angle_beta     87.29764515611693
+_cell_angle_gamma    88.90216557477312
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.4526224737005969  0.06028116474399886  0.39153504352521445  1.0000
+  Na  Na1       1.0  0.7643435000749821  0.39389842711908196  0.7245846994037164  1.0000
+  Si  Si1       1.0  0.08889520249376291  0.7278051974095083  0.05761060126009005  1.0000

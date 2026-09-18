@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NaSnTe2Bi
+_chemical_formula_sum              "Na1 Sn1 Te2 Bi1"
+_cell_length_a       4.355215568380433
+_cell_length_b       4.362974445188147
+_cell_length_c       9.724066734313965
+_cell_angle_alpha    90.07376854773761
+_cell_angle_beta     90.30808501132577
+_cell_angle_gamma    120.53497578966164
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.5715166931143169  0.5585148332204456  0.32601943621482493  1.0000
+  Sn  Sn1       1.0  0.5699662567180838  0.5583473448405739  0.9406868221833122  1.0000
+  Te  Te1       1.0  0.9062975637911471  0.22698630369825298  0.5256185529203806  1.0000
+  Te  Te2       1.0  0.2358911042963469  0.8903711439418611  0.10617325457357182  1.0000
+  Bi  Bi1       1.0  0.2398090509846055  0.8927596203122025  0.7060027721965277  1.0000

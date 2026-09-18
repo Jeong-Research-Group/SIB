@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NaCuMnSe2
+_chemical_formula_sum              "Na1 Cu1 Mn1 Se2"
+_cell_length_a       3.973623621334847
+_cell_length_b       4.127337146978283
+_cell_length_c       6.9238600730896
+_cell_angle_alpha    90.11798720686416
+_cell_angle_beta     107.0231827674084
+_cell_angle_gamma    89.57644879350535
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.18124075155683125  0.6276254065140809  0.4239916205910614  1.0000
+  Cu  Cu1       1.0  0.8984228965602018  0.6305294042097846  0.861474751813673  1.0000
+  Mn  Mn1       1.0  0.4030437462421219  0.13024163324003601  0.8661590812387826  1.0000
+  Se  Se1       1.0  0.5077475897220972  0.6302857998125165  0.07842113831615889  1.0000
+  Se  Se2       1.0  0.7897816896117272  0.13004608535320059  0.6372546550204741  1.0000

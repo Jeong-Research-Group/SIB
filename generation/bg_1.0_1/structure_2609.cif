@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NaAlNa2Ge2
+_chemical_formula_sum              "Na3 Al1 Ge2"
+_cell_length_a       4.376002063357978
+_cell_length_b       4.341702014393399
+_cell_length_c       7.3392438888549805
+_cell_angle_alpha    89.83003325352955
+_cell_angle_beta     89.77071991018262
+_cell_angle_gamma    89.93882450105048
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.22432590910059239  0.20182812205036205  0.579117655085947  1.0000
+  Al  Al1       1.0  0.22373539119407068  0.7016451363609364  0.9350811237871837  1.0000
+  Na  Na2       1.0  0.7252013087757685  0.20236627772647717  0.9359709025205151  1.0000
+  Na  Na3       1.0  0.7245047691930524  0.7007669809996466  0.293427407432969  1.0000
+  Ge  Ge1       1.0  0.7240168461014557  0.7031698823697766  0.7043865323220357  1.0000
+  Ge  Ge2       1.0  0.22484719675285667  0.1988706589143203  0.16721935555474643  1.0000

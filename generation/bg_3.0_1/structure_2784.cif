@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Zn2LiNa3
+_chemical_formula_sum              "Zn2 Li1 Na3"
+_cell_length_a       4.719985153140704
+_cell_length_b       4.7859480118398325
+_cell_length_c       6.617752552032471
+_cell_angle_alpha    89.88435375608233
+_cell_angle_beta     68.91698404464964
+_cell_angle_gamma    89.93555967110302
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.922088385002017  0.5638644687887068  0.8115189674294527  1.0000
+  Zn  Zn2       1.0  0.5545990477956713  0.5669477579027775  0.5490399595314338  1.0000
+  Li  Li1       1.0  0.4173476088958114  0.06568896032915074  0.8218997129206554  1.0000
+  Na  Na1       1.0  0.06683950816523335  0.06575942718690159  0.5246815685158406  1.0000
+  Na  Na2       1.0  0.25078696067577716  0.5659765605807816  0.15554895984241526  1.0000
+  Na  Na3       1.0  0.7485063070179423  0.06520563395007428  0.15933451085069034  1.0000

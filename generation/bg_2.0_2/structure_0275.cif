@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NaOTlOCu
+_chemical_formula_sum              "Na1 O2 Tl1 Cu1"
+_cell_length_a       3.8601525920755795
+_cell_length_b       3.8871557505200163
+_cell_length_c       6.796224594116211
+_cell_angle_alpha    90.61816870943156
+_cell_angle_beta     91.40785480204437
+_cell_angle_gamma    89.96473823930042
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.34405091354844886  0.03851042030239221  0.10690152661305123  1.0000
+  O   O1        1.0  0.3387759924916846  0.5340597639030132  0.8930014964838137  1.0000
+  Tl  Tl1       1.0  0.3290754259460615  0.02956749966864628  0.656933963010857  1.0000
+  O   O2        1.0  0.8384805925298726  0.033983229617208024  0.8931924704645468  1.0000
+  Cu  Cu1       1.0  0.8384963270653135  0.5347054612706622  0.8987591861823321  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       MgNaLiF3MnF2
+_chemical_formula_sum              "Mg1 Na1 Li1 F5 Mn1"
+_cell_length_a       3.2834199567417834
+_cell_length_b       5.3717886722503225
+_cell_length_c       6.570298671722412
+_cell_angle_alpha    94.13242387032982
+_cell_angle_beta     96.89629433957091
+_cell_angle_gamma    94.45903694997133
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.5305789716434477  0.5242701771397696  0.5632719391482576  1.0000
+  Na  Na1       1.0  0.9387279754544766  0.07017125261196785  0.34122994506002496  1.0000
+  Li  Li1       1.0  0.9037061931387993  0.5940747260366338  0.09540693481835025  1.0000
+  F   F1        1.0  0.4177532484676116  0.826621412809634  0.14792054883421465  1.0000
+  F   F2        1.0  0.4580648846492552  0.1752640006846772  0.5949993129115105  1.0000
+  F   F3        1.0  0.7912528514318391  0.74885755868977  0.789733887072359  1.0000
+  Mn  Mn1       1.0  0.3792392020779379  0.027405309608177563  0.8783814900216982  1.0000
+  F   F4        1.0  0.995370030523291  0.5370238424714562  0.41032341131221356  1.0000
+  F   F5        1.0  0.9428454650141248  0.24510970641723692  0.010108119110655962  1.0000

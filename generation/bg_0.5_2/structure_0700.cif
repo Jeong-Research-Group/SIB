@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       PtONaONaBiO3
+_chemical_formula_sum              "Pt1 O5 Na2 Bi1"
+_cell_length_a       4.130038177577542
+_cell_length_b       4.107892100663308
+_cell_length_c       8.194282531738281
+_cell_angle_alpha    90.01013167506366
+_cell_angle_beta     90.09859628494144
+_cell_angle_gamma    90.22365704631542
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.09602607055199903  0.9741776581721413  0.424462944496388  1.0000
+  O   O1        1.0  0.09510540959338239  0.47432869713577336  0.42358583231594454  1.0000
+  Na  Na1       1.0  0.5950649976816664  0.47469964690711464  0.179735466481496  1.0000
+  O   O2        1.0  0.09437635490397883  0.9741540546455668  0.6677498217130854  1.0000
+  Na  Na2       1.0  0.5946032404761532  0.47384771685725036  0.6690162416899196  1.0000
+  Bi  Bi1       1.0  0.09485936161684336  0.9742496615868501  0.9240998626208635  1.0000
+  O   O3        1.0  0.5950040215607654  0.9740140425961731  0.9247651693847551  1.0000
+  O   O4        1.0  0.09483088518074145  0.4745111156860878  0.9248207806511458  1.0000
+  O   O5        1.0  0.09580331996307347  0.9743667833763039  0.18069653200200875  1.0000

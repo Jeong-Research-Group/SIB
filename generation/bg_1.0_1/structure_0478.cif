@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Na2HCuN
+_chemical_formula_sum              "Na2 H1 Cu1 N1"
+_cell_length_a       2.8896588998961534
+_cell_length_b       2.8731954495030183
+_cell_length_c       7.9026360511779785
+_cell_angle_alpha    89.6286109580001
+_cell_angle_beta     90.03193364029612
+_cell_angle_gamma    89.91067728270455
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.15293300072475938  0.23554821304381213  0.4398210947607913  1.0000
+  Na  Na2       1.0  0.15158717329360508  0.23186674573269023  0.04961749882296423  1.0000
+  H   H1        1.0  0.653572022914629  0.7344631562151481  0.246429889909551  1.0000
+  Cu  Cu1       1.0  0.6506822097752095  0.7326641087812511  0.745243728155989  1.0000
+  N   N1        1.0  0.1490769985126051  0.23205557453655803  0.7470150589347712  1.0000

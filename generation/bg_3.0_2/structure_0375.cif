@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       MgNaPb
+_chemical_formula_sum              "Mg1 Na1 Pb1"
+_cell_length_a       5.106866330711799
+_cell_length_b       5.089861061649682
+_cell_length_c       5.098677635192871
+_cell_angle_alpha    59.75856149749176
+_cell_angle_beta     59.78543226392454
+_cell_angle_gamma    59.63338053095162
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.021721885246554423  0.2783585196981255  0.4733782110444276  1.0000
+  Na  Na1       1.0  0.5213927624986351  0.7799463262031537  0.9687924994164392  1.0000
+  Pb  Pb1       1.0  0.2715707124832642  0.5288678992230691  0.7220157980845939  1.0000

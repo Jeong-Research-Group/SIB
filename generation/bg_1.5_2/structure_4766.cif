@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Na2PTiP
+_chemical_formula_sum              "Na2 P2 Ti1"
+_cell_length_a       4.129002049932448
+_cell_length_b       4.147875650356899
+_cell_length_c       6.987240791320801
+_cell_angle_alpha    107.20371840150601
+_cell_angle_beta     106.9437147163123
+_cell_angle_gamma    89.8953981492487
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.24026788820901768  0.2907470766864706  0.6315017349067704  1.0000
+  Na  Na2       1.0  0.9887132654321841  0.5374387510363329  0.1286308166466298  1.0000
+  P   P1        1.0  0.3450197278092671  0.8984876271750672  0.8465067153163255  1.0000
+  Ti  Ti1       1.0  0.7374119771110021  0.7871018646898167  0.6265968688729981  1.0000
+  P   P2        1.0  0.633532644018304  0.17857028589954793  0.4091596308834138  1.0000

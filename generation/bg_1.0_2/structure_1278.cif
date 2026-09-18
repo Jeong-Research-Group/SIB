@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CuRbKBrClBr2
+_chemical_formula_sum              "Cu1 Rb1 K1 Br3 Cl1"
+_cell_length_a       4.829359267350387
+_cell_length_b       5.246258422777162
+_cell_length_c       8.575287818908691
+_cell_angle_alpha    71.96147691296154
+_cell_angle_beta     89.59385898627926
+_cell_angle_gamma    89.88964030219978
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.24887418833307057  0.538448095045829  0.21268966746368287  1.0000
+  Rb  Rb1       1.0  0.7482762936304768  0.19037610375506575  0.9117678996804204  1.0000
+  K   K1        1.0  0.7449607850101032  0.8950608962733153  0.5025815959544888  1.0000
+  Br  Br1       1.0  0.24828919672205274  0.7001673572876093  0.8925819996386956  1.0000
+  Cl  Cl1       1.0  0.7473751892393741  0.539643228491139  0.21389028460301318  1.0000
+  Br  Br2       1.0  0.2479002172240478  0.036289111077051475  0.21533372985837482  1.0000
+  Br  Br3       1.0  0.24502477117812918  0.3803907627357518  0.532696902573749  1.0000

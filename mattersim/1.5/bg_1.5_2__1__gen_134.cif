@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       PtNaHgNa2KHg
+_chemical_formula_sum              "Pt1 Na3 Hg2 K1"
+_cell_length_a       5.951690152458369
+_cell_length_b       5.935716820375201
+_cell_length_c       6.168805122375488
+_cell_angle_alpha    120.15331469973049
+_cell_angle_beta     86.76051203362405
+_cell_angle_gamma    77.449681025553
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.04926799610257148  0.9945920705795288  0.16942450404167175  1.0000
+  Na  Na1       1.0  0.5164304375648499  0.14762671291828156  0.19582347571849823  1.0000
+  Hg  Hg1       1.0  0.7802152037620543  0.07885289937257767  0.5945608019828796  1.0000
+  Na  Na2       1.0  0.921678602695465  0.5689827799797058  0.6640445590019226  1.0000
+  Na  Na3       1.0  0.9178735613822936  0.48781064152717585  0.12111833691596985  1.0000
+  K   K1        1.0  0.3259234130382538  0.8861591219902039  0.5818161368370056  1.0000
+  Hg  Hg2       1.0  0.4113642275333404  0.5446174144744873  0.9015645980834961  1.0000

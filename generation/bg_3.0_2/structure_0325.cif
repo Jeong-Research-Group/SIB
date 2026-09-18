@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NMoNNa2
+_chemical_formula_sum              "N2 Mo1 Na2"
+_cell_length_a       3.2097360244989193
+_cell_length_b       3.2122824514659594
+_cell_length_c       7.449044227600098
+_cell_angle_alpha    102.24525404875537
+_cell_angle_beta     102.42393213335961
+_cell_angle_gamma    90.099614095785
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  N   N1        1.0  0.8358933336822796  0.9606040124758397  0.6528335817377439  1.0000
+  Mo  Mo1       1.0  0.6904664648554802  0.8155403146321777  0.3604584934006944  1.0000
+  N   N2        1.0  0.17996337910334967  0.3066842265212744  0.329782813207052  1.0000
+  Na  Na1       1.0  0.34452459227645815  0.4701903177899847  0.6721922160811941  1.0000
+  Na  Na2       1.0  0.016651789526059405  0.1395689260671943  0.006786984762478655  1.0000

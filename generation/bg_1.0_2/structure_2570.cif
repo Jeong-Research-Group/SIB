@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NaMnNaSbLiSb
+_chemical_formula_sum              "Na2 Mn1 Sb2 Li1"
+_cell_length_a       4.541104654420364
+_cell_length_b       4.538694298003835
+_cell_length_c       7.547287464141846
+_cell_angle_alpha    89.60097602594657
+_cell_angle_beta     89.91407871863893
+_cell_angle_gamma    89.75843920399261
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.19843004728328376  0.1714898949911555  0.08492936187109452  1.0000
+  Mn  Mn1       1.0  0.6981162421430025  0.1719617247136179  0.4315418892944009  1.0000
+  Na  Na2       1.0  0.6984520548214899  0.6716966624591395  0.7778744700692793  1.0000
+  Sb  Sb1       1.0  0.19839370302949594  0.17180490570176213  0.6555643682821205  1.0000
+  Li  Li1       1.0  0.19754427763740096  0.6713399291176404  0.43204724741065537  1.0000
+  Sb  Sb2       1.0  0.6989613780997567  0.6710995436597637  0.2076325116367474  1.0000

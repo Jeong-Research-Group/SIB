@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       LiNaLiPb
+_chemical_formula_sum              "Li2 Na1 Pb1"
+_cell_length_a       5.066765293295404
+_cell_length_b       5.061640087622314
+_cell_length_c       5.058224201202393
+_cell_angle_alpha    59.89420908250273
+_cell_angle_beta     59.78151083970069
+_cell_angle_gamma    59.82246679039574
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.9613314865085005  0.18760238635621526  0.40943452681311915  1.0000
+  Na  Na1       1.0  0.4614465823602767  0.687198877059846  0.9095188971493199  1.0000
+  Li  Li2       1.0  0.2117930949087442  0.4375725696067606  0.6587905277246081  1.0000
+  Pb  Pb1       1.0  0.7123522760618788  0.9374226332973193  0.15904374448826816  1.0000

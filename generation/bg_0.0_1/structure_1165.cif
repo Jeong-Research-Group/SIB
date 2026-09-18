@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       CeAuNaAu
+_chemical_formula_sum              "Ce1 Au2 Na1"
+_cell_length_a       5.057018130217634
+_cell_length_b       5.057579173838323
+_cell_length_c       5.058468341827393
+_cell_angle_alpha    60.20195728451775
+_cell_angle_beta     60.13535010914279
+_cell_angle_gamma    60.081993827195134
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.3276246477200494  0.6786599169258863  0.2252643248008865  1.0000
+  Au  Au1       1.0  0.5778121947710768  0.9285303353612995  0.4744618238138794  1.0000
+  Na  Na1       1.0  0.8281137355826566  0.17859758323977762  0.7247858052130274  1.0000
+  Au  Au2       1.0  0.0782070837909668  0.42867833394628774  0.975580750609006  1.0000

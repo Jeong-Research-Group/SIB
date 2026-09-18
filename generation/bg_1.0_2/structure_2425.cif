@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NaBaIrNaO3
+_chemical_formula_sum              "Na2 Ba1 Ir1 O3"
+_cell_length_a       4.49254533645929
+_cell_length_b       5.780996156564581
+_cell_length_c       5.8130083084106445
+_cell_angle_alpha    100.88448882658919
+_cell_angle_beta     113.31947048935685
+_cell_angle_gamma    112.88981361354516
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.9527443042612054  0.277548670826134  0.09293906361852476  1.0000
+  Ba  Ba1       1.0  0.5064085134321014  0.07667079614269175  0.39270615578752427  1.0000
+  Ir  Ir1       1.0  0.4933494620069052  0.5640444149746577  0.8856319778943469  1.0000
+  Na  Na2       1.0  0.9563475852712785  0.7757525443285842  0.6001276978273143  1.0000
+  O   O1        1.0  0.33236616957517046  0.5821937332846336  0.5445164451868374  1.0000
+  O   O2        1.0  0.7993634345558122  0.8697823294389941  0.19256483076174624  1.0000
+  O   O3        1.0  0.3346663408696798  0.2268047038441458  0.9109854102103219  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       WCl2ONaCl
+_chemical_formula_sum              "W1 Cl3 O1 Na1"
+_cell_length_a       3.7662974406340473
+_cell_length_b       6.177968246462065
+_cell_length_c       6.8414106369018555
+_cell_angle_alpha    92.02917683835886
+_cell_angle_beta     89.82295034805372
+_cell_angle_gamma    90.05514262374783
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  W   W1        1.0  0.6865802403919226  0.8764890437098944  0.13905410489969297  1.0000
+  Cl  Cl1       1.0  0.6860409963831371  0.12048564159576498  0.4328776894930761  1.0000
+  Cl  Cl2       1.0  0.18507015674023797  0.6563321346834631  0.28434941141888503  1.0000
+  O   O1        1.0  0.18430632262287983  0.08833951523875237  2.9809703861198156e-06  1.0000
+  Na  Na1       1.0  0.18765321410059554  0.8800317055576968  0.6391677256223561  1.0000
+  Cl  Cl3       1.0  0.6871502984039682  0.6332128045648893  0.8385663037658955  1.0000

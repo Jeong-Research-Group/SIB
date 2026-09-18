@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       MnBiONaO2
+_chemical_formula_sum              "Mn1 Bi1 O3 Na1"
+_cell_length_a       3.4336903828372334
+_cell_length_b       3.4342781705383705
+_cell_length_c       7.356403827667236
+_cell_angle_alpha    76.82441861408718
+_cell_angle_beta     76.36574299720547
+_cell_angle_gamma    90.15334052738109
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.6965543640642016  0.027657442905022842  0.4570899600903212  1.0000
+  Bi  Bi1       1.0  0.38612604020128066  0.7221256508077677  0.07766086637971706  1.0000
+  O   O1        1.0  0.8659178008332105  0.1927731190651571  0.12306875699650827  1.0000
+  Na  Na1       1.0  0.051405728763383174  0.384171157644455  0.747324705513079  1.0000
+  O   O2        1.0  0.21663776120598038  0.5493971717065443  0.4130482076692874  1.0000
+  O   O3        1.0  0.5468826283856439  0.8786797528841607  0.7587144380016732  1.0000

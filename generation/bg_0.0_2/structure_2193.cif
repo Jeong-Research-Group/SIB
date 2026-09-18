@@ -1,0 +1,27 @@
+data_image0
+_chemical_formula_structural       PtCd
+_chemical_formula_sum              "Pt1 Cd1"
+_cell_length_a       3.021063648592891
+_cell_length_b       3.0028767713422093
+_cell_length_c       4.097486972808838
+_cell_angle_alpha    90.12926384412971
+_cell_angle_beta     90.10011941678093
+_cell_angle_gamma    89.93761555346578
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.06421670233936698  0.8091071855849582  0.2907368536448905  1.0000
+  Cd  Cd1       1.0  0.5649305585463306  0.3096199025463044  0.7912660844026308  1.0000

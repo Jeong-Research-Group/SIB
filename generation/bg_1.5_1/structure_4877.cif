@@ -1,0 +1,27 @@
+data_image0
+_chemical_formula_structural       AuIn
+_chemical_formula_sum              "Au1 In1"
+_cell_length_a       3.402008386632199
+_cell_length_b       3.4186015129332423
+_cell_length_c       3.4141435623168945
+_cell_angle_alpha    89.9997839384243
+_cell_angle_beta     89.88981789290521
+_cell_angle_gamma    89.939985627048
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.4735240042493134  0.8793408877019253  0.7054856432231085  1.0000
+  In  In1       1.0  0.973631442393891  0.380411059460492  0.20304939013823953  1.0000

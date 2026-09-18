@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       OMo2NaO2NaO2
+_chemical_formula_sum              "O5 Mo2 Na2"
+_cell_length_a       5.593671636326729
+_cell_length_b       5.623211492324118
+_cell_length_c       5.730607032775879
+_cell_angle_alpha    118.75675937230065
+_cell_angle_beta     119.07131880020349
+_cell_angle_gamma    89.94840657494618
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.7168080208616681  0.7153195736630295  0.772459863944728  1.0000
+  Mo  Mo1       1.0  0.45822873670240544  0.9544582959928911  0.7510524989848735  1.0000
+  Mo  Mo2       1.0  0.9785364260885554  0.4741103346884615  0.7912697781830861  1.0000
+  Na  Na1       1.0  0.2188127796399624  0.2147613620422205  0.27106839576440406  1.0000
+  O   O2        1.0  0.7177699212107359  0.21377740858534547  0.7713477609321221  1.0000
+  O   O3        1.0  0.21868647749078088  0.7146617778122966  0.2720529748072069  1.0000
+  Na  Na2       1.0  0.718086599739768  0.7148096571058237  0.27100950547873587  1.0000
+  O   O4        1.0  0.21896918043597416  0.7150208362829722  0.7711721068503355  1.0000
+  O   O5        1.0  0.21939004874774848  0.21292045732021458  0.7724074119584567  1.0000

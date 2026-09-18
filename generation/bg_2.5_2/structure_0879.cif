@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       LiMoONaO2
+_chemical_formula_sum              "Li1 Mo1 O3 Na1"
+_cell_length_a       3.2173561030302817
+_cell_length_b       3.2124738832960147
+_cell_length_c       6.933835983276367
+_cell_angle_alpha    103.29799840338481
+_cell_angle_beta     103.27663286562388
+_cell_angle_gamma    90.14081388817559
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.8745672100317678  0.3866142624332768  0.05662540774274626  1.0000
+  Mo  Mo1       1.0  0.5484287730590099  0.06197710423433201  0.40160316203670043  1.0000
+  O   O1        1.0  0.6913878329621704  0.20424105317592045  0.6930633785350492  1.0000
+  Na  Na1       1.0  0.2235483217129586  0.7370635861432691  0.7538595788997384  1.0000
+  O   O2        1.0  0.4007744782932298  0.9146407842780567  0.10919206650675586  1.0000
+  O   O3        1.0  0.04371300103624691  0.5572649231565432  0.39430326244682923  1.0000

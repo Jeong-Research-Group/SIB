@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NaSbSnSbNaBiNaGa
+_chemical_formula_sum              "Na3 Sb2 Sn1 Bi1 Ga1"
+_cell_length_a       4.505768793044604
+_cell_length_b       7.557573369950418
+_cell_length_c       7.611708641052246
+_cell_angle_alpha    110.8026210076036
+_cell_angle_beta     89.73373440509117
+_cell_angle_gamma    90.03525994765161
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.8638807535171509  0.41007620096206665  0.17982120811939237  1.0000
+  Sb  Sb1       1.0  0.3647165596485138  0.5340855121612549  0.5264352560043335  1.0000
+  Sn  Sn1       1.0  0.8640434145927429  0.34514379501342773  0.652855098247528  1.0000
+  Sb  Sb2       1.0  0.8647944927215576  0.7987662553787231  0.09233449399471282  1.0000
+  Na  Na2       1.0  0.8641002774238586  0.8731001019477844  0.6932039260864257  1.0000
+  Bi  Bi1       1.0  0.3638720214366913  0.22370219230651855  0.8522729277610778  1.0000
+  Na  Na3       1.0  0.36440739035606384  0.0609579086303711  0.3482250869274139  1.0000
+  Ga  Ga1       1.0  0.3649562895298004  0.6144543886184691  0.9118489623069762  1.0000

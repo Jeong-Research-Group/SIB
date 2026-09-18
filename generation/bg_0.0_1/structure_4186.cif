@@ -1,0 +1,27 @@
+data_image0
+_chemical_formula_structural       KN
+_chemical_formula_sum              "K1 N1"
+_cell_length_a       3.6151062834328416
+_cell_length_b       3.6210333816903204
+_cell_length_c       3.621330738067627
+_cell_angle_alpha    89.97212850341326
+_cell_angle_beta     89.96552371204767
+_cell_angle_gamma    89.85712861000758
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.10056453113049989  0.46333289049580745  0.5333352693702671  1.0000
+  N   N1        1.0  0.5957591533589702  0.9610828766030819  0.03328513624798579  1.0000

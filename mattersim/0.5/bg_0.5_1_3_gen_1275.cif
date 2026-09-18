@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BaOFeONaO
+_chemical_formula_sum              "Ba1 O3 Fe1 Na1"
+_cell_length_a       3.9633067944297315
+_cell_length_b       3.9405768916150423
+_cell_length_c       6.598031044006348
+_cell_angle_alpha    107.71128965286506
+_cell_angle_beta     107.76532408061156
+_cell_angle_gamma    90.02552678071416
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.8376787900924683  0.7322564721107482  0.5500462055206299  1.0000
+  O   O1        1.0  0.1638239026069641  0.5588759183883667  0.20426604151725772  1.0000
+  Fe  Fe1       1.0  0.18800784647464752  0.08240789920091629  0.2517056465148926  1.0000
+  O   O2        1.0  0.3529304563999176  0.24693474173545835  0.582288920879364  1.0000
+  Na  Na1       1.0  0.5513770580291748  0.4465259909629821  0.9775285124778749  1.0000
+  O   O3        1.0  0.6656970381736755  0.05949656665325165  0.20615014433860782  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Na3AsNa3Au
+_chemical_formula_sum              "Na6 As1 Au1"
+_cell_length_a       5.215700852329685
+_cell_length_b       6.57545936449186
+_cell_length_c       6.588903427124023
+_cell_angle_alpha    108.72118137215874
+_cell_angle_beta     90.10241436656915
+_cell_angle_gamma    90.11431255484604
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.19641664624214172  0.25411829352378845  0.9887344837188721  1.0000
+  Na  Na2       1.0  0.6945142149925232  0.9786490201950073  0.6773095726966858  1.0000
+  Na  Na3       1.0  0.6937777996063232  0.5676150918006897  0.2613576948642731  1.0000
+  As  As1       1.0  0.6939639449119568  0.05703429132699967  0.18297964334487915  1.0000
+  Na  Na4       1.0  0.6948862075805664  0.5128769278526306  0.7270857691764832  1.0000
+  Na  Na5       1.0  0.19496308267116547  0.20209164917469025  0.4462072551250458  1.0000
+  Na  Na6       1.0  0.1942402720451355  0.7952293753623962  0.03402205929160118  1.0000
+  Au  Au1       1.0  0.19276374578475952  0.7067922353744507  0.5303149223327637  1.0000

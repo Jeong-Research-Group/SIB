@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Na2ScIn2
+_chemical_formula_sum              "Na2 Sc1 In2"
+_cell_length_a       4.45351724729422
+_cell_length_b       4.905381291535131
+_cell_length_c       6.783441066741943
+_cell_angle_alpha    89.80077956349997
+_cell_angle_beta     90.02057503619625
+_cell_angle_gamma    89.67169581146075
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.4004697204727749  0.5606297854037136  0.16321708324674014  1.0000
+  Na  Na2       1.0  0.897900163354398  0.561131537490903  0.6618841289312176  1.0000
+  Sc  Sc1       1.0  0.4004090127286585  0.06228555676993017  0.6594192387104458  1.0000
+  In  In1       1.0  0.8993830095214839  0.062105666609621364  0.37189906868493605  1.0000
+  In  In2       1.0  0.8987524498736057  0.06141661192773454  0.9541458480678776  1.0000

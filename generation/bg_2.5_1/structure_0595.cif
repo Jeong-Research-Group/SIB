@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NaTiO2Br3O
+_chemical_formula_sum              "Na1 Ti1 O3 Br3"
+_cell_length_a       6.948211811550599
+_cell_length_b       6.684131302507031
+_cell_length_c       6.696742534637451
+_cell_angle_alpha    60.059854867684145
+_cell_angle_beta     61.113036020674045
+_cell_angle_gamma    61.069316014328436
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.48357296015104695  0.039397094589443196  0.8106921315497752  1.0000
+  Ti  Ti1       1.0  0.653210341130641  0.3204549256603506  0.08943361002233911  1.0000
+  O   O1        1.0  0.5689876671246619  0.6366273168330566  0.9717372652792687  1.0000
+  O   O2        1.0  0.5694757700584038  0.20350982264901596  0.9742022152451205  1.0000
+  Br  Br1       1.0  0.17093457301392223  0.8132474416193343  0.5840877885545787  1.0000
+  Br  Br2       1.0  0.029401747801938924  0.19375139431151292  0.9635053284099592  1.0000
+  Br  Br3       1.0  0.9360191222842533  0.5565346484684596  0.3288309574156203  1.0000
+  O   O3        1.0  0.5686106676116867  0.20124538323044489  0.4047652179755485  1.0000

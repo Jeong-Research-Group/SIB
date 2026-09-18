@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       GaHgNa
+_chemical_formula_sum              "Ga1 Hg1 Na1"
+_cell_length_a       4.732715826814468
+_cell_length_b       4.730662901129429
+_cell_length_c       4.716333866119385
+_cell_angle_alpha    60.02035795053546
+_cell_angle_beta     59.592394487316355
+_cell_angle_gamma    59.76858294184926
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.9978551275296661  0.7147216786068366  0.17418599209308538  1.0000
+  Hg  Hg1       1.0  0.24648085131280226  0.964345574293963  0.4250757692911074  1.0000
+  Na  Na1       1.0  0.4986359479000682  0.21408665130665291  0.6727038629582949  1.0000

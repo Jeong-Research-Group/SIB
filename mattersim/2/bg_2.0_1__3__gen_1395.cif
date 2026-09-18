@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Cl2ZrBTi
+_chemical_formula_sum              "Cl2 Zr1 B1 Ti1"
+_cell_length_a       3.556981361402149
+_cell_length_b       3.5450803226482974
+_cell_length_c       8.661357879638672
+_cell_angle_alpha    90.1062734155797
+_cell_angle_beta     89.97748336983287
+_cell_angle_gamma    120.12871408815155
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.8539983034133912  0.3163459002971649  0.15130938589572906  1.0000
+  Cl  Cl2       1.0  0.5225029587745667  0.6510567665100098  0.7659962773323059  1.0000
+  Zr  Zr1       1.0  0.8528613448143006  0.31616735458374023  0.5762129426002502  1.0000
+  B   B1        1.0  0.18367043137550354  0.9821758270263672  0.44841107726097107  1.0000
+  Ti  Ti1       1.0  0.522539496421814  0.6503868699073792  0.3273284137248993  1.0000

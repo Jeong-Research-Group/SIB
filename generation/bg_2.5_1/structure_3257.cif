@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Na2HfS4Hf
+_chemical_formula_sum              "Na2 Hf2 S4"
+_cell_length_a       5.346453832116902
+_cell_length_b       5.412639216367465
+_cell_length_c       5.4043731689453125
+_cell_angle_alpha    90.09962080514622
+_cell_angle_beta     90.0559554119958
+_cell_angle_gamma    89.96714246778414
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.8414374597087295  0.29792618843078567  0.07634649340059053  1.0000
+  Na  Na2       1.0  0.841405629283235  0.7984159586320785  0.5758520371686581  1.0000
+  Hf  Hf1       1.0  0.34042951487766754  0.7974722381379078  0.07697814685067846  1.0000
+  S   S1        1.0  0.8410695192243006  0.7975777986480769  0.07582010406324767  1.0000
+  S   S2        1.0  0.3420134494010522  0.7977989905578883  0.5759295813829579  1.0000
+  S   S3        1.0  0.842239975538041  0.29770588887826926  0.5760371092365838  1.0000
+  S   S4        1.0  0.341973484451128  0.2988635903701961  0.07600349917191267  1.0000
+  Hf  Hf2       1.0  0.3410228798043239  0.29884466611393623  0.575146079469144  1.0000

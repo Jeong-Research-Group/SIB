@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       OFeMgBaO2
+_chemical_formula_sum              "O3 Fe1 Mg1 Ba1"
+_cell_length_a       3.9032987660755643
+_cell_length_b       3.90211943957834
+_cell_length_c       6.647545337677002
+_cell_angle_alpha    90.1285193435742
+_cell_angle_beta     88.92909029679977
+_cell_angle_gamma    89.7947211871741
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.42992749824596893  0.47783991570251066  0.8676428799709046  1.0000
+  Fe  Fe1       1.0  0.42309317055699586  0.47868275763440543  0.1635771387516586  1.0000
+  Mg  Mg1       1.0  0.919000743954061  0.9790899759512436  0.3302670127882932  1.0000
+  Ba  Ba1       1.0  0.931043743921217  0.9770438077905347  0.837774991897927  1.0000
+  O   O2        1.0  0.42146527851802207  0.9786131384434903  0.25805452507536075  1.0000
+  O   O3        1.0  0.9214558598396062  0.4787172366463115  0.2571530039747704  1.0000

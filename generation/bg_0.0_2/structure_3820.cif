@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       ClCuNaClNaPdClO
+_chemical_formula_sum              "Cl3 Cu1 Na2 Pd1 O1"
+_cell_length_a       4.237239296369784
+_cell_length_b       6.691467619730741
+_cell_length_c       6.473516941070557
+_cell_angle_alpha    74.76218459328582
+_cell_angle_beta     102.40872223293222
+_cell_angle_gamma    89.39891211430673
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.00945792172583985  0.11317484787570532  0.35148984251073984  1.0000
+  Cu  Cu1       1.0  0.7404155123740465  0.358302563705489  0.027962399173820006  1.0000
+  Na  Na1       1.0  0.49327129235557826  0.8534366482576996  0.28482311962472145  1.0000
+  Cl  Cl2       1.0  0.504627227041753  0.10853807635120574  0.858751177900883  1.0000
+  Na  Na2       1.0  0.9925343988698011  0.8525227308231321  0.7768405084769177  1.0000
+  Pd  Pd1       1.0  0.24418599809024213  0.35893088630906306  0.5309038762720156  1.0000
+  Cl  Cl3       1.0  0.9791948197406078  0.6059194810380137  0.20201212222432774  1.0000
+  O   O1        1.0  0.48026692963215023  0.5982868675632793  0.706997692203401  1.0000

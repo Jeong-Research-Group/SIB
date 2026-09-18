@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       GdAuNaAu
+_chemical_formula_sum              "Gd1 Au2 Na1"
+_cell_length_a       5.0239060859760585
+_cell_length_b       5.0313042351083945
+_cell_length_c       5.021320819854736
+_cell_angle_alpha    60.04667926652113
+_cell_angle_beta     60.026086670855356
+_cell_angle_gamma    59.97632945573091
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Gd  Gd1       1.0  0.5041450261968612  0.23336437465397536  0.14971175798098607  1.0000
+  Au  Au1       1.0  0.7564585812065511  0.48295277273265014  0.39870664507070125  1.0000
+  Na  Na1       1.0  0.0069964927863872  0.7333796017347266  0.6484802951078458  1.0000
+  Au  Au2       1.0  0.2560801207505065  0.982873858031711  0.8985823390367512  1.0000

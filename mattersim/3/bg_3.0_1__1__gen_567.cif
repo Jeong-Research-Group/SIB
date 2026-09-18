@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NaVOLiOBrO
+_chemical_formula_sum              "Na1 V1 O3 Li1 Br1"
+_cell_length_a       3.7442070009023456
+_cell_length_b       3.7602694569260087
+_cell_length_c       8.401031494140625
+_cell_angle_alpha    89.99033778699436
+_cell_angle_beta     90.03168092505359
+_cell_angle_gamma    90.23696228962109
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.5488119721412659  0.8214100003242492  0.09576109796762466  1.0000
+  V   V1        1.0  0.5528325438499451  0.8159668445587157  0.5627738237380981  1.0000
+  O   O1        1.0  0.5508489608764648  0.8158417344093323  0.36543917655944824  1.0000
+  Li  Li1       1.0  0.05115499347448349  0.31461128592491144  0.7249603271484375  1.0000
+  O   O2        1.0  0.05282721295952797  0.8150727748870848  0.6334060430526733  1.0000
+  Br  Br1       1.0  0.048390958458185196  0.31979048252105713  0.026353027671575546  1.0000
+  O   O3        1.0  0.5510848164558411  0.3151831924915313  0.6339010000228882  1.0000

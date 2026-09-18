@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NaSmNaO2
+_chemical_formula_sum              "Na2 Sm1 O2"
+_cell_length_a       3.8854704716521926
+_cell_length_b       3.9089421786318943
+_cell_length_c       6.215000152587891
+_cell_angle_alpha    89.75424547267377
+_cell_angle_beta     90.14931726149068
+_cell_angle_gamma    59.98579968657297
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.9556198705127544  0.9373982556664554  0.19024588213060212  1.0000
+  Sm  Sm1       1.0  0.28706878522979234  0.26855701254490916  0.5817381732986847  1.0000
+  Na  Na2       1.0  0.6230894916017762  0.6035088307583916  0.9205234651191992  1.0000
+  O   O1        1.0  0.28983885050629726  0.26682230914205135  0.9539058204335094  1.0000
+  O   O2        1.0  0.6208561056287571  0.6053028099328613  0.46587070826170907  1.0000

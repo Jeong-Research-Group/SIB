@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NaAlMgYAlNa
+_chemical_formula_sum              "Na2 Al2 Mg1 Y1"
+_cell_length_a       5.168759735665487
+_cell_length_b       6.167052314001577
+_cell_length_c       6.00519323348999
+_cell_angle_alpha    117.782882509659
+_cell_angle_beta     114.57024233056472
+_cell_angle_gamma    65.30204396680574
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.4570529763377804  0.7685079570173912  0.9957314728267398  1.0000
+  Al  Al1       1.0  0.13304908494042744  0.43040621203370333  0.010901466135727003  1.0000
+  Mg  Mg1       1.0  0.1209012266711631  0.9497033356293618  0.5056296582905717  1.0000
+  Y   Y1        1.0  0.7940053937642065  0.5928525335950058  0.4957953997946993  1.0000
+  Al  Al2       1.0  0.7921194431801372  0.10199996158603475  0.9956325294855745  1.0000
+  Na  Na2       1.0  0.46320301418421694  0.25871020490841345  0.5000220533750322  1.0000

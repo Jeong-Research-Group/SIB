@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NNaErSO
+_chemical_formula_sum              "N1 Na1 Er1 S1 O1"
+_cell_length_a       3.6820801721830705
+_cell_length_b       3.69467698557596
+_cell_length_c       6.935322284698486
+_cell_angle_alpha    121.86362212895844
+_cell_angle_beta     89.77546004836668
+_cell_angle_gamma    89.757004854934
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  N   N1        1.0  0.8159384739197949  0.1757134956640418  0.5945127611958458  1.0000
+  Na  Na1       1.0  0.31807118734941275  0.7911839494627964  0.7083203192651663  1.0000
+  Er  Er1       1.0  0.8180193906304126  0.7911603439664266  0.20924614394527094  1.0000
+  S   S1        1.0  0.3155725014045679  0.28784957528365923  0.20434710333375877  1.0000
+  O   O1        1.0  0.8216607576162742  0.4021508688187558  0.8166845444672106  1.0000

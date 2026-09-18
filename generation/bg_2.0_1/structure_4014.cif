@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       MnNa2Se2
+_chemical_formula_sum              "Mn1 Na2 Se2"
+_cell_length_a       3.959046634999191
+_cell_length_b       3.9570370514377204
+_cell_length_c       9.85985279083252
+_cell_angle_alpha    89.84809226844001
+_cell_angle_beta     89.95955412593848
+_cell_angle_gamma    120.13502329056496
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.274745225142158  0.13418465940607094  0.13942439839350765  1.0000
+  Na  Na1       1.0  0.6124314069421086  0.8050869699478738  0.8199071883421469  1.0000
+  Na  Na2       1.0  0.9369499693638684  0.4651618602874323  0.46303364620327303  1.0000
+  Se  Se1       1.0  0.605371415828017  0.7992326630240397  0.2927212119941794  1.0000
+  Se  Se2       1.0  0.9421706795723918  0.46960935072075277  0.9872218373859277  1.0000

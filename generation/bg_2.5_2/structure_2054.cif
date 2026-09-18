@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       O2MoMgO2
+_chemical_formula_sum              "O4 Mo1 Mg1"
+_cell_length_a       3.6044434267291123
+_cell_length_b       3.9007527839042324
+_cell_length_c       6.460793972015381
+_cell_angle_alpha    89.99865012707652
+_cell_angle_beta     90.01447567625085
+_cell_angle_gamma    89.8531056142261
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.7741637228636145  0.23609355116184408  0.8739480974440583  1.0000
+  O   O2        1.0  0.27210998534764835  0.2387939849513778  0.17846469618223357  1.0000
+  Mo  Mo1       1.0  0.2714700392722431  0.23639209451799595  0.8750859500806207  1.0000
+  Mg  Mg1       1.0  0.7754377725113969  0.2362585660067509  0.3730363242221265  1.0000
+  O   O3        1.0  0.2722913316091482  0.23821279522287447  0.5696871278994544  1.0000
+  O   O4        1.0  0.2711624496567156  0.7392035120065399  0.8772422672833473  1.0000

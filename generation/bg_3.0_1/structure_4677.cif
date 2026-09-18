@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       NaSePTi
+_chemical_formula_sum              "Na1 Se1 P1 Ti1"
+_cell_length_a       3.69996332548563
+_cell_length_b       3.6877501899432223
+_cell_length_c       6.947906494140625
+_cell_angle_alpha    89.80414001262321
+_cell_angle_beta     89.83419966732731
+_cell_angle_gamma    59.49265610777925
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.9337124226388263  0.18622896166553873  0.6564581398983804  1.0000
+  Se  Se1       1.0  0.6007924068465462  0.8529148696405894  0.9477728606313337  1.0000
+  P   P1        1.0  0.2667607650867795  0.5183432113743243  0.3650542199106967  1.0000
+  Ti  Ti1       1.0  0.9339058395821922  0.18599130144609585  0.15901278023477597  1.0000

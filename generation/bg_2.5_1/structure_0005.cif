@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NLiNaS2Pt
+_chemical_formula_sum              "N1 Li1 Na1 S2 Pt1"
+_cell_length_a       3.8739401641311995
+_cell_length_b       4.328165463657013
+_cell_length_c       6.3443169593811035
+_cell_angle_alpha    90.04547107707332
+_cell_angle_beta     90.25877787828968
+_cell_angle_gamma    90.27183719579762
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  N   N1        1.0  0.732103646203418  0.34412869859333917  0.2585815189418473  1.0000
+  Li  Li1       1.0  0.2327300149725629  0.3453887412691222  0.258929460498193  1.0000
+  Na  Na1       1.0  0.7324215174358468  0.34344363135607237  0.7584754821297156  1.0000
+  S   S1        1.0  0.23199012797002114  0.8431029919882016  0.018429566257660405  1.0000
+  S   S2        1.0  0.2324580250389908  0.8434016115735299  0.49911421551299967  1.0000
+  Pt  Pt1       1.0  0.7321131219919054  0.8417342900078489  0.25791046015763036  1.0000

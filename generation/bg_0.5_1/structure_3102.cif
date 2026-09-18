@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Na2TiInSe4
+_chemical_formula_sum              "Na2 Ti1 In1 Se4"
+_cell_length_a       3.78730607200115
+_cell_length_b       6.573676116214613
+_cell_length_c       7.482357025146484
+_cell_angle_alpha    90.00262529696984
+_cell_angle_beta     90.00170322166444
+_cell_angle_gamma    89.99430612677149
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.2533847997671496  0.4399148233333091  0.842366099502363  1.0000
+  Na  Na2       1.0  0.7535669202978509  0.9394212367328304  0.8423542379053403  1.0000
+  Ti  Ti1       1.0  0.7538255444142755  0.9411224127368282  0.34236246313371677  1.0000
+  In  In1       1.0  0.253420889450265  0.43894633630632945  0.3415421846507556  1.0000
+  Se  Se1       1.0  0.7539956556752349  0.2666865889806317  0.11880244994914756  1.0000
+  Se  Se2       1.0  0.2537142930864091  0.7782750732141026  0.5616394288031783  1.0000
+  Se  Se3       1.0  0.2532784337873438  0.7793964746816855  0.12132922571803337  1.0000
+  Se  Se4       1.0  0.7534802567385434  0.26686036541662345  0.5676816698298419  1.0000

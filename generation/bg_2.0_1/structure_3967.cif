@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Na2OSnO4
+_chemical_formula_sum              "Na2 O5 Sn1"
+_cell_length_a       4.07549246352982
+_cell_length_b       6.157623590835994
+_cell_length_c       6.137794494628906
+_cell_angle_alpha    67.47795746930257
+_cell_angle_beta     70.95637735862407
+_cell_angle_gamma    70.6880042209667
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.8524107331197986  0.3085934514152355  0.3795144261419521  1.0000
+  Na  Na2       1.0  0.21122190475634364  0.8350782989874858  0.1399746235563687  1.0000
+  O   O1        1.0  0.235244019381383  0.44514677017311194  0.47726821905863076  1.0000
+  Sn  Sn1       1.0  0.031071441992411422  0.5717876549334726  0.7595925930360153  1.0000
+  O   O2        1.0  0.8273574702987159  0.6978768110426121  0.04249274297949645  1.0000
+  O   O3        1.0  0.9837540985884741  0.8935921192679995  0.5237424969822779  1.0000
+  O   O4        1.0  0.07707808841142458  0.24931330958305045  0.995236695814701  1.0000
+  O   O5        1.0  0.5297507632394082  0.5735247134044056  0.7598664174539939  1.0000

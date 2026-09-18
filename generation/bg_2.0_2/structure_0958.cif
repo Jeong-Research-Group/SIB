@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       YNa2NO
+_chemical_formula_sum              "Y1 Na2 N1 O1"
+_cell_length_a       3.3679937708291687
+_cell_length_b       3.37538517583982
+_cell_length_c       7.521067142486572
+_cell_angle_alpha    77.2303913873182
+_cell_angle_beta     102.91700370691139
+_cell_angle_gamma    90.18003936797723
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.2606358538033006  0.36332309171420957  0.9702265859184803  1.0000
+  Na  Na1       1.0  0.9158872976897066  0.7077627187924299  0.2830895480070101  1.0000
+  Na  Na2       1.0  0.5706863992687684  0.05205726652004775  0.5930734868009548  1.0000
+  N   N1        1.0  0.740882992286221  0.8840450635122211  0.9268261788316539  1.0000
+  O   O1        1.0  0.41414013390001936  0.20948232665745456  0.2777915889524165  1.0000

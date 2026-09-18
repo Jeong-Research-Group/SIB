@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AsZnNaAsGaZn
+_chemical_formula_sum              "As2 Zn2 Na1 Ga1"
+_cell_length_a       4.09198592016285
+_cell_length_b       4.091220554082979
+_cell_length_c       6.77401876449585
+_cell_angle_alpha    90.28529950881256
+_cell_angle_beta     90.37157164559073
+_cell_angle_gamma    89.93376332150449
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.41174089940440634  0.729916573187758  0.0968856432495038  1.0000
+  Zn  Zn1       1.0  0.41247448400908265  0.229390294378618  0.8582444781075219  1.0000
+  Na  Na1       1.0  0.912648738191648  0.23041765399077688  0.2042203551664326  1.0000
+  As  As2       1.0  0.9119077332139955  0.2289860845532436  0.6193057291651842  1.0000
+  Ga  Ga1       1.0  0.41328194620401887  0.730262577130702  0.49910530459560853  1.0000
+  Zn  Zn2       1.0  0.9118573068653247  0.7297744157142657  0.859071969862065  1.0000

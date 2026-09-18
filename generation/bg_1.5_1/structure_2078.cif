@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NaOsSe2Os
+_chemical_formula_sum              "Na1 Os2 Se2"
+_cell_length_a       4.005966340782435
+_cell_length_b       4.028271306085121
+_cell_length_c       6.936860084533691
+_cell_angle_alpha    89.83690442911602
+_cell_angle_beta     90.07029880996349
+_cell_angle_gamma    60.01241852762167
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.3068336839550789  0.16188719819012432  0.31345841256257667  1.0000
+  Os  Os1       1.0  0.3052515979907432  0.15853962285116616  0.7945966118034781  1.0000
+  Se  Se1       1.0  0.639503896816093  0.4947443017170361  0.610756993946175  1.0000
+  Se  Se2       1.0  0.9741293197792108  0.8268591167618377  0.01492203322868885  1.0000
+  Os  Os2       1.0  0.6401265278444909  0.4913150953960135  0.9573705788539149  1.0000

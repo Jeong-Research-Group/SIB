@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       FOFMoK
+_chemical_formula_sum              "F2 O1 Mo1 K1"
+_cell_length_a       4.3059317988695796
+_cell_length_b       4.10982489690869
+_cell_length_c       4.316327095031738
+_cell_angle_alpha    89.980440841147
+_cell_angle_beta     89.94967084410794
+_cell_angle_gamma    89.94237619236594
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.7105311162977573  0.2594217655878103  0.27707612478882904  1.0000
+  O   O1        1.0  0.7099748248704921  0.7599107623453285  0.7749048462351059  1.0000
+  F   F2        1.0  0.21174283274053513  0.2595288456360157  0.7759756438961521  1.0000
+  Mo  Mo1       1.0  0.7110111723648761  0.2593133740474675  0.7766071563463495  1.0000
+  K   K1        1.0  0.21097703355693384  0.7596417069351666  0.27647346222129765  1.0000

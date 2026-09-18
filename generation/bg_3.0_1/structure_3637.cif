@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       PbNaInNa
+_chemical_formula_sum              "Pb1 Na2 In1"
+_cell_length_a       5.3389768871716425
+_cell_length_b       5.354263311349383
+_cell_length_c       5.352489948272705
+_cell_angle_alpha    60.22008473905338
+_cell_angle_beta     60.03528754579435
+_cell_angle_gamma    60.0237994946497
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.3009232877884689  0.5648616556308992  0.5412490367498678  1.0000
+  Na  Na1       1.0  0.5513466591482047  0.8145903946974674  0.7903391716716144  1.0000
+  In  In1       1.0  0.05146237360535833  0.3149595855864803  0.2913375200130015  1.0000
+  Na  Na2       1.0  0.8016295439424085  0.06486571614258378  0.04118332657083627  1.0000

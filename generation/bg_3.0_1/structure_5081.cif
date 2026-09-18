@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       MoF3NaF2
+_chemical_formula_sum              "Mo1 F5 Na1"
+_cell_length_a       3.9397698252691717
+_cell_length_b       5.768077659008189
+_cell_length_c       5.747161388397217
+_cell_angle_alpha    93.24484808631685
+_cell_angle_beta     70.05008491376947
+_cell_angle_gamma    69.86175710047594
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.8005481953262915  0.4545920194330267  0.36589485399179866  1.0000
+  F   F1        1.0  0.8005303151182797  0.2208734892430162  0.6016080374382682  1.0000
+  F   F2        1.0  0.29959911092295743  0.4546484061231089  0.365562438178197  1.0000
+  F   F3        1.0  0.5138723838714782  0.7418786284938231  0.6526269912703166  1.0000
+  Na  Na1       1.0  0.7983714332846316  0.9549223183839153  0.8661611080211865  1.0000
+  F   F4        1.0  0.08616430982605157  0.1680483524801443  0.07964494065839346  1.0000
+  F   F5        1.0  0.8005344863213022  0.6887543800799271  0.132048145026416  1.0000

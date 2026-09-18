@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NaOHfOPtO2
+_chemical_formula_sum              "Na1 O4 Hf1 Pt1"
+_cell_length_a       3.1663113803720053
+_cell_length_b       4.141379820384786
+_cell_length_c       8.24256706237793
+_cell_angle_alpha    118.9281015062038
+_cell_angle_beta     90.29705426472076
+_cell_angle_gamma    89.41585744042966
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.42071762576484495  0.8675172326223383  0.7863093608062537  1.0000
+  O   O1        1.0  0.43719083014047877  0.8831830031693323  0.29355999839015656  1.0000
+  Hf  Hf1       1.0  0.435938983803299  0.3149228699431287  0.22387339175409482  1.0000
+  O   O2        1.0  0.4425855886348101  0.2517084772545631  0.6672813892101117  1.0000
+  Pt  Pt1       1.0  0.9389142402432622  0.07831498878905102  0.4919050336690504  1.0000
+  O   O3        1.0  0.9389351003453638  0.5318320980114543  0.4445257484505146  1.0000
+  O   O4        1.0  0.9327974318490374  0.13652662970322446  0.04800823765340697  1.0000

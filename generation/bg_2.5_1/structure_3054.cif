@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       BrNaBrZnNa
+_chemical_formula_sum              "Br2 Na2 Zn1"
+_cell_length_a       4.150501784015862
+_cell_length_b       4.170221653426035
+_cell_length_c       8.116288185119629
+_cell_angle_alpha    90.0653059400048
+_cell_angle_beta     90.07824914632863
+_cell_angle_gamma    89.05430811879995
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.7578344333695703  0.8098616013120935  0.9469923977715816  1.0000
+  Na  Na1       1.0  0.757476149992014  0.8091905115762354  0.4165704250010763  1.0000
+  Br  Br2       1.0  0.2576805946146163  0.3093416102608038  0.428309559725712  1.0000
+  Zn  Zn1       1.0  0.2577473817108326  0.31329414248246046  0.10672521543078609  1.0000
+  Na  Na2       1.0  0.25585728875932673  0.308090656649093  0.781533956566096  1.0000

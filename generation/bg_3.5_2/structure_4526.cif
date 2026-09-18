@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NaBiGaO4
+_chemical_formula_sum              "Na1 Bi1 Ga1 O4"
+_cell_length_a       3.1859164790295122
+_cell_length_b       5.844177666777957
+_cell_length_c       7.069962978363037
+_cell_angle_alpha    54.604073031457226
+_cell_angle_beta     89.64242161782232
+_cell_angle_gamma    89.67196900080555
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.7209538807378763  0.00950605265904885  0.6023821839630499  1.0000
+  Bi  Bi1       1.0  0.7210868610009719  0.009765044289297045  0.1017990036628066  1.0000
+  Ga  Ga1       1.0  0.22139850286680052  0.5103867660176548  0.10156417581448209  1.0000
+  O   O1        1.0  0.7221410859590626  0.5176314115620796  0.2864424289362161  1.0000
+  O   O2        1.0  0.22146625665147582  0.08029388735706926  0.3074088693753462  1.0000
+  O   O3        1.0  0.7199872148616641  0.5031098134278416  0.917966722661078  1.0000
+  O   O4        1.0  0.2211700836090626  0.9406893854342148  0.8978456258024299  1.0000

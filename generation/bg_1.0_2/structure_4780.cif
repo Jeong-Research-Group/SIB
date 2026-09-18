@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CoOTiNaO3
+_chemical_formula_sum              "Co1 O4 Ti1 Na1"
+_cell_length_a       3.060290181351164
+_cell_length_b       3.8273340152170032
+_cell_length_c       7.407581806182861
+_cell_angle_alpha    89.7360293594009
+_cell_angle_beta     89.8228547182817
+_cell_angle_gamma    90.06570209094336
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.7519529474671934  0.5117834217048008  0.29965874547876425  1.0000
+  O   O1        1.0  0.2553942205128458  0.014058986520188497  0.8086563944716029  1.0000
+  Ti  Ti1       1.0  0.25114268011122026  0.013817019017752213  0.04281494782513689  1.0000
+  Na  Na1       1.0  0.755892514749979  0.5140342723489544  0.717058896637977  1.0000
+  O   O2        1.0  0.25495746571498507  0.512901126160757  0.44291687047989003  1.0000
+  O   O3        1.0  0.25079277003359607  0.5133160358386668  0.08926346919459398  1.0000
+  O   O4        1.0  0.7521017200089908  0.013538783040655878  0.20827430519002352  1.0000

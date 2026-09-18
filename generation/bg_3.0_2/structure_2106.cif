@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Na2TiN2
+_chemical_formula_sum              "Na2 Ti1 N2"
+_cell_length_a       3.5754535388789828
+_cell_length_b       3.5714728171359957
+_cell_length_c       6.621014595031738
+_cell_angle_alpha    90.75592687255403
+_cell_angle_beta     90.80932530215665
+_cell_angle_gamma    60.779790903257286
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.9019874327672763  0.38535430952058897  0.3251769538669195  1.0000
+  Na  Na2       1.0  0.23335745966293675  0.7165056474446194  0.984097779028866  1.0000
+  Ti  Ti1       1.0  0.569716155539907  0.05175672779841635  0.6062229873719739  1.0000
+  N   N1        1.0  0.5673851981479162  0.05231222782455399  0.30895435765702056  1.0000
+  N   N2        1.0  0.9050019381375799  0.3863473823184778  0.6993319988616961  1.0000

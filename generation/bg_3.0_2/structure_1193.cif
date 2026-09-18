@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       MgORbNaOCl3
+_chemical_formula_sum              "Mg1 O2 Rb1 Na1 Cl3"
+_cell_length_a       5.057221724446859
+_cell_length_b       5.235068296898866
+_cell_length_c       8.331625938415527
+_cell_angle_alpha    108.52882862074141
+_cell_angle_beta     89.97988076562189
+_cell_angle_gamma    90.30576959694847
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.1375109553844405  0.5394485591564893  0.8139436246982334  1.0000
+  O   O1        1.0  0.6370411520069388  0.22568990382925808  0.19240643085761264  1.0000
+  Rb  Rb1       1.0  0.6380156874769797  0.8676555756390318  0.4728909433553684  1.0000
+  Na  Na1       1.0  0.13653674691319406  0.2116217605836592  0.16204093367947894  1.0000
+  O   O2        1.0  0.6375474328695449  0.5391071435153619  0.8096855877834437  1.0000
+  Cl  Cl1       1.0  0.13637997218936965  0.69804579077809  0.13233506720740365  1.0000
+  Cl  Cl2       1.0  0.1369841852629925  0.03652697890377033  0.8078011867099554  1.0000
+  Cl  Cl3       1.0  0.13823941310381568  0.38252860293890534  0.5037093755914032  1.0000

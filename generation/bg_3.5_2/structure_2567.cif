@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NaINaClIMoI
+_chemical_formula_sum              "Na2 I3 Cl1 Mo1"
+_cell_length_a       5.769972360779921
+_cell_length_b       4.129274200112922
+_cell_length_c       8.594258308410645
+_cell_angle_alpha    90.21794018144685
+_cell_angle_beta     90.00643654269383
+_cell_angle_gamma    90.50476032007874
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.6183318501865247  0.4520837665600896  0.4439168575467793  1.0000
+  I   I1        1.0  0.6176208263642629  0.9515664565998637  0.7262140518155717  1.0000
+  Na  Na2       1.0  0.11730325991544427  0.9513951546870042  0.6941174865724986  1.0000
+  Cl  Cl1       1.0  0.11506528395405487  0.45208379562222484  0.45715796957125354  1.0000
+  I   I2        1.0  0.6164092423175234  0.9536897531580774  0.17575697624187045  1.0000
+  Mo  Mo1       1.0  0.6165933021329476  0.44944339891239393  0.9545192718470799  1.0000
+  I   I3        1.0  0.11702741681439274  0.45197802882447563  0.9505403637719099  1.0000

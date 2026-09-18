@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       BiNaO2NaOTiO
+_chemical_formula_sum              "Bi1 Na2 O4 Ti1"
+_cell_length_a       3.22312582253715
+_cell_length_b       5.723510289243128
+_cell_length_c       5.8221659660339355
+_cell_angle_alpha    72.23188610379938
+_cell_angle_beta     90.4754929886874
+_cell_angle_gamma    90.57115661110502
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.43961420698022746  0.9908953901132569  0.9067923429231418  1.0000
+  Na  Na1       1.0  0.9391760835317537  0.9909437303137512  0.40713655974978114  1.0000
+  O   O1        1.0  0.9397988928870515  0.26707610518956326  0.6918577548822572  1.0000
+  O   O2        1.0  0.43993157279337797  0.6969839327599548  0.7057554123752722  1.0000
+  Na  Na2       1.0  0.4400195781178293  0.49155166699529  0.406983644658287  1.0000
+  O   O3        1.0  0.43934342203952187  0.28551477168299344  0.1087038066593384  1.0000
+  Ti  Ti1       1.0  0.9404326666388266  0.49164062676153136  0.9070985319659995  1.0000
+  O   O4        1.0  0.9397597317273529  0.716208874714006  0.12149209607175067  1.0000

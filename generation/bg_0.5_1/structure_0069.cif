@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NaNiOCaO2
+_chemical_formula_sum              "Na1 Ni1 O3 Ca1"
+_cell_length_a       3.295764592276688
+_cell_length_b       3.273240824336221
+_cell_length_c       7.038141250610352
+_cell_angle_alpha    76.52885494336532
+_cell_angle_beta     103.5558310702767
+_cell_angle_gamma    89.9585775821777
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.4243013857343344  0.6391034132464953  0.9004977349883718  1.0000
+  Ni  Ni1       1.0  0.7743785369929698  0.2854876227134424  0.5989309551551707  1.0000
+  O   O1        1.0  0.91619753993787  0.14634270920903245  0.8835096361189473  1.0000
+  Ca  Ca1       1.0  0.09297205637458889  0.9674136634325934  0.23462443030984245  1.0000
+  O   O2        1.0  0.6192279457411852  0.44036099424854136  0.2874889671867942  1.0000
+  O   O3        1.0  0.26116922555324235  0.8021357666724367  0.5711531047625789  1.0000

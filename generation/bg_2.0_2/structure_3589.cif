@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       PrNaBiO4
+_chemical_formula_sum              "Pr1 Na1 Bi1 O4"
+_cell_length_a       3.4484098097487257
+_cell_length_b       4.555002452384711
+_cell_length_c       7.357522010803223
+_cell_angle_alpha    89.64679976176214
+_cell_angle_beta     90.12970097455144
+_cell_angle_gamma    90.16592147418737
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.6991108048340752  0.679514884219504  0.7179826498616316  1.0000
+  Na  Na1       1.0  0.6987130637334591  0.6825794584643696  0.14688545445197154  1.0000
+  Bi  Bi1       1.0  0.19863252355720562  0.1813991078229247  0.41769772796165205  1.0000
+  O   O1        1.0  0.6974067694357916  0.18133172320352448  0.23851533210640735  1.0000
+  O   O2        1.0  0.7001627085199433  0.17999427034456134  0.6248383527881386  1.0000
+  O   O3        1.0  0.19818890193607677  0.6798502200138686  0.9147632711718217  1.0000
+  O   O4        1.0  0.19926718019724596  0.6806017759784472  0.4562275113240099  1.0000

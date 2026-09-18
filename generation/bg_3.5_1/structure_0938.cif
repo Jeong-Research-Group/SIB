@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       NaBr2Rb2Br4Ta
+_chemical_formula_sum              "Na1 Br6 Rb2 Ta1"
+_cell_length_a       7.790727313796079
+_cell_length_b       7.796945192172892
+_cell_length_c       7.805190086364746
+_cell_angle_alpha    59.80835311226911
+_cell_angle_beta     59.81472004914103
+_cell_angle_gamma    59.837498036170345
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.5641164178399188  0.192837834902222  0.5479654675766766  1.0000
+  Br  Br1       1.0  0.3013679087703666  0.4550295180748631  0.8108743428664039  1.0000
+  Br  Br2       1.0  0.8262374998444606  0.45512312665985627  0.2858927551866858  1.0000
+  Rb  Rb1       1.0  0.3134232467934749  0.942570805410985  0.2985980212793929  1.0000
+  Rb  Rb2       1.0  0.8139318829136925  0.4429992728906816  0.7983289360073684  1.0000
+  Br  Br3       1.0  0.30123352928985864  0.9297708275422685  0.8112477062556365  1.0000
+  Br  Br4       1.0  0.30105432860331544  0.4550247495643446  0.2860684991777981  1.0000
+  Br  Br5       1.0  0.8262750504614963  0.9299367666706012  0.810924410824679  1.0000
+  Br  Br6       1.0  0.8259977094400246  0.9299983983702682  0.2859316463556269  1.0000
+  Ta  Ta1       1.0  0.06411996544531999  0.6926258206469323  0.048314950990555425  1.0000

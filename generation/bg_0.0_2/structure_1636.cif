@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Na2SnAuTeNaAu2
+_chemical_formula_sum              "Na3 Sn1 Au3 Te1"
+_cell_length_a       4.584821247661609
+_cell_length_b       6.145593657263885
+_cell_length_c       6.12220573425293
+_cell_angle_alpha    87.19688605348604
+_cell_angle_beta     90.07413737671533
+_cell_angle_gamma    90.13262428768181
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.15675902334532585  0.8495468492418177  0.6120467182880464  1.0000
+  Na  Na2       1.0  0.15824323974686283  0.8466610914302612  0.12038655574310211  1.0000
+  Sn  Sn1       1.0  0.6581359508662965  0.11024137570355381  0.859617232656384  1.0000
+  Au  Au1       1.0  0.6576812264239104  0.10220404698573378  0.36331382419971187  1.0000
+  Te  Te1       1.0  0.15757443119157108  0.3545762009821661  0.6150366070403789  1.0000
+  Na  Na3       1.0  0.15774851964591285  0.35574078525527164  0.12044998287478555  1.0000
+  Au  Au2       1.0  0.6576091656045284  0.5975534317852634  0.369747936410457  1.0000
+  Au  Au3       1.0  0.6575410963244919  0.6015858647830787  0.8656386729588755  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       CaO2FeO2BiOLa
+_chemical_formula_sum              "Ca1 O5 Fe1 Bi1 La1"
+_cell_length_a       5.825769476245527
+_cell_length_b       5.781717775328044
+_cell_length_c       5.793979644775391
+_cell_angle_alpha    60.65416879190357
+_cell_angle_beta     59.965153234877555
+_cell_angle_gamma    60.03363150680864
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.7222054607275769  0.7261271474111743  0.3718740639480878  1.0000
+  O   O1        1.0  0.7124319072943552  0.23658217565786577  0.36527270018763525  1.0000
+  O   O2        1.0  0.7138038281840648  0.719349801716946  0.8807777754502855  1.0000
+  Fe  Fe1       1.0  0.480096698060212  0.46866679267552813  0.11554120419054116  1.0000
+  O   O3        1.0  0.22928363107676067  0.23652891838916176  0.36536863368587374  1.0000
+  O   O4        1.0  0.22958210163215273  0.7186338905873622  0.8826277852534025  1.0000
+  Bi  Bi1       1.0  0.9761970036982721  0.972804068498447  0.6181968456872697  1.0000
+  O   O5        1.0  0.7216766472010565  0.2265168279373232  0.8734704251082527  1.0000
+  La  La1       1.0  0.22238771563055604  0.22646529870598617  0.8729271901327625  1.0000

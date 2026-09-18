@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       BrMgClNa2WO
+_chemical_formula_sum              "Br1 Mg1 Cl1 Na2 W1 O1"
+_cell_length_a       4.074779781492319
+_cell_length_b       6.5208568338922195
+_cell_length_c       6.536900520324707
+_cell_angle_alpha    71.37087323194002
+_cell_angle_beta     89.09942839805122
+_cell_angle_gamma    107.69731330046656
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.9772375225622835  0.33607497826309396  0.8266062735127973  1.0000
+  Mg  Mg1       1.0  0.5063291795917031  0.4031841753441242  0.03596218617299133  1.0000
+  Cl  Cl1       1.0  0.3158213487897185  0.04889184600475322  0.38240346356897065  1.0000
+  Na  Na1       1.0  0.5500522845641285  0.45537227395254  0.4889003939313821  1.0000
+  Na  Na2       1.0  0.21966232331406588  0.8341077563844675  0.85575574660673  1.0000
+  W   W1        1.0  0.7867718935469767  0.9780042770877136  0.1861215970418889  1.0000
+  O   O1        1.0  0.6470563424537751  0.6958665252951407  0.10069840413389175  1.0000

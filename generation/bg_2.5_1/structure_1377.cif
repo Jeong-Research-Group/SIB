@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       MgFONaFTiF
+_chemical_formula_sum              "Mg1 F3 O1 Na1 Ti1"
+_cell_length_a       3.2514408579091
+_cell_length_b       5.365041878863457
+_cell_length_c       6.211049556732178
+_cell_angle_alpha    64.95220197436389
+_cell_angle_beta     79.44525612875476
+_cell_angle_gamma    86.90029859937364
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.6504195936172287  0.5963045350839886  0.012654144584759133  1.0000
+  F   F1        1.0  0.7845363030234391  0.35126310510527997  0.8341338639267973  1.0000
+  O   O1        1.0  0.5187816017077768  0.7988583446546169  0.24282461429172061  1.0000
+  Na  Na1       1.0  0.3573469811404507  0.3251993651342171  0.5598223806783932  1.0000
+  F   F2        1.0  0.9486485732098138  0.2949957855586207  0.2761160129957253  1.0000
+  Ti  Ti1       1.0  0.04613316121678488  0.01705529599899331  0.12158115971482683  1.0000
+  F   F3        1.0  0.19008980568007294  0.8473383188003204  0.8546791677482677  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NaAlF2FeF3
+_chemical_formula_sum              "Na1 Al1 F5 Fe1"
+_cell_length_a       5.59879281520041
+_cell_length_b       5.610745472774284
+_cell_length_c       5.533727645874023
+_cell_angle_alpha    60.18313299146729
+_cell_angle_beta     60.052663200072054
+_cell_angle_gamma    57.347658365195265
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.9931653732397732  0.9395840164681672  0.35041108704997376  1.0000
+  Al  Al1       1.0  0.2653598188917103  0.21191379401297422  0.5771978501542557  1.0000
+  F   F1        1.0  0.4737692776022326  0.9546805628336477  0.8346196400947465  1.0000
+  F   F2        1.0  0.47971585467902095  0.42538535577667114  0.3636978862624901  1.0000
+  Fe  Fe1       1.0  0.730016171658886  0.6764945383399669  0.11304031296556565  1.0000
+  F   F3        1.0  0.008945412475148285  0.4187915924609888  0.8351773018752623  1.0000
+  F   F4        1.0  0.4725150772603271  0.9550136916773843  0.3704826236931973  1.0000
+  F   F5        1.0  0.008977836112887695  0.41876742158974134  0.37126648374415433  1.0000

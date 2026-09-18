@@ -1,0 +1,27 @@
+data_image0
+_chemical_formula_structural       GaN
+_chemical_formula_sum              "Ga1 N1"
+_cell_length_a       2.7386740446239366
+_cell_length_b       2.705233340490663
+_cell_length_c       4.133084774017334
+_cell_angle_alpha    92.21777189048414
+_cell_angle_beta     89.50974519133047
+_cell_angle_gamma    89.36931650535593
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.3083204612608718  0.46495092039030816  0.9583977449266858  1.0000
+  N   N1        1.0  0.8078663944384121  0.9708945149311158  0.9620440608103075  1.0000

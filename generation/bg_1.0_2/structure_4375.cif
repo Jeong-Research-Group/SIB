@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Na2AsTiAgOS2
+_chemical_formula_sum              "Na2 As1 Ti1 Ag1 O1 S2"
+_cell_length_a       3.669826297851929
+_cell_length_b       5.469486657953528
+_cell_length_c       7.989781379699707
+_cell_angle_alpha    90.11444915549757
+_cell_angle_beta     89.97813906800734
+_cell_angle_gamma    89.87113050151386
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.936039626902663  0.9656617039554646  0.10736299350317646  1.0000
+  Na  Na2       1.0  0.43667873652322803  0.46556991265835174  0.351008236851688  1.0000
+  As  As1       1.0  0.9365312453839102  0.46469810660403754  0.6228343252185179  1.0000
+  Ti  Ti1       1.0  0.935335516582706  0.9640472526331547  0.6085325483537012  1.0000
+  Ag  Ag1       1.0  0.436448634860604  0.46683457454355054  0.859154641133371  1.0000
+  O   O1        1.0  0.4366558493360379  0.9656256437353674  0.40717387213868933  1.0000
+  S   S1        1.0  0.9361049539853783  0.46555420727425006  0.09011439239272918  1.0000
+  S   S2        1.0  0.4369387620364264  0.9661473038275529  0.816790283109616  1.0000

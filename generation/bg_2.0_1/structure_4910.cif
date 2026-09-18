@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ZrNNaCl2N
+_chemical_formula_sum              "Zr1 N2 Na1 Cl2"
+_cell_length_a       4.152755073468981
+_cell_length_b       3.508685867355558
+_cell_length_c       7.313999176025391
+_cell_angle_alpha    90.6438502765351
+_cell_angle_beta     89.72459562302889
+_cell_angle_gamma    90.72920714944564
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.7419537903911296  0.6503705986044778  0.20178894690947088  1.0000
+  N   N1        1.0  0.24223706038356627  0.13480065881279057  0.20195458834673538  1.0000
+  Na  Na1       1.0  0.24323053722649826  0.6587143548142533  0.7018003458443727  1.0000
+  Cl  Cl1       1.0  0.7436196803780847  0.1574122472058049  0.4718053343258279  1.0000
+  Cl  Cl2       1.0  0.7427694195859286  0.15851841826055613  0.9329153295972263  1.0000
+  N   N2        1.0  0.24166110147220643  0.6742407674526154  0.20178467054645965  1.0000

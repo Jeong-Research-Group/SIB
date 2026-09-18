@@ -1,0 +1,27 @@
+data_image0
+_chemical_formula_structural       MgN
+_chemical_formula_sum              "Mg1 N1"
+_cell_length_a       2.871535331703846
+_cell_length_b       2.9104305861517688
+_cell_length_c       4.367341041564941
+_cell_angle_alpha    91.2067943905164
+_cell_angle_beta     90.95217860515197
+_cell_angle_gamma    90.5822624562831
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.11987987940694193  0.6654633894038402  0.8366509672209465  1.0000
+  N   N1        1.0  0.618702233511086  0.1723783748037101  0.8455155498503873  1.0000

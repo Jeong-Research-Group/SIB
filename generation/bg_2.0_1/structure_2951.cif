@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Na2TeInTe2
+_chemical_formula_sum              "Na2 Te3 In1"
+_cell_length_a       4.367069170826735
+_cell_length_b       6.250215269643923
+_cell_length_c       7.870067119598389
+_cell_angle_alpha    113.49804664038552
+_cell_angle_beta     106.19388218289997
+_cell_angle_gamma    89.83668532155328
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.9716172223555333  0.7744130497998224  0.48924082543447167  1.0000
+  Na  Na2       1.0  0.63364291110188  0.4349004924226056  0.8153555394008896  1.0000
+  Te  Te1       1.0  0.6497699024614394  0.9524017571801309  0.849561035878253  1.0000
+  In  In1       1.0  0.3011466569730223  0.10520995404155414  0.15185707781200755  1.0000
+  Te  Te2       1.0  0.9541569341077317  0.2568739657398288  0.4543636148724213  1.0000
+  Te  Te3       1.0  0.3019172838211377  0.6052777773128699  0.15228982245741302  1.0000

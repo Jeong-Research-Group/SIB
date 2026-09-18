@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       PtCdNa
+_chemical_formula_sum              "Pt1 Cd1 Na1"
+_cell_length_a       4.5841070758267985
+_cell_length_b       4.586967028446622
+_cell_length_c       4.560186386108398
+_cell_angle_alpha    59.78970089224543
+_cell_angle_beta     59.79734939896744
+_cell_angle_gamma    59.82390013391478
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.7314535376774188  0.3202664251529111  0.535748065318421  1.0000
+  Cd  Cd1       1.0  0.48447400405149027  0.07059606890849271  0.2865667929338126  1.0000
+  Na  Na1       1.0  0.9822883595405332  0.5700443987146893  0.7856095442598996  1.0000

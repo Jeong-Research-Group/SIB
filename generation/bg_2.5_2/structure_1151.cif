@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       HLiH3NaPdH
+_chemical_formula_sum              "H5 Li1 Na1 Pd1"
+_cell_length_a       3.3885164158606695
+_cell_length_b       5.283292320324659
+_cell_length_c       5.222432613372803
+_cell_angle_alpha    89.09764571602332
+_cell_angle_beta     89.71327800728643
+_cell_angle_gamma    89.63132254279947
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.18952635054404346  0.5404102804908782  0.15081004804557335  1.0000
+  Li  Li1       1.0  0.6880562899376935  0.03875563695202804  0.15291505976764858  1.0000
+  H   H2        1.0  0.19006058534795672  0.273187130662097  0.41110503692657197  1.0000
+  H   H3        1.0  0.18811342169276105  0.8046054837073802  0.895663916799674  1.0000
+  H   H4        1.0  0.18983213538373717  0.804188072005596  0.412376791659016  1.0000
+  Na  Na1       1.0  0.6878609074276956  0.5384024378063965  0.6531677844208343  1.0000
+  Pd  Pd1       1.0  0.18660473957579032  0.03961402103405907  0.653134405953651  1.0000
+  H   H5        1.0  0.1882285781284828  0.2734938264840333  0.8938706508947731  1.0000

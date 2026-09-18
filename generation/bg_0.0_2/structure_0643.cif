@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Na2MnNa2Hf
+_chemical_formula_sum              "Na4 Mn1 Hf1"
+_cell_length_a       5.323355760536416
+_cell_length_b       5.339617051987247
+_cell_length_c       6.382532119750977
+_cell_angle_alpha    89.14232881020476
+_cell_angle_beta     90.62074373310048
+_cell_angle_gamma    118.88715076774793
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.21145410834700318  0.533298908611217  0.3768965298319361  1.0000
+  Na  Na2       1.0  0.21239893230897355  0.5327935218944954  0.8902871610942704  1.0000
+  Mn  Mn1       1.0  0.8795921807353854  0.8655908106864862  0.05837968729901403  1.0000
+  Na  Na3       1.0  0.5469440226625387  0.19769017318282656  0.7382450694939807  1.0000
+  Na  Na4       1.0  0.5464935891437409  0.19873586261050116  0.22472377190361287  1.0000
+  Hf  Hf1       1.0  0.8785324089225467  0.8659490338566097  0.5568362480028201  1.0000

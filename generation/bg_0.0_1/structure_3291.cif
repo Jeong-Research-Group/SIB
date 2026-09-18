@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Na2AsFe2As2
+_chemical_formula_sum              "Na2 As3 Fe2"
+_cell_length_a       3.9407699774234715
+_cell_length_b       3.938224871185436
+_cell_length_c       11.739065170288086
+_cell_angle_alpha    99.66327889337312
+_cell_angle_beta     90.01053465624976
+_cell_angle_gamma    119.85519134342054
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.22136014835486625  0.7839788802290276  0.09254033080513104  1.0000
+  Na  Na2       1.0  0.7065414198538823  0.7556619657170757  0.5435346367611503  1.0000
+  As  As1       1.0  0.09537786299663001  0.5322380655764044  0.7092223766445288  1.0000
+  Fe  Fe1       1.0  0.46742570459465055  0.2775771916652234  0.8278681635457114  1.0000
+  Fe  Fe2       1.0  0.9640893347355315  0.27191957853041343  0.32014298402124736  1.0000
+  As  As2       1.0  0.3094930636937042  0.9582259059226391  0.3508020940189159  1.0000
+  As  As3       1.0  0.845668852263958  0.033044572658957445  0.9586878417276183  1.0000

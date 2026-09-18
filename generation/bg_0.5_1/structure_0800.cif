@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       HgNa2Cd
+_chemical_formula_sum              "Hg1 Na2 Cd1"
+_cell_length_a       5.15149102812813
+_cell_length_b       5.150136387590904
+_cell_length_c       5.1586222648620605
+_cell_angle_alpha    60.04405672193473
+_cell_angle_beta     60.040197545204016
+_cell_angle_gamma    60.00698909582154
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.5468606352356815  0.3639148181690843  0.3018203368425737  1.0000
+  Na  Na1       1.0  0.2958419038077761  0.11331825588296379  0.052563476409423486  1.0000
+  Na  Na2       1.0  0.7959062449322244  0.6135306954778148  0.5528556700027588  1.0000
+  Cd  Cd1       1.0  0.04511215068897488  0.8628190755177432  0.8035151959535979  1.0000

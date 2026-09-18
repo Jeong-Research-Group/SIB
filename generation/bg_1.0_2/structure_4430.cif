@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Na3FeCuNCuN
+_chemical_formula_sum              "Na3 Fe1 Cu2 N2"
+_cell_length_a       3.432180569437037
+_cell_length_b       5.6616562954283545
+_cell_length_c       7.4147796630859375
+_cell_angle_alpha    76.27438240461044
+_cell_angle_beta     103.81766036605046
+_cell_angle_gamma    89.71698004935122
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.2577614177764597  0.7047140594108844  0.6595705156278465  1.0000
+  Na  Na2       1.0  0.5511278523637788  0.02452666611749238  0.24355660422861253  1.0000
+  Na  Na3       1.0  0.9703375706421693  0.5452656150160944  0.08152377598864159  1.0000
+  Fe  Fe1       1.0  0.8451887970299626  0.19847093448388126  0.8322433239523462  1.0000
+  Cu  Cu1       1.0  0.6365507849549046  0.48052570260561084  0.41566088805133045  1.0000
+  N   N1        1.0  0.7214363210819968  0.08765129058384784  0.5826699729281705  1.0000
+  Cu  Cu2       1.0  0.19391863164261675  0.20696404549431824  0.5315445071413283  1.0000
+  N   N2        1.0  0.39630463874596505  0.30475518047861516  0.9309553501385647  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       BiSnBiNaO2NaO2
+_chemical_formula_sum              "Bi2 Sn1 Na2 O4"
+_cell_length_a       3.4490407449271796
+_cell_length_b       6.0805051193339565
+_cell_length_c       7.493127346038818
+_cell_angle_alpha    100.86727013006559
+_cell_angle_beta     103.01804171651615
+_cell_angle_gamma    73.35908660971535
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.9150772690078727  0.4817520383589534  0.523453533976617  1.0000
+  Sn  Sn1       1.0  0.2930687966455149  0.29204759071090286  0.0978183222385083  1.0000
+  Bi  Bi2       1.0  0.10460627059566661  0.8817865850519919  0.30722475095951174  1.0000
+  Na  Na1       1.0  0.48541748572385596  0.7430356741712298  0.9275501373458577  1.0000
+  O   O1        1.0  0.32079920041212384  0.7418954976997542  0.6048523184150477  1.0000
+  O   O2        1.0  0.7333168992392675  0.5701543696447293  0.22982935600368853  1.0000
+  Na  Na2       1.0  0.7223734856169273  0.031143521301623057  0.6960137487797452  1.0000
+  O   O3        1.0  0.877960979766228  0.05003928100922263  0.01804967227177894  1.0000
+  O   O4        1.0  0.47980195331855396  0.19245076173768916  0.37679758732960106  1.0000

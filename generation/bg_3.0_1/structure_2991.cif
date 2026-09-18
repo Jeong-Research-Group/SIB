@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NaCl5Cr
+_chemical_formula_sum              "Na1 Cl5 Cr1"
+_cell_length_a       4.708481284570618
+_cell_length_b       6.9916454409685205
+_cell_length_c       6.984354496002197
+_cell_angle_alpha    72.50123442604655
+_cell_angle_beta     70.47972405401426
+_cell_angle_gamma    70.33585280375158
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.8324910994293854  0.25740465505408094  0.29529964896729827  1.0000
+  Cl  Cl1       1.0  0.5601472844653372  0.5248963836306142  0.5649395591673185  1.0000
+  Cl  Cl2       1.0  0.831734718098377  0.7573946114136406  0.7943201657238312  1.0000
+  Cl  Cl3       1.0  0.33329105450131463  0.4706593752072765  0.07972226209393891  1.0000
+  Cl  Cl4       1.0  0.10671558311995019  0.9876070015164867  0.024101365758541164  1.0000
+  Cl  Cl5       1.0  0.3346112077748863  0.04135927246184347  0.5079723598467837  1.0000
+  Cr  Cr1       1.0  0.3314757649769124  0.757248044222868  0.7946170560804098  1.0000

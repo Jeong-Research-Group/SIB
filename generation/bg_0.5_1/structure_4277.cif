@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       GeNaScGe2
+_chemical_formula_sum              "Ge3 Na1 Sc1"
+_cell_length_a       4.0586621784236465
+_cell_length_b       4.183426152302533
+_cell_length_c       6.941208839416504
+_cell_angle_alpha    100.40692305339971
+_cell_angle_beta     90.97387129865919
+_cell_angle_gamma    90.15885222730094
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.9447870847627766  0.3405322126655446  0.8460481768736919  1.0000
+  Na  Na1       1.0  0.4432606395009862  0.8387553102583669  0.3420878647404057  1.0000
+  Sc  Sc1       1.0  0.4430678198131428  0.8392094977012318  0.8424541355233626  1.0000
+  Ge  Ge2       1.0  0.9433235522835871  0.37138935906181575  0.5291558508241712  1.0000
+  Ge  Ge3       1.0  0.9403089287989093  0.308739424630966  0.16331647403641045  1.0000

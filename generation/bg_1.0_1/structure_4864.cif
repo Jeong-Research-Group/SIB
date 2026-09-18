@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Na2BiInBiNaZn
+_chemical_formula_sum              "Na3 Bi2 In1 Zn1"
+_cell_length_a       6.002096063076806
+_cell_length_b       4.896433160031743
+_cell_length_c       7.710503578186035
+_cell_angle_alpha    90.13282919697501
+_cell_angle_beta     103.17574439482064
+_cell_angle_gamma    113.82437060502272
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.5547195669012047  0.09097222974503613  0.5777553921629881  1.0000
+  Na  Na2       1.0  0.12221822122024006  0.3752599955741294  0.13623379176875156  1.0000
+  Bi  Bi1       1.0  0.15358971129282664  0.3916545211025585  0.5858607290378738  1.0000
+  In  In1       1.0  0.059306285341297046  0.842155753909847  0.805389165942428  1.0000
+  Bi  Bi2       1.0  0.5161446336209506  0.07297515846507663  0.10455294758766007  1.0000
+  Na  Na3       1.0  0.8229080444003413  0.7252437469593422  0.34511345581484554  1.0000
+  Zn  Zn1       1.0  0.565452337964958  0.5953676103058224  0.9004325275183371  1.0000

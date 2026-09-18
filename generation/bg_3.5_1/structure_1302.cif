@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NaCdNaLiNa
+_chemical_formula_sum              "Na3 Cd1 Li1"
+_cell_length_a       5.288360951786796
+_cell_length_b       5.288176627958822
+_cell_length_c       8.113144874572754
+_cell_angle_alpha    49.468079286149916
+_cell_angle_beta     49.35351031042237
+_cell_angle_gamma    59.85154264161141
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.7107948073642807  0.44718429444933216  0.6577448836771549  1.0000
+  Cd  Cd1       1.0  0.9192185399160521  0.6549308293744743  0.8447366355767746  1.0000
+  Na  Na2       1.0  0.522242665925447  0.2572700967947571  0.43890824955158303  1.0000
+  Li  Li1       1.0  0.31417426525770475  0.05065266894834955  0.25181409692008233  1.0000
+  Na  Na3       1.0  0.11918675234772505  0.8547115917959794  0.04477208433071095  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NaBaNaBaNa2BaBi
+_chemical_formula_sum              "Na4 Ba3 Bi1"
+_cell_length_a       5.738828820492394
+_cell_length_b       7.051862987141455
+_cell_length_c       7.083504676818848
+_cell_angle_alpha    70.968928320722
+_cell_angle_beta     89.82941854409967
+_cell_angle_gamma    89.86475110481625
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.4212980564186754  0.915743409850585  0.151001617861758  1.0000
+  Ba  Ba1       1.0  0.9219964139735517  0.6689537762916147  0.9042679668148603  1.0000
+  Na  Na2       1.0  0.9221615788696048  0.1576260335651131  0.41346192354021816  1.0000
+  Ba  Ba2       1.0  0.4219222067217624  0.4018476598774414  0.15977910201713322  1.0000
+  Na  Na3       1.0  0.42184641968690945  0.9183301933082544  0.661376952563458  1.0000
+  Na  Na4       1.0  0.42077821542063343  0.40208348680785894  0.6635332110230654  1.0000
+  Ba  Ba3       1.0  0.9203521018846753  0.6625920533825629  0.40970167562258153  1.0000
+  Bi  Bi1       1.0  0.9223747248724482  0.16168074261095677  0.9076179868772687  1.0000

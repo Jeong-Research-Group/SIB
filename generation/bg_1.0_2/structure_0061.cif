@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       TiAsNa2AsTaNa
+_chemical_formula_sum              "Ti1 As2 Na3 Ta1"
+_cell_length_a       4.65145933530241
+_cell_length_b       4.405742854314802
+_cell_length_c       8.204508781433105
+_cell_angle_alpha    74.60494012855419
+_cell_angle_beta     90.01291839237395
+_cell_angle_gamma    90.1867876809433
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.23900274897577492  0.6897464987712477  0.034446038742857385  1.0000
+  As  As1       1.0  0.24324749444504906  0.11628915337995031  0.1851194943813725  1.0000
+  Na  Na1       1.0  0.2421458520495789  0.46813514940598844  0.48083078868994605  1.0000
+  Na  Na2       1.0  0.7429450757284269  0.9660789365162221  0.48030561274192535  1.0000
+  As  As2       1.0  0.24126231735232603  0.8390714535718706  0.7366030209763311  1.0000
+  Ta  Ta1       1.0  0.74044984686189  0.6161763071258195  0.18037934640721637  1.0000
+  Na  Na3       1.0  0.7404477010077469  0.2839585846232379  0.8458688858424932  1.0000

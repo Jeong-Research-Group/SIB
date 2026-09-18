@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       CuNaHNaSe2ClPt
+_chemical_formula_sum              "Cu1 Na2 H1 Se2 Cl1 Pt1"
+_cell_length_a       3.7676621346615726
+_cell_length_b       6.852197988230865
+_cell_length_c       6.546396732330322
+_cell_angle_alpha    98.06511015439753
+_cell_angle_beta     106.67501289650181
+_cell_angle_gamma    89.96319479606132
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.09537950995907457  0.12562786050360486  0.9159634705428668  1.0000
+  Na  Na1       1.0  0.6129196296306837  0.6058323377035948  0.952876448142032  1.0000
+  H   H1        1.0  0.25094783206608423  0.4639165406787878  0.23060157933609604  1.0000
+  Na  Na2       1.0  0.3471124166073178  0.8735234731910605  0.4195732478898062  1.0000
+  Se  Se1       1.0  0.4737990494802389  0.24429210972251797  0.6683491467283318  1.0000
+  Se  Se2       1.0  0.710526049595359  0.04048352737644871  0.14293193755776581  1.0000
+  Cl  Cl1       1.0  0.9649473437755329  0.7033062578009331  0.6562719345317662  1.0000
+  Pt  Pt1       1.0  0.8485195030927755  0.35930976252404556  0.42395406910688954  1.0000

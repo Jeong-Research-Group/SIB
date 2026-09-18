@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NaSeFeSeLi
+_chemical_formula_sum              "Na1 Se2 Fe1 Li1"
+_cell_length_a       4.127363185017715
+_cell_length_b       4.118206845988893
+_cell_length_c       7.169153690338135
+_cell_angle_alpha    90.10214115651331
+_cell_angle_beta     90.31032532457654
+_cell_angle_gamma    60.081370682234066
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.5849158758730307  0.34756824334539405  0.6130807996492622  1.0000
+  Se  Se1       1.0  0.9188762294088563  0.6803695564052168  0.3318622110697686  1.0000
+  Fe  Fe1       1.0  0.2512142664930418  0.011930869022526706  0.20718361422263723  1.0000
+  Se  Se2       1.0  0.25130516227148675  0.013325249957810436  0.8663893340242771  1.0000
+  Li  Li1       1.0  0.9188284286656577  0.6794613004882621  0.9627868527821576  1.0000

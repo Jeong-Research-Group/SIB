@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       SbGaNa2Sr
+_chemical_formula_sum              "Sb1 Ga1 Na2 Sr1"
+_cell_length_a       6.342774387272674
+_cell_length_b       6.349026208752973
+_cell_length_c       6.359285831451416
+_cell_angle_alpha    49.60834076685862
+_cell_angle_beta     49.4740532584362
+_cell_angle_gamma    49.50954059550324
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.9984820481811723  0.7200073000864143  0.8228209612292712  1.0000
+  Ga  Ga1       1.0  0.39368230180359287  0.1153398222916897  0.21961980999232514  1.0000
+  Na  Na1       1.0  0.6004502172711774  0.32105740920846  0.42483547290281576  1.0000
+  Na  Na2       1.0  0.7874001869478742  0.5096122624033694  0.6119861593289901  1.0000
+  Sr  Sr1       1.0  0.19741345879343628  0.9190771576730223  0.02280459293151263  1.0000

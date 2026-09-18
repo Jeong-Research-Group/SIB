@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NaAuKLiNaO2
+_chemical_formula_sum              "Na2 Au1 K1 Li1 O2"
+_cell_length_a       6.082448273944841
+_cell_length_b       3.7009602445568768
+_cell_length_c       6.566407203674316
+_cell_angle_alpha    106.59122089324576
+_cell_angle_beta     95.37362676345613
+_cell_angle_gamma    107.90902925249104
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.6606206903719141  0.5941165694245166  0.2992596622674234  1.0000
+  Au  Au1       1.0  0.627058148296619  0.8764693745143003  0.8996822839651203  1.0000
+  K   K1        1.0  0.2619059392872087  0.9932141308583685  0.4996996527174805  1.0000
+  Li  Li1       1.0  0.8547556993354596  0.38336986319580807  0.6798670297046896  1.0000
+  Na  Na2       1.0  0.188200890705463  0.20749372095768182  0.9980828765894715  1.0000
+  O   O1        1.0  0.8704071649147028  0.8878644116994439  0.6781936289102038  1.0000
+  O   O2        1.0  0.42673224156119244  0.9016280760157144  0.14523947158179176  1.0000

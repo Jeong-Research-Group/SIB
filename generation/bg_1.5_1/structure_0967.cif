@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NaBiZn2V
+_chemical_formula_sum              "Na1 Bi1 Zn2 V1"
+_cell_length_a       4.700341730397939
+_cell_length_b       4.745137166874256
+_cell_length_c       6.08043909072876
+_cell_angle_alpha    89.61479348121615
+_cell_angle_beta     90.13912662840178
+_cell_angle_gamma    119.61147422860384
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.01730006912123473  0.5842353116290137  0.9009277812743266  1.0000
+  Bi  Bi1       1.0  0.6810871961394507  0.9156725415343269  0.5238628989569437  1.0000
+  Zn  Zn1       1.0  0.014052540929288412  0.5793671607830007  0.378632306417109  1.0000
+  Zn  Zn2       1.0  0.347742945442925  0.24929875075433144  0.6853864201129042  1.0000
+  V   V1        1.0  0.3468020864929993  0.24455048151778985  0.21118104503659813  1.0000

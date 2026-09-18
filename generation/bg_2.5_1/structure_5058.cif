@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ag2KOBr2Rb
+_chemical_formula_sum              "Ag2 K1 O1 Br2 Rb1"
+_cell_length_a       4.6111196591758645
+_cell_length_b       6.806156725375277
+_cell_length_c       7.13978910446167
+_cell_angle_alpha    80.59240050321694
+_cell_angle_beta     109.11936064152418
+_cell_angle_gamma    89.91897611793878
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.7770398846390575  0.6814564473241126  0.778704285188183  1.0000
+  Ag  Ag2       1.0  0.983288168858286  0.12698021466222778  0.19216346762700942  1.0000
+  K   K1        1.0  0.2570679780669017  0.12394335116230193  0.7435909503316079  1.0000
+  O   O1        1.0  0.8763104674242645  0.9119246598580715  0.9803118103805116  1.0000
+  Br  Br1       1.0  0.2152382284499835  0.6145711545549843  0.6557201746132363  1.0000
+  Br  Br2       1.0  0.5561574108112848  0.17361699028443756  0.3357653328123137  1.0000
+  Rb  Rb1       1.0  0.4998632063187316  0.6739535337581278  0.22494342915837243  1.0000

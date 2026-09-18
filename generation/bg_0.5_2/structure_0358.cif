@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NaAg2ONaO
+_chemical_formula_sum              "Na2 Ag2 O2"
+_cell_length_a       4.063519579360908
+_cell_length_b       4.085285362940765
+_cell_length_c       5.707151412963867
+_cell_angle_alpha    89.92484992845735
+_cell_angle_beta     89.80726822942013
+_cell_angle_gamma    89.91351864907337
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.9401976478121943  0.005307913960203057  0.562299013742547  1.0000
+  Ag  Ag1       1.0  0.9401658177117695  0.007341249655142581  0.0628458480674197  1.0000
+  Ag  Ag2       1.0  0.43991726687984256  0.5054534680498866  0.56112122457573  1.0000
+  O   O1        1.0  0.9392302028133347  0.5075300933407024  0.8101757164824607  1.0000
+  Na  Na2       1.0  0.4385451386298448  0.5046741378290255  0.06358984802594408  1.0000
+  O   O2        1.0  0.4399155072169609  0.007328347225972983  0.31088399826189156  1.0000

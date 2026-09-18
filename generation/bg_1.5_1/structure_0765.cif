@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       LiO3Nb2NaO2
+_chemical_formula_sum              "Li1 O5 Nb2 Na1"
+_cell_length_a       5.663106925403547
+_cell_length_b       5.731647234354373
+_cell_length_c       5.735105037689209
+_cell_angle_alpha    59.67203241327849
+_cell_angle_beta     60.4279836489591
+_cell_angle_gamma    60.434048481592235
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.40412747848433583  0.5729585884359549  0.11525842548186166  1.0000
+  O   O1        1.0  0.4051014180834159  0.07171957988109401  0.11446728532152566  1.0000
+  O   O2        1.0  0.9047378307210796  0.07180067818879987  0.11467369598300065  1.0000
+  O   O3        1.0  0.404903740473085  0.5726576446485943  0.6148036127510764  1.0000
+  Nb  Nb1       1.0  0.16081252635035737  0.31617292688174675  0.8582801826514279  1.0000
+  Nb  Nb2       1.0  0.6469366550819744  0.8287556774588252  0.37094077408973836  1.0000
+  Na  Na1       1.0  0.9044872524837853  0.07240460716903703  0.6150680780098293  1.0000
+  O   O4        1.0  0.9049599176570724  0.5723880530022789  0.6138389111791968  1.0000
+  O   O5        1.0  0.4045189921809268  0.07234504729271955  0.6146615742277475  1.0000

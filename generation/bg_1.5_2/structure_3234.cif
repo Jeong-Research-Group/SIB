@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CoFCoNaF3
+_chemical_formula_sum              "Co2 F4 Na1"
+_cell_length_a       3.0694180428202222
+_cell_length_b       5.2691055117092835
+_cell_length_c       5.790351390838623
+_cell_angle_alpha    80.71656046133916
+_cell_angle_beta     75.13433315406185
+_cell_angle_gamma    89.91829302268248
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.680416703468104  0.6957600720350177  0.17790293627971174  1.0000
+  F   F1        1.0  0.7727445962975746  0.07034145324192956  0.9951972356440092  1.0000
+  Co  Co2       1.0  0.17064373049520026  0.18295939271546083  0.2016740291506485  1.0000
+  Na  Na1       1.0  0.9244127882752791  0.44056233690568036  0.6897338620767071  1.0000
+  F   F2        1.0  0.07739233926402753  0.8095014104156838  0.3838680082721916  1.0000
+  F   F3        1.0  0.2823634441473236  0.548789740544359  0.9782269598491895  1.0000
+  F   F4        1.0  0.5694269525799356  0.3298454882948163  0.4021836814041555  1.0000

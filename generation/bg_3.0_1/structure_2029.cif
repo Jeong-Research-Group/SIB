@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NaAlO2GeO
+_chemical_formula_sum              "Na1 Al1 O3 Ge1"
+_cell_length_a       5.6092231202187275
+_cell_length_b       3.1490138616501118
+_cell_length_c       4.784328460693359
+_cell_angle_alpha    90.06079800913317
+_cell_angle_beta     114.95982950118861
+_cell_angle_gamma    106.07565735875522
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.4806829089233568  0.6694700125022548  0.7992962600788996  1.0000
+  Al  Al1       1.0  0.146131932818201  0.00043237351011896893  0.13219817016995675  1.0000
+  O   O1        1.0  0.08097509986913035  0.46901661057127575  0.8942357296049135  1.0000
+  O   O2        1.0  0.8822922712284198  0.8668431046541043  0.2881701592346436  1.0000
+  Ge  Ge1       1.0  0.8220914608009641  0.3379852758073201  0.4856908317633901  1.0000
+  O   O3        1.0  0.4813644594599804  0.16812601798868623  0.44077888253055114  1.0000

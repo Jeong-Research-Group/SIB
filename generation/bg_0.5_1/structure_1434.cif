@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NaTiO4TiO
+_chemical_formula_sum              "Na1 Ti2 O5"
+_cell_length_a       3.871567412799866
+_cell_length_b       3.9367735800397123
+_cell_length_c       6.498305320739746
+_cell_angle_alpha    89.63986714222787
+_cell_angle_beta     107.54102094799204
+_cell_angle_gamma    89.91998683832192
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.5895580060092594  0.6285560136935721  0.7163321380356075  1.0000
+  Ti  Ti1       1.0  0.9363484377316891  0.14679880522838146  0.4135084158639224  1.0000
+  O   O1        1.0  0.41123917734128224  0.1280001389672746  0.3605249517296676  1.0000
+  O   O2        1.0  0.9408195006050694  0.6306250682760668  0.41911429132230665  1.0000
+  O   O3        1.0  0.7668247224133408  0.12941733081876355  0.0728298802766632  1.0000
+  O   O4        1.0  0.0895231674812171  0.1298401650922228  0.7177695030209303  1.0000
+  Ti  Ti2       1.0  0.2412981229148293  0.11016868807116875  0.022008794368713395  1.0000
+  O   O5        1.0  0.23719678806570077  0.6272890578650272  0.016250654316763292  1.0000

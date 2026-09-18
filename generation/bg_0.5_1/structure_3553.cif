@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       PdNa2Te2Ni
+_chemical_formula_sum              "Pd1 Na2 Te2 Ni1"
+_cell_length_a       4.384420567504603
+_cell_length_b       4.386795945374897
+_cell_length_c       7.137871742248535
+_cell_angle_alpha    89.94730759172528
+_cell_angle_beta     90.13720050741912
+_cell_angle_gamma    90.1494538809539
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.2525218132113545  0.9361773731661203  0.40184879345801683  1.0000
+  Na  Na1       1.0  0.7508053190149494  0.9360311041217908  0.07200694097850542  1.0000
+  Na  Na2       1.0  0.25186699685687364  0.4356450134934147  0.7317437536420549  1.0000
+  Te  Te1       1.0  0.2511402065464376  0.43605738893359525  0.17768172969544063  1.0000
+  Te  Te2       1.0  0.7519330968924495  0.9355761416281361  0.6259137984706897  1.0000
+  Ni  Ni1       1.0  0.7522148482260874  0.4356512139422665  0.4016790683966713  1.0000

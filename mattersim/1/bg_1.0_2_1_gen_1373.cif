@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       AgAuNaSAuNaS3
+_chemical_formula_sum              "Ag1 Au2 Na2 S4"
+_cell_length_a       4.031779342236702
+_cell_length_b       6.922131052255465
+_cell_length_c       7.578255653381348
+_cell_angle_alpha    84.96456174137174
+_cell_angle_beta     91.93313739420653
+_cell_angle_gamma    87.159374719634
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.9705431461334227  0.26293885707855225  0.6088644862174988  1.0000
+  Au  Au1       1.0  0.9582921862602234  0.4737062752246856  0.22944459319114682  1.0000
+  Na  Na1       1.0  0.48459142446517944  0.1055312007665634  0.01724580675363541  1.0000
+  S   S1        1.0  0.4629181027412415  0.43433696031570435  0.7115384936332702  1.0000
+  Au  Au2       1.0  0.2901994585990906  0.6650037169456482  0.889200448989868  1.0000
+  Na  Na2       1.0  0.4932988882064819  0.8769919872283934  0.4985000789165496  1.0000
+  S   S2        1.0  0.9863550066947938  0.9388388395309447  0.7791698575019835  1.0000
+  S   S3        1.0  0.9740892648696899  0.14648568630218506  0.3013417422771454  1.0000
+  S   S4        1.0  0.4447735249996186  0.6679039001464844  0.192179799079895  1.0000

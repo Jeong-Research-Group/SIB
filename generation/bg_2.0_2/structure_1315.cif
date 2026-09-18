@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NaAuOBr2NaBr
+_chemical_formula_sum              "Na2 Au1 O1 Br3"
+_cell_length_a       4.155536699883718
+_cell_length_b       6.769076837794377
+_cell_length_c       7.054427146911621
+_cell_angle_alpha    107.66930427530718
+_cell_angle_beta     86.91029155395024
+_cell_angle_gamma    86.98792342998541
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.39432704551782966  0.9473087190813616  0.014168453359955605  1.0000
+  Au  Au1       1.0  0.8912079345632773  0.45039069583624247  0.012754559453036425  1.0000
+  O   O1        1.0  0.4533378472726703  0.7016990786982309  0.2608775802160663  1.0000
+  Br  Br1       1.0  0.3345226061993078  0.19849619215493064  0.7652664776481088  1.0000
+  Br  Br2       1.0  0.9086612470395357  0.6827157735378271  0.7900422817695822  1.0000
+  Na  Na2       1.0  0.8956837651348676  0.948086261886283  0.5118607880297176  1.0000
+  Br  Br3       1.0  0.8797803525557636  0.2170677483724792  0.23915645517786815  1.0000

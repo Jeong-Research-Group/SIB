@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CdNaCdTeNaTe2
+_chemical_formula_sum              "Cd2 Na2 Te3"
+_cell_length_a       4.629309380553139
+_cell_length_b       7.492049023260307
+_cell_length_c       8.210101127624512
+_cell_angle_alpha    65.05879343904729
+_cell_angle_beta     106.02318926143813
+_cell_angle_gamma    89.8283331171837
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.49217966122911716  0.5449178218026418  0.319651871940796  1.0000
+  Na  Na1       1.0  0.7011489281715672  0.6889824864861953  0.7399826049948663  1.0000
+  Cd  Cd2       1.0  0.193062559138482  0.31657043155764375  0.726321280155932  1.0000
+  Te  Te1       1.0  0.6535274389246849  0.13980197950981718  0.6509205699413165  1.0000
+  Na  Na2       1.0  0.9833765026627834  0.17440094070542023  0.30042290660311655  1.0000
+  Te  Te2       1.0  0.03022294371643258  0.7239334576391643  0.3943871260409248  1.0000
+  Te  Te3       1.0  0.344156324662724  0.43111208035044346  0.02099389228500018  1.0000

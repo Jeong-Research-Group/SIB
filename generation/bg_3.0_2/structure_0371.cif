@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Na3ZnO2
+_chemical_formula_sum              "Na3 Zn1 O2"
+_cell_length_a       3.5914451890115693
+_cell_length_b       4.28691378932719
+_cell_length_c       6.460158824920654
+_cell_angle_alpha    121.68805744172123
+_cell_angle_beta     90.04134564188094
+_cell_angle_gamma    89.965134390275
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.2942751043760366  0.6300883878633973  0.9153770803671416  1.0000
+  Na  Na2       1.0  0.2947872284848334  0.2369725401538772  0.40670108826179946  1.0000
+  Na  Na3       1.0  0.7953690278595483  0.6806215633593358  0.3391117749913255  1.0000
+  Zn  Zn1       1.0  0.7952708599674256  0.028922034918745294  0.8356322655234079  1.0000
+  O   O1        1.0  0.7959958316199838  0.007293505889178561  0.13263745654518252  1.0000
+  O   O2        1.0  0.2956729220783644  0.938440264581764  0.6579696541888259  1.0000

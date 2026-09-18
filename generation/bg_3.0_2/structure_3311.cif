@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NaFNiF3
+_chemical_formula_sum              "Na1 F4 Ni1"
+_cell_length_a       3.2479403142306777
+_cell_length_b       4.796434601030894
+_cell_length_c       4.777198791503906
+_cell_angle_alpha    86.77122185764065
+_cell_angle_beta     87.86224905345276
+_cell_angle_gamma    88.00051241148925
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.09502848136360835  0.45637169474459505  0.6265143164131363  1.0000
+  F   F1        1.0  0.5955185886896243  0.22429086324824307  0.8565191036890757  1.0000
+  Ni  Ni1       1.0  0.5944343208583804  0.9578259586112177  0.12800824663604826  1.0000
+  F   F2        1.0  0.0598237445045025  0.7804778222232258  0.9501159192903376  1.0000
+  F   F3        1.0  0.5947430732189175  0.6887024053794274  0.39795270582610964  1.0000
+  F   F4        1.0  0.12753280847277704  0.1328086100971139  0.3024704764826105  1.0000

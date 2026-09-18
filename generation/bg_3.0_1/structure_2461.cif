@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NiNaKF4
+_chemical_formula_sum              "Ni1 Na1 K1 F4"
+_cell_length_a       3.9488720028900777
+_cell_length_b       3.954726077776768
+_cell_length_c       6.942234992980957
+_cell_angle_alpha    73.55737958313314
+_cell_angle_beta     73.63199187350607
+_cell_angle_gamma    90.18928689018777
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.5339676152356828  0.24856874394127745  0.40645045000990787  1.0000
+  Na  Na1       1.0  0.17930136591970303  0.8936100613953348  0.11661832774521838  1.0000
+  K   K1        1.0  0.8824936155594197  0.5967053770103986  0.7084529402285787  1.0000
+  F   F1        1.0  0.6876164086049338  0.40009442034236714  0.09986382686364632  1.0000
+  F   F2        1.0  0.03807571657280309  0.2507733410647892  0.400290072025775  1.0000
+  F   F3        1.0  0.3735135497812038  0.08797989852862298  0.7289308313217344  1.0000
+  F   F4        1.0  0.5357610573849577  0.7515398259962315  0.40039950690037024  1.0000

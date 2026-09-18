@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       InNaOSbO2
+_chemical_formula_sum              "In1 Na1 O3 Sb1"
+_cell_length_a       3.3839711035072555
+_cell_length_b       3.376756432619645
+_cell_length_c       7.33605432510376
+_cell_angle_alpha    102.99941686249794
+_cell_angle_beta     76.54608028042581
+_cell_angle_gamma    90.14782825787209
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.8912410723745063  0.9197295294780641  0.1991591154169878  1.0000
+  Na  Na1       1.0  0.23320366592227518  0.5782931447147835  0.5152552129989998  1.0000
+  O   O1        1.0  0.40762600294555745  0.40503898245018677  0.16647417833496497  1.0000
+  Sb  Sb1       1.0  0.5754140029141105  0.23570624004749627  0.8314355020645315  1.0000
+  O   O2        1.0  0.7345843905733395  0.07741224830993414  0.5123956199076292  1.0000
+  O   O3        1.0  0.05666082338376064  0.7561979884099671  0.8713761569584674  1.0000

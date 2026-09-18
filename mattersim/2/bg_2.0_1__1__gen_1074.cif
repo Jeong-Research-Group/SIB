@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       FeCrONaO2
+_chemical_formula_sum              "Fe1 Cr1 O3 Na1"
+_cell_length_a       3.112803016578587
+_cell_length_b       3.101932586526531
+_cell_length_c       7.807084083557129
+_cell_angle_alpha    89.56136774766405
+_cell_angle_beta     90.00849925964725
+_cell_angle_gamma    59.85298333374627
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.7636633515357971  0.4621414244174957  0.010157854296267033  1.0000
+  Cr  Cr1       1.0  0.4303760230541229  0.12807893753051758  0.6796659827232361  1.0000
+  O   O1        1.0  0.7628108859062195  0.46081870794296265  0.551330029964447  1.0000
+  Na  Na1       1.0  0.0965074673295021  0.79426509141922  0.34026584029197693  1.0000
+  O   O2        1.0  0.09714627265930169  0.7931988239288331  0.831606090068817  1.0000
+  O   O3        1.0  0.4301910400390625  0.12748609483242035  0.13593129813671112  1.0000

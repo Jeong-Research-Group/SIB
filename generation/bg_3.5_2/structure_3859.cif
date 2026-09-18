@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       NaONiO
+_chemical_formula_sum              "Na1 O2 Ni1"
+_cell_length_a       3.1384055612523376
+_cell_length_b       3.1145999387347993
+_cell_length_c       5.639725685119629
+_cell_angle_alpha    105.99016487406554
+_cell_angle_beta     105.98248075164679
+_cell_angle_gamma    60.22925047040935
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.1307477058626567  0.5861288897237543  0.31033530741114956  1.0000
+  O   O1        1.0  0.8966571098426064  0.3517200046872214  0.6049728989945397  1.0000
+  Ni  Ni1       1.0  0.6295417537374707  0.08770825854107728  0.8101838827615175  1.0000
+  O   O2        1.0  0.36418205479024374  0.820699454065525  0.015602689602376258  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Cu2Na2CNPN
+_chemical_formula_sum              "Cu2 Na2 C1 N2 P1"
+_cell_length_a       3.7247453715981305
+_cell_length_b       3.755461019697935
+_cell_length_c       8.387471199035645
+_cell_angle_alpha    90.08461488167403
+_cell_angle_beta     90.0991905093969
+_cell_angle_gamma    89.52006560121902
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.10304778930519709  0.13423308656511262  0.053449552269610366  1.0000
+  Cu  Cu2       1.0  0.597000063498191  0.64042127029152  0.05001609780688211  1.0000
+  Na  Na1       1.0  0.35293310782549525  0.890105427160723  0.6849474309153387  1.0000
+  Na  Na2       1.0  0.8512244816134731  0.38818541167879966  0.4099859593683732  1.0000
+  C   C1        1.0  0.3503098202302019  0.8865430939159248  0.23885972772813505  1.0000
+  N   N1        1.0  0.3497626474899857  0.8864396221861434  0.39184835533269663  1.0000
+  P   P1        1.0  0.8554787647147692  0.3925184318291717  0.8607402444714122  1.0000
+  N   N2        1.0  0.8542624112599234  0.3928202086189634  0.6967428921034061  1.0000

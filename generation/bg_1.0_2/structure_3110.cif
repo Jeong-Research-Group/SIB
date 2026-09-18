@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       MnNa2S3Sr
+_chemical_formula_sum              "Mn1 Na2 S3 Sr1"
+_cell_length_a       4.153550746236301
+_cell_length_b       4.171624960927484
+_cell_length_c       10.416364669799805
+_cell_angle_alpha    90.1850528384565
+_cell_angle_beta     89.82366069526097
+_cell_angle_gamma    90.69203730970251
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.1917619846500811  0.9212708464742919  0.7063225512513062  1.0000
+  Na  Na1       1.0  0.6936652671023207  0.4205566339928731  0.9312794800875901  1.0000
+  Na  Na2       1.0  0.6899191149986111  0.4211962524274686  0.4787847102589883  1.0000
+  S   S1        1.0  0.19249600091715152  0.9207178365432669  0.9208466406725099  1.0000
+  S   S2        1.0  0.6929538837723269  0.4220131633378593  0.2051628087279669  1.0000
+  S   S3        1.0  0.19065150663172242  0.9183107017373565  0.4895904955709341  1.0000
+  Sr  Sr1       1.0  0.19125063804188572  0.9197806130035355  0.20473547289693828  1.0000

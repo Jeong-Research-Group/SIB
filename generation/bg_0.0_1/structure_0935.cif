@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       NaIrNaHgF5
+_chemical_formula_sum              "Na2 Ir1 Hg1 F5"
+_cell_length_a       6.108522294244266
+_cell_length_b       6.21425077356114
+_cell_length_c       6.150298118591309
+_cell_angle_alpha    60.230493650048146
+_cell_angle_beta     60.80871007100116
+_cell_angle_gamma    59.89340406032796
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.9123495810061257  0.9074587234433062  0.7521058327026768  1.0000
+  Ir  Ir1       1.0  0.665209352322684  0.6537557833122529  0.5062226071640762  1.0000
+  Na  Na2       1.0  0.4116598972229139  0.40769836295279915  0.25279387718185775  1.0000
+  Hg  Hg1       1.0  0.16408656457484785  0.15474455042862217  0.005325710040924525  1.0000
+  F   F1        1.0  0.8868536354816112  0.4328596597378179  0.2692620458538524  1.0000
+  F   F2        1.0  0.8985345360485373  0.4224062270096044  0.7369913463442889  1.0000
+  F   F3        1.0  0.429429708978028  0.4314052765608629  0.727958917600288  1.0000
+  F   F4        1.0  0.429822951566419  0.890225112586589  0.7287609574765485  1.0000
+  F   F5        1.0  0.8870343567856237  0.8907157769725872  0.2699635034970652  1.0000

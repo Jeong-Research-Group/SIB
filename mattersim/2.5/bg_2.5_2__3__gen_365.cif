@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       LiNaSe3NaAl
+_chemical_formula_sum              "Li1 Na2 Se3 Al1"
+_cell_length_a       4.073928199308334
+_cell_length_b       7.131559003316912
+_cell_length_c       7.029314041137695
+_cell_angle_alpha    60.208795052855415
+_cell_angle_beta     73.88527627995528
+_cell_angle_gamma    73.9923728865971
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.45903047919273376  0.8855068087577819  0.946417808532715  1.0000
+  Na  Na1       1.0  0.24501933157444003  0.7605010867118834  0.5181494951248169  1.0000
+  Se  Se1       1.0  0.6628371477127074  0.5659696459770202  0.8658530116081239  1.0000
+  Se  Se2       1.0  0.44970202445983887  0.25129935145378113  0.5945863127708435  1.0000
+  Se  Se3       1.0  0.8509190082550048  0.9118262529373168  0.14666055142879486  1.0000
+  Na  Na2       1.0  0.058066654950380346  0.42049002647399897  0.20803250372409823  1.0000
+  Al  Al1       1.0  0.8450129628181456  0.2474973201751709  0.8180518746376039  1.0000

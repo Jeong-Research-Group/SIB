@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       ScNa2Sc
+_chemical_formula_sum              "Sc2 Na2"
+_cell_length_a       4.887707868624257
+_cell_length_b       4.785979913591713
+_cell_length_c       4.777556419372559
+_cell_angle_alpha    90.06932891658067
+_cell_angle_beta     90.01458495895392
+_cell_angle_gamma    90.0158143917022
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.31674256965878733  0.6843719472290238  0.03318868579160102  1.0000
+  Na  Na1       1.0  0.8169043668872339  0.18329563674272786  0.03286153004636964  1.0000
+  Na  Na2       1.0  0.8169286241749929  0.6830677389121236  0.5334786782984825  1.0000
+  Sc  Sc2       1.0  0.3169887959890757  0.18425568956829094  0.5320526957578812  1.0000

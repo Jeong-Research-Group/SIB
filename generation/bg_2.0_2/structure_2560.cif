@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Na2Sn3NaZn
+_chemical_formula_sum              "Na3 Sn3 Zn1"
+_cell_length_a       6.227469338110309
+_cell_length_b       5.922975865350513
+_cell_length_c       6.524867534637451
+_cell_angle_alpha    114.47916202905708
+_cell_angle_beta     97.75181696334958
+_cell_angle_gamma    107.6340285095873
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.927503585508845  0.840108692297898  0.345077276200766  1.0000
+  Na  Na2       1.0  0.37715977467021533  0.6388494958796438  0.502579331352221  1.0000
+  Sn  Sn1       1.0  0.06833031054464221  0.8319902415642751  0.8534501782213255  1.0000
+  Sn  Sn2       1.0  0.4778730568526408  0.06485400286269112  0.25251907128265483  1.0000
+  Sn  Sn3       1.0  0.8315781950999949  0.18767106530508296  0.027198121632285653  1.0000
+  Na  Na3       1.0  0.3668324349189509  0.4062165618597398  0.9121518729293492  1.0000
+  Zn  Zn1       1.0  0.7807912834314549  0.3211456239743251  0.6832060224486579  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NaSeNiSeCo
+_chemical_formula_sum              "Na1 Se2 Ni1 Co1"
+_cell_length_a       4.075866610904973
+_cell_length_b       4.069484973875397
+_cell_length_c       7.110342979431152
+_cell_angle_alpha    89.86256545844485
+_cell_angle_beta     89.38536742975897
+_cell_angle_gamma    119.873343015749
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.01856630526874384  0.2545779956601527  0.728395343480436  1.0000
+  Se  Se1       1.0  0.3518773309330369  0.9222042556800677  0.45869505437503294  1.0000
+  Ni  Ni1       1.0  0.3522877993031168  0.9220665108491842  0.1131223669236397  1.0000
+  Se  Se2       1.0  0.6851809622057385  0.5876327766827507  0.9940817360565178  1.0000
+  Co  Co1       1.0  0.6865486515802497  0.5889750129861598  0.34132781626966185  1.0000

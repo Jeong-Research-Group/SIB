@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CdF2NaF
+_chemical_formula_sum              "Cd1 F3 Na1"
+_cell_length_a       3.704207394064523
+_cell_length_b       3.7452347060212055
+_cell_length_c       5.672220706939697
+_cell_angle_alpha    89.73039444067737
+_cell_angle_beta     90.08194428310894
+_cell_angle_gamma    60.567672793525524
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.7201656690048747  0.3054855470320185  0.7808471910769872  1.0000
+  F   F1        1.0  0.055305057915487496  0.6345625505974308  0.5475784545094231  1.0000
+  F   F2        1.0  0.3882954129173342  0.9663345205850598  0.8602482678777404  1.0000
+  Na  Na1       1.0  0.38862422059183266  0.9640344987383244  0.28460341674822537  1.0000
+  F   F3        1.0  0.7206987746077392  0.302952914317849  0.17772582124405806  1.0000

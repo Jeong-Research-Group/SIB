@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NaTiMgO3NaO
+_chemical_formula_sum              "Na2 Ti1 Mg1 O4"
+_cell_length_a       2.9994142831646617
+_cell_length_b       6.3467864700204535
+_cell_length_c       5.373121738433838
+_cell_angle_alpha    91.73157152203929
+_cell_angle_beta     90.14685840591096
+_cell_angle_gamma    118.12430927761046
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.2914054973683462  0.6295799605860375  0.5519821041742665  1.0000
+  Ti  Ti1       1.0  0.29303669848492314  0.12964527366943557  0.052423342271657125  1.0000
+  Mg  Mg1       1.0  0.2908016735632601  0.12992312000354406  0.5523323418408947  1.0000
+  O   O1        1.0  0.5575051902988436  0.39492514775739984  0.2896503211980462  1.0000
+  O   O2        1.0  0.6559186582777139  0.989734649784697  0.2920244031443111  1.0000
+  O   O3        1.0  0.022858445177205786  0.8636384003376449  0.8155320284933982  1.0000
+  Na  Na2       1.0  0.2922336452079657  0.6289484506907957  0.053097117883713504  1.0000
+  O   O4        1.0  0.927944840327548  0.2670334882391004  0.8120419379192361  1.0000

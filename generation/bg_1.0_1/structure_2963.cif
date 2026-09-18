@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BiAsFeNa2As
+_chemical_formula_sum              "Bi1 As2 Fe1 Na2"
+_cell_length_a       4.331014075850187
+_cell_length_b       4.335837011335668
+_cell_length_c       9.157276153564453
+_cell_angle_alpha    90.24222832443019
+_cell_angle_beta     90.21480511965353
+_cell_angle_gamma    120.00420039067322
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.8747177128991066  0.4171365492522157  0.6801115865222634  1.0000
+  As  As1       1.0  0.20653024276502163  0.0822745625558846  0.17608675375150543  1.0000
+  Fe  Fe1       1.0  0.8730067004161552  0.417275458085459  0.17794917505458283  1.0000
+  Na  Na1       1.0  0.5400244007048195  0.7509648215603827  0.4121212070697794  1.0000
+  Na  Na2       1.0  0.5429102768399776  0.7496314048925952  0.9418141839955713  1.0000
+  As  As2       1.0  0.2090916042429942  0.08394213705156751  0.6742776033260501  1.0000

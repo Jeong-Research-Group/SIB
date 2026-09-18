@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Na4IrRhGa
+_chemical_formula_sum              "Na4 Ir1 Rh1 Ga1"
+_cell_length_a       4.713972227556329
+_cell_length_b       4.7723725873556475
+_cell_length_c       7.047727108001709
+_cell_angle_alpha    90.38988331675459
+_cell_angle_beta     90.2730803051726
+_cell_angle_gamma    90.19812579889923
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.2484506377323187  0.602796017096881  0.2622699444696195  1.0000
+  Na  Na2       1.0  0.24865750978200188  0.10299545463245786  0.9973025322884773  1.0000
+  Na  Na3       1.0  0.24850785701311126  0.10282190065977923  0.5409549468740422  1.0000
+  Na  Na4       1.0  0.7484243509414628  0.6045747399622379  0.5401535629027537  1.0000
+  Ir  Ir1       1.0  0.24705183509007733  0.6029375797566445  0.790928363362081  1.0000
+  Rh  Rh1       1.0  0.7477236975699563  0.10459161516368831  0.25266373208299897  1.0000
+  Ga  Ga1       1.0  0.7475351680755681  0.5994583971782247  0.0003768206674735322  1.0000

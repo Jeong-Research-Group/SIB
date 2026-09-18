@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CdNa2CdO2
+_chemical_formula_sum              "Cd2 Na2 O2"
+_cell_length_a       3.243624361034238
+_cell_length_b       4.55030295986731
+_cell_length_c       6.675099849700928
+_cell_angle_alpha    90.33586340103834
+_cell_angle_beta     89.9354572120286
+_cell_angle_gamma    90.47151094112701
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.22688108604824656  0.3663017741907544  0.383876026042688  1.0000
+  Na  Na1       1.0  0.22478572888853274  0.3651298869687824  0.9270974399048412  1.0000
+  Na  Na2       1.0  0.7259510750160083  0.8666846753174551  0.11331172288137667  1.0000
+  Cd  Cd2       1.0  0.7246199856276393  0.8653573993095759  0.6528672579036154  1.0000
+  O   O1        1.0  0.2254406508908434  0.8662914045264134  0.863656639556211  1.0000
+  O   O2        1.0  0.728044390072875  0.365203320988605  0.17947806405000924  1.0000

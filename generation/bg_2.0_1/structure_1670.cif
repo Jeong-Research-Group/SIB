@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       MgCrO3Na
+_chemical_formula_sum              "Mg1 Cr1 O3 Na1"
+_cell_length_a       3.0753233496595147
+_cell_length_b       3.057542608059017
+_cell_length_c       7.791683197021484
+_cell_angle_alpha    90.00989261853907
+_cell_angle_beta     90.27356523524581
+_cell_angle_gamma    119.99238141592201
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.0036960915618107124  0.8268797378756426  0.8586263059555582  1.0000
+  Cr  Cr1       1.0  0.6678341008970122  0.16065922236361505  0.5244210953362929  1.0000
+  O   O1        1.0  0.002357126413078655  0.8271372922256118  0.397764682885086  1.0000
+  O   O2        1.0  0.33582863319748696  0.49419754720864684  0.6723059414927688  1.0000
+  O   O3        1.0  0.6696458469143998  0.1615260094575237  0.9781804090591166  1.0000
+  Na  Na1       1.0  0.33657005404690243  0.493445782151096  0.18201847424470008  1.0000

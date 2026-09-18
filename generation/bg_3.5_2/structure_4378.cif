@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       IONaO2
+_chemical_formula_sum              "I1 O3 Na1"
+_cell_length_a       3.19482111773296
+_cell_length_b       3.9069017560846047
+_cell_length_c       6.311275482177734
+_cell_angle_alpha    89.8966412516766
+_cell_angle_beta     116.40396420424605
+_cell_angle_gamma    90.19124095396269
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.8507691633823201  0.4519724551488532  0.24202245523702487  1.0000
+  O   O1        1.0  0.5563496939465344  0.449544579037782  0.4709216953157226  1.0000
+  Na  Na1       1.0  0.8488700374267779  0.9494295711090671  0.741961360286241  1.0000
+  O   O2        1.0  0.8489650481085703  0.9506878847306163  0.24287185088623042  1.0000
+  O   O3        1.0  0.14366553674956967  0.4495868378250511  0.011709973217471728  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NaCuAuSe2
+_chemical_formula_sum              "Na1 Cu1 Au1 Se2"
+_cell_length_a       4.121591010887674
+_cell_length_b       4.115747917750229
+_cell_length_c       7.119673252105713
+_cell_angle_alpha    90.20449837156029
+_cell_angle_beta     90.09872605666102
+_cell_angle_gamma    119.81333365373033
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.7160545591469786  0.42088827518177585  0.5557011961597439  1.0000
+  Cu  Cu1       1.0  0.04903762825014778  0.0873063883065269  0.18219739232375703  1.0000
+  Au  Au1       1.0  0.3832357510776592  0.754976927522326  0.9466742276029608  1.0000
+  Se  Se1       1.0  0.04902495731887187  0.08768811811285702  0.8192378879946793  1.0000
+  Se  Se2       1.0  0.383743763516289  0.7538845527176289  0.30098494859988106  1.0000

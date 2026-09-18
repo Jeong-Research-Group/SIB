@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       NaONaZrOZrO3
+_chemical_formula_sum              "Na2 O5 Zr2"
+_cell_length_a       5.751679390414133
+_cell_length_b       4.206686943687244
+_cell_length_c       5.846029281616211
+_cell_angle_alpha    68.62707013622118
+_cell_angle_beta     107.06911526772832
+_cell_angle_gamma    111.58383752466955
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.8516942255184663  0.5619924651994026  0.35345238464539264  1.0000
+  O   O1        1.0  0.00827127575308098  0.8301847582594785  0.9711552256189968  1.0000
+  Na  Na2       1.0  0.16595820988151652  0.0987153273773147  0.5911490312407269  1.0000
+  Zr  Zr1       1.0  0.6312616459691018  0.740955114394433  0.7758771771593502  1.0000
+  O   O2        1.0  0.5699517130807693  0.18114639819830483  0.8325480214969172  1.0000
+  Zr  Zr2       1.0  0.3844749622078163  0.9200183755414455  0.1682222778505867  1.0000
+  O   O3        1.0  0.4469668871277749  0.47967594884063136  0.11071375067920013  1.0000
+  O   O4        1.0  0.2748430080508365  0.6930673122134393  0.5114259131582406  1.0000
+  O   O5        1.0  0.7394416928034142  0.9679338945356845  0.43236526731361896  1.0000

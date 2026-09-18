@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Na2Br2Pd
+_chemical_formula_sum              "Na2 Br2 Pd1"
+_cell_length_a       3.986545817917679
+_cell_length_b       5.763108150043165
+_cell_length_c       6.112637996673584
+_cell_angle_alpha    77.09378600947869
+_cell_angle_beta     90.02851171639159
+_cell_angle_gamma    69.74901866256437
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.0730294509507773  0.46969646220652034  0.2127581976864608  1.0000
+  Na  Na2       1.0  0.7481877806915305  0.1217507128657521  0.7268685694648677  1.0000
+  Br  Br1       1.0  0.7844747904151581  0.04315593744296046  0.23824121106524296  1.0000
+  Br  Br2       1.0  0.03696784399666866  0.545556723460379  0.7025506502599397  1.0000
+  Pd  Pd1       1.0  0.4109851725636955  0.7949985857986597  0.4700430632258243  1.0000

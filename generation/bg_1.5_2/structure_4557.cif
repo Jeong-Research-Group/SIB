@@ -1,0 +1,27 @@
+data_image0
+_chemical_formula_structural       TaNa
+_chemical_formula_sum              "Ta1 Na1"
+_cell_length_a       3.063143947014019
+_cell_length_b       3.065601235333553
+_cell_length_c       4.977532863616943
+_cell_angle_alpha    89.88362290753714
+_cell_angle_beta     89.88717460310848
+_cell_angle_gamma    87.83369878131832
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.19740745372963212  0.8629900227100898  0.1572982517029691  1.0000
+  Na  Na1       1.0  0.6979403498130086  0.3655874732731135  0.6537590035229818  1.0000

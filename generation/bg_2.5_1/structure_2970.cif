@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NaTiOF2O
+_chemical_formula_sum              "Na1 Ti1 O2 F2"
+_cell_length_a       3.684405401139767
+_cell_length_b       3.7541907883376116
+_cell_length_c       6.428520202636719
+_cell_angle_alpha    107.07609588651313
+_cell_angle_beta     89.98849363572583
+_cell_angle_gamma    90.27314858800312
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.1431459329944547  0.1639035041258315  0.3638933590827033  1.0000
+  Ti  Ti1       1.0  0.642658590884003  0.4650394924162966  0.9580448272903354  1.0000
+  O   O1        1.0  0.6425559514744501  0.9734483359850867  0.9787119036736533  1.0000
+  F   F1        1.0  0.6430929298911492  0.307821810679831  0.6424228544891238  1.0000
+  F   F2        1.0  0.6424615374192201  0.6282628180076503  0.2894506747170884  1.0000
+  O   O2        1.0  0.14141218368936315  0.4702214885856242  0.9695543645059154  1.0000

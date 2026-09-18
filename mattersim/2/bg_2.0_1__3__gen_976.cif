@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       KNa2O2
+_chemical_formula_sum              "K1 Na2 O2"
+_cell_length_a       3.907798711219169
+_cell_length_b       3.9103544111581723
+_cell_length_c       6.66208553314209
+_cell_angle_alpha    90.02932450893177
+_cell_angle_beta     89.94074377917036
+_cell_angle_gamma    60.16208969261101
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.5597569942474365  0.3322375416755676  0.552783727645874  1.0000
+  Na  Na1       1.0  0.8945000171661377  0.6632927060127258  0.9184596538543701  1.0000
+  Na  Na2       1.0  0.2282642722129823  0.9982644319534301  0.18740107119083402  1.0000
+  O   O1        1.0  0.22832095623016357  0.9981175661087036  0.8203839659690857  1.0000
+  O   O2        1.0  0.8967833518981934  0.6649740934371948  0.2840753197669983  1.0000

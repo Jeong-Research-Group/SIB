@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       SnMgNa2Se3
+_chemical_formula_sum              "Sn1 Mg1 Na2 Se3"
+_cell_length_a       3.9870421269706235
+_cell_length_b       6.325831149284913
+_cell_length_c       7.502683639526367
+_cell_angle_alpha    102.34510405380767
+_cell_angle_beta     104.94110957314317
+_cell_angle_gamma    89.9318373425717
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.20709951221942904  0.32337111234664917  0.10909955948591231  1.0000
+  Mg  Mg1       1.0  0.0557992234826088  0.9556826949119568  0.8044124841690062  1.0000
+  Na  Na1       1.0  0.49004352092742925  0.45031312108039856  0.6761493086814879  1.0000
+  Na  Na2       1.0  0.7996240258216859  0.8555741906166077  0.2863541841506958  1.0000
+  Se  Se1       1.0  0.8225644826889039  0.36317217350006104  0.33771911263465876  1.0000
+  Se  Se2       1.0  0.465103954076767  0.9554775357246399  0.6160990595817566  1.0000
+  Se  Se3       1.0  0.14329952001571655  0.6606031656265258  0.9797325134277343  1.0000

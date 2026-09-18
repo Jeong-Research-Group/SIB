@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CuMgCuO2
+_chemical_formula_sum              "Cu2 Mg1 O2"
+_cell_length_a       2.863040690926812
+_cell_length_b       2.866956876468213
+_cell_length_c       8.828155517578125
+_cell_angle_alpha    89.98052280458268
+_cell_angle_beta     92.05046636043669
+_cell_angle_gamma    90.05688431793216
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.768847466245267  0.13891360139591447  0.5401669737955345  1.0000
+  Mg  Mg1       1.0  0.3000367597902088  0.6328489776950906  0.7837951782702522  1.0000
+  Cu  Cu2       1.0  0.8275713311023184  0.12359410564623806  0.02272347684853771  1.0000
+  O   O1        1.0  0.32778814317386656  0.6246613858793634  0.008696762062293395  1.0000
+  O   O2        1.0  0.27195575883918016  0.6374734027285005  0.5560799834836067  1.0000

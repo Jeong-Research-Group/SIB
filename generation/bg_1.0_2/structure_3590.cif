@@ -1,0 +1,27 @@
+data_image0
+_chemical_formula_structural       CdO
+_chemical_formula_sum              "Cd1 O1"
+_cell_length_a       3.4028470745208663
+_cell_length_b       3.3976306345434493
+_cell_length_c       4.779836654663086
+_cell_angle_alpha    134.6904024100247
+_cell_angle_beta     45.343751715213244
+_cell_angle_gamma    119.80661378931148
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.3869959419066294  0.23419873471123634  0.6726385957909258  1.0000
+  O   O1        1.0  0.3857859964678641  0.2335261871577581  0.17699684250032333  1.0000

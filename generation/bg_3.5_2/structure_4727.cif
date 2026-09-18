@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NaAlO2CaO
+_chemical_formula_sum              "Na1 Al1 O3 Ca1"
+_cell_length_a       4.41815767699838
+_cell_length_b       3.0110020669137043
+_cell_length_c       5.6532368659973145
+_cell_angle_alpha    105.64316294316755
+_cell_angle_beta     66.76093280551201
+_cell_angle_gamma    90.24022699811377
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.36412572970676965  0.6162217253114971  0.020333311752297526  1.0000
+  Al  Al1       1.0  0.024862679562995052  0.9521722796199377  0.6935755017926333  1.0000
+  O   O1        1.0  0.8979592321710401  0.5792676198129542  0.9515805832931711  1.0000
+  O   O2        1.0  0.5354686377858072  0.9444846516205542  0.6795455810923117  1.0000
+  Ca  Ca1       1.0  0.7006628522342413  0.27691089943634367  0.34528836468840596  1.0000
+  O   O3        1.0  0.15361204647810162  0.3234667198057646  0.4375823740264851  1.0000

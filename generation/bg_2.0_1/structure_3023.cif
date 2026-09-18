@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       TiBiTiNa3Ti
+_chemical_formula_sum              "Ti3 Bi1 Na3"
+_cell_length_a       5.85857347371829
+_cell_length_b       6.57150511337649
+_cell_length_c       5.8001909255981445
+_cell_angle_alpha    88.06468205691576
+_cell_angle_beta     94.4561274215718
+_cell_angle_gamma    113.62244506788674
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.2985678610307035  0.37408524813114086  0.9064581401363907  1.0000
+  Bi  Bi1       1.0  0.7575238341962934  0.2950343194158727  0.9010409719513136  1.0000
+  Ti  Ti2       1.0  0.8591210248441714  0.5005787008718237  0.40057796259600126  1.0000
+  Na  Na1       1.0  0.18211467513505186  0.14342460092555204  0.40352618620092356  1.0000
+  Na  Na2       1.0  0.5192701806555795  0.8155027624447132  0.4037093227063802  1.0000
+  Na  Na3       1.0  0.031420339473080476  0.8274024732207764  0.9043680427694417  1.0000
+  Ti  Ti3       1.0  0.5291948312587751  0.8206118935100307  0.90790885700642  1.0000

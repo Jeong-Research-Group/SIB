@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       KFKF2NaF2Ti
+_chemical_formula_sum              "K2 F5 Na1 Ti1"
+_cell_length_a       6.008870988460504
+_cell_length_b       6.041254585727306
+_cell_length_c       6.0663299560546875
+_cell_angle_alpha    59.577175694013526
+_cell_angle_beta     60.03665957229452
+_cell_angle_gamma    60.20309912999494
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.10815056449478846  0.9669684180283561  0.3730340001598341  1.0000
+  F   F1        1.0  0.6220360395955219  0.9516939529384933  0.8987969162780688  1.0000
+  K   K2        1.0  0.6081088778573743  0.4658947284935115  0.8719335195750186  1.0000
+  F   F2        1.0  0.08072751737325155  0.9525617366793837  0.89933508602497  1.0000
+  F   F3        1.0  0.09163446774362857  0.4821790167411752  0.8878287073824032  1.0000
+  Na  Na1       1.0  0.34878796408214613  0.22605095715269513  0.6314721711330699  1.0000
+  F   F4        1.0  0.08175242708154194  0.49324348640081833  0.3570199897122431  1.0000
+  F   F5        1.0  0.6220378870191187  0.49434721447855023  0.357707173499523  1.0000
+  Ti  Ti1       1.0  0.8699743139174934  0.7043068417867281  0.11054392180549424  1.0000

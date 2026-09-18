@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Al2NaO5Ga
+_chemical_formula_sum              "Al2 Na1 O5 Ga1"
+_cell_length_a       3.049161078551587
+_cell_length_b       4.817938002431329
+_cell_length_c       6.849374294281006
+_cell_angle_alpha    89.06535251465398
+_cell_angle_beta     90.14420828918863
+_cell_angle_gamma    89.91870276552407
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.9404155625490505  0.4414563468021823  0.5309139486823101  1.0000
+  Al  Al2       1.0  0.9401083585815696  0.43259248067961326  0.029541118252270234  1.0000
+  Na  Na1       1.0  0.4437133978796728  0.9377632151056575  0.27964267062415415  1.0000
+  O   O1        1.0  0.44215077286304166  0.25692328790917734  0.9654655457228539  1.0000
+  O   O2        1.0  0.44217255867425814  0.6183471678624579  0.5964415067084355  1.0000
+  O   O3        1.0  0.9405905607714514  0.43804633542572563  0.2811213427064559  1.0000
+  O   O4        1.0  0.9399331817406933  0.10185127778063639  0.6205163000489836  1.0000
+  O   O5        1.0  0.9421545260039783  0.7727516888492749  0.9402977233449636  1.0000
+  Ga  Ga1       1.0  0.4398254160504628  0.9355874054735731  0.7804186935598088  1.0000

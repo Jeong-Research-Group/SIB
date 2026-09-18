@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NaKCdO3
+_chemical_formula_sum              "Na1 K1 Cd1 O3"
+_cell_length_a       3.834527039564485
+_cell_length_b       4.4474313010935465
+_cell_length_c       6.676514625549316
+_cell_angle_alpha    109.36930624106823
+_cell_angle_beta     106.72166937797326
+_cell_angle_gamma    89.99509846248543
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.7513062942715301  0.5057448753863509  0.5849321478000267  1.0000
+  K   K1        1.0  0.4331952322155554  0.1868742114814544  0.9493039253332225  1.0000
+  Cd  Cd1       1.0  0.12113022111638316  0.8749278184247357  0.3227660064649132  1.0000
+  O   O1        1.0  0.7111415851124748  0.9674623598215795  0.5088819862594705  1.0000
+  O   O2        1.0  0.13658410376871627  0.39034304015310056  0.3540885749083126  1.0000
+  O   O3        1.0  0.944149852342421  0.6975935705648926  0.9711701876303649  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       FCsF2CsFTiF
+_chemical_formula_sum              "F5 Cs2 Ti1"
+_cell_length_a       6.547852428345922
+_cell_length_b       6.462491616281271
+_cell_length_c       6.4916157722473145
+_cell_angle_alpha    60.65844768995756
+_cell_angle_beta     58.80518981230946
+_cell_angle_gamma    58.83663666654663
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.6332934498786926  0.8052256107330323  0.36289939284324646  1.0000
+  Cs  Cs1       1.0  0.09944303333759308  0.25365322828292847  0.3987840414047242  1.0000
+  F   F2        1.0  0.6334949135780334  0.2192070186138153  0.949893355369568  1.0000
+  F   F3        1.0  0.05214794352650644  0.21918699145317078  0.9476327896118165  1.0000
+  Cs  Cs2       1.0  0.6030522584915161  0.7536389231681824  0.8956764340400697  1.0000
+  F   F4        1.0  0.05176607891917229  0.8035659790039062  0.3616223633289337  1.0000
+  Ti  Ti1       1.0  0.8714401125907898  0.9831019043922424  0.12885338068008423  1.0000
+  F   F5        1.0  0.07415370643138885  0.7797475457191467  0.9239083528518678  1.0000

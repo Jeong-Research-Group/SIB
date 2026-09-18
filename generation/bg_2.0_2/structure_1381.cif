@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       InNaOBrCl
+_chemical_formula_sum              "In1 Na1 O1 Br1 Cl1"
+_cell_length_a       5.080370369305467
+_cell_length_b       5.396444679519574
+_cell_length_c       5.309331893920898
+_cell_angle_alpha    89.85397990362647
+_cell_angle_beta     89.81948059729565
+_cell_angle_gamma    89.94012223537709
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.6047990319393322  0.7711824765998984  0.38094195786907714  1.0000
+  Na  Na1       1.0  0.10421672451552516  0.2720996740125846  0.8812881705387151  1.0000
+  O   O1        1.0  0.10588919440177688  0.770243525219743  0.38125813043885226  1.0000
+  Br  Br1       1.0  0.6054093246097559  0.2710334364948256  0.38105487757052786  1.0000
+  Cl  Cl1       1.0  0.6046643256312195  0.7718301406523004  0.8810024253441294  1.0000

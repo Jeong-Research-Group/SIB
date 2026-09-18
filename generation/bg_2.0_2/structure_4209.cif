@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Zn2AsZnNaAs
+_chemical_formula_sum              "Zn3 As2 Na1"
+_cell_length_a       4.324368705555078
+_cell_length_b       4.3375950866899196
+_cell_length_c       7.45208740234375
+_cell_angle_alpha    89.43824677898957
+_cell_angle_beta     89.69739782098611
+_cell_angle_gamma    60.254255538811634
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.8249502185112235  0.1985879676761664  0.043067079297552616  1.0000
+  Zn  Zn2       1.0  0.15791733521532256  0.5341247312691099  0.17540070428300092  1.0000
+  As  As1       1.0  0.4901067909261586  0.8648304331926866  0.9490398172285062  1.0000
+  Zn  Zn3       1.0  0.48879215054682984  0.8683253533109576  0.30576068144526153  1.0000
+  Na  Na1       1.0  0.15630602996933346  0.5336378204600775  0.6741682288974483  1.0000
+  As  As2       1.0  0.8224388376156798  0.20122110768153056  0.40269175117909545  1.0000

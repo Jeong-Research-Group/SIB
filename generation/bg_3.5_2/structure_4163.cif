@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NaGdF3
+_chemical_formula_sum              "Na1 Gd1 F3"
+_cell_length_a       3.9731841916659656
+_cell_length_b       3.9940643600294603
+_cell_length_c       4.972027778625488
+_cell_angle_alpha    89.91119637759374
+_cell_angle_beta     89.84708822809387
+_cell_angle_gamma    60.543043978411895
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.4387886806128329  0.8526744853633428  0.21878965238073433  1.0000
+  Gd  Gd1       1.0  0.774383306949639  0.1905739598158435  0.6841758495402132  1.0000
+  F   F1        1.0  0.7735254773589642  0.18855622303801253  0.14869400758852874  1.0000
+  F   F2        1.0  0.1078795412702255  0.5237039911545572  0.49996826088214974  1.0000
+  F   F3        1.0  0.4391250017540623  0.8550798309533718  0.7697331900133011  1.0000

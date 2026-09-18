@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       PtNaONiO2
+_chemical_formula_sum              "Pt1 Na1 O3 Ni1"
+_cell_length_a       3.1216707985173606
+_cell_length_b       3.1318817007612334
+_cell_length_c       7.71643590927124
+_cell_angle_alpha    90.54485352612761
+_cell_angle_beta     90.53665047031251
+_cell_angle_gamma    120.67414477191856
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.7780240783908474  0.8833771940304171  0.5837347513438982  1.0000
+  Na  Na1       1.0  0.11014951549614607  0.5481122121528537  0.24563522647587882  1.0000
+  O   O1        1.0  0.4434892852151955  0.21624828938787827  0.45292755969985166  1.0000
+  Ni  Ni1       1.0  0.4488340322277187  0.2185378665699308  0.915651082699191  1.0000
+  O   O2        1.0  0.7801584007481875  0.8831942069666386  0.04763837929004717  1.0000
+  O   O3        1.0  0.11478257868535918  0.5506075625282687  0.7419852608739193  1.0000

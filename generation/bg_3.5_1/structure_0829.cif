@@ -1,0 +1,27 @@
+data_image0
+_chemical_formula_structural       BiO
+_chemical_formula_sum              "Bi1 O1"
+_cell_length_a       3.5907817911719224
+_cell_length_b       3.5994513685924905
+_cell_length_c       3.596881866455078
+_cell_angle_alpha    60.552225224868266
+_cell_angle_beta     60.5183880060463
+_cell_angle_gamma    60.54871436944097
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.4454041135311563  0.7730903017487061  0.8178746103335891  1.0000
+  O   O1        1.0  0.9412983073981689  0.27071684520996253  0.3200153407426588  1.0000

@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       NaCdS
+_chemical_formula_sum              "Na1 Cd1 S1"
+_cell_length_a       4.55790941303368
+_cell_length_b       4.5518722496241635
+_cell_length_c       4.537203788757324
+_cell_angle_alpha    120.33372483087372
+_cell_angle_beta     59.716516924298546
+_cell_angle_gamma    120.1994169649064
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.28745925415271606  0.6560254705895703  0.13652868575196114  1.0000
+  Cd  Cd1       1.0  0.7863420251589519  0.1571348608203429  0.6380495435021534  1.0000
+  S   S1        1.0  0.0355875143096616  0.9071708314970487  0.887122809887816  1.0000

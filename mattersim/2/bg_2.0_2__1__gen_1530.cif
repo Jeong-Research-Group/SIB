@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       F4NaF2NaMo
+_chemical_formula_sum              "F6 Na2 Mo1"
+_cell_length_a       5.364229587863079
+_cell_length_b       5.358515052303753
+_cell_length_c       4.707821369171143
+_cell_angle_alpha    90.26207688069992
+_cell_angle_beta     90.13409278286413
+_cell_angle_gamma    60.009584373014654
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.17987529933452612  0.6192098259925841  0.9897249341011047  1.0000
+  F   F2        1.0  0.8795861005783081  0.6190001964569092  0.5103219151496887  1.0000
+  F   F3        1.0  0.18057024478912362  0.9199061393737792  0.5090546011924744  1.0000
+  F   F4        1.0  0.5795706510543823  0.2206995040178299  0.5105595588684082  1.0000
+  Na  Na1       1.0  0.21235178411006927  0.2538003623485565  0.25065913796424866  1.0000
+  F   F5        1.0  0.579324245452881  0.9200635552406311  0.9909117221832275  1.0000
+  F   F6        1.0  0.8796728253364563  0.22061829268932343  0.9903714060783386  1.0000
+  Na  Na2       1.0  0.5449210405349731  0.5861225724220276  0.25076988339424133  1.0000
+  Mo  Mo1       1.0  0.8801450133323669  0.9199962615966796  0.7500105500221252  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       NaSeBiSe
+_chemical_formula_sum              "Na1 Se2 Bi1"
+_cell_length_a       4.23170014363881
+_cell_length_b       4.209080302750151
+_cell_length_c       5.7982025146484375
+_cell_angle_alpha    90.34944863813634
+_cell_angle_beta     90.44893714972183
+_cell_angle_gamma    90.44819271100857
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.2292673578996212  0.6624060866018512  0.5359172829492084  1.0000
+  Se  Se1       1.0  0.7302635302445617  0.16089592793375596  0.5356867905541497  1.0000
+  Bi  Bi1       1.0  0.729299365899369  0.16220907797894565  0.03543716987149965  1.0000
+  Se  Se2       1.0  0.2311459180985068  0.6605634692351884  0.0360741906074181  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       LaNiLaO4
+_chemical_formula_sum              "La2 Ni1 O4"
+_cell_length_a       3.288620404317602
+_cell_length_b       3.5483569204760466
+_cell_length_c       9.361268043518066
+_cell_angle_alpha    89.70249996549019
+_cell_angle_beta     90.13575251696814
+_cell_angle_gamma    90.14541723693102
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.982892453367763  0.1160979649218471  0.14662240432238707  1.0000
+  Ni  Ni1       1.0  0.48185586971069283  0.6149162645328503  0.46338084354875964  1.0000
+  La  La2       1.0  0.48215714212926464  0.6197519297203875  0.8062319155457731  1.0000
+  O   O1        1.0  0.984484315130892  0.6186934700747339  0.6094589228253211  1.0000
+  O   O2        1.0  0.9827600111990513  0.6138938080662677  0.3338904973397756  1.0000
+  O   O3        1.0  0.47862484994751564  0.617206156905853  0.0770827086981392  1.0000
+  O   O4        1.0  0.9840748903891127  0.1194460097509519  0.8750845193291842  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       LaNaH2
+_chemical_formula_sum              "La1 Na1 H2"
+_cell_length_a       3.6420033716491345
+_cell_length_b       3.6287944462545747
+_cell_length_c       4.982448101043701
+_cell_angle_alpha    90.02139465753116
+_cell_angle_beta     90.1822865995879
+_cell_angle_gamma    89.92024638666733
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.6536556474866289  0.8031895758198678  0.3255358337705279  1.0000
+  Na  Na1       1.0  0.15746550265873566  0.30294886253168507  0.8231145139447704  1.0000
+  H   H1        1.0  0.6548116803057552  0.802370429647196  0.8276108507671937  1.0000
+  H   H2        1.0  0.15411823902506125  0.30355394014331133  0.32658898778860146  1.0000

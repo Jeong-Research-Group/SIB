@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Na2ClNaCl2
+_chemical_formula_sum              "Na3 Cl3"
+_cell_length_a       3.9396194142778564
+_cell_length_b       3.9436312257983483
+_cell_length_c       10.351926803588867
+_cell_angle_alpha    78.9290926264588
+_cell_angle_beta     101.09946270263104
+_cell_angle_gamma    119.97288966042497
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.2113910313543335  0.024839421165017837  0.7534392472080657  1.0000
+  Na  Na2       1.0  0.09572358408550564  0.13746565636779295  0.4078257378084393  1.0000
+  Cl  Cl1       1.0  0.9342259757939141  0.2975609006324198  0.9251911643104084  1.0000
+  Na  Na3       1.0  0.6560176021730247  0.5794871439117735  0.08397205193788661  1.0000
+  Cl  Cl2       1.0  0.3767151221876601  0.8572295892382711  0.24759729217801704  1.0000
+  Cl  Cl3       1.0  0.8174567821653499  0.41725635567340735  0.5719468594192655  1.0000

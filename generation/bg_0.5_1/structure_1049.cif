@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CsCl3MgMo
+_chemical_formula_sum              "Cs1 Cl3 Mg1 Mo1"
+_cell_length_a       5.079326106476426
+_cell_length_b       5.978462231608493
+_cell_length_c       5.109912872314453
+_cell_angle_alpha    89.996314202541
+_cell_angle_beta     90.15484973439861
+_cell_angle_gamma    90.02584793817668
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.3484899394788065  0.3160085374501705  0.14415527851258725  1.0000
+  Cl  Cl1       1.0  0.848062991701119  0.3165867932331374  0.6440553064136281  1.0000
+  Cl  Cl2       1.0  0.8488643759980802  0.8175457714293964  0.14454636043152616  1.0000
+  Cl  Cl3       1.0  0.3482098886665428  0.817323028508797  0.6431934830017741  1.0000
+  Mg  Mg1       1.0  0.3470525154081785  0.8177663683129658  0.14428301189972056  1.0000
+  Mo  Mo1       1.0  0.8479314447690426  0.8161494138807969  0.6448990110622667  1.0000

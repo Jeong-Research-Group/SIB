@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       NaFCaF4CoF
+_chemical_formula_sum              "Na1 F6 Ca1 Co1"
+_cell_length_a       5.648452436738972
+_cell_length_b       5.535747035231049
+_cell_length_c       5.631176471710205
+_cell_angle_alpha    70.9747821431859
+_cell_angle_beta     107.27512924720679
+_cell_angle_gamma    70.84606735482241
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.5445533994936875  0.5290197143335054  0.43854770023160844  1.0000
+  F   F1        1.0  0.008439976659445687  0.29794317409090504  0.5882940289811659  1.0000
+  Ca  Ca1       1.0  0.1584902706311936  0.5301257367265662  0.822241008457416  1.0000
+  F   F2        1.0  0.3996945625893963  0.756031155402854  0.9741021405537031  1.0000
+  F   F3        1.0  0.6978498705257657  0.7685729860023904  0.6794423459703542  1.0000
+  F   F4        1.0  0.2952316395854793  0.29545942027253375  0.28402268802522174  1.0000
+  F   F5        1.0  0.527352869069365  0.20061622470466528  0.8100731371787279  1.0000
+  Co  Co1       1.0  0.3507762849539608  0.02991163256679447  0.6334196928568036  1.0000
+  F   F6        1.0  0.17417968748752624  0.858871579562782  0.45717775741819205  1.0000

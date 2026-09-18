@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ClKLiClNaH
+_chemical_formula_sum              "Cl2 K1 Li1 Na1 H1"
+_cell_length_a       4.130591768973269
+_cell_length_b       5.4433819238477765
+_cell_length_c       6.759923458099365
+_cell_angle_alpha    81.28265948886177
+_cell_angle_beta     89.84973834557809
+_cell_angle_gamma    89.8479488369352
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.8162376873445989  0.3584294918693894  0.3646602338860603  1.0000
+  K   K1        1.0  0.3163266471141722  0.6432103508806883  0.10663497519169468  1.0000
+  Li  Li1       1.0  0.8170838958990301  0.6421334147677649  0.608151495547332  1.0000
+  Cl  Cl2       1.0  0.8156782983712927  0.9267557267718481  0.8482728600597358  1.0000
+  Na  Na1       1.0  0.3165722190576654  0.14200784234051644  0.6078186034907374  1.0000
+  H   H1        1.0  0.3169255562763963  0.6428007484994699  0.6059424280948047  1.0000

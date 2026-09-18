@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Cl2InOClNa
+_chemical_formula_sum              "Cl3 In1 O1 Na1"
+_cell_length_a       3.9450143813114606
+_cell_length_b       6.302266928195749
+_cell_length_c       6.140439033508301
+_cell_angle_alpha    87.20562883970226
+_cell_angle_beta     90.22235247377154
+_cell_angle_gamma    90.25833391929943
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.671244145265143  0.4560323952719711  0.7070506818262122  1.0000
+  Cl  Cl2       1.0  0.1709413966357767  0.6036319725298561  0.23281100387207831  1.0000
+  In  In1       1.0  0.16837334626691344  0.2929228843840731  0.49480637952050605  1.0000
+  O   O1        1.0  0.17009051039657624  0.9910675889965059  0.7541662455162711  1.0000
+  Cl  Cl3       1.0  0.6712093344138192  0.12933482278081498  0.28319197962791354  1.0000
+  Na  Na1       1.0  0.6690778138050198  0.7957110399696521  0.9896284340689091  1.0000

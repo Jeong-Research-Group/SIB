@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       LiH2NaHCdH
+_chemical_formula_sum              "Li1 H4 Na1 Cd1"
+_cell_length_a       4.190193215940123
+_cell_length_b       3.885895452747731
+_cell_length_c       5.877190113067627
+_cell_angle_alpha    90.16531357819593
+_cell_angle_beta     110.97562347255881
+_cell_angle_gamma    89.90422959156986
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.5181546223203835  0.09806800517052491  0.11449409242119044  1.0000
+  H   H1        1.0  0.31401526836384713  0.10748731440325272  0.6988276836249238  1.0000
+  H   H2        1.0  0.5420476186117944  0.6005082733706777  0.16410806815259607  1.0000
+  Na  Na1       1.0  0.16353663678478136  0.6037595871792186  0.39863151272403186  1.0000
+  H   H3        1.0  0.7786720397645256  0.6073821195033581  0.6293957823657707  1.0000
+  Cd  Cd1       1.0  0.8373085262315642  0.11018089845442569  0.7467499376620171  1.0000
+  H   H4        1.0  0.026616101669282365  0.1005842676654015  0.12465600742466916  1.0000

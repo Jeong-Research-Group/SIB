@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NaLiNaBrHgO2
+_chemical_formula_sum              "Na2 Li1 Br1 Hg1 O2"
+_cell_length_a       4.02542645018095
+_cell_length_b       4.61470425695343
+_cell_length_c       7.875711917877197
+_cell_angle_alpha    90.11130726987105
+_cell_angle_beta     104.39319857166132
+_cell_angle_gamma    90.17320927639015
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.8398270595174182  0.5754266986180848  0.20991124197515948  1.0000
+  Li  Li1       1.0  0.14638982794733843  0.5733159778342957  0.8230168824716418  1.0000
+  Na  Na2       1.0  0.302454560066878  0.07598443348034417  0.13245013357526672  1.0000
+  Br  Br1       1.0  0.5251600158613238  0.573728920023617  0.5911015865858508  1.0000
+  Hg  Hg1       1.0  0.0053519001994828804  0.07304267518147578  0.5449061992124558  1.0000
+  O   O1        1.0  0.26787811392731986  0.5741969344624748  0.0609183197912619  1.0000
+  O   O2        1.0  0.8707105528229566  0.07498259051233705  0.27237603053934495  1.0000

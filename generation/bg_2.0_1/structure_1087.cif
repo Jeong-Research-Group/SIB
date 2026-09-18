@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       PCNa2CuP
+_chemical_formula_sum              "P2 C1 Na2 Cu1"
+_cell_length_a       3.8807942395100516
+_cell_length_b       3.9084688733710733
+_cell_length_c       7.52581787109375
+_cell_angle_alpha    89.74244291436789
+_cell_angle_beta     89.80862060891505
+_cell_angle_gamma    90.04067628270015
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  P   P1        1.0  0.4655860371196148  0.40596357026589336  0.8376491069997893  1.0000
+  C   C1        1.0  0.4646947078129177  0.4060707386624262  0.6058365706334459  1.0000
+  Na  Na1       1.0  0.9652307045787012  0.9052050125266491  0.6058619016325126  1.0000
+  Na  Na2       1.0  0.965264021561356  0.9056022770683303  0.08969778524045396  1.0000
+  Cu  Cu1       1.0  0.46528765594506527  0.4058790503592165  0.35497438918693813  1.0000
+  P   P2        1.0  0.46481326132155626  0.40598222738157685  0.08899269953532507  1.0000

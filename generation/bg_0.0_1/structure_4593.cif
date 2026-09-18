@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       CuNaFe
+_chemical_formula_sum              "Cu1 Na1 Fe1"
+_cell_length_a       4.366724804629664
+_cell_length_b       4.371673393781998
+_cell_length_c       4.387536525726318
+_cell_angle_alpha    60.29706154783129
+_cell_angle_beta     60.461107421636015
+_cell_angle_gamma    60.67450155546453
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.9272248161358905  0.5246785276556252  0.21984247726643327  1.0000
+  Na  Na1       1.0  0.43098717918716006  0.020445167415270853  0.7223376639010646  1.0000
+  Fe  Fe1       1.0  0.17782944393999706  0.7737437477069563  0.4715119313847886  1.0000

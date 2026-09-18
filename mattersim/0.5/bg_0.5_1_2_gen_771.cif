@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NaAgAu2NaAg2
+_chemical_formula_sum              "Na2 Ag3 Au2"
+_cell_length_a       4.349227835690437
+_cell_length_b       5.487049299128686
+_cell_length_c       6.963056564331055
+_cell_angle_alpha    97.30694564737077
+_cell_angle_beta     90.1164982155886
+_cell_angle_gamma    113.38346828152761
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.7224100232124329  0.774787962436676  0.09170690178871156  1.0000
+  Ag  Ag1       1.0  0.039147749543189975  0.40939304232597346  0.30917674303054804  1.0000
+  Au  Au1       1.0  0.26522651314735407  0.8607098460197448  0.7791138291358947  1.0000
+  Au  Au2       1.0  0.4356500506401062  0.20277474820613858  0.0983026623725891  1.0000
+  Na  Na2       1.0  0.9786341786384583  0.2888251841068268  0.784739315509796  1.0000
+  Ag  Ag2       1.0  0.6613715291023254  0.6551624536514282  0.5670787692070007  1.0000
+  Ag  Ag3       1.0  0.3506682217121124  0.03173190355300903  0.43653357028961176  1.0000

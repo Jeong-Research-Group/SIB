@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Na3P2Ga
+_chemical_formula_sum              "Na3 P2 Ga1"
+_cell_length_a       4.460870497596354
+_cell_length_b       4.4571128079697075
+_cell_length_c       6.452338218688965
+_cell_angle_alpha    90.10940164023677
+_cell_angle_beta     89.92282819436471
+_cell_angle_gamma    89.73547610504373
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.14630812339556803  0.9729408026795868  0.9645810729346994  1.0000
+  Na  Na2       1.0  0.14665347323626388  0.9727499480471438  0.464865535718847  1.0000
+  Na  Na3       1.0  0.64545154615208  0.4738050106178459  0.4656293098041358  1.0000
+  P   P1        1.0  0.14559565566888535  0.47339034014205966  0.18316279361577506  1.0000
+  P   P2        1.0  0.6463739267649001  0.9735015044897858  0.7482956655007723  1.0000
+  Ga  Ga1       1.0  0.6454383728290392  0.47310048296437257  0.9652248616829185  1.0000

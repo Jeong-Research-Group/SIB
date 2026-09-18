@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       PbNaBi
+_chemical_formula_sum              "Pb1 Na1 Bi1"
+_cell_length_a       5.441557996489697
+_cell_length_b       3.3282611142468763
+_cell_length_c       5.451217174530029
+_cell_angle_alpha    89.27133062491477
+_cell_angle_beta     59.89008340386709
+_cell_angle_gamma    89.56475555258815
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.5288385160892195  0.5169580579125899  0.5671656732512796  1.0000
+  Na  Na1       1.0  0.8619728678876993  0.834381341013295  0.8993944533905393  1.0000
+  Bi  Bi1       1.0  0.1945725089490201  0.1678944537601263  0.23351448729410512  1.0000

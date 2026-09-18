@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NaOPbNaBiO2
+_chemical_formula_sum              "Na2 O3 Pb1 Bi1"
+_cell_length_a       3.4294480137916126
+_cell_length_b       3.4433163937398694
+_cell_length_c       9.279555320739746
+_cell_angle_alpha    90.11427156648853
+_cell_angle_beta     90.08684152047677
+_cell_angle_gamma    90.37763001947955
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.9418725368491639  0.996089816818018  0.5657529830911884  1.0000
+  O   O1        1.0  0.4411095381729929  0.49690821708406985  0.561929702900482  1.0000
+  Pb  Pb1       1.0  0.4422683412507343  0.4950015855023847  0.31340324871927827  1.0000
+  Na  Na2       1.0  0.9417431345541515  0.996440054344398  0.061239786544172295  1.0000
+  Bi  Bi1       1.0  0.44306311142926674  0.49855986169000055  0.8135011787213833  1.0000
+  O   O2        1.0  0.4431839598749457  0.4960147142361834  0.06395973304082521  1.0000
+  O   O3        1.0  0.9391275640366316  0.9957295073670851  0.8139207365976823  1.0000

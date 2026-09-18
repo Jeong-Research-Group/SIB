@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       MnNa2AsMnAs
+_chemical_formula_sum              "Mn2 Na2 As2"
+_cell_length_a       4.0417775083979555
+_cell_length_b       4.05026095364974
+_cell_length_c       7.005965232849121
+_cell_angle_alpha    90.11071986677379
+_cell_angle_beta     89.91750747309496
+_cell_angle_gamma    89.99214095682518
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.216996892952141  0.18567831804952878  0.027142639797685608  1.0000
+  Na  Na1       1.0  0.71722626709642  0.18608775663423952  0.6729302997608373  1.0000
+  Na  Na2       1.0  0.2175407265739193  0.6857730143970174  0.3821334535729372  1.0000
+  As  As1       1.0  0.2174356283907238  0.6855137343202331  0.8205515144915219  1.0000
+  Mn  Mn2       1.0  0.7174439439213545  0.6857975733545357  0.026751243105899835  1.0000
+  As  As2       1.0  0.7177101970291204  0.18590235588648063  0.23435439122168691  1.0000

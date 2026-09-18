@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       FeSNaO3
+_chemical_formula_sum              "Fe1 S1 Na1 O3"
+_cell_length_a       3.5611208842704696
+_cell_length_b       4.667152636839043
+_cell_length_c       5.367795467376709
+_cell_angle_alpha    93.78032755838412
+_cell_angle_beta     90.44503713216731
+_cell_angle_gamma    90.0902292945849
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.18431168815897864  0.47879034300890094  0.3771453494922478  1.0000
+  S   S1        1.0  0.6852915298520561  0.13426133969754825  0.40459880301500206  1.0000
+  Na  Na1       1.0  0.6826087839214673  0.9665869481233528  0.8849235773063947  1.0000
+  O   O1        1.0  0.1845735320178614  0.5912664534967186  0.7869619722259296  1.0000
+  O   O2        1.0  0.6809716216066648  0.7580575949536119  0.34054470106867146  1.0000
+  O   O3        1.0  0.18478393441388816  0.3647603395788849  0.9628767365390978  1.0000

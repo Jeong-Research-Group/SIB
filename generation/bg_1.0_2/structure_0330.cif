@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       HNaCrN
+_chemical_formula_sum              "H1 Na1 Cr1 N1"
+_cell_length_a       3.0841610836868725
+_cell_length_b       3.0960886892894823
+_cell_length_c       5.7176737785339355
+_cell_angle_alpha    74.10365267017819
+_cell_angle_beta     74.05898273910832
+_cell_angle_gamma    59.358449285751
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.7362391927089932  0.4286394726691534  0.5699512372676924  1.0000
+  Na  Na1       1.0  0.9663316014966383  0.658614455781379  0.8833287954829294  1.0000
+  Cr  Cr1       1.0  0.46986958475287954  0.15939824443443432  0.3747735323514567  1.0000
+  N   N1        1.0  0.19469122736722497  0.887973009987652  0.1936721504459452  1.0000

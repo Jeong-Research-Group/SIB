@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Mg2InMgCdNaMg2
+_chemical_formula_sum              "Mg5 In1 Cd1 Na1"
+_cell_length_a       5.192698587299338
+_cell_length_b       6.450115682818318
+_cell_length_c       6.448022365570068
+_cell_angle_alpha    120.11624080136681
+_cell_angle_beta     89.98828189994829
+_cell_angle_gamma    90.00316488199209
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.7106871004249473  0.9056012625798382  0.5345245594639537  1.0000
+  Mg  Mg2       1.0  0.2110680190577348  0.741616010182045  0.7047889822493808  1.0000
+  In  In1       1.0  0.21056841269637985  0.23547230734498556  0.7019876244215202  1.0000
+  Mg  Mg3       1.0  0.21073426367892503  0.7372021076716403  0.20003211508732358  1.0000
+  Cd  Cd1       1.0  0.7107139237601751  0.9050924775634785  0.03256788055849024  1.0000
+  Na  Na1       1.0  0.7110574847526357  0.40505504626729316  0.5320447686682271  1.0000
+  Mg  Mg4       1.0  0.7108914853310011  0.4030098029823151  0.03223250787560197  1.0000
+  Mg  Mg5       1.0  0.21088919066613793  0.2324512600952213  0.19532136550179252  1.0000

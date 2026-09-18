@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NaHONa2OClHf
+_chemical_formula_sum              "Na3 H1 O2 Cl1 Hf1"
+_cell_length_a       4.745317708180213
+_cell_length_b       4.190921082624257
+_cell_length_c       6.87900447845459
+_cell_angle_alpha    89.82175507755065
+_cell_angle_beta     92.54743103772397
+_cell_angle_gamma    90.29240290245946
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.07129337733604345  0.9000447981229962  0.17728947120626606  1.0000
+  H   H1        1.0  0.17211410306676003  0.39775729292114986  0.3905762730194875  1.0000
+  O   O1        1.0  0.9373912211378184  0.4003262807066843  0.41328725243119463  1.0000
+  Na  Na2       1.0  0.580908120589395  0.40066886045260225  0.6644355052909952  1.0000
+  Na  Na3       1.0  0.06152300943288552  0.9003745308301733  0.6462622288052834  1.0000
+  O   O2        1.0  0.5763190982066619  0.9004003394429186  0.16491104701286194  1.0000
+  Cl  Cl1       1.0  0.09462003351658052  0.4019848396121201  0.9209156626171715  1.0000
+  Hf  Hf1       1.0  0.5845091939008763  0.40034094360658445  0.17117778980327636  1.0000

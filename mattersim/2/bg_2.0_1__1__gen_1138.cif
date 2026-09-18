@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NaMoNaO4
+_chemical_formula_sum              "Na2 Mo1 O4"
+_cell_length_a       3.1107728430048702
+_cell_length_b       5.594076787924923
+_cell_length_c       5.898277282714844
+_cell_angle_alpha    109.0927354641255
+_cell_angle_beta     90.37333381778397
+_cell_angle_gamma    105.33254642201767
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.7076394557952881  0.7584390044212341  0.238902285695076  1.0000
+  Mo  Mo1       1.0  0.8983517289161682  0.16467875242233276  0.9511540532112122  1.0000
+  Na  Na2       1.0  0.10171900689601898  0.5714396834373474  0.6616901159286499  1.0000
+  O   O1        1.0  0.49235257506370544  0.3477253317832947  0.8512725234031677  1.0000
+  O   O2        1.0  0.03828226774930954  0.4230165481567383  0.24815694987773895  1.0000
+  O   O3        1.0  0.7721350789070129  0.9073219299316406  0.6555737257003784  1.0000
+  O   O4        1.0  0.3150372803211212  0.9818398356437683  0.05190521478652954  1.0000

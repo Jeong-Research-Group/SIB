@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       ONaMgLiO
+_chemical_formula_sum              "O2 Na1 Mg1 Li1"
+_cell_length_a       3.3059279717279146
+_cell_length_b       3.3254907977802266
+_cell_length_c       5.919427394866943
+_cell_angle_alpha    89.93364038207392
+_cell_angle_beta     89.9470753687611
+_cell_angle_gamma    60.848318274722416
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.4540330767631531  0.19248975813388824  0.6739451289176941  1.0000
+  Na  Na1       1.0  0.12056247889995575  0.8603810667991638  0.9713129997253417  1.0000
+  Mg  Mg1       1.0  0.7888060212135315  0.5278924107551575  0.5717871785163879  1.0000
+  Li  Li1       1.0  0.4537966251373291  0.19221769273281097  0.28584930300712585  1.0000
+  O   O2        1.0  0.786504864692688  0.5283225178718567  0.235745832324028  1.0000

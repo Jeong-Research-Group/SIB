@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       AgBaSn
+_chemical_formula_sum              "Ag1 Ba1 Sn1"
+_cell_length_a       5.255019833849059
+_cell_length_b       5.240950441548654
+_cell_length_c       3.782166004180908
+_cell_angle_alpha    90.12863546438615
+_cell_angle_beta     90.09247642528523
+_cell_angle_gamma    59.960784134060816
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.24771718700982479  0.9629634612326863  0.2604695859786151  1.0000
+  Ba  Ba1       1.0  0.5822478532809929  0.3001778114970705  0.761765002040022  1.0000
+  Sn  Sn1       1.0  0.9162670970487498  0.6332845680373407  0.26712054059706225  1.0000

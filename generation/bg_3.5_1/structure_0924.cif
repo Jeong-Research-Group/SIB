@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       ClNa2ScCl2NaCl2Br
+_chemical_formula_sum              "Cl5 Na3 Sc1 Br1"
+_cell_length_a       7.296861105271919
+_cell_length_b       7.3432828697284185
+_cell_length_c       7.341352462768555
+_cell_angle_alpha    59.6310442355623
+_cell_angle_beta     60.1654829898321
+_cell_angle_gamma    60.22626013311936
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.5207701930399811  0.671737431898629  0.9247531887997573  1.0000
+  Na  Na1       1.0  0.030259978679735667  0.6621730322505528  0.43569144611658295  1.0000
+  Na  Na2       1.0  0.7782248253587732  0.413611262403536  0.18749770558616402  1.0000
+  Sc  Sc1       1.0  0.28084462906725793  0.911673665702347  0.6849359860113617  1.0000
+  Cl  Cl2       1.0  0.04053054672860226  0.1520649941691731  0.44492325160054247  1.0000
+  Cl  Cl3       1.0  0.040653377838429386  0.6716181040827434  0.9251880052326158  1.0000
+  Na  Na3       1.0  0.5299111598828977  0.16176263973157368  0.9355961687770882  1.0000
+  Cl  Cl4       1.0  0.5196621411677044  0.6726631524887025  0.4459042258679456  1.0000
+  Cl  Cl5       1.0  0.5202560422030967  0.1513180139018462  0.4451056713066999  1.0000
+  Br  Br1       1.0  0.039475683501792404  0.15260498197754463  0.9255627986740084  1.0000

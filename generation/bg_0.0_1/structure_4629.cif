@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       SBiS2Bi2NaS
+_chemical_formula_sum              "S4 Bi3 Na1"
+_cell_length_a       7.070305572492758
+_cell_length_b       4.1201883118608125
+_cell_length_c       7.1140217781066895
+_cell_angle_alpha    90.06260801045227
+_cell_angle_beta     71.27451897265455
+_cell_angle_gamma    90.10100732821796
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.7159781459856539  0.021528203285888527  0.47583687285446014  1.0000
+  Bi  Bi1       1.0  0.46819299416528753  0.02026186579841946  0.2304205148666612  1.0000
+  S   S2        1.0  0.22153905092048753  0.022216488536641568  0.983892679369071  1.0000
+  S   S3        1.0  0.7100952274205764  0.5201932192947382  0.9887878291289073  1.0000
+  Bi  Bi2       1.0  0.9678949710974335  0.5189220300789882  0.231091380131134  1.0000
+  Bi  Bi3       1.0  0.46822199190729996  0.5190864791542248  0.7305435545515259  1.0000
+  Na  Na1       1.0  0.9678645127931403  0.019140281650819647  0.7301998142473576  1.0000
+  S   S4        1.0  0.22632285950194023  0.5198049548242303  0.47127887664586166  1.0000

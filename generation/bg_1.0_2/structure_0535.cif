@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       NaSePbSe
+_chemical_formula_sum              "Na1 Se2 Pb1"
+_cell_length_a       4.2351359710813234
+_cell_length_b       4.245143633598428
+_cell_length_c       7.38129186630249
+_cell_angle_alpha    73.54732455524896
+_cell_angle_beta     73.43328245698342
+_cell_angle_gamma    60.24742418456802
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.6901566396494245  0.6192186478557827  0.2619517138608797  1.0000
+  Se  Se1       1.0  0.44129255307919124  0.3717588195439328  0.010046068839685665  1.0000
+  Pb  Pb1       1.0  0.18989180078405116  0.12036553034950888  0.7601828577571863  1.0000
+  Se  Se2       1.0  0.9379872074347286  0.868695081497416  0.5145124197557306  1.0000

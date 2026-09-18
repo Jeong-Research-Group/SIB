@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NaTiNaTiS4
+_chemical_formula_sum              "Na2 Ti2 S4"
+_cell_length_a       3.581438373229583
+_cell_length_b       6.1631935532152
+_cell_length_c       6.841861248016357
+_cell_angle_alpha    98.42962377127662
+_cell_angle_beta     105.10857090738243
+_cell_angle_gamma    89.99722267092994
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.4648016396710685  0.25543224780857354  0.12728235095673052  1.0000
+  Ti  Ti1       1.0  0.7154408091374712  0.004348705718494018  0.6262119404093374  1.0000
+  Na  Na2       1.0  0.9651504165990014  0.7551526423816646  0.12559478045224967  1.0000
+  Ti  Ti2       1.0  0.2160929296623855  0.5044307702822116  0.6269741055575678  1.0000
+  S   S1        1.0  0.6112100477231922  0.637046099321099  0.41695457741142816  1.0000
+  S   S2        1.0  0.11040534847527511  0.13716493626488344  0.4161738451023194  1.0000
+  S   S3        1.0  0.319165437647309  0.8726915119545824  0.8352475161050005  1.0000
+  S   S4        1.0  0.818924844643903  0.372280300121073  0.8344241978320127  1.0000

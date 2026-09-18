@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       AgInNaInNa
+_chemical_formula_sum              "Ag1 In2 Na2"
+_cell_length_a       5.0921808439057274
+_cell_length_b       7.871090857641848
+_cell_length_c       5.0907111167907715
+_cell_angle_alpha    49.979770343438375
+_cell_angle_beta     60.34596782514736
+_cell_angle_gamma    49.9567625803254
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.6875403522024125  0.9220046395871763  0.9122874748378478  1.0000
+  In  In1       1.0  0.8969532843464161  0.1082690052519861  0.12191616906226875  1.0000
+  Na  Na1       1.0  0.2856246831279866  0.5240824229363089  0.5099804399639601  1.0000
+  In  In2       1.0  0.4795815056070486  0.7331500046088022  0.7040059570548926  1.0000
+  Na  Na2       1.0  0.08929967967346103  0.3195569511940716  0.3152211300417016  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       O3TiONaO2Nb
+_chemical_formula_sum              "O6 Ti1 Na1 Nb1"
+_cell_length_a       3.8645346343005036
+_cell_length_b       5.657137621041253
+_cell_length_c       6.301839828491211
+_cell_angle_alpha    63.37101910642248
+_cell_angle_beta     90.02898982842257
+_cell_angle_gamma    89.91890766299431
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.5255525120403824  0.48887017325778304  0.4196802387264358  1.0000
+  O   O2        1.0  0.02560791513130578  0.5706368681661408  0.7044118044176068  1.0000
+  O   O3        1.0  0.5270084151953974  0.20676353612230206  0.9699280258460874  1.0000
+  Ti  Ti1       1.0  0.030106159376608807  0.20700915101029368  0.9765160086483806  1.0000
+  O   O4        1.0  0.0258750188207148  0.1198956156177347  0.6999325160005259  1.0000
+  Na  Na1       1.0  0.5269634711997454  0.7964022156331453  0.8043864373685857  1.0000
+  O   O5        1.0  0.02776290772812525  0.8449197410338074  0.18943879081060158  1.0000
+  O   O6        1.0  0.025990225983954337  0.34692156233109384  0.19584046352891077  1.0000
+  Nb  Nb1       1.0  0.025631816912683406  0.48235252477290114  0.4253109394137528  1.0000

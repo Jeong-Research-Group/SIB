@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       SnOHNaO
+_chemical_formula_sum              "Sn1 O2 H1 Na1"
+_cell_length_a       3.4099367770036175
+_cell_length_b       3.7104104099056667
+_cell_length_c       5.221989154815674
+_cell_angle_alpha    92.57886336341004
+_cell_angle_beta     90.13961840951862
+_cell_angle_gamma    89.99871159884837
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.46821174039619506  0.606037378178367  0.3162486848966688  1.0000
+  O   O1        1.0  0.96757668125068  0.9135397677033803  0.35722363033369997  1.0000
+  H   H1        1.0  0.46856802800078984  0.5590486534399356  0.7550361149165513  1.0000
+  Na  Na1       1.0  0.969012556995127  0.0644592855147449  0.842578053500482  1.0000
+  O   O2        1.0  0.46785038833316156  0.5568882810486141  0.925144552696037  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NaGaMgCuNi
+_chemical_formula_sum              "Na1 Ga1 Mg1 Cu1 Ni1"
+_cell_length_a       4.1073016937547475
+_cell_length_b       4.098750364744245
+_cell_length_c       6.095369338989258
+_cell_angle_alpha    89.84982713683266
+_cell_angle_beta     90.14599096370327
+_cell_angle_gamma    120.15799940439292
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.5677075402095146  0.8377773175671982  0.46189904134710974  1.0000
+  Ga  Ga1       1.0  0.5683425667880384  0.8312186015694569  0.9905624981453055  1.0000
+  Mg  Mg1       1.0  0.9012694368647983  0.4942309260772977  0.7866470816519193  1.0000
+  Cu  Cu1       1.0  0.2350378040418682  0.16542296164279272  0.07545159685342934  1.0000
+  Ni  Ni1       1.0  0.9009844673765486  0.49972867986701996  0.19575271026581975  1.0000

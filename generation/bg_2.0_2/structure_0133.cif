@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Sb2MnSbNaMgTi
+_chemical_formula_sum              "Sb3 Mn1 Na1 Mg1 Ti1"
+_cell_length_a       4.130330603897527
+_cell_length_b       4.167048501496261
+_cell_length_c       10.85002613067627
+_cell_angle_alpha    90.27148204776934
+_cell_angle_beta     90.00810310857865
+_cell_angle_gamma    89.73440377536849
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.3935108787103852  0.3530526165972154  0.7259893418379888  1.0000
+  Sb  Sb2       1.0  0.39183667193425775  0.34864574603171383  0.20947171766105457  1.0000
+  Mn  Mn1       1.0  0.39366817439164353  0.35077530246173544  0.9752120372454262  1.0000
+  Sb  Sb3       1.0  0.8941147926860874  0.8503534207670321  0.45958980922883264  1.0000
+  Na  Na1       1.0  0.8931171288704398  0.8538577550138418  0.7567793726091474  1.0000
+  Mg  Mg1       1.0  0.8914807430445285  0.8484695544193461  0.19311158330040748  1.0000
+  Ti  Ti1       1.0  0.3925642370006648  0.34975096502914355  0.4676800964442135  1.0000

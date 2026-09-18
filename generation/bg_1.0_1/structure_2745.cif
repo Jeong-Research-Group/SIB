@@ -1,0 +1,27 @@
+data_image0
+_chemical_formula_structural       CuN
+_chemical_formula_sum              "Cu1 N1"
+_cell_length_a       2.7242391250518185
+_cell_length_b       2.6880978253482914
+_cell_length_c       4.313328742980957
+_cell_angle_alpha    90.1922381846767
+_cell_angle_beta     89.99416952310322
+_cell_angle_gamma    89.81303291644893
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.10557308046746723  0.9399881970435199  0.4982877079311356  1.0000
+  N   N1        1.0  0.6009442213115819  0.43772017809359887  0.5007270576171976  1.0000

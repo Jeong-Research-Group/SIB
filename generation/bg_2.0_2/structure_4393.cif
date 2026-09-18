@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       NaAuNaHf
+_chemical_formula_sum              "Na2 Au1 Hf1"
+_cell_length_a       5.05567895525324
+_cell_length_b       5.045825650981466
+_cell_length_c       5.052107810974121
+_cell_angle_alpha    59.85697046443147
+_cell_angle_beta     59.85818013282332
+_cell_angle_gamma    59.93980799015386
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.118287399058812  0.9616030458840124  0.5189044484612365  1.0000
+  Au  Au1       1.0  0.8684270391496061  0.711354911871046  0.26919352883156106  1.0000
+  Na  Na2       1.0  0.6182265295115658  0.4609182764694411  0.01880380625155253  1.0000
+  Hf  Hf1       1.0  0.3681541079201341  0.21128237282358936  0.7686276442259119  1.0000

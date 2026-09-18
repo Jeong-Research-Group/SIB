@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NaZnIrNaS2
+_chemical_formula_sum              "Na2 Zn1 Ir1 S2"
+_cell_length_a       4.044726818788396
+_cell_length_b       5.687656889065347
+_cell_length_c       6.364067554473877
+_cell_angle_alpha    103.28491193602852
+_cell_angle_beta     71.51953811330542
+_cell_angle_gamma    89.6704112967694
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.9049413809939388  0.7010162477941533  0.08038950030864683  1.0000
+  Zn  Zn1       1.0  0.6500637520800918  0.5784988396526733  0.5783129937126106  1.0000
+  Ir  Ir1       1.0  0.3788803812505095  0.21213160426680355  0.1265896557991112  1.0000
+  Na  Na2       1.0  0.12333892418812893  0.07680925675254299  0.6340720051584643  1.0000
+  S   S1        1.0  0.5079645503717604  0.9043120148548295  0.8682415488034155  1.0000
+  S   S2        1.0  0.23357652003096005  0.518424451952477  0.41130939141519746  1.0000

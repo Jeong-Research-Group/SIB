@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       BiNa2S3Ag
+_chemical_formula_sum              "Bi1 Na2 S3 Ag1"
+_cell_length_a       5.533156154053847
+_cell_length_b       4.051052883534347
+_cell_length_c       7.992030620574951
+_cell_angle_alpha    90.06611873451288
+_cell_angle_beta     90.44912157221923
+_cell_angle_gamma    89.87990730635188
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.504332542573778  0.6162748922910257  0.40032604289248963  1.0000
+  Na  Na1       1.0  0.5077068201942626  0.6160795696742004  0.9023889899283078  1.0000
+  Na  Na2       1.0  0.006873254209396484  0.11600568047174199  0.6394370193650498  1.0000
+  S   S1        1.0  0.5061512586012048  0.11524156583498775  0.15091295504875618  1.0000
+  S   S2        1.0  0.508140920990536  0.11643800881470835  0.6480931633787465  1.0000
+  S   S3        1.0  0.010135720031125407  0.6156990527005001  0.3874488772610559  1.0000
+  Ag  Ag1       1.0  0.0050646060748118825  0.11648767505653185  0.15920232261604683  1.0000

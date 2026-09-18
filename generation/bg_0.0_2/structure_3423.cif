@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Na2NdBi
+_chemical_formula_sum              "Na2 Nd1 Bi1"
+_cell_length_a       5.396521328601218
+_cell_length_b       5.398610840808156
+_cell_length_c       5.402350425720215
+_cell_angle_alpha    60.44687345949808
+_cell_angle_beta     60.408086477174685
+_cell_angle_gamma    60.26186336469758
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.060698009928679186  0.29214269030229423  0.3965243089335426  1.0000
+  Na  Na2       1.0  0.31165534316050736  0.5420468440661061  0.647281468723616  1.0000
+  Nd  Nd1       1.0  0.8111687886628077  0.04180858329300949  0.14719058701709825  1.0000
+  Bi  Bi1       1.0  0.562116740895716  0.7917209272817111  0.8973138335537403  1.0000

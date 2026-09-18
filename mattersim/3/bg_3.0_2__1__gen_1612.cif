@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       FNaF2AlAgF2
+_chemical_formula_sum              "F5 Na1 Al1 Ag1"
+_cell_length_a       3.6429747267103685
+_cell_length_b       5.398666785405904
+_cell_length_c       6.017001628875732
+_cell_angle_alpha    116.64714393060177
+_cell_angle_beta     107.7805090003926
+_cell_angle_gamma    89.92295843818316
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.8264275193214417  0.9867228865623473  0.9480729699134826  1.0000
+  Na  Na1       1.0  0.6271873712539673  0.02031087689101696  0.5548440217971802  1.0000
+  F   F2        1.0  0.07541397958993912  0.2290077209472656  0.45105701684951777  1.0000
+  F   F3        1.0  0.45491132140159607  0.3426950871944427  0.2051896154880523  1.0000
+  Al  Al1       1.0  0.9550848007202147  0.34436121582984924  0.2046457529067993  1.0000
+  Ag  Ag1       1.0  0.28363776206970215  0.6727616190910339  0.8613981008529662  1.0000
+  F   F4        1.0  0.07587695866823196  0.7021846771240234  0.45193651318550104  1.0000
+  F   F5        1.0  0.8275526165962219  0.448034256696701  0.9483527541160582  1.0000

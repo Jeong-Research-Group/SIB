@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       BiPtO3
+_chemical_formula_sum              "Bi1 Pt1 O3"
+_cell_length_a       3.9765183741355687
+_cell_length_b       3.978010894028629
+_cell_length_c       3.978085994720459
+_cell_angle_alpha    89.99861597616047
+_cell_angle_beta     90.05584613047509
+_cell_angle_gamma    90.0640696802598
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.9531900871668887  0.8984401829666309  0.8737635028905123  1.0000
+  Pt  Pt1       1.0  0.4552045771221983  0.3951114426219547  0.37095799981990285  1.0000
+  O   O1        1.0  0.45355153020610844  0.39828836904106335  0.8744077694640048  1.0000
+  O   O2        1.0  0.9566696878440902  0.39877122624095573  0.3724666526254117  1.0000
+  O   O3        1.0  0.4529229702645147  0.8987734904573963  0.37296274251696904  1.0000

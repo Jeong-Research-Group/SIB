@@ -1,0 +1,27 @@
+data_image0
+_chemical_formula_structural       NaPt
+_chemical_formula_sum              "Na1 Pt1"
+_cell_length_a       4.284124095267166
+_cell_length_b       4.046154366149435
+_cell_length_c       2.852785348892212
+_cell_angle_alpha    135.189713553569
+_cell_angle_beta     90.23785019367146
+_cell_angle_gamma    90.20424566095004
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.7723135946996061  0.30878552641755097  0.1238161915251916  1.0000
+  Pt  Pt1       1.0  0.27334499331955125  0.8081676363691708  0.12416295840863069  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       RuO2NaO
+_chemical_formula_sum              "Ru1 O3 Na1"
+_cell_length_a       3.8596664036970267
+_cell_length_b       3.8605049527455053
+_cell_length_c       3.864053726196289
+_cell_angle_alpha    90.03694016492365
+_cell_angle_beta     89.9539192167531
+_cell_angle_gamma    90.00585597663137
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ru  Ru1       1.0  0.5408237568005356  0.3230018328877558  0.12475667076846766  1.0000
+  O   O1        1.0  0.04130507249393081  0.32358697149237314  0.12449494626807152  1.0000
+  O   O2        1.0  0.540970861372762  0.8225985759132888  0.12425353502099253  1.0000
+  Na  Na1       1.0  0.04111470904598946  0.8234548578620484  0.6245964758533318  1.0000
+  O   O3        1.0  0.5412442678825693  0.32295590624346016  0.6241877079883509  1.0000

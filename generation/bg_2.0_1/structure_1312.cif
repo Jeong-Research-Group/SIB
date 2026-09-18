@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       AlMg2NaBiNaMg2
+_chemical_formula_sum              "Al1 Mg4 Na2 Bi1"
+_cell_length_a       4.689563596870764
+_cell_length_b       5.590437031087836
+_cell_length_c       8.959931373596191
+_cell_angle_alpha    113.17365175166121
+_cell_angle_beta     90.08828953183391
+_cell_angle_gamma    114.73863769271172
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.9424179792525985  0.7417032707853748  0.6121706955747976  1.0000
+  Mg  Mg1       1.0  0.9551584718198279  0.7670718427361776  0.12396465177916204  1.0000
+  Mg  Mg2       1.0  0.6980016227132513  0.25079378429862886  0.7342076299023099  1.0000
+  Na  Na1       1.0  0.4518381072102101  0.7576454883922495  0.3736699826308801  1.0000
+  Bi  Bi1       1.0  0.4495142091886227  0.7558811896512954  0.8597872848969101  1.0000
+  Na  Na2       1.0  0.2008212950776759  0.2582411466310504  0.98826152041646  1.0000
+  Mg  Mg3       1.0  0.19903546630094646  0.2543441053545137  0.495562493545914  1.0000
+  Mg  Mg4       1.0  0.705253244050731  0.2673443253746065  0.2521961624719903  1.0000

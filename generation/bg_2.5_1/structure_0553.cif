@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NaGaAsGaNaAs
+_chemical_formula_sum              "Na2 Ga2 As2"
+_cell_length_a       4.213184002446249
+_cell_length_b       4.1943796626746614
+_cell_length_c       7.137121677398682
+_cell_angle_alpha    89.97716918113547
+_cell_angle_beta     90.20263372396474
+_cell_angle_gamma    90.67651222617502
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.20613579345696317  0.5822874316396626  0.8446223742369432  1.0000
+  Ga  Ga1       1.0  0.20532765868370004  0.08210794583174999  0.4886403981701535  1.0000
+  As  As1       1.0  0.705565453136601  0.0818913051194147  0.7008044715259737  1.0000
+  Ga  Ga2       1.0  0.7055674792579678  0.5815850499330635  0.4887661331350871  1.0000
+  Na  Na2       1.0  0.705355942226178  0.0806458445524682  0.13125440443417719  1.0000
+  As  As2       1.0  0.20565377119927633  0.5813335172408435  0.27567979744539733  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Na2MgO2
+_chemical_formula_sum              "Na2 Mg1 O2"
+_cell_length_a       3.049619997570982
+_cell_length_b       4.625880535813129
+_cell_length_c       6.244959831237793
+_cell_angle_alpha    89.21624509483064
+_cell_angle_beta     89.92709705925706
+_cell_angle_gamma    88.87056913857256
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.11135213938794623  0.3791286954559253  0.33306434702342874  1.0000
+  Na  Na2       1.0  0.6101840125968638  0.8788770438327496  0.6016833784458069  1.0000
+  Mg  Mg1       1.0  0.6091031425204376  0.8847335567666484  0.08052158395810419  1.0000
+  O   O1        1.0  0.11004774204692298  0.8837406645993066  0.3056875163214874  1.0000
+  O   O2        1.0  0.10963705303629254  0.8806917672189918  0.8696275944937699  1.0000

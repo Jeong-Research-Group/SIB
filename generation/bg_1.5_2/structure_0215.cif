@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NaOFeOCuSO
+_chemical_formula_sum              "Na1 O3 Fe1 Cu1 S1"
+_cell_length_a       3.468361296335438
+_cell_length_b       3.8816428497377258
+_cell_length_c       7.132155895233154
+_cell_angle_alpha    105.87200324094914
+_cell_angle_beta     89.93064193899137
+_cell_angle_gamma    89.87934039716744
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.5471742749892247  0.38101461523372704  0.7597901231499844  1.0000
+  O   O1        1.0  0.5478191386070026  0.6758846634737293  0.34609797560961103  1.0000
+  Fe  Fe1       1.0  0.5474125147637581  0.13682299720251026  0.26792424855282165  1.0000
+  O   O2        1.0  0.04682297743038106  0.8937249786019352  0.7866071457655636  1.0000
+  Cu  Cu1       1.0  0.04749175050588644  0.7376087894848823  0.4686408635706255  1.0000
+  S   S1        1.0  0.048479126227609505  0.006953684841951705  0.9988338348725914  1.0000
+  O   O3        1.0  0.04775444834815493  0.22289653170420476  0.44147920560072024  1.0000

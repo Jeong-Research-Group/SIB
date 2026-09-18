@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       PdNaPdSnNaSn
+_chemical_formula_sum              "Pd2 Na2 Sn2"
+_cell_length_a       4.8550892393407805
+_cell_length_b       4.841545454069736
+_cell_length_c       6.433108329772949
+_cell_angle_alpha    89.92485676591626
+_cell_angle_beta     89.7671135546722
+_cell_angle_gamma    119.75496486651858
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.20602868620744155  0.3762753617721081  0.3203770225491966  1.0000
+  Na  Na1       1.0  0.8718032846481835  0.7091650973935523  0.5695372818028993  1.0000
+  Pd  Pd2       1.0  0.5387307404173965  0.041963397507373  0.8194317214935153  1.0000
+  Sn  Sn1       1.0  0.20491927897220236  0.3758177468843046  0.8192714456412343  1.0000
+  Na  Na2       1.0  0.8725381494166139  0.7095291023149647  0.06972829237016986  1.0000
+  Sn  Sn2       1.0  0.5391623367671524  0.04263077237832164  0.31905850845691885  1.0000

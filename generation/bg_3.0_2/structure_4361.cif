@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NaVNaS4
+_chemical_formula_sum              "Na2 V1 S4"
+_cell_length_a       3.6375357616149904
+_cell_length_b       4.570992025800869
+_cell_length_c       8.482159614562988
+_cell_angle_alpha    90.35698916300235
+_cell_angle_beta     89.92295113207179
+_cell_angle_gamma    90.22832207529774
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.8066176188694142  0.0857972363520014  0.09640990191197568  1.0000
+  V   V1        1.0  0.7958109972266145  0.5869976869796696  0.7674006225979575  1.0000
+  Na  Na2       1.0  0.299896569360155  0.08471827915895183  0.4806151686270779  1.0000
+  S   S1        1.0  0.3040445159291456  0.5850554100132656  0.6099863645871432  1.0000
+  S   S2        1.0  0.2981823079490406  0.5888540743355648  0.9741258021709054  1.0000
+  S   S3        1.0  0.3049000491716483  0.5850675105618206  0.2167164684896978  1.0000
+  S   S4        1.0  0.8032261736192126  0.08734192792887986  0.7665292619215891  1.0000

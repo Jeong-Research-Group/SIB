@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BrYONaOCl
+_chemical_formula_sum              "Br1 Y1 O2 Na1 Cl1"
+_cell_length_a       3.653075066714663
+_cell_length_b       6.443961341575822
+_cell_length_c       6.624753952026367
+_cell_angle_alpha    97.03924966823588
+_cell_angle_beta     89.64847999203779
+_cell_angle_gamma    73.66412971392853
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.6197800629761151  0.2240319251160058  0.7361598606444674  1.0000
+  Y   Y1        1.0  0.7396802294030783  0.9793561104152443  0.33466532821487405  1.0000
+  O   O1        1.0  0.33548673966159254  0.7967836258605769  0.4894830290721572  1.0000
+  Na  Na1       1.0  0.9307264685489876  0.6036729221080254  0.6947969790136219  1.0000
+  O   O2        1.0  0.3414496195499531  0.7901056410709749  0.03142132673949869  1.0000
+  Cl  Cl1       1.0  0.07951335473868533  0.29962992716111164  0.2697879075150323  1.0000

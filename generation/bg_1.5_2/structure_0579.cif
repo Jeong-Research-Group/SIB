@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NaPbNaCl3
+_chemical_formula_sum              "Na2 Pb1 Cl3"
+_cell_length_a       4.048465826602881
+_cell_length_b       5.624996189968829
+_cell_length_c       6.973978042602539
+_cell_angle_alpha    114.09190810381394
+_cell_angle_beta     107.12206309335184
+_cell_angle_gamma    89.97472453338659
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.3679901060918247  0.6196326604432791  0.5827592017002385  1.0000
+  Pb  Pb1       1.0  0.7019277816118239  0.9517829419327175  0.2501366139049301  1.0000
+  Na  Na2       1.0  0.0343008672736045  0.2857286331454304  0.9169116609909952  1.0000
+  Cl  Cl1       1.0  0.034352235888515305  0.7842327365823252  0.9139418013563574  1.0000
+  Cl  Cl2       1.0  0.7009616487559667  0.4529025562544281  0.2492363002985732  1.0000
+  Cl  Cl3       1.0  0.368583708392782  0.12165164187360618  0.5856850741267537  1.0000

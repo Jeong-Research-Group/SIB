@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Na2MoBr3Te
+_chemical_formula_sum              "Na2 Mo1 Br3 Te1"
+_cell_length_a       5.804771082403995
+_cell_length_b       5.88434194310052
+_cell_length_c       5.882220268249512
+_cell_angle_alpha    89.89311004181775
+_cell_angle_beta     89.89801411470577
+_cell_angle_gamma    89.85199912745131
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.698413193117364  0.8683196903797501  0.6548970348181449  1.0000
+  Na  Na2       1.0  0.19773450491997183  0.3688163467454478  0.6552867295981372  1.0000
+  Mo  Mo1       1.0  0.1968670339500655  0.8679645664575952  0.154575095357105  1.0000
+  Br  Br1       1.0  0.6982228151791158  0.8692016609299639  0.15506485056202515  1.0000
+  Br  Br2       1.0  0.1973918376903025  0.36952197552818566  0.15547689733520945  1.0000
+  Br  Br3       1.0  0.6975272299923205  0.368706882803592  0.6549204580861681  1.0000
+  Te  Te1       1.0  0.19954143472564287  0.8678460122433524  0.6537432673235426  1.0000

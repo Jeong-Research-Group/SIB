@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       CuCd3NaCdNaCd
+_chemical_formula_sum              "Cu1 Cd5 Na2"
+_cell_length_a       4.966187060677337
+_cell_length_b       7.016117527384988
+_cell_length_c       6.118157863616943
+_cell_angle_alpha    125.09178739629517
+_cell_angle_beta     90.41797592368985
+_cell_angle_gamma    90.13292478895842
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.37924900572733095  0.840031444422458  0.883831559576932  1.0000
+  Cd  Cd1       1.0  0.8766244647028608  0.08071772800064565  0.36694946867517564  1.0000
+  Cd  Cd2       1.0  0.3798355749841336  0.3351694052812762  0.8686195013027  1.0000
+  Cd  Cd3       1.0  0.37610372992206786  0.8397694819243147  0.3785181044812783  1.0000
+  Na  Na1       1.0  0.8787977089446563  0.5951009994540056  0.3854946492884392  1.0000
+  Cd  Cd4       1.0  0.8768383256072361  0.08290305053998444  0.8732115634279911  1.0000
+  Na  Na2       1.0  0.3773822183873559  0.3336190878644294  0.37707152971893587  1.0000
+  Cd  Cd5       1.0  0.880531191216352  0.5926155443955815  0.8839837912567063  1.0000

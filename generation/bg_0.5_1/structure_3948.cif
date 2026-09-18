@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       NdNa2Tl
+_chemical_formula_sum              "Nd1 Na2 Tl1"
+_cell_length_a       5.388403393513486
+_cell_length_b       5.380745934954613
+_cell_length_c       5.378619194030762
+_cell_angle_alpha    60.23064991038108
+_cell_angle_beta     60.157985371979365
+_cell_angle_gamma    60.19125391539318
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.37105724196954304  0.08750192132019827  0.8589552039737393  1.0000
+  Na  Na1       1.0  0.6204263578601497  0.3373650900175417  0.10881385142654097  1.0000
+  Na  Na2       1.0  0.8713801492450162  0.5873069768764974  0.3585256645950566  1.0000
+  Tl  Tl1       1.0  0.12109592685479947  0.8374637951865218  0.6084109536341905  1.0000

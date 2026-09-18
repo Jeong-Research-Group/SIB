@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       SbNaNiO2
+_chemical_formula_sum              "Sb1 Na1 Ni1 O2"
+_cell_length_a       3.2257934329095375
+_cell_length_b       3.2328316527044527
+_cell_length_c       7.954031467437744
+_cell_angle_alpha    79.07209658695501
+_cell_angle_beta     79.45006579742667
+_cell_angle_gamma    60.27920723507188
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.04302942226148107  0.9069879037932274  0.5695928328695887  1.0000
+  Na  Na1       1.0  0.6104472872769612  0.46651142960953906  0.9234197132795183  1.0000
+  Ni  Ni1       1.0  0.18880134738296844  0.040181125795159686  0.22571004972079975  1.0000
+  O   O1        1.0  0.3360356100341913  0.19687907230441742  0.7090709806333245  1.0000
+  O   O2        1.0  0.8821559550253426  0.7336938994006069  0.1267245860800759  1.0000

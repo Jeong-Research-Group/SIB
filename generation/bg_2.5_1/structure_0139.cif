@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NbSCuNaSNa
+_chemical_formula_sum              "Nb1 S2 Cu1 Na2"
+_cell_length_a       3.9340341645254124
+_cell_length_b       3.9440038082309354
+_cell_length_c       7.033663272857666
+_cell_angle_alpha    89.91101879174546
+_cell_angle_beta     89.81911177704055
+_cell_angle_gamma    89.92510947394688
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.3099285371392288  0.5422098040307055  0.17259490442620104  1.0000
+  S   S1        1.0  0.8101755983870974  0.5424177657174565  0.38789317068229545  1.0000
+  Cu  Cu1       1.0  0.809517741764893  0.042035636514129934  0.17175595421545442  1.0000
+  Na  Na1       1.0  0.3105398128908837  0.042036942296483956  0.5269556048772104  1.0000
+  S   S2        1.0  0.31005814559355355  0.041888214954110915  0.9559925798159695  1.0000
+  Na  Na2       1.0  0.8107786770538287  0.5433717956603008  0.8162090779570629  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Na2SAgOBiO
+_chemical_formula_sum              "Na2 S1 Ag1 O2 Bi1"
+_cell_length_a       4.190883325667683
+_cell_length_b       4.21491335203275
+_cell_length_c       8.806180000305176
+_cell_angle_alpha    90.43432738740177
+_cell_angle_beta     90.65445753880473
+_cell_angle_gamma    90.09997597715864
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.6657156339123724  0.09512159997660474  0.003674446728997995  1.0000
+  Na  Na2       1.0  0.16663795634758227  0.5940209031593239  0.004730374617380623  1.0000
+  S   S1        1.0  0.15885190777439726  0.1014136383271844  0.6228731276834515  1.0000
+  Ag  Ag1       1.0  0.18064053255935314  0.09968275533167113  0.34097936767424963  1.0000
+  O   O1        1.0  0.66421771123813  0.5940406930172674  0.9002507331573304  1.0000
+  Bi  Bi1       1.0  0.6592023380825953  0.5935546160496666  0.6548838020232035  1.0000
+  O   O2        1.0  0.16850941001897354  0.0937679793875046  0.11707918324444638  1.0000

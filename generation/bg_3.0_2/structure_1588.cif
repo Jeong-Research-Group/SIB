@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NaTi2Cl4
+_chemical_formula_sum              "Na1 Ti2 Cl4"
+_cell_length_a       3.618772282058066
+_cell_length_b       6.141863132828179
+_cell_length_c       6.803503036499023
+_cell_angle_alpha    90.399787110185
+_cell_angle_beta     90.1514961130331
+_cell_angle_gamma    90.03115499813252
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.5210418105971051  0.33832263879840274  0.22984737131546423  1.0000
+  Ti  Ti1       1.0  0.020000380204691588  0.8368467093964195  0.7292377346519063  1.0000
+  Ti  Ti2       1.0  0.5196207770956116  0.33762797751349144  0.729177534755229  1.0000
+  Cl  Cl1       1.0  0.5192760228885014  0.0008686778925186154  0.5148419148872421  1.0000
+  Cl  Cl2       1.0  0.5202302926662661  0.671846806602409  0.9421691897879444  1.0000
+  Cl  Cl3       1.0  0.020628818114850678  0.5000550751464329  0.5065059071978337  1.0000
+  Cl  Cl4       1.0  0.02234207134348421  0.17453937221445018  0.9510334734773433  1.0000

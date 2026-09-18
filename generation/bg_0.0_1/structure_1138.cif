@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NaNIrNIrNaN
+_chemical_formula_sum              "Na2 N3 Ir2"
+_cell_length_a       3.5602871967346394
+_cell_length_b       5.499206731220878
+_cell_length_c       6.57839298248291
+_cell_angle_alpha    85.25213270522512
+_cell_angle_beta     56.79334890159892
+_cell_angle_gamma    90.39045725935941
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.31929257624287705  0.22475650952791024  0.019788430138245456  1.0000
+  N   N1        1.0  0.068861163993829  0.47963714642878585  0.7668312791767452  1.0000
+  Ir  Ir1       1.0  0.29668170251823817  0.2482648796846742  0.5368040802989701  1.0000
+  N   N2        1.0  0.2780264626437331  0.7679851656921829  0.06051928149395245  1.0000
+  Ir  Ir2       1.0  0.8406591419405195  0.7096164234744088  0.9954983592742234  1.0000
+  Na  Na2       1.0  0.8192163125013392  0.732851982576024  0.5128490918419073  1.0000
+  N   N3        1.0  0.8622504483688225  0.18912012963191047  0.47188669354707213  1.0000

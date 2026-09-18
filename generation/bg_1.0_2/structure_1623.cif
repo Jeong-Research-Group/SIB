@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       TlSeNaCl
+_chemical_formula_sum              "Tl1 Se1 Na1 Cl1"
+_cell_length_a       4.228976366128663
+_cell_length_b       4.244050123684507
+_cell_length_c       5.645802021026611
+_cell_angle_alpha    90.01229684470871
+_cell_angle_beta     90.10623243476905
+_cell_angle_gamma    90.66119892624376
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.8988615278426522  0.4664393070142153  0.06859491727156501  1.0000
+  Se  Se1       1.0  0.8992460977699169  0.46676689329913257  0.5691472291060204  1.0000
+  Na  Na1       1.0  0.3997333052088693  0.9652103788811129  0.566855312016047  1.0000
+  Cl  Cl1       1.0  0.3983528315631234  0.9660856719028194  0.06769675730927878  1.0000

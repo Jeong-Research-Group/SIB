@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       LiClNaFAlCl2
+_chemical_formula_sum              "Li1 Cl3 Na1 F1 Al1"
+_cell_length_a       3.6992924201976294
+_cell_length_b       6.093996472145912
+_cell_length_c       6.660977363586426
+_cell_angle_alpha    105.83007845806247
+_cell_angle_beta     89.93496543882968
+_cell_angle_gamma    90.0196324692016
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.34688824316022604  0.20420017790043798  0.5592948202677176  1.0000
+  Cl  Cl1       1.0  0.847305954316733  0.4520380489653395  0.7696792482243124  1.0000
+  Na  Na1       1.0  0.8464873435313458  0.19771306195331037  0.06417729695366504  1.0000
+  F   F1        1.0  0.8467247496620934  0.9585410956318091  0.3598852161841429  1.0000
+  Al  Al1       1.0  0.8472495087712899  0.7043396826745383  0.5580168361457581  1.0000
+  Cl  Cl2       1.0  0.3471550341285833  0.9210645558132756  0.7691957950057494  1.0000
+  Cl  Cl3       1.0  0.3465267114376543  0.49003371579778787  0.3414255382544539  1.0000

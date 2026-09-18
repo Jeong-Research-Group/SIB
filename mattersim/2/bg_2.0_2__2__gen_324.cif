@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       ZnNaNNaF
+_chemical_formula_sum              "Zn1 Na2 N1 F1"
+_cell_length_a       3.396942195640702
+_cell_length_b       3.42046549733208
+_cell_length_c       7.017689228057861
+_cell_angle_alpha    89.88066543456486
+_cell_angle_beta     89.88392344244463
+_cell_angle_gamma    60.28435271080303
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.6884196400642395  0.5788325071334839  0.2801273763179779  1.0000
+  Na  Na1       1.0  0.35037726163864136  0.24255359172821045  0.9755796790122986  1.0000
+  N   N1        1.0  0.020292673259973526  0.9135202765464783  0.26597586274147034  1.0000
+  Na  Na2       1.0  0.019794970750808716  0.914078414440155  0.6214849948883057  1.0000
+  F   F1        1.0  0.6849787831306458  0.5771873593330383  0.7877680063247681  1.0000

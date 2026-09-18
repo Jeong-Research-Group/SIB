@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       HBi2NaHLi
+_chemical_formula_sum              "H2 Bi2 Na1 Li1"
+_cell_length_a       3.723343537667869
+_cell_length_b       3.7160690117478117
+_cell_length_c       7.9223198890686035
+_cell_angle_alpha    90.2946636752202
+_cell_angle_beta     90.2016228716557
+_cell_angle_gamma    90.27324422984482
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.561475158106088  0.1847561749507449  0.6017883421409169  1.0000
+  Bi  Bi1       1.0  0.06200080453428415  0.6861920356703636  0.9926702980368666  1.0000
+  Bi  Bi2       1.0  0.060594782274705175  0.68456119416361  0.5999892358039337  1.0000
+  Na  Na1       1.0  0.559619664405647  0.184392601684505  0.2744130788416035  1.0000
+  H   H2        1.0  0.05943588892213239  0.6838168489253683  0.29920944618935236  1.0000
+  Li  Li1       1.0  0.5616892579348147  0.18514305298805311  0.8691923612341621  1.0000

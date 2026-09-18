@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       NaH5AlHNa
+_chemical_formula_sum              "Na2 H6 Al1"
+_cell_length_a       5.125984780389292
+_cell_length_b       5.130332818725126
+_cell_length_c       5.156494140625
+_cell_angle_alpha    119.3763407473122
+_cell_angle_beta     119.46301539560679
+_cell_angle_gamma    90.15529291457398
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.47720801813867353  0.28496664701617336  0.28125297909871894  1.0000
+  H   H1        1.0  0.45349335588217327  0.7626259926375879  0.2353886205954551  1.0000
+  H   H2        1.0  0.45490434757793974  0.30697044661646394  0.7811801431313583  1.0000
+  H   H3        1.0  0.45541057072125124  0.7644250996488712  0.7808004021545952  1.0000
+  H   H4        1.0  0.00013780693180261077  0.3089182974772637  0.32793444401735894  1.0000
+  H   H5        1.0  0.9981394999122682  0.7632899279577557  0.7804855098781626  1.0000
+  Al  Al1       1.0  0.22645264884506797  0.5355815887037573  0.7815006385762339  1.0000
+  H   H6        1.0  0.9969109904401995  0.3057604140068977  0.7806401266428925  1.0000
+  Na  Na2       1.0  0.9762701979929719  0.7865788336920168  0.2818426785898786  1.0000

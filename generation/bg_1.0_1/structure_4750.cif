@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Na2OZrGaO2
+_chemical_formula_sum              "Na2 O3 Zr1 Ga1"
+_cell_length_a       5.151349461462916
+_cell_length_b       4.002653887804087
+_cell_length_c       5.15864372253418
+_cell_angle_alpha    89.94689095089011
+_cell_angle_beta     99.91909041629512
+_cell_angle_gamma    90.05467133997522
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.48318260848799477  0.25407081806002574  0.026646073344584638  1.0000
+  Na  Na2       1.0  0.9844056359097446  0.2544193270973135  0.5248146645542131  1.0000
+  O   O1        1.0  0.7151247267853343  0.7533873327342533  0.2958497398164241  1.0000
+  Zr  Zr1       1.0  0.9832018607751196  0.7547798748735093  0.025701062120596765  1.0000
+  Ga  Ga1       1.0  0.4852261843266222  0.7543185356106812  0.5269296763884919  1.0000
+  O   O2        1.0  0.25175851626717916  0.7554690831237847  0.7569662331481649  1.0000
+  O   O3        1.0  0.9817318918998463  0.25500011469974826  0.02439411394482693  1.0000

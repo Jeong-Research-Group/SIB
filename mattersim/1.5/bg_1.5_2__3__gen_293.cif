@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       S2VNa2S2Mg
+_chemical_formula_sum              "S4 V1 Na2 Mg1"
+_cell_length_a       3.646245474430514
+_cell_length_b       6.789839332598479
+_cell_length_c       6.259759902954102
+_cell_angle_alpha    108.010205276871
+_cell_angle_beta     89.86575513174246
+_cell_angle_gamma    90.120370929384
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.3816748559474945  0.337156742811203  0.4406735002994538  1.0000
+  S   S2        1.0  0.38173776865005493  0.9186262488365172  0.97874253988266  1.0000
+  V   V1        1.0  0.8818036317825317  0.12783651053905487  0.20966683328151706  1.0000
+  Na  Na1       1.0  0.8821141123771667  0.6277039647102356  0.709670126438141  1.0000
+  Na  Na2       1.0  0.38159626722335815  0.6280794143676758  0.20941007137298587  1.0000
+  S   S3        1.0  0.881066083908081  0.3373894095420837  0.953800141811371  1.0000
+  S   S4        1.0  0.8821491599082947  0.9182182550430297  0.4659967720508576  1.0000
+  Mg  Mg1       1.0  0.3816804587841034  0.12789796292781827  0.7094939947128297  1.0000

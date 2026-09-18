@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AlF3NaFCr
+_chemical_formula_sum              "Al1 F4 Na1 Cr1"
+_cell_length_a       3.323794377839557
+_cell_length_b       4.255318749383772
+_cell_length_c       6.208043575286865
+_cell_angle_alpha    89.95128276770417
+_cell_angle_beta     90.44371893124655
+_cell_angle_gamma    90.33034457910362
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.5212362995870494  0.15957897799017964  0.3424516616643401  1.0000
+  F   F1        1.0  0.5213851918377106  0.6588648548036814  0.847441613917858  1.0000
+  F   F2        1.0  0.020165663282026562  0.1576725385554744  0.5900217286771099  1.0000
+  F   F3        1.0  0.5191261766876265  0.6590959436413112  0.3485310978276281  1.0000
+  Na  Na1       1.0  0.020504549621942068  0.6591766487164824  0.5957030053570311  1.0000
+  F   F4        1.0  0.021482104991019005  0.15774926501285205  0.10929974989338895  1.0000
+  Cr  Cr1       1.0  0.5212085238981514  0.15793341415065457  0.8520980471390531  1.0000

@@ -1,0 +1,27 @@
+data_image0
+_chemical_formula_structural       BiIn
+_chemical_formula_sum              "Bi1 In1"
+_cell_length_a       4.50281025053001
+_cell_length_b       3.566510879116319
+_cell_length_c       3.5540361404418945
+_cell_angle_alpha    89.48946634887933
+_cell_angle_beta     89.87211404186613
+_cell_angle_gamma    89.50520312721979
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.2437581414702781  0.883023023614011  0.05031682583669427  1.0000
+  In  In1       1.0  0.744445382729312  0.38274815557607156  0.5486371526875627  1.0000

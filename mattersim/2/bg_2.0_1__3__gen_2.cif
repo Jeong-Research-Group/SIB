@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NaClScCl3
+_chemical_formula_sum              "Na1 Cl4 Sc1"
+_cell_length_a       3.733007938634974
+_cell_length_b       6.1514641900572276
+_cell_length_c       6.6814188957214355
+_cell_angle_alpha    92.11886374733011
+_cell_angle_beta     90.03622299622309
+_cell_angle_gamma    89.85253872894559
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.8784689903259277  0.47276511788368225  0.4144110381603241  1.0000
+  Cl  Cl1       1.0  0.8781646490097046  0.2503146231174469  0.062091473489999764  1.0000
+  Sc  Sc1       1.0  0.3786262571811676  0.4720515310764313  0.9151626229286193  1.0000
+  Cl  Cl2       1.0  0.8773564100265503  0.6951001882553101  0.7676581740379333  1.0000
+  Cl  Cl3       1.0  0.37760379910469055  0.7101169228553773  0.22157157957553864  1.0000
+  Cl  Cl4       1.0  0.37900418043136597  0.23512764275074008  0.608072817325592  1.0000

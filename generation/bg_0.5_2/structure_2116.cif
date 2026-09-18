@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Na2NiNPtNa2
+_chemical_formula_sum              "Na4 Ni1 N1 Pt1"
+_cell_length_a       3.4975090777722615
+_cell_length_b       4.202905494183517
+_cell_length_c       8.9706449508667
+_cell_angle_alpha    90.10801511727053
+_cell_angle_beta     90.17097580941201
+_cell_angle_gamma    90.14888696993204
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.03268660091197021  0.7177870867825884  0.06842688450550446  1.0000
+  Na  Na2       1.0  0.041116571739195265  0.7188796390032206  0.7616015072091402  1.0000
+  Ni  Ni1       1.0  0.035816111795425695  0.7193342459119252  0.4168691334372141  1.0000
+  N   N1        1.0  0.5365862237205047  0.7196004988135654  0.4223628044126382  1.0000
+  Pt  Pt1       1.0  0.5352481596301126  0.2192923572548982  0.9180181023767575  1.0000
+  Na  Na3       1.0  0.5349521630469208  0.21773678009596434  0.2548148636671208  1.0000
+  Na  Na4       1.0  0.5385214674690685  0.21697288792742497  0.5812624698073672  1.0000

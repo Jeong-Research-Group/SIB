@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       HNPtNaLi
+_chemical_formula_sum              "H1 N1 Pt1 Na1 Li1"
+_cell_length_a       3.671707221958999
+_cell_length_b       3.6044351824754233
+_cell_length_c       5.372653484344482
+_cell_angle_alpha    108.74224581839673
+_cell_angle_beta     89.28197204964312
+_cell_angle_gamma    90.3375914580117
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.22892132459143635  0.779876709384984  0.39061027820072725  1.0000
+  N   N1        1.0  0.7338826073486598  0.09743332081474573  0.02243475792478335  1.0000
+  Pt  Pt1       1.0  0.23232185853067172  0.17933346419381432  0.1807987244642259  1.0000
+  Na  Na1       1.0  0.7291802180274819  0.41742158014039615  0.6710845233562726  1.0000
+  Li  Li1       1.0  0.7323578003688719  0.6936014900054832  0.2129896439957037  1.0000

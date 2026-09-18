@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       GaKLiBr3
+_chemical_formula_sum              "Ga1 K1 Li1 Br3"
+_cell_length_a       6.954860757847747
+_cell_length_b       7.01971698295715
+_cell_length_c       7.98478889465332
+_cell_angle_alpha    61.82283462001287
+_cell_angle_beta     117.58038003627767
+_cell_angle_gamma    110.2256326318559
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.9762672776607828  0.07286116419183075  0.6338669657134418  1.0000
+  K   K1        1.0  0.307755023499467  0.7446941145012307  0.29813852905336735  1.0000
+  Li  Li1       1.0  0.6325138218293297  0.4233766504053396  0.9546466469827509  1.0000
+  Br  Br1       1.0  0.8098988533641699  0.24217908125920534  0.3041444722421558  1.0000
+  Br  Br2       1.0  0.2936852281154814  0.23510792896518262  0.7909876114338908  1.0000
+  Br  Br3       1.0  0.8141589155843947  0.7581967109688869  0.7901673316476618  1.0000

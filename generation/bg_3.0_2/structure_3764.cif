@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Mg3BiMgNaMg2
+_chemical_formula_sum              "Mg6 Bi1 Na1"
+_cell_length_a       5.383259024241956
+_cell_length_b       5.678207640338265
+_cell_length_c       6.635904312133789
+_cell_angle_alpha    89.78931168609722
+_cell_angle_beta     89.78372456778403
+_cell_angle_gamma    89.75847337592856
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.06967769613277407  0.3871095180335736  0.045430429090533804  1.0000
+  Mg  Mg2       1.0  0.06899409043522474  0.8941971070314642  0.8103815317026836  1.0000
+  Mg  Mg3       1.0  0.5696555368461687  0.557280718702054  0.2929366224626759  1.0000
+  Bi  Bi1       1.0  0.06884796143391853  0.39282116290290786  0.5548172591171734  1.0000
+  Mg  Mg4       1.0  0.5686566228053008  0.05123620397994563  0.5561088921927547  1.0000
+  Na  Na1       1.0  0.0693229434496195  0.8920791750678492  0.2979243396998652  1.0000
+  Mg  Mg5       1.0  0.5693297981022538  0.05670364122205409  0.0492389344095754  1.0000
+  Mg  Mg6       1.0  0.5701270101205334  0.5641773351870224  0.8102637534029321  1.0000

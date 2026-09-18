@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       Hg2Ba
+_chemical_formula_sum              "Hg2 Ba1"
+_cell_length_a       5.434613436485975
+_cell_length_b       6.627938460672492
+_cell_length_c       3.772545337677002
+_cell_angle_alpha    54.83149748879644
+_cell_angle_beta     89.64042720799888
+_cell_angle_gamma    65.50781904547841
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.5151663422849768  0.8455966110525154  0.18138262631834606  1.0000
+  Hg  Hg2       1.0  0.17781838786284598  0.5134270187032788  0.5160599946857336  1.0000
+  Ba  Ba1       1.0  0.8477142461441787  0.18150889802522802  0.34429639623641  1.0000

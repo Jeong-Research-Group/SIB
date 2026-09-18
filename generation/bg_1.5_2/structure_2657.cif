@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AuNa3Te2Na
+_chemical_formula_sum              "Au1 Na4 Te2"
+_cell_length_a       6.045614376601507
+_cell_length_b       6.031767531026211
+_cell_length_c       5.639134883880615
+_cell_angle_alpha    87.58764136459475
+_cell_angle_beta     92.55361907708392
+_cell_angle_gamma    82.44457785503121
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.8556967977774886  0.4922677271926226  0.22061516291196956  1.0000
+  Na  Na1       1.0  0.3271577951896118  0.6692175275013085  0.4587579070407775  1.0000
+  Na  Na2       1.0  0.6795775890346576  0.021300795073087842  0.4607526363255613  1.0000
+  Na  Na3       1.0  0.3849568672556364  0.31630575623022017  0.9784211518096798  1.0000
+  Te  Te1       1.0  0.5679275986531608  0.7824777368748297  0.9626621604771054  1.0000
+  Te  Te2       1.0  0.14488820775306888  0.20297220265837596  0.47285434544265104  1.0000
+  Na  Na4       1.0  0.030959217045193048  0.9661788351424547  0.9788453584994216  1.0000

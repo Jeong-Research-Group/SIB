@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       LiNa2CdOF3
+_chemical_formula_sum              "Li1 Na2 Cd1 O1 F3"
+_cell_length_a       3.3424995594404416
+_cell_length_b       3.3528429254097927
+_cell_length_c       9.15577507019043
+_cell_angle_alpha    89.94935665175363
+_cell_angle_beta     89.97559140691321
+_cell_angle_gamma    89.96600865401854
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.14685721636411483  0.6138917216165679  0.7861701841123361  1.0000
+  Na  Na1       1.0  0.6459833393346016  0.11336821430175156  0.03325318542068439  1.0000
+  Na  Na2       1.0  0.6464746007972811  0.1144593068919463  0.552954376251939  1.0000
+  Cd  Cd1       1.0  0.14753019787535332  0.615275026092828  0.29738384505584126  1.0000
+  O   O1        1.0  0.14655671876640278  0.6144314996691963  0.5388084048627404  1.0000
+  F   F1        1.0  0.14500875649079356  0.6145184050720193  0.04384107128336601  1.0000
+  F   F2        1.0  0.645141245413929  0.11377483662272275  0.28484696163118184  1.0000
+  F   F3        1.0  0.6450940965058918  0.11363156111511047  0.7981350421829708  1.0000

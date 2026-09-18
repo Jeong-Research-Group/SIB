@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ONaBiCoO2
+_chemical_formula_sum              "O3 Na1 Bi1 Co1"
+_cell_length_a       3.237990267431362
+_cell_length_b       3.2468256766438786
+_cell_length_c       10.031317710876465
+_cell_angle_alpha    60.89492136433798
+_cell_angle_beta     60.91154362035033
+_cell_angle_gamma    62.18534645022438
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.6001837244835159  0.5972737090988569  0.018973005790197624  1.0000
+  Na  Na1       1.0  0.06662673441348148  0.06476668981170085  0.21629439352918686  1.0000
+  Bi  Bi1       1.0  0.09859134233041723  0.0958634754754663  0.8590708377525305  1.0000
+  Co  Co1       1.0  0.11110388387826066  0.11030680847599018  0.5102046134735925  1.0000
+  O   O2        1.0  0.5310646901942969  0.5336960559611973  0.3997879917418863  1.0000
+  O   O3        1.0  0.6586142769296517  0.6581814273069951  0.6621224882709446  1.0000

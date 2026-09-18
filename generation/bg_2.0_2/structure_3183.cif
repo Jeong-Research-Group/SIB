@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ta2NaS2ClOS
+_chemical_formula_sum              "Ta2 Na1 S3 Cl1 O1"
+_cell_length_a       4.301226151644605
+_cell_length_b       6.626918351065032
+_cell_length_c       6.611617565155029
+_cell_angle_alpha    92.35111069039343
+_cell_angle_beta     71.11992473911768
+_cell_angle_gamma    70.86878492781162
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.5634962329414134  0.06509494758984725  0.14115580898409824  1.0000
+  Ta  Ta2       1.0  0.5681658390061445  0.5524335500706768  0.6451122159556073  1.0000
+  Na  Na1       1.0  0.8713397381553589  0.9777312882309297  0.6118613479682512  1.0000
+  S   S1        1.0  0.8746091121848285  0.25680226006898227  0.32564204964265486  1.0000
+  S   S2        1.0  0.2598788136107664  0.8850623964666907  0.934138596399879  1.0000
+  Cl  Cl1       1.0  0.062016241134709174  0.5617306240010953  0.6404875522484463  1.0000
+  O   O1        1.0  0.5541300770874398  0.3172459308793539  0.9119365222897544  1.0000
+  S   S3        1.0  0.5814968942898769  0.8099519007562217  0.35889041449401327  1.0000

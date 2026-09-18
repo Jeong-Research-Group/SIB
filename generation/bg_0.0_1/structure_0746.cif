@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Na3ReAuNa2Os
+_chemical_formula_sum              "Na5 Re1 Au1 Os1"
+_cell_length_a       6.279295351981725
+_cell_length_b       5.019121592114802
+_cell_length_c       6.375021934509277
+_cell_angle_alpha    89.79271310409001
+_cell_angle_beta     119.39993139080761
+_cell_angle_gamma    89.9440495874679
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.13041442584387547  0.0549620679819911  0.771857082566124  1.0000
+  Na  Na2       1.0  0.774442315341995  0.5544199952828561  0.5797986983192307  1.0000
+  Na  Na3       1.0  0.6086040726530815  0.05490268838090967  0.24132603334936661  1.0000
+  Re  Re1       1.0  0.7728706006690889  0.555250644235232  0.05747899429226972  1.0000
+  Au  Au1       1.0  0.2825183876210944  0.5546811216760827  0.07980234243039279  1.0000
+  Na  Na4       1.0  0.2936555440686265  0.5545665026883629  0.5816266539788559  1.0000
+  Na  Na5       1.0  0.12136665689066009  0.054489619305467474  0.24206918494232155  1.0000
+  Os  Os1       1.0  0.631078362545693  0.054536185759732986  0.7769414191588415  1.0000

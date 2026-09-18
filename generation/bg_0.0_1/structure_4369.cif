@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       HfCoONaO2Na
+_chemical_formula_sum              "Hf1 Co1 O3 Na2"
+_cell_length_a       3.0871992020391916
+_cell_length_b       3.1115651806861346
+_cell_length_c       10.832378387451172
+_cell_angle_alpha    82.22778040913668
+_cell_angle_beta     82.19540524157613
+_cell_angle_gamma    60.67772393833271
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.08091747765049048  0.2969946879581532  0.30692842567609463  1.0000
+  Co  Co1       1.0  0.24665075673321055  0.4736404706995944  0.7994701268191345  1.0000
+  O   O1        1.0  0.3728563477812769  0.5926529184851718  0.4241012630909783  1.0000
+  Na  Na1       1.0  0.836274326916411  0.04714292121543626  0.050200104976656675  1.0000
+  O   O2        1.0  0.45426177973171866  0.6670172809649854  0.1909078953584982  1.0000
+  O   O3        1.0  0.9346727148868383  0.15981529532322675  0.7376759054503769  1.0000
+  Na  Na2       1.0  0.6541421994100356  0.8795760284237502  0.5778880120197051  1.0000

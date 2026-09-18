@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       InNaTe2Ag
+_chemical_formula_sum              "In1 Na1 Te2 Ag1"
+_cell_length_a       4.82285429166586
+_cell_length_b       4.8385013113208695
+_cell_length_c       7.346136093139648
+_cell_angle_alpha    89.87880079819507
+_cell_angle_beta     90.22862943829666
+_cell_angle_gamma    60.245909022110034
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.04529549181461344  0.6148767471313475  0.9997395277023318  1.0000
+  Na  Na1       1.0  0.7131290435791017  0.2810189127922058  0.6841969490051271  1.0000
+  Te  Te1       1.0  0.04554520919919024  0.6162551045417785  0.6029162406921388  1.0000
+  Te  Te2       1.0  0.7122544646263123  0.2786160409450531  0.13396288454532623  1.0000
+  Ag  Ag1       1.0  0.3778383731842041  0.9469068646430968  0.3711833059787751  1.0000

@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       BaNaHg
+_chemical_formula_sum              "Ba1 Na1 Hg1"
+_cell_length_a       5.63220163187215
+_cell_length_b       5.644727702958573
+_cell_length_c       5.648244380950928
+_cell_angle_alpha    60.13725291522446
+_cell_angle_beta     60.355411009603145
+_cell_angle_gamma    60.200120385413996
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.5135356780348074  0.7485718731216898  0.033880971611969124  1.0000
+  Na  Na1       1.0  0.7660428879943503  0.00023496070870902177  0.2836374940781143  1.0000
+  Hg  Hg1       1.0  0.2652891266414813  0.5000237832474203  0.783676803003951  1.0000

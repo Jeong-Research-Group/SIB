@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       MgNaMg2NaInMg
+_chemical_formula_sum              "Mg4 Na2 In1"
+_cell_length_a       4.5844236991654785
+_cell_length_b       6.365602842420313
+_cell_length_c       6.390478134155273
+_cell_angle_alpha    88.72701906875817
+_cell_angle_beta     90.11188098952411
+_cell_angle_gamma    90.05572318745347
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.6811034680539777  0.20772932540827976  0.8848115799799141  1.0000
+  Na  Na1       1.0  0.181959182781266  0.9661451571587449  0.6190575354594098  1.0000
+  Mg  Mg2       1.0  0.6795930862615959  0.703449666820756  0.379267484322537  1.0000
+  Mg  Mg3       1.0  0.18215483362573295  0.954135298391212  0.12321759075773871  1.0000
+  Na  Na2       1.0  0.18146480546947139  0.44951140867367045  0.14005745879506767  1.0000
+  In  In1       1.0  0.6813610190192796  0.7072583436567479  0.8792513612613757  1.0000
+  Mg  Mg4       1.0  0.18010738549101296  0.4628160305455523  0.6381612415786875  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       BaMgNaO2
+_chemical_formula_sum              "Ba1 Mg1 Na1 O2"
+_cell_length_a       3.8964275772714903
+_cell_length_b       3.845245969328975
+_cell_length_c       6.593571662902832
+_cell_angle_alpha    107.00184620861175
+_cell_angle_beta     107.25676878629609
+_cell_angle_gamma    89.60051819810644
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.7405867562796803  0.12175226144329716  0.4748715153903793  1.0000
+  Mg  Mg1       1.0  0.0829656879256988  0.46325093566373143  0.1560723487544258  1.0000
+  Na  Na1       1.0  0.4347734144622079  0.8154835709744557  0.858418405182591  1.0000
+  O   O1        1.0  0.24468684159736365  0.6251203419128901  0.4843046074900396  1.0000
+  O   O2        1.0  0.045155818814096395  0.9251068835606845  0.07828791368212051  1.0000

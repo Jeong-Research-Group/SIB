@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SNa2S2Co
+_chemical_formula_sum              "S3 Na2 Co1"
+_cell_length_a       3.9347165805446305
+_cell_length_b       4.249737101314324
+_cell_length_c       7.728079319000244
+_cell_angle_alpha    74.4182085971569
+_cell_angle_beta     105.33632995898853
+_cell_angle_gamma    90.39824990943625
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.6903575058158892  0.6334241617318768  0.2760471406445881  1.0000
+  Na  Na1       1.0  0.040502725870470754  0.78378528425977  0.977783143041164  1.0000
+  Na  Na2       1.0  0.342770308123275  0.48374208887234305  0.5770809645955461  1.0000
+  S   S2        1.0  0.5356207497186746  0.28696191362068973  0.9696203473956417  1.0000
+  S   S3        1.0  0.8478802433355533  0.9786933065241722  0.5862354035786586  1.0000
+  Co  Co1       1.0  0.6914246672057772  0.13230462350238276  0.27785348897007295  1.0000

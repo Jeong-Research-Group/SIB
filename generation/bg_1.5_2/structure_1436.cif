@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NaLaNaTe2Br
+_chemical_formula_sum              "Na2 La1 Te2 Br1"
+_cell_length_a       4.466260564519883
+_cell_length_b       4.480508319636109
+_cell_length_c       11.030518531799316
+_cell_angle_alpha    89.96277114447187
+_cell_angle_beta     90.04791628041363
+_cell_angle_gamma    60.243675656653856
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.7363197808574252  0.853168666115714  0.591243505787945  1.0000
+  La  La1       1.0  0.40374767785413296  0.5201906564232139  0.24746918705895252  1.0000
+  Na  Na2       1.0  0.07093602286001992  0.18667028943529343  0.9040498137832771  1.0000
+  Te  Te1       1.0  0.7368835216229987  0.8523952949796402  0.08321440210579374  1.0000
+  Te  Te2       1.0  0.07128734812089299  0.18707074204818663  0.4130797983686504  1.0000
+  Br  Br1       1.0  0.40316691912133956  0.520564855243003  0.7461591956510693  1.0000

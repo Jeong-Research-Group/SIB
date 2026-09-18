@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       SmSe2Na
+_chemical_formula_sum              "Sm1 Se2 Na1"
+_cell_length_a       4.155621958824951
+_cell_length_b       4.1669553717311025
+_cell_length_c       7.310365676879883
+_cell_angle_alpha    73.22255103896606
+_cell_angle_beta     73.33303019142761
+_cell_angle_gamma    59.75128627707609
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.5479285714432597  0.900709033673888  0.43692937436258794  1.0000
+  Se  Se1       1.0  0.803455055741565  0.15613768936966552  0.6659896966688916  1.0000
+  Se  Se2       1.0  0.2924964125952507  0.6446265586011126  0.2069903903935145  1.0000
+  Na  Na1       1.0  0.04738729412778771  0.40029737306810775  0.9370017642469664  1.0000

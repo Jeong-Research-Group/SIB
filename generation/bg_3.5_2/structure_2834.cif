@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       ZnClNaZnCl3
+_chemical_formula_sum              "Zn2 Cl4 Na1"
+_cell_length_a       3.6884663122906454
+_cell_length_b       5.26847182723358
+_cell_length_c       7.905200481414795
+_cell_angle_alpha    90.10118492469059
+_cell_angle_beta     89.94950691748029
+_cell_angle_gamma    89.92204272191057
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.7153638010297682  0.7881475091127659  0.5358355644540798  1.0000
+  Cl  Cl1       1.0  0.2157690979491091  0.7872106430844275  0.748971403058864  1.0000
+  Na  Na1       1.0  0.21582201237596724  0.2862460918972238  0.8116297126151787  1.0000
+  Zn  Zn2       1.0  0.21594743331996685  0.28763523630998816  0.2770694199590881  1.0000
+  Cl  Cl2       1.0  0.7157847872047352  0.2871620960367703  0.5127204654640537  1.0000
+  Cl  Cl3       1.0  0.2153266215099853  0.7861918802390839  0.3157272938792836  1.0000
+  Cl  Cl4       1.0  0.7167463890657032  0.28647169487948465  0.07148092226313238  1.0000

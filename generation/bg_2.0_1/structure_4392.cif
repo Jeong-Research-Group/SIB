@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       SbNaLiSbIn
+_chemical_formula_sum              "Sb2 Na1 Li1 In1"
+_cell_length_a       4.518770458309166
+_cell_length_b       4.521425647823784
+_cell_length_c       7.879507541656494
+_cell_angle_alpha    90.07367975323098
+_cell_angle_beta     90.01868990353586
+_cell_angle_gamma    120.15705863447306
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.20964045934804423  0.4800947319903324  0.3409393731037834  1.0000
+  Na  Na1       1.0  0.5424890524243906  0.14760208239752692  0.5746787191528464  1.0000
+  Li  Li1       1.0  0.8742720492004836  0.8153266323459925  0.24413020847382683  1.0000
+  Sb  Sb2       1.0  0.8730313777917237  0.816239952113331  0.8543373941586129  1.0000
+  In  In1       1.0  0.20958286548510854  0.48180726090953285  0.9945045705623948  1.0000

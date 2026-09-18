@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       ClBr2Na2HIn
+_chemical_formula_sum              "Cl1 Br2 Na2 H1 In1"
+_cell_length_a       3.949872219332916
+_cell_length_b       6.8879940101248875
+_cell_length_c       6.899401664733887
+_cell_angle_alpha    85.11438864663809
+_cell_angle_beta     89.9816566164828
+_cell_angle_gamma    89.81726762779708
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.3057490576643236  0.5795614125077122  0.2570614224521562  1.0000
+  Br  Br1       1.0  0.8087773914169688  0.5480861063737416  0.7234559063883902  1.0000
+  Br  Br2       1.0  0.807442605380203  0.02886687196519044  0.3806796962957013  1.0000
+  Na  Na1       1.0  0.8088679316560785  0.7883505824986264  0.048566691737989505  1.0000
+  Na  Na2       1.0  0.3079260873377285  0.2862401896037915  0.5498029590934657  1.0000
+  H   H1        1.0  0.3060487513153902  0.9759528632467618  0.8238974212460333  1.0000
+  In  In1       1.0  0.3089189836549307  0.7876650695087464  0.5493391753384946  1.0000

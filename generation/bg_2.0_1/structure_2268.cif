@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       SNaSNbS
+_chemical_formula_sum              "S3 Na1 Nb1"
+_cell_length_a       3.6075427763457553
+_cell_length_b       4.944071805822354
+_cell_length_c       7.228133201599121
+_cell_angle_alpha    115.0277863674959
+_cell_angle_beta     90.35233782411993
+_cell_angle_gamma    90.18826987333497
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.7533050165736419  0.4426207840278538  0.9947285050726792  1.0000
+  Na  Na1       1.0  0.7565026285857469  0.9440895325664299  0.4948400263945508  1.0000
+  S   S2        1.0  0.2547978151253068  0.7894929056139227  0.7376521829216137  1.0000
+  Nb  Nb1       1.0  0.7542833673982499  0.9418366552429812  0.9939192527656648  1.0000
+  S   S3        1.0  0.2547534697582841  0.09643317725241683  0.24985270199903767  1.0000

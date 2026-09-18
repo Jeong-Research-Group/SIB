@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       PtHgNaO2
+_chemical_formula_sum              "Pt1 Hg1 Na1 O2"
+_cell_length_a       4.1287292926924515
+_cell_length_b       4.141139880245735
+_cell_length_c       6.16254186630249
+_cell_angle_alpha    71.13042823676767
+_cell_angle_beta     72.10484452915571
+_cell_angle_gamma    90.42662279048696
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.76309984857785  0.23900930472815005  0.4430038341232679  1.0000
+  Hg  Hg1       1.0  0.5159652841229473  0.48998147358306504  0.9430208205957511  1.0000
+  Na  Na1       1.0  0.2616583402830252  0.7470297206751708  0.4414083668938159  1.0000
+  O   O1        1.0  0.317015886756213  0.2999115577631027  0.32599747249014477  1.0000
+  O   O2        1.0  0.707671046408192  0.6852373474386099  0.5632404682379818  1.0000

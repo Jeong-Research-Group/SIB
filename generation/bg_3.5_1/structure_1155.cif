@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Na2SeGaP
+_chemical_formula_sum              "Na2 Se1 Ga1 P1"
+_cell_length_a       4.495760737106669
+_cell_length_b       4.398003129314635
+_cell_length_c       6.798727512359619
+_cell_angle_alpha    89.79323219293599
+_cell_angle_beta     90.30957402052037
+_cell_angle_gamma    89.84011461261387
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.0505859814358116  0.6385068292215  0.04599481117973748  1.0000
+  Na  Na2       1.0  0.5522840611925407  0.13917966282312064  0.5470663908286841  1.0000
+  Se  Se1       1.0  0.051744760133078015  0.13806386295089237  0.8292140359584046  1.0000
+  Ga  Ga1       1.0  0.5514495976194634  0.139449417612863  0.050837148652094793  1.0000
+  P   P1        1.0  0.5508506887994071  0.6394518611716297  0.26383188437064253  1.0000

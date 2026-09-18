@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NaLiSCrS
+_chemical_formula_sum              "Na1 Li1 S2 Cr1"
+_cell_length_a       3.893031696291705
+_cell_length_b       3.9072772286061066
+_cell_length_c       6.781687259674072
+_cell_angle_alpha    73.39367431799144
+_cell_angle_beta     106.59118068037614
+_cell_angle_gamma    90.13435910827526
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.18406908339581618  0.7075743068177519  0.45532146123219164  1.0000
+  Li  Li1       1.0  0.4341037882054272  0.9557709105803669  0.9578729275122215  1.0000
+  S   S1        1.0  0.5407238017485324  0.3510227793841083  0.17084099385112847  1.0000
+  Cr  Cr1       1.0  0.9346581707093892  0.45873060891081974  0.9555244446998946  1.0000
+  S   S2        1.0  0.8280696873053284  0.0657578555647458  0.7411013244014036  1.0000

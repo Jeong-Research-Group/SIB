@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       ClRbClNaCl
+_chemical_formula_sum              "Cl3 Rb1 Na1"
+_cell_length_a       5.335661449545407
+_cell_length_b       5.34386003454193
+_cell_length_c       5.384617328643799
+_cell_angle_alpha    90.09908805688124
+_cell_angle_beta     90.08760651262456
+_cell_angle_gamma    89.92474064231631
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.6541061394090115  0.0967354990340596  0.08611892852684591  1.0000
+  Rb  Rb1       1.0  0.15371866494674102  0.5972673301139112  0.08467305440522076  1.0000
+  Cl  Cl2       1.0  0.6542397744231343  0.5990564829829731  0.5860876437817369  1.0000
+  Na  Na1       1.0  0.6534306415453949  0.10051324160297581  0.5894679423069092  1.0000
+  Cl  Cl3       1.0  0.15348368942357898  0.09810516200931933  0.5854471324227902  1.0000

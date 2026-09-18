@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NaTlTeLiTe2
+_chemical_formula_sum              "Na1 Tl1 Te3 Li1"
+_cell_length_a       4.441611276843694
+_cell_length_b       4.434976180040292
+_cell_length_c       9.861989974975586
+_cell_angle_alpha    76.80816799338105
+_cell_angle_beta     77.28862430794355
+_cell_angle_gamma    90.68102658155365
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.8055409204271683  0.9881765250289991  0.6673970817355455  1.0000
+  Tl  Tl1       1.0  0.13571985142595483  0.3195814190558336  0.0037882069201804476  1.0000
+  Te  Te1       1.0  0.30134344025360876  0.48391085755352314  0.6751242875563641  1.0000
+  Li  Li1       1.0  0.46450737099550815  0.6483276494850577  0.34327185196319004  1.0000
+  Te  Te2       1.0  0.6313595181980326  0.8133532998171839  0.014921852963231627  1.0000
+  Te  Te3       1.0  0.9704744817882546  0.1561633801198573  0.3310541812237302  1.0000

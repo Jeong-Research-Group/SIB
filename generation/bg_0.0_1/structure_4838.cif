@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       HgAgNaAgNa3
+_chemical_formula_sum              "Hg1 Ag2 Na4"
+_cell_length_a       5.9054767341957755
+_cell_length_b       5.89933478960959
+_cell_length_c       5.9934868812561035
+_cell_angle_alpha    90.06815413101404
+_cell_angle_beta     90.01350578866005
+_cell_angle_gamma    59.85795703350842
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.3427914673211492  0.17749623910579812  0.5187929268951733  1.0000
+  Ag  Ag1       1.0  0.8425170181059871  0.17755289341862304  0.5172219876790832  1.0000
+  Na  Na1       1.0  0.5064252609770477  0.3411902483984753  0.017747782730311086  1.0000
+  Ag  Ag2       1.0  0.34207290387133893  0.6775352368074289  0.5175490972233882  1.0000
+  Na  Na2       1.0  0.8417001970762958  0.6760858288408497  0.7600741982015646  1.0000
+  Na  Na3       1.0  0.1762769378517894  0.012202413398076204  0.01748740181144338  1.0000
+  Na  Na4       1.0  0.8425695898540854  0.6753427974235596  0.27507543513369936  1.0000

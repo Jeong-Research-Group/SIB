@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NaCu2NaO3
+_chemical_formula_sum              "Na2 Cu2 O3"
+_cell_length_a       5.153198325237174
+_cell_length_b       3.573667936682252
+_cell_length_c       5.156668663024902
+_cell_angle_alpha    89.74735381442781
+_cell_angle_beta     78.31171173869662
+_cell_angle_gamma    89.97930020067582
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.742168664932251  0.051610834896564484  0.9129762053489683  1.0000
+  Cu  Cu1       1.0  0.7481458187103271  0.5519714951515198  0.39345091581344604  1.0000
+  Cu  Cu2       1.0  0.2645162343978882  0.5514863133430481  0.9082087874412536  1.0000
+  Na  Na2       1.0  0.27092260122299194  0.05171702429652215  0.3881542980670929  1.0000
+  O   O1        1.0  0.506564736366272  0.5524941086769104  0.15009662508964539  1.0000
+  O   O2        1.0  0.7996910214424133  0.051293902099132545  0.44160291552543635  1.0000
+  O   O3        1.0  0.21217292547225952  0.0510464794933796  0.8582983016967773  1.0000

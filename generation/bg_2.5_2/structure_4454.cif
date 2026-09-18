@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ClONaFeOMg
+_chemical_formula_sum              "Cl1 O2 Na1 Fe1 Mg1"
+_cell_length_a       4.439069848329363
+_cell_length_b       4.4098280419323785
+_cell_length_c       4.585775375366211
+_cell_angle_alpha    90.43838457682752
+_cell_angle_beta     89.90720072371874
+_cell_angle_gamma    90.0803528426403
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.7640456551447096  0.7535554758334356  0.9158666141324864  1.0000
+  O   O1        1.0  0.7644925128374972  0.25350788327966095  0.41619771755327645  1.0000
+  Na  Na1       1.0  0.264349371011942  0.2536353478861452  0.4164997045418996  1.0000
+  Fe  Fe1       1.0  0.7643050558241004  0.7539708605989306  0.41665604614853863  1.0000
+  O   O2        1.0  0.26419007692047825  0.7524648311688478  0.4189347616189851  1.0000
+  Mg  Mg1       1.0  0.26389247290775636  0.7542147641052964  0.9163466094309746  1.0000

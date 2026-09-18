@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       MnCsNaF4CsF
+_chemical_formula_sum              "Mn1 Cs2 Na1 F5"
+_cell_length_a       6.333364509184873
+_cell_length_b       6.088073956946113
+_cell_length_c       6.320706844329834
+_cell_angle_alpha    61.4208571871275
+_cell_angle_beta     58.222432567513664
+_cell_angle_gamma    61.314226220039345
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.9246050119400026  0.4713703691959381  0.744991898536682  1.0000
+  Cs  Cs1       1.0  0.691318690776825  0.20568250119686127  0.5109485983848572  1.0000
+  Na  Na1       1.0  0.4611774384975433  0.9356314539909364  0.2822168171405792  1.0000
+  F   F1        1.0  0.7215352654457092  0.6749442219734192  0.9871416687965392  1.0000
+  F   F2        1.0  0.16725710034370422  0.6737859845161439  0.5433838367462158  1.0000
+  F   F3        1.0  0.7225154042243958  0.22869251668453217  0.986963987350464  1.0000
+  F   F4        1.0  0.1668313443660736  0.22867757081985476  0.5437960624694824  1.0000
+  Cs  Cs2       1.0  0.1909261047840118  0.7053282260894775  0.011393819004297258  1.0000
+  F   F5        1.0  0.7067552804946899  0.6881594657897949  0.52674663066864  1.0000

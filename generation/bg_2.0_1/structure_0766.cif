@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       SnSbZnNaAs
+_chemical_formula_sum              "Sn1 Sb1 Zn1 Na1 As1"
+_cell_length_a       3.0926126016579523
+_cell_length_b       3.026583027605926
+_cell_length_c       14.091684341430664
+_cell_angle_alpha    90.0972848795792
+_cell_angle_beta     90.53732666508313
+_cell_angle_gamma    90.41833112289581
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.5206570610791516  0.7428807623386152  0.4307998117578522  1.0000
+  Sb  Sb1       1.0  0.5191848860770987  0.7448649403308157  0.6397225259324671  1.0000
+  Zn  Zn1       1.0  0.5194327239007905  0.741444706367407  0.23472291195782258  1.0000
+  Na  Na1       1.0  0.5208507186216678  0.7472042449841827  0.8510320779130662  1.0000
+  As  As1       1.0  0.5216767795293387  0.7440500247756829  0.05448957528248003  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       HfNaO3
+_chemical_formula_sum              "Hf1 Na1 O3"
+_cell_length_a       4.082053294276282
+_cell_length_b       4.079870224231926
+_cell_length_c       4.076892852783203
+_cell_angle_alpha    89.99938778745438
+_cell_angle_beta     90.01328722232661
+_cell_angle_gamma    89.96264820031847
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.6528694035011636  0.9255661957611373  0.4742172361911399  1.0000
+  Na  Na1       1.0  0.1529522384808304  0.426261156377024  0.9735823268931315  1.0000
+  O   O1        1.0  0.653513788206254  0.4260964403184473  0.47362515387900483  1.0000
+  O   O2        1.0  0.15322756810236  0.9260720011728811  0.4739372732628793  1.0000
+  O   O3        1.0  0.653240381624564  0.9259149422222327  0.9734601374595322  1.0000

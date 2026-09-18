@@ -1,0 +1,27 @@
+data_image0
+_chemical_formula_structural       PtBi
+_chemical_formula_sum              "Pt1 Bi1"
+_cell_length_a       4.104649382561391
+_cell_length_b       3.207452294980103
+_cell_length_c       4.571732044219971
+_cell_angle_alpha    134.9119457726848
+_cell_angle_beta     90.14525331614506
+_cell_angle_gamma    90.07964249403004
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.8658631444954366  0.5244965566335237  0.44157853831512783  1.0000
+  Bi  Bi1       1.0  0.36659040957163624  0.5229976778792904  0.9401240956238581  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       InAuNaAu2NaAuNa
+_chemical_formula_sum              "In1 Au4 Na3"
+_cell_length_a       4.9355154674016415
+_cell_length_b       4.912910784148172
+_cell_length_c       6.969963073730469
+_cell_angle_alpha    89.80828591983618
+_cell_angle_beta     90.04458314928404
+_cell_angle_gamma    89.90589615502229
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.21584290266036987  0.23023460805416107  0.2957526743412018  1.0000
+  Au  Au1       1.0  0.21634604036808014  0.729759931564331  0.5386167168617249  1.0000
+  Na  Na1       1.0  0.7168594002723694  0.7302352786064148  0.297105073928833  1.0000
+  Au  Au2       1.0  0.7165162563323975  0.23024991154670718  0.5387087464332581  1.0000
+  Au  Au3       1.0  0.216335266828537  0.7300799489021301  0.05446948483586311  1.0000
+  Na  Na2       1.0  0.715764045715332  0.7304214835166931  0.7957763671875  1.0000
+  Au  Au4       1.0  0.7166807651519775  0.23053604364395142  0.054903145879507065  1.0000
+  Na  Na3       1.0  0.21643167734146118  0.2306162714958191  0.7956191301345825  1.0000

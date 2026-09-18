@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       HNiHNaH2NaHLi
+_chemical_formula_sum              "H5 Ni1 Na2 Li1"
+_cell_length_a       4.7594001218146245
+_cell_length_b       4.747421358800074
+_cell_length_c       4.4305243492126465
+_cell_angle_alpha    91.52431627142226
+_cell_angle_beta     91.77615225628205
+_cell_angle_gamma    93.06026197189473
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.14513064920902252  0.13387048244476318  0.019939839839935303  1.0000
+  Ni  Ni1       1.0  0.16967707872390747  0.154714971780777  0.6685601472854614  1.0000
+  H   H2        1.0  0.11462987959384918  0.4716355204582215  0.5972040891647339  1.0000
+  Na  Na1       1.0  0.6580367088317871  0.12411870807409288  0.12479671090841293  1.0000
+  H   H3        1.0  0.48436254262924194  0.10655386000871658  0.600858211517334  1.0000
+  H   H4        1.0  0.6349088549613953  0.6224831342697144  0.10738588869571686  1.0000
+  Na  Na2       1.0  0.13426654040813446  0.6456447839736938  0.12539352476596832  1.0000
+  H   H5        1.0  0.961559534072876  0.9438679814338685  0.5145390629768372  1.0000
+  Li  Li1       1.0  0.6410775780677795  0.6298959851264955  0.6163142323493958  1.0000

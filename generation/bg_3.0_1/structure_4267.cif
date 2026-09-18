@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       HNa2CdH
+_chemical_formula_sum              "H2 Na2 Cd1"
+_cell_length_a       3.321015699616522
+_cell_length_b       4.869509555498245
+_cell_length_c       5.896926403045654
+_cell_angle_alpha    114.00488436449079
+_cell_angle_beta     73.85758010352282
+_cell_angle_gamma    89.68517169683405
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.2202599045175746  0.13766010162569634  0.9461469656516508  1.0000
+  Na  Na1       1.0  0.8844744550133928  0.971986234073586  0.6128609176417917  1.0000
+  Na  Na2       1.0  0.2537005550393489  0.6003076429245195  0.8698912862956577  1.0000
+  Cd  Cd1       1.0  0.5706199420181085  0.28568911463363944  0.24089977079317915  1.0000
+  H   H2        1.0  0.9210409520320845  0.43343397996778477  0.536353706679149  1.0000

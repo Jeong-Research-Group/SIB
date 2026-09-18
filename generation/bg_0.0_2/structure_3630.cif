@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NaO2BiMnO
+_chemical_formula_sum              "Na1 O3 Bi1 Mn1"
+_cell_length_a       5.487252968811271
+_cell_length_b       3.6423474298377743
+_cell_length_c       5.364243030548096
+_cell_angle_alpha    90.34340390727817
+_cell_angle_beta     73.61791051040204
+_cell_angle_gamma    89.85706029784855
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.48836672272975035  0.4004664425269771  0.24003069073818845  1.0000
+  O   O1        1.0  0.7272780531383032  0.9000412829959074  0.9515032175916296  1.0000
+  O   O2        1.0  0.25013267919001547  0.899537802638151  0.5311331753662708  1.0000
+  Bi  Bi1       1.0  0.9882574668381078  0.3980047700669207  0.7429379227000613  1.0000
+  Mn  Mn1       1.0  0.4889198540969271  0.9020550836223975  0.7416223883146041  1.0000
+  O   O3        1.0  0.4884244797728652  0.400247992234334  0.7414303419284741  1.0000

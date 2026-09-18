@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       In2NaSeNaSe3
+_chemical_formula_sum              "In2 Na2 Se4"
+_cell_length_a       4.015858142472532
+_cell_length_b       6.909967190851914
+_cell_length_c       7.348042011260986
+_cell_angle_alpha    108.49226791655813
+_cell_angle_beta     89.90353973684174
+_cell_angle_gamma    90.22191536635144
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.44764894137972544  0.7710197562358855  0.6243265265731196  1.0000
+  In  In2       1.0  0.948280273800403  0.2723246809962565  0.6248333457012  1.0000
+  Na  Na1       1.0  0.9481916439153613  0.772348940301537  0.12518097424922156  1.0000
+  Se  Se1       1.0  0.9486106622959686  0.5308313369861711  0.4018731418946513  1.0000
+  Na  Na2       1.0  0.4469604496970504  0.2707508203533838  0.12367329721779997  1.0000
+  Se  Se2       1.0  0.4479728041354376  0.5122277729306894  0.8474036459312541  1.0000
+  Se  Se3       1.0  0.44789889386686044  0.03124623047758767  0.4016213722693145  1.0000
+  Se  Se4       1.0  0.9479667551277252  0.011961209956243063  0.8467906715637034  1.0000

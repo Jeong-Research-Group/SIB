@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       HgNa2TeClCs
+_chemical_formula_sum              "Hg1 Na2 Te1 Cl1 Cs1"
+_cell_length_a       5.633511600059025
+_cell_length_b       6.201707914541325
+_cell_length_c       5.926790714263916
+_cell_angle_alpha    90.30901393446366
+_cell_angle_beta     90.17971844363393
+_cell_angle_gamma    90.12707134934118
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.6061393024896521  0.4159174264415833  0.49494993611204996  1.0000
+  Na  Na1       1.0  0.10857673060813794  0.41424190943615863  0.9955509305689014  1.0000
+  Na  Na2       1.0  0.10755100905388525  0.9153864981912199  0.494766592642936  1.0000
+  Te  Te1       1.0  0.11001931935885535  0.4146279693462547  0.49610981332752746  1.0000
+  Cl  Cl1       1.0  0.6081626415803224  0.4135210521749192  0.9959557660178414  1.0000
+  Cs  Cs1       1.0  0.6084523793225747  0.9134649044554602  0.997781932949585  1.0000

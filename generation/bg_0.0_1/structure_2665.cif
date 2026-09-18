@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       OMgCuRuO2
+_chemical_formula_sum              "O3 Mg1 Cu1 Ru1"
+_cell_length_a       2.8873890632858954
+_cell_length_b       4.3282581579739725
+_cell_length_c       8.476409912109375
+_cell_angle_alpha    93.3746965194108
+_cell_angle_beta     89.43611579155508
+_cell_angle_gamma    91.75295683171286
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.4878138608600324  0.3300311564733982  0.7365106347159793  1.0000
+  Mg  Mg1       1.0  0.987348140542751  0.33198776733739316  0.5717462896848696  1.0000
+  Cu  Cu1       1.0  0.9861079460898542  0.32836830548484325  0.9019232390618083  1.0000
+  Ru  Ru1       1.0  0.9853987687286353  0.3340999793126875  0.23119083094723025  1.0000
+  O   O2        1.0  0.48474347581659843  0.33587372222877854  0.4008030295013562  1.0000
+  O   O3        1.0  0.48458656609425643  0.33139231714193346  0.06978990887745874  1.0000

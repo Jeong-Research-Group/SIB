@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       AgONa
+_chemical_formula_sum              "Ag1 O1 Na1"
+_cell_length_a       5.264652798362013
+_cell_length_b       3.4159979489569006
+_cell_length_c       3.2875211238861084
+_cell_angle_alpha    89.90952981552708
+_cell_angle_beta     51.247887717719635
+_cell_angle_gamma    89.98296118371108
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.7260980600065857  0.23690474017108212  0.3777922987457563  1.0000
+  O   O1        1.0  0.2273885746191734  0.23614671739613943  0.8753969071013616  1.0000
+  Na  Na1       1.0  0.22566498766597828  0.7375201587676665  0.37690907835696774  1.0000

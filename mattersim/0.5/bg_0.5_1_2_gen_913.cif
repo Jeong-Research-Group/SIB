@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NaHNaH3IrH
+_chemical_formula_sum              "Na2 H5 Ir1"
+_cell_length_a       5.202331066755721
+_cell_length_b       5.168980633249689
+_cell_length_c       5.146395206451416
+_cell_angle_alpha    61.05366936211812
+_cell_angle_beta     59.79860763656877
+_cell_angle_gamma    59.74379041268127
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.760431170463562  0.287547767162323  0.1141669899225235  1.0000
+  H   H1        1.0  0.7400926351547241  0.8065381646156311  0.07936492562294006  1.0000
+  Na  Na2       1.0  0.26057988405227656  0.7859328389167787  0.6135637760162354  1.0000
+  H   H2        1.0  0.29334700107574463  0.25322771072387695  0.6358468532562256  1.0000
+  H   H3        1.0  0.7392811179161072  0.25433453917503357  0.6344163417816161  1.0000
+  H   H4        1.0  0.29248833656311035  0.8080334663391113  0.08048707246780396  1.0000
+  Ir  Ir1       1.0  0.4957106113433838  0.05117381736636162  0.8784944415092468  1.0000
+  H   H5        1.0  0.2810322344303131  0.26673033833503723  0.09499762952327728  1.0000

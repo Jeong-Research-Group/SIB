@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       VNaPdBrO2
+_chemical_formula_sum              "V1 Na1 Pd1 Br1 O2"
+_cell_length_a       4.072131234588381
+_cell_length_b       4.184778421462078
+_cell_length_c       6.768194675445557
+_cell_angle_alpha    89.87941553094296
+_cell_angle_beta     90.10059752625574
+_cell_angle_gamma    90.0656337921401
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.07659846626647204  0.6749673488919297  0.5006008740248699  1.0000
+  Na  Na1       1.0  0.0768708371476729  0.17634764403827027  0.9501351719252974  1.0000
+  Pd  Pd1       1.0  0.577143252941771  0.17659044373045651  0.4852966374540762  1.0000
+  Br  Br1       1.0  0.5767739424575686  0.6754947307755431  0.23557363420064967  1.0000
+  O   O1        1.0  0.07728285243635145  0.1758658298113927  0.5249308938624969  1.0000
+  O   O2        1.0  0.5774073013498204  0.6755526073629962  0.704005598794865  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       NaSMgS
+_chemical_formula_sum              "Na1 S2 Mg1"
+_cell_length_a       3.6922543480061107
+_cell_length_b       3.6887099741627316
+_cell_length_c       6.7893781661987305
+_cell_angle_alpha    106.01743763985365
+_cell_angle_beta     89.71904949110022
+_cell_angle_gamma    120.15632017064094
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.5671415327890117  0.4497922071584329  0.9853518600605764  1.0000
+  S   S1        1.0  0.8046855925268601  0.9270130402943729  0.6969916223432947  1.0000
+  Mg  Mg1       1.0  0.06629861126013116  0.4495389178148529  0.48441514382150946  1.0000
+  S   S2        1.0  0.3292999556676692  0.9743155845240445  0.2727187872941671  1.0000

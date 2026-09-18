@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       PdNaBi
+_chemical_formula_sum              "Pd1 Na1 Bi1"
+_cell_length_a       4.7735412284363825
+_cell_length_b       4.754068925520014
+_cell_length_c       4.757815837860107
+_cell_angle_alpha    60.01306232814935
+_cell_angle_beta     59.66528216262761
+_cell_angle_gamma    59.814166561049134
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.8966995467970713  0.5730047221114409  0.04763740831824761  1.0000
+  Na  Na1       1.0  0.3991194366891341  0.07213827271339156  0.549383937119828  1.0000
+  Bi  Bi1       1.0  0.6484376793396527  0.32346576472314426  0.7988055946446204  1.0000

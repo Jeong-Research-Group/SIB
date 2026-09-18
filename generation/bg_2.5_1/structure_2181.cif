@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Na3Ga2Al
+_chemical_formula_sum              "Na3 Ga2 Al1"
+_cell_length_a       5.109524248318532
+_cell_length_b       5.103385201530465
+_cell_length_c       6.189687252044678
+_cell_angle_alpha    89.42258510199018
+_cell_angle_beta     90.7225272040733
+_cell_angle_gamma    119.7809736943934
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.19243705184786766  0.1930396698076304  0.9153539534569817  1.0000
+  Na  Na2       1.0  0.8585969807428759  0.526512921311831  0.564828932553563  1.0000
+  Na  Na3       1.0  0.8580906988527749  0.5271528359805829  0.07903579648225632  1.0000
+  Ga  Ga1       1.0  0.5250284074665834  0.8601419928506348  0.7338482148828456  1.0000
+  Ga  Ga2       1.0  0.19221046601888658  0.1935433158848761  0.4114441281554401  1.0000
+  Al  Al1       1.0  0.5252796409246574  0.8599281303159647  0.2557298539522535  1.0000

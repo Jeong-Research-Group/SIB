@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       InNaONaOSnO2
+_chemical_formula_sum              "In1 Na2 O4 Sn1"
+_cell_length_a       4.533130143692743
+_cell_length_b       4.509287262375654
+_cell_length_c       5.673609256744385
+_cell_angle_alpha    113.48049875411245
+_cell_angle_beta     113.50800986187375
+_cell_angle_gamma    89.97736635987607
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.9131871463625147  0.43192330069446966  0.29618513676499886  1.0000
+  Na  Na1       1.0  0.6628762490500782  0.6811972270079419  0.7957103860081518  1.0000
+  O   O1        1.0  0.9411439904771015  0.9599019883948756  0.35334563317775025  1.0000
+  Na  Na2       1.0  0.41382437967753716  0.931706904342082  0.296563387315964  1.0000
+  O   O2        1.0  0.6808142069429179  0.1983588930527416  0.829607964142689  1.0000
+  Sn  Sn1       1.0  0.16419151400314566  0.1806566420603898  0.7964161634653509  1.0000
+  O   O3        1.0  0.3861322115525996  0.4039912230076349  0.2403575340061024  1.0000
+  O   O4        1.0  0.14613476433452174  0.6650206453494428  0.7627242805225881  1.0000

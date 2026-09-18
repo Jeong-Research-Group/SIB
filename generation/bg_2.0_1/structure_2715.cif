@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Na2BiCd2BiCd2
+_chemical_formula_sum              "Na2 Bi2 Cd4"
+_cell_length_a       5.180496115588582
+_cell_length_b       5.183073544467304
+_cell_length_c       7.388781547546387
+_cell_angle_alpha    90.1254389267808
+_cell_angle_beta     90.1364082155945
+_cell_angle_gamma    89.91472758859987
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.26825731980975664  0.1688739051789643  0.7593011264335209  1.0000
+  Na  Na2       1.0  0.7687039967312356  0.6693131323212118  0.25866019763815806  1.0000
+  Bi  Bi1       1.0  0.7672405252287872  0.6682550903840327  0.7585829494972933  1.0000
+  Cd  Cd1       1.0  0.2678102556493072  0.6698225731403098  0.008636484555343635  1.0000
+  Cd  Cd2       1.0  0.7684862611225176  0.16946020799692327  0.5093217494628237  1.0000
+  Bi  Bi2       1.0  0.2681746771722741  0.16836246939759852  0.2587859929230347  1.0000
+  Cd  Cd3       1.0  0.7677134268347645  0.1689103990970439  0.008210991635273621  1.0000
+  Cd  Cd4       1.0  0.2676811514907533  0.6693427557744602  0.5086324810843568  1.0000

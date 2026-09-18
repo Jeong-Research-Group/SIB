@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       BaORuO2
+_chemical_formula_sum              "Ba1 O3 Ru1"
+_cell_length_a       4.04288887134151
+_cell_length_b       4.045377639483023
+_cell_length_c       4.043557167053223
+_cell_angle_alpha    90.04661171436514
+_cell_angle_beta     90.03388024422631
+_cell_angle_gamma    90.0167842795202
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.9210769527809106  0.2638670809776893  0.16422043692960325  1.0000
+  O   O1        1.0  0.9201512943104618  0.7641575920774138  0.6627959024034114  1.0000
+  Ru  Ru1       1.0  0.42129218618950154  0.764187932890272  0.6599528198598402  1.0000
+  O   O2        1.0  0.4227471937209762  0.7646451586072598  0.16273122912077348  1.0000
+  O   O3        1.0  0.4205294539366197  0.2655445343930269  0.6606623529496298  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NaNiO2CuO
+_chemical_formula_sum              "Na1 Ni1 O3 Cu1"
+_cell_length_a       3.977451793144987
+_cell_length_b       4.012435498291697
+_cell_length_c       6.388832092285156
+_cell_angle_alpha    107.66048058964763
+_cell_angle_beta     90.98375464055715
+_cell_angle_gamma    90.6691014446512
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.21032965143938517  0.021640210582636973  0.7361661189206533  1.0000
+  Ni  Ni1       1.0  0.21294097636824066  0.3629972638560876  0.41398319647533915  1.0000
+  O   O1        1.0  0.21255588442485573  0.2075179821055868  0.10501161911433786  1.0000
+  O   O2        1.0  0.21249798025163275  0.5237989423712732  0.7386867396519016  1.0000
+  Cu  Cu1       1.0  0.20982697493207383  0.6895908704388479  0.06908014388323852  1.0000
+  O   O3        1.0  0.21471221768900323  0.8423359405926315  0.3738220934057905  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Na3AuO2
+_chemical_formula_sum              "Na3 Au1 O2"
+_cell_length_a       3.434804202521597
+_cell_length_b       5.557784959771568
+_cell_length_c       5.6565704345703125
+_cell_angle_alpha    75.6091893162562
+_cell_angle_beta     107.3782707139765
+_cell_angle_gamma    89.90538390995948
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.15975552797317505  0.20318616926670077  0.4438070058822632  1.0000
+  Na  Na2       1.0  0.39277008175849915  0.425810843706131  0.9133310317993164  1.0000
+  Na  Na3       1.0  0.6262332797050476  0.6486477255821228  0.3823890686035156  1.0000
+  Au  Au1       1.0  0.8928228616714478  0.9257917404174805  0.913892924785614  1.0000
+  O   O1        1.0  0.7809984683990479  0.2711050510406494  0.6894336342811584  1.0000
+  O   O2        1.0  0.004471497610211372  0.5791199803352356  0.13703277707099912  1.0000

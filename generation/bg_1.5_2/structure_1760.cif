@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BaNaCuCl2O
+_chemical_formula_sum              "Ba1 Na1 Cu1 Cl2 O1"
+_cell_length_a       4.2361503397013704
+_cell_length_b       4.140566100412657
+_cell_length_c       7.041368007659912
+_cell_angle_alpha    89.51159613657364
+_cell_angle_beta     89.97075563298012
+_cell_angle_gamma    89.99365042863829
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.5107720495957703  0.8594382992155748  0.19864480213609684  1.0000
+  Na  Na1       1.0  0.5096159584274156  0.8606526845408863  0.7085425853878351  1.0000
+  Cu  Cu1       1.0  0.01028872488861428  0.3603073067784821  0.9035930030912164  1.0000
+  Cl  Cl1       1.0  0.010733634029909981  0.35885155196622015  0.4478627447262661  1.0000
+  Cl  Cl2       1.0  0.5100281834169048  0.36016836662142515  0.931924879687312  1.0000
+  O   O1        1.0  0.009449738106700687  0.859741092487431  0.9362640380756948  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Na2CdN
+_chemical_formula_sum              "Na2 Cd1 N1"
+_cell_length_a       3.526655877036944
+_cell_length_b       3.530815183575803
+_cell_length_c       8.001166343688965
+_cell_angle_alpha    90.01048001429503
+_cell_angle_beta     89.98055695637596
+_cell_angle_gamma    59.55252013078277
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.5846398466933066  0.030044905201277512  0.8133981227740743  1.0000
+  Na  Na2       1.0  0.2516971812540572  0.6929743291362148  0.44350510883015176  1.0000
+  Cd  Cd1       1.0  0.918786645318389  0.36261847460863567  0.11711725595790014  1.0000
+  N   N1        1.0  0.2532821896628961  0.6954114438711395  0.9832033517605839  1.0000

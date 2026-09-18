@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       MoONaFO2F
+_chemical_formula_sum              "Mo1 O3 Na1 F2"
+_cell_length_a       3.8584716823706118
+_cell_length_b       4.985219194922265
+_cell_length_c       5.914186000823975
+_cell_angle_alpha    108.40731247398027
+_cell_angle_beta     89.77371834728821
+_cell_angle_gamma    112.39069375092456
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.7918440104598278  0.22553502011807483  0.9204592708702433  1.0000
+  O   O1        1.0  0.9188034543727278  0.47678473590862974  0.2158147099745698  1.0000
+  Na  Na1       1.0  0.26899391340997836  0.17709897410091552  0.40907529012507776  1.0000
+  F   F1        1.0  0.6254163390443859  0.889186440850707  0.08025594015727237  1.0000
+  O   O2        1.0  0.2611996223653427  0.16449378377425974  0.9035468102741718  1.0000
+  O   O3        1.0  0.9083490363701928  0.457111536608689  0.7410021416944307  1.0000
+  F   F2        1.0  0.6143179549017845  0.8653483392473499  0.5915482040925368  1.0000

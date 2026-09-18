@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       AuNaClNaCl3Cu
+_chemical_formula_sum              "Au1 Na2 Cl4 Cu1"
+_cell_length_a       5.740843428801408
+_cell_length_b       3.7097412590562264
+_cell_length_c       7.55415678024292
+_cell_angle_alpha    90.02599820397826
+_cell_angle_beta     90.16558679118462
+_cell_angle_gamma    90.10625975678492
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.7237154840062815  0.2640455059767967  0.8955154421162016  1.0000
+  Na  Na1       1.0  0.22334499658463347  0.7632620336948925  0.6468560693085444  1.0000
+  Cl  Cl1       1.0  0.72312384875994  0.7640880955086621  0.6615997556616083  1.0000
+  Na  Na2       1.0  0.7224733837094625  0.26361361253400245  0.38680121275138185  1.0000
+  Cl  Cl2       1.0  0.22232659075931838  0.2639071645397963  0.36158824011969987  1.0000
+  Cl  Cl3       1.0  0.7220402952010825  0.7624300711892893  0.12101878186990755  1.0000
+  Cl  Cl4       1.0  0.22218649035279955  0.2628249226670495  0.9259839652607986  1.0000
+  Cu  Cu1       1.0  0.2211740322495769  0.763933895793883  0.1389808358987117  1.0000

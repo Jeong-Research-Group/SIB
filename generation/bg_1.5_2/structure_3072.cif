@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NaOVSrO2SrO
+_chemical_formula_sum              "Na1 O4 V1 Sr2"
+_cell_length_a       3.4023136075672538
+_cell_length_b       6.003159668061088
+_cell_length_c       6.013518810272217
+_cell_angle_alpha    71.76789036117486
+_cell_angle_beta     89.83724592548825
+_cell_angle_gamma    89.86281815660828
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.17629401247210733  0.06543906693215445  0.879135847542209  1.0000
+  O   O1        1.0  0.17670707491446458  0.7837144731918435  0.596414566412403  1.0000
+  V   V1        1.0  0.1762543035331632  0.5654103755767542  0.3791364733337647  1.0000
+  Sr  Sr1       1.0  0.6749515543065494  0.5650909539966712  0.8786562088267434  1.0000
+  O   O2        1.0  0.17702440902583308  0.3475130197173901  0.16152711202541176  1.0000
+  O   O3        1.0  0.6772713073030836  0.3605243853318272  0.5847064850893245  1.0000
+  Sr  Sr2       1.0  0.6764510860257007  0.06634835218848842  0.3798710102243984  1.0000
+  O   O4        1.0  0.678399621982857  0.7700065367804352  0.17455950442911614  1.0000

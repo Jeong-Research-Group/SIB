@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       O2NaOZnBiLi
+_chemical_formula_sum              "O3 Na1 Zn1 Bi1 Li1"
+_cell_length_a       3.3554395623621214
+_cell_length_b       3.38793847407579
+_cell_length_c       8.715655326843262
+_cell_angle_alpha    90.08569405427984
+_cell_angle_beta     89.91205698454195
+_cell_angle_gamma    89.86001094325356
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.10027777272318565  0.4623926286688243  0.6489957569002109  1.0000
+  O   O2        1.0  0.6012291322918129  0.9655506604100054  0.35913950251474963  1.0000
+  Na  Na1       1.0  0.10121447547724045  0.4654068634426212  0.3444593553163388  1.0000
+  O   O3        1.0  0.09950719833716773  0.4711613658503458  0.08113425213896729  1.0000
+  Zn  Zn1       1.0  0.6021313678374284  0.9656600961409819  0.12310914735920105  1.0000
+  Bi  Bi1       1.0  0.5995976939472963  0.9655671129605626  0.6101019974334712  1.0000
+  Li  Li1       1.0  0.10092845537620573  0.465862124466197  0.8715319629032361  1.0000

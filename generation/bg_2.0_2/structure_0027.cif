@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       BiKBrNaBr3
+_chemical_formula_sum              "Bi1 K1 Br4 Na1"
+_cell_length_a       4.2233605622735135
+_cell_length_b       6.962742508225392
+_cell_length_c       7.465944290161133
+_cell_angle_alpha    87.69892561902196
+_cell_angle_beta     89.48051197943035
+_cell_angle_gamma    89.80388047461209
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.6132479896484466  0.5135563021390859  0.9682839515889761  1.0000
+  K   K1        1.0  0.11266748510285778  0.014453852301607034  0.4717363714319853  1.0000
+  Br  Br1       1.0  0.6134490956571438  0.26287943074004355  0.27122271121794417  1.0000
+  Na  Na1       1.0  0.612937451374117  0.015087073454784333  0.970106006326614  1.0000
+  Br  Br2       1.0  0.112985656282552  0.744988262918162  0.12376802464589523  1.0000
+  Br  Br3       1.0  0.11627793247525747  0.2853482959800944  0.8146118520172815  1.0000
+  Br  Br4       1.0  0.6113434441847919  0.7635337710304348  0.6692171698535914  1.0000

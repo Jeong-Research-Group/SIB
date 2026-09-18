@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       O3SCd
+_chemical_formula_sum              "O3 S1 Cd1"
+_cell_length_a       4.301307136972762
+_cell_length_b       4.250381447947938
+_cell_length_c       4.258638858795166
+_cell_angle_alpha    74.43789976857322
+_cell_angle_beta     106.21691306707183
+_cell_angle_gamma    105.94106161127405
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.9985468387100825  0.9855054029747841  0.03686226201326854  1.0000
+  O   O2        1.0  0.7226838461171023  0.2592945396126834  0.4860085549184394  1.0000
+  O   O3        1.0  0.45272746641729783  0.7078901523473136  0.7643883238745857  1.0000
+  S   S1        1.0  0.7255861153995556  0.9820401666547612  0.7632074953877197  1.0000
+  Cd  Cd1       1.0  0.2249369177188421  0.4814376523087991  0.2684930564862989  1.0000

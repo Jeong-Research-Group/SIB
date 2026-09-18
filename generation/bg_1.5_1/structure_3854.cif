@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       NaNCd
+_chemical_formula_sum              "Na1 N1 Cd1"
+_cell_length_a       4.116015937439119
+_cell_length_b       4.085563654274982
+_cell_length_c       4.095770835876465
+_cell_angle_alpha    60.119578826614415
+_cell_angle_beta     60.160553406767676
+_cell_angle_gamma    59.9153225295604
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.1576588603954404  0.4782893645503847  0.16753996866158902  1.0000
+  N   N1        1.0  0.9071000798720783  0.22738055976457097  0.9207436438784209  1.0000
+  Cd  Cd1       1.0  0.6571250553921311  0.9785860181699365  0.6677721136670436  1.0000

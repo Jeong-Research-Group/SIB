@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Na2Sb2Ag3
+_chemical_formula_sum              "Na2 Sb2 Ag3"
+_cell_length_a       5.046394025682125
+_cell_length_b       5.049949222948775
+_cell_length_c       8.197922706604004
+_cell_angle_alpha    90.00836265631348
+_cell_angle_beta     89.75938178498707
+_cell_angle_gamma    119.81364787497203
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.9778427472365901  0.3558898260531209  0.50885844289792  1.0000
+  Na  Na2       1.0  0.9786831144371901  0.35634833599541565  0.028905254451250376  1.0000
+  Sb  Sb1       1.0  0.6457994572513898  0.6887836458990902  0.7792659998347605  1.0000
+  Sb  Sb2       1.0  0.31251743364658746  0.02333030018958921  0.2800409796797693  1.0000
+  Ag  Ag1       1.0  0.6474542019833518  0.6888061173344474  0.22323890064901633  1.0000
+  Ag  Ag2       1.0  0.3104271599740961  0.020408924583806512  0.6306987399577653  1.0000
+  Ag  Ag3       1.0  0.3132321832199835  0.021193229257546523  0.9472118610262248  1.0000

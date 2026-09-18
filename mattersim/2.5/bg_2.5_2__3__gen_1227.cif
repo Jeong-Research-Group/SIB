@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LiBr2LiNa
+_chemical_formula_sum              "Li2 Br2 Na1"
+_cell_length_a       3.832871159598093
+_cell_length_b       3.8320794355990278
+_cell_length_c       8.678150177001953
+_cell_angle_alpha    89.97875378660025
+_cell_angle_beta     90.6041941921633
+_cell_angle_gamma    89.9106226406692
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.8946974277496337  0.3460366725921631  0.4374290108680725  1.0000
+  Br  Br1       1.0  0.8988436460494994  0.33345532417297363  0.9524558186531067  1.0000
+  Br  Br2       1.0  0.3919854462146759  0.8475945591926575  0.43807512521743774  1.0000
+  Li  Li2       1.0  0.39246848225593567  0.8329216837882994  0.11137214303016663  1.0000
+  Na  Na1       1.0  0.3963519334793091  0.8342502117156981  0.7791275382041931  1.0000

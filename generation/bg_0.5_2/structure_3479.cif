@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       NaInBi
+_chemical_formula_sum              "Na1 In1 Bi1"
+_cell_length_a       3.570248378503188
+_cell_length_b       5.1775919219339706
+_cell_length_c       5.21384859085083
+_cell_angle_alpha    60.40659782642751
+_cell_angle_beta     89.9950915984412
+_cell_angle_gamma    90.24344411496683
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.5509589920688129  0.12720918652517055  0.8901078710260192  1.0000
+  In  In1       1.0  0.05322444742274226  0.4603623459985371  0.22422379131662162  1.0000
+  Bi  Bi1       1.0  0.05130825602615754  0.7928518661974783  0.5584722753105553  1.0000

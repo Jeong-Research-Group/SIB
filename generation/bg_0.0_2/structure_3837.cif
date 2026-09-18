@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AsMnAsMnGaAs
+_chemical_formula_sum              "As3 Mn2 Ga1"
+_cell_length_a       3.753840529140149
+_cell_length_b       3.7859972670438498
+_cell_length_c       8.331522941589355
+_cell_angle_alpha    102.82976253083707
+_cell_angle_beta     102.84349075145224
+_cell_angle_gamma    89.75253795539572
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.779365061553653  0.08288321671646073  0.75831997438444  1.0000
+  Mn  Mn1       1.0  0.6144930732899392  0.9175503851359698  0.4271605613735981  1.0000
+  As  As2       1.0  0.44606637819881206  0.7482854128935638  0.09039693314907196  1.0000
+  Mn  Mn2       1.0  0.27728486064203545  0.5806357852676906  0.7549132703661514  1.0000
+  Ga  Ga1       1.0  0.9466217160759084  0.24908374192885765  0.09140283592538026  1.0000
+  As  As3       1.0  0.1124511663873303  0.41519984564108403  0.4234677257903664  1.0000

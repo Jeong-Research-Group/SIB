@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NaMgOBiOTiO2
+_chemical_formula_sum              "Na1 Mg1 O4 Bi1 Ti1"
+_cell_length_a       3.609889340585784
+_cell_length_b       3.941862788447851
+_cell_length_c       7.695655345916748
+_cell_angle_alpha    90.24231713493914
+_cell_angle_beta     76.43502154147284
+_cell_angle_gamma    90.43981886397742
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.2901019749859393  0.8151229628364961  0.25035592930627193  1.0000
+  Mg  Mg1       1.0  0.4212364258573629  0.31768348894773774  0.9991381173426139  1.0000
+  O   O1        1.0  0.6803066725085474  0.8132978677474089  0.4776262343911025  1.0000
+  Bi  Bi1       1.0  0.0666531911277353  0.8132139452983441  0.7046865224782192  1.0000
+  O   O2        1.0  0.17840831075162467  0.31184920688483475  0.4789949350775958  1.0000
+  Ti  Ti1       1.0  0.7077738042715732  0.3138652433042247  0.41678413745025183  1.0000
+  O   O3        1.0  0.4612303370946591  0.817219674403415  0.9212694164675637  1.0000
+  O   O4        1.0  0.8388026956599588  0.3164882358980087  0.16100765779937248  1.0000

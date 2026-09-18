@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SrCePNa2Sn
+_chemical_formula_sum              "Sr1 Ce1 P1 Na2 Sn1"
+_cell_length_a       4.951294501316766
+_cell_length_b       4.710750482960942
+_cell_length_c       9.249130249023438
+_cell_angle_alpha    120.6548829831961
+_cell_angle_beta     105.63468757335652
+_cell_angle_gamma    90.12920254803059
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.3271170565294726  0.35096686973500735  0.9451492426948233  1.0000
+  Ce  Ce1       1.0  0.6510986693798027  0.9977443819564656  0.593258142287042  1.0000
+  P   P1        1.0  0.152822419400395  0.5028024309719598  0.597858667351797  1.0000
+  Na  Na1       1.0  0.8252165912853119  0.8469522597839338  0.9416184427974121  1.0000
+  Na  Na2       1.0  0.9938737752641678  0.6831962455897393  0.27827808218289457  1.0000
+  Sn  Sn1       1.0  0.49201911807962817  0.17497253538744478  0.2712700370997288  1.0000

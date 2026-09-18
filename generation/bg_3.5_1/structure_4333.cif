@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CdNa2OBiO2
+_chemical_formula_sum              "Cd1 Na2 O3 Bi1"
+_cell_length_a       4.152643157443904
+_cell_length_b       4.360017196295988
+_cell_length_c       6.996561527252197
+_cell_angle_alpha    88.8185640389809
+_cell_angle_beta     88.64453093315076
+_cell_angle_gamma    88.93702687563446
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.05220715068673208  0.3549050399985459  0.20403860551377828  1.0000
+  Na  Na1       1.0  0.5501374599490184  0.8547519441903239  0.9481773970861224  1.0000
+  Na  Na2       1.0  0.5529624218432466  0.8536721457953157  0.4585239885499972  1.0000
+  O   O1        1.0  0.5512976654501179  0.35614705010059033  0.7019724247476842  1.0000
+  Bi  Bi1       1.0  0.05097160943294422  0.355350792941998  0.7041108601056453  1.0000
+  O   O2        1.0  0.05192050394858313  0.8536793594874558  0.20308543808032217  1.0000
+  O   O3        1.0  0.05006169561472091  0.8546021591234374  0.7028359774220693  1.0000

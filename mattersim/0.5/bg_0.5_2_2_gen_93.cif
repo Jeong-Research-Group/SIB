@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Na3PtPbNaPtIn
+_chemical_formula_sum              "Na4 Pt2 Pb1 In1"
+_cell_length_a       4.989267954995529
+_cell_length_b       5.0194344105456254
+_cell_length_c       9.18544864654541
+_cell_angle_alpha    89.95737529316929
+_cell_angle_beta     90.47149044160342
+_cell_angle_gamma    120.41066359762932
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.3437432646751404  0.7382578253746033  0.5156509280204773  1.0000
+  Na  Na2       1.0  0.003769516944885254  0.06803704798221588  0.07641302794218063  1.0000
+  Na  Na3       1.0  0.6745246648788452  0.4039999842643738  0.28375157713890076  1.0000
+  Pt  Pt1       1.0  0.6765256524085999  0.40580424666404724  0.6209977865219116  1.0000
+  Pb  Pb1       1.0  0.6684107184410095  0.4014278054237366  0.9233477115631104  1.0000
+  Na  Na4       1.0  0.33670148253440857  0.735936164855957  0.8502052426338196  1.0000
+  Pt  Pt2       1.0  0.004613586701452732  0.07042233645915985  0.7356043457984924  1.0000
+  In  In1       1.0  0.009703980758786201  0.07092933356761932  0.43532446026802063  1.0000

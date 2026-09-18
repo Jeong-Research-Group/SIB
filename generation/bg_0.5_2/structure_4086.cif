@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Na2OMnONiO
+_chemical_formula_sum              "Na2 O3 Mn1 Ni1"
+_cell_length_a       3.086648933795252
+_cell_length_b       5.448465717358406
+_cell_length_c       5.595585823059082
+_cell_angle_alpha    79.8557165678466
+_cell_angle_beta     73.9285046648676
+_cell_angle_gamma    89.5416627011727
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.9450808168833146  0.906415761304737  0.8232849230501903  1.0000
+  Na  Na2       1.0  0.43252268289669105  0.4258343271046404  0.8431805966240938  1.0000
+  O   O1        1.0  0.5952431566493027  0.7964658138829026  0.5217765577187399  1.0000
+  Mn  Mn1       1.0  0.19816164791274113  0.686023890460631  0.3181577628316029  1.0000
+  O   O2        1.0  0.7810954447366651  0.5212133524042739  0.14562489050570962  1.0000
+  Ni  Ni1       1.0  0.7078508738007084  0.1542645695798495  0.29543024248463207  1.0000
+  O   O3        1.0  0.3045637603817252  0.04436362081474115  0.10035214597611931  1.0000

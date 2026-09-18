@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       OClO2NbNaO
+_chemical_formula_sum              "O4 Cl1 Nb1 Na1"
+_cell_length_a       4.295212358631587
+_cell_length_b       3.9412005981374008
+_cell_length_c       7.125941276550293
+_cell_angle_alpha    90.27646123756271
+_cell_angle_beta     89.57041093904097
+_cell_angle_gamma    89.86580295480758
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.12602074342476902  0.8012191647653809  0.6973471045354144  1.0000
+  Cl  Cl1       1.0  0.12399653441869828  0.2995755365914343  0.19224634778127164  1.0000
+  O   O2        1.0  0.6251671917283869  0.8011229642608342  0.4220021957128741  1.0000
+  O   O3        1.0  0.6249891514668258  0.7994576100604281  0.9668585063619637  1.0000
+  Nb  Nb1       1.0  0.6281358609065176  0.7997642748591838  0.6877493854812804  1.0000
+  Na  Na1       1.0  0.6273969405168794  0.30063057047318104  0.1975944337986229  1.0000
+  O   O4        1.0  0.6253699053477803  0.30211681168586596  0.6938589208633028  1.0000

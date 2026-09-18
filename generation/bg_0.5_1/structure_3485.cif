@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NaFeMoO4
+_chemical_formula_sum              "Na1 Fe1 Mo1 O4"
+_cell_length_a       3.124309186379625
+_cell_length_b       5.294361225838245
+_cell_length_c       6.4898858070373535
+_cell_angle_alpha    115.1199677569102
+_cell_angle_beta     104.39334849766561
+_cell_angle_gamma    90.14343677942095
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.7518705132199817  0.7093322272788988  0.35360944204450245  1.0000
+  Fe  Fe1       1.0  0.014950055747091337  0.969867944092887  0.8806796663938337  1.0000
+  Mo  Mo1       1.0  0.48657715457305123  0.44257482917088237  0.8236408838213397  1.0000
+  O   O1        1.0  0.8946277510755971  0.5334590671109306  0.6539444929458045  1.0000
+  O   O2        1.0  0.5977864845360242  0.8721595993498029  0.04303382241108289  1.0000
+  O   O3        1.0  0.09365882810582786  0.40084439556826246  0.03963163538613813  1.0000
+  O   O4        1.0  0.40588724683753086  0.019150394336225847  0.6636694074966345  1.0000

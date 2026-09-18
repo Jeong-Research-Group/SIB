@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NaONaO2NaOSb
+_chemical_formula_sum              "Na3 O4 Sb1"
+_cell_length_a       3.160508636296323
+_cell_length_b       5.728000469884244
+_cell_length_c       5.710890769958496
+_cell_angle_alpha    103.03961954094667
+_cell_angle_beta     89.89323298046588
+_cell_angle_gamma    106.06050031800153
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.17001710832118988  0.6630864143371582  0.45422878861427307  1.0000
+  O   O1        1.0  0.32731205224990845  0.97585529088974  0.8203418254852295  1.0000
+  Na  Na2       1.0  0.6915163993835449  0.702968418598175  0.9885284900665283  1.0000
+  O   O2        1.0  0.04281112551689148  0.40523001551628113  0.04113348945975306  1.0000
+  O   O3        1.0  0.5332265496253967  0.3882195949554444  0.6218780279159546  1.0000
+  Na  Na3       1.0  0.4305839240550995  0.18226352334022522  0.22145766019821167  1.0000
+  O   O4        1.0  0.8199217915534973  0.9595710039138794  0.4023880362510681  1.0000
+  Sb  Sb1       1.0  0.930942952632904  0.18235433101654053  0.7225020527839661  1.0000

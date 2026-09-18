@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       LiNaBrMnO3Mg
+_chemical_formula_sum              "Li1 Na1 Br1 Mn1 O3 Mg1"
+_cell_length_a       3.32644131164175
+_cell_length_b       5.660142177235955
+_cell_length_c       6.124517917633057
+_cell_angle_alpha    96.88805051528942
+_cell_angle_beta     89.66177155692358
+_cell_angle_gamma    89.73443792713529
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.9645535336375384  0.46204733854944346  0.08290733474920822  1.0000
+  Na  Na1       1.0  0.4618523717803447  0.9650993345550821  0.20864255700776482  1.0000
+  Br  Br1       1.0  0.9621179109387948  0.3792500496049625  0.464731127480022  1.0000
+  Mn  Mn1       1.0  0.9578928954389371  0.060665949514373804  0.7475864882790267  1.0000
+  O   O1        1.0  0.9619712825354171  0.7599171405390367  0.9530880452583912  1.0000
+  O   O2        1.0  0.45747482870925044  0.8899285794306726  0.5763919348202947  1.0000
+  O   O3        1.0  0.46832335077983034  0.3034694790068551  0.9388338326893348  1.0000
+  Mg  Mg1       1.0  0.4621406498056649  0.6103451853565671  0.763605952539274  1.0000

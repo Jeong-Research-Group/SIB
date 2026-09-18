@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       PbNaCdNa
+_chemical_formula_sum              "Pb1 Na2 Cd1"
+_cell_length_a       5.388646027152756
+_cell_length_b       5.326683706589215
+_cell_length_c       5.325618267059326
+_cell_angle_alpha    90.2592901636002
+_cell_angle_beta     119.57567243446654
+_cell_angle_gamma    119.63364448908969
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.682232796169135  0.22860102272736277  0.04964545971981512  1.0000
+  Na  Na1       1.0  0.18215680072675808  0.4788525692318204  0.7998438469034593  1.0000
+  Cd  Cd1       1.0  0.6822927009273217  0.7286987905689719  0.5491178037876471  1.0000
+  Na  Na2       1.0  0.18163234054562447  0.9776451588855759  0.29962944968683325  1.0000

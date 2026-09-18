@@ -1,0 +1,27 @@
+data_image0
+_chemical_formula_structural       BiLi
+_chemical_formula_sum              "Bi1 Li1"
+_cell_length_a       3.2962963332996167
+_cell_length_b       3.2985625877565976
+_cell_length_c       4.6063761711120605
+_cell_angle_alpha    89.89956457189875
+_cell_angle_beta     90.51241012607818
+_cell_angle_gamma    90.02435212910363
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.7357422123302901  0.09002400991607465  0.616056382832733  1.0000
+  Li  Li1       1.0  0.23607312111921078  0.5916652693628236  0.11603642238873996  1.0000

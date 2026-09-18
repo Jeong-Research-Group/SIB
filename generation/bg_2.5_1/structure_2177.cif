@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       ClNa2ClNaBrZnO
+_chemical_formula_sum              "Cl2 Na3 Br1 Zn1 O1"
+_cell_length_a       6.87641061812279
+_cell_length_b       5.6509184374631865
+_cell_length_c       6.872756481170654
+_cell_angle_alpha    65.56062766771102
+_cell_angle_beta     48.90257502875636
+_cell_angle_gamma    65.53377705255465
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.4297266004942845  0.8179523935828859  0.7662794004051969  1.0000
+  Na  Na1       1.0  0.43704083503137187  0.31238034275690185  0.7726709249887109  1.0000
+  Na  Na2       1.0  0.6821470862873096  0.5665806537498932  0.018204632531987217  1.0000
+  Cl  Cl2       1.0  0.9332317706425614  0.3227500019737119  0.2668310709794222  1.0000
+  Na  Na3       1.0  0.1830160766178213  0.0662871889188514  0.5184221864026977  1.0000
+  Br  Br1       1.0  0.1565259539043059  0.5923745633392562  0.492111503850151  1.0000
+  Zn  Zn1       1.0  0.9293621779120818  0.8174031975148491  0.26395317879976044  1.0000
+  O   O1        1.0  0.7081354852675714  0.0401062745677923  0.04415341457915987  1.0000

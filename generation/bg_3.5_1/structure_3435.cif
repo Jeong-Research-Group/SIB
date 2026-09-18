@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AgNaCl2InCl2
+_chemical_formula_sum              "Ag1 Na1 Cl4 In1"
+_cell_length_a       5.4824710460429005
+_cell_length_b       5.499102788562265
+_cell_length_c       7.016692161560059
+_cell_angle_alpha    66.93774652106264
+_cell_angle_beta     113.29878121825759
+_cell_angle_gamma    90.09875999847563
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.8841751808959023  0.5962377787789285  0.18447554143827885  1.0000
+  Na  Na1       1.0  0.38461160652826404  0.09671336360451752  0.18520879788152575  1.0000
+  Cl  Cl1       1.0  0.8543924697838713  0.12573279457619874  0.12402436226625334  1.0000
+  Cl  Cl2       1.0  0.4150992932238219  0.5662192110706479  0.24545799168038535  1.0000
+  In  In1       1.0  0.6334075336197514  0.34632959938574914  0.6849232918409054  1.0000
+  Cl  Cl3       1.0  0.6339781291661956  0.8456885221000472  0.6839348078190942  1.0000
+  Cl  Cl4       1.0  0.13456447446117256  0.3462000190607963  0.685200512292533  1.0000

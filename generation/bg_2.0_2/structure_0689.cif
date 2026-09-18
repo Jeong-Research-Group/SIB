@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       NaGdO
+_chemical_formula_sum              "Na1 Gd1 O1"
+_cell_length_a       4.111328115307456
+_cell_length_b       4.109092833675635
+_cell_length_c       4.075409889221191
+_cell_angle_alpha    60.24843583741987
+_cell_angle_beta     60.465054443584215
+_cell_angle_gamma    60.77953863418421
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.35383561162641397  0.9434925303671183  0.5017149455580797  1.0000
+  Gd  Gd1       1.0  0.8509359355860282  0.44105348085914114  0.0024121178783003865  1.0000
+  O   O1        1.0  0.10375629349588919  0.6932329522582025  0.2519445712583958  1.0000

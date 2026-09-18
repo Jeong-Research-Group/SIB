@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       HgNa2HgBi2Hg
+_chemical_formula_sum              "Hg3 Na2 Bi2"
+_cell_length_a       5.711875432627612
+_cell_length_b       4.743140704074341
+_cell_length_c       7.482114315032959
+_cell_angle_alpha    90.00302144792019
+_cell_angle_beta     82.25594072993607
+_cell_angle_gamma    114.77023539896891
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.3835007260215332  0.10029293637838844  0.5885105731871357  1.0000
+  Na  Na1       1.0  0.9544137719225957  0.38568228592153103  0.7222209574567255  1.0000
+  Na  Na2       1.0  0.6698296660500791  0.24354077921430778  0.1651343847270657  1.0000
+  Hg  Hg2       1.0  0.09804546793422743  0.9570778599831571  0.01136143910910933  1.0000
+  Bi  Bi1       1.0  0.5224648118439705  0.6696877486375684  0.8682789802516215  1.0000
+  Bi  Bi2       1.0  0.23820659453584342  0.5269005298238733  0.3005596394107614  1.0000
+  Hg  Hg3       1.0  0.8127824073534954  0.8157118569008832  0.44303923784759214  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       MgAlMg3NaInMg
+_chemical_formula_sum              "Mg5 Al1 Na1 In1"
+_cell_length_a       5.122474545512889
+_cell_length_b       6.430427604785462
+_cell_length_c       6.408023834228516
+_cell_angle_alpha    120.28254123714467
+_cell_angle_beta     89.94618744783405
+_cell_angle_gamma    89.92709705649109
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.9521487351748572  0.2043375231521823  0.4452393357043896  1.0000
+  Al  Al1       1.0  0.9524746541061573  0.204145968332297  0.948118448315095  1.0000
+  Mg  Mg2       1.0  0.45172223514489707  0.5276880865132695  0.11277686783107736  1.0000
+  Mg  Mg3       1.0  0.45164939785747255  0.04456947071316811  0.11322919307336266  1.0000
+  Mg  Mg4       1.0  0.9511982792833222  0.7006425263989555  0.44564014611528674  1.0000
+  Na  Na1       1.0  0.9519213439235907  0.7029058338463559  0.9464612007061957  1.0000
+  In  In1       1.0  0.4523390522980707  0.039595481580472866  0.6189810640785551  1.0000
+  Mg  Mg5       1.0  0.45228749471859986  0.5328854314112702  0.6084469546846132  1.0000

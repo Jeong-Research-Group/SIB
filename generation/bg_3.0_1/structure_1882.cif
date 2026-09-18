@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       KOCd2O2
+_chemical_formula_sum              "K1 O3 Cd2"
+_cell_length_a       4.200971668106356
+_cell_length_b       4.1835470289390955
+_cell_length_c       6.272265434265137
+_cell_angle_alpha    97.62333303105187
+_cell_angle_beta     90.5378252602428
+_cell_angle_gamma    89.70779334433747
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.1927475478954177  0.1746961165854046  0.5353127127129141  1.0000
+  O   O1        1.0  0.1919078077702092  0.6763378977491759  0.03767263088856003  1.0000
+  Cd  Cd1       1.0  0.6908540131529296  0.6747090215466498  0.03537277486002684  1.0000
+  Cd  Cd2       1.0  0.19110320538714323  0.175893604187535  0.034370649348670824  1.0000
+  O   O2        1.0  0.6882520325648226  0.19127230380324117  0.2436183248826262  1.0000
+  O   O3        1.0  0.6970610630285152  0.16047766870589797  0.8251839883214759  1.0000

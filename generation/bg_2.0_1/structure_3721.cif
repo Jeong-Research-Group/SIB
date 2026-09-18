@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Na2Te2Sn
+_chemical_formula_sum              "Na2 Te2 Sn1"
+_cell_length_a       4.492936177945449
+_cell_length_b       4.498468679877671
+_cell_length_c       7.632667064666748
+_cell_angle_alpha    89.89923672088104
+_cell_angle_beta     89.97242220061196
+_cell_angle_gamma    90.02841609076025
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.15166321415574746  0.050931007612131235  0.1734561027846869  1.0000
+  Na  Na2       1.0  0.6519722342736338  0.5521412494484108  0.8726034765984091  1.0000
+  Te  Te1       1.0  0.6504924299256234  0.5540224905403293  0.2919553512147091  1.0000
+  Te  Te2       1.0  0.15089636988377894  0.0533329778850781  0.7522700427048054  1.0000
+  Sn  Sn1       1.0  0.15373253811121726  0.5501604076300999  0.5237187740852587  1.0000

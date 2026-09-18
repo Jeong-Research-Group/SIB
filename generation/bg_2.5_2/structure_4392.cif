@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NaSNa2SOSMo
+_chemical_formula_sum              "Na3 S3 O1 Mo1"
+_cell_length_a       5.967004032222559
+_cell_length_b       5.990231361259795
+_cell_length_c       5.976208209991455
+_cell_angle_alpha    90.74700662251337
+_cell_angle_beta     88.95145226956829
+_cell_angle_gamma    89.33394980866683
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.22579777300359774  0.2935608917286475  0.18511560539706304  1.0000
+  S   S1        1.0  0.005844525274599533  0.5826168066608921  0.4738491481526389  1.0000
+  Na  Na2       1.0  0.7345827823908642  0.8012210725989437  0.1850305207147117  1.0000
+  Na  Na3       1.0  0.7348696001444818  0.29444068728355016  0.6932946440065649  1.0000
+  S   S2        1.0  0.44734564351526784  0.5828694705550507  0.9148647185904927  1.0000
+  O   O1        1.0  0.013702167056943423  0.014730240915109081  0.9064522391797063  1.0000
+  S   S3        1.0  0.4481033085788894  0.024033482511351047  0.47175771012156925  1.0000
+  Mo  Mo1       1.0  0.2282084373451865  0.8010616299407928  0.692449271852224  1.0000

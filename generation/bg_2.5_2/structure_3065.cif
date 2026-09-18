@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Se2NaSeV3Se
+_chemical_formula_sum              "Se4 Na1 V3"
+_cell_length_a       3.516501497490655
+_cell_length_b       6.97982494209141
+_cell_length_c       7.636527061462402
+_cell_angle_alpha    106.64453823545408
+_cell_angle_beta     90.37523258024939
+_cell_angle_gamma    104.677190584791
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.008916529843423298  0.666866064562751  0.5923991203798789  1.0000
+  Se  Se2       1.0  0.49285036344257416  0.6183917528196561  0.007408376406186588  1.0000
+  Na  Na1       1.0  0.12490101246490415  0.8853326435901505  0.30812659914350926  1.0000
+  Se  Se3       1.0  0.23899456764775806  0.10410615842193925  0.024882171623495545  1.0000
+  V   V1        1.0  0.8467981206033931  0.32557624561271387  0.9240023494775987  1.0000
+  V   V2        1.0  0.6238191724465799  0.8859550360436951  0.8080500963828401  1.0000
+  V   V3        1.0  0.4016921520052382  0.4455315178524261  0.6938992146496109  1.0000
+  Se  Se4       1.0  0.756814719602721  0.15264588611373398  0.608157873544617  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NaHOFRuO
+_chemical_formula_sum              "Na1 H1 O2 F1 Ru1"
+_cell_length_a       2.876559071372512
+_cell_length_b       5.6610382695675945
+_cell_length_c       5.792000770568848
+_cell_angle_alpha    62.646792990842584
+_cell_angle_beta     89.78213996220981
+_cell_angle_gamma    89.87384208257637
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.7174733288106573  0.8099573848130972  0.13889570535684093  1.0000
+  H   H1        1.0  0.21975019409055116  0.13263164463162383  0.7436107391322209  1.0000
+  O   O1        1.0  0.21990877480851384  0.1895336659740699  0.8862826233334382  1.0000
+  F   F1        1.0  0.21742349706387612  0.6569207913054923  0.49233713671340457  1.0000
+  Ru  Ru1       1.0  0.717287123367979  0.4965875748261873  0.7978677742222385  1.0000
+  O   O2        1.0  0.21528019015108443  0.6183952098334696  0.9481502772204424  1.0000

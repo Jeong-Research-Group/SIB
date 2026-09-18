@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NaMnNaLiS2
+_chemical_formula_sum              "Na2 Mn1 Li1 S2"
+_cell_length_a       4.080872141963863
+_cell_length_b       4.086920616880219
+_cell_length_c       6.811546802520752
+_cell_angle_alpha    90.0458603968333
+_cell_angle_beta     90.03001435555692
+_cell_angle_gamma    89.51059898760052
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.5150514843872717  0.023721468173288806  0.7963665718221251  1.0000
+  Mn  Mn1       1.0  0.515025198746964  0.5244062543561737  0.44009205730902845  1.0000
+  Na  Na2       1.0  0.01476592835069767  0.5236256134542976  0.0842924497906152  1.0000
+  Li  Li1       1.0  0.014844428034684292  0.02435977663000194  0.4396185575976151  1.0000
+  S   S1        1.0  0.5149372809423309  0.02331036358349069  0.22521713370646718  1.0000
+  S   S2        1.0  0.015045298526741302  0.5257654792903107  0.6563618182022483  1.0000

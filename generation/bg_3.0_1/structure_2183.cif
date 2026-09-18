@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       ClNaGaClLiNaCl2
+_chemical_formula_sum              "Cl4 Na2 Ga1 Li1"
+_cell_length_a       5.527958567826033
+_cell_length_b       5.508569720247216
+_cell_length_c       5.533604621887207
+_cell_angle_alpha    90.00183982530164
+_cell_angle_beta     89.90372414984445
+_cell_angle_gamma    89.85134344040117
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.36908709971862774  0.8142376546891757  0.05453159627701127  1.0000
+  Na  Na1       1.0  0.8689030415230058  0.8129840491984035  0.05615511509207657  1.0000
+  Ga  Ga1       1.0  0.3691366915509938  0.3129999041526971  0.05424448822292068  1.0000
+  Cl  Cl2       1.0  0.8709046846499794  0.8143788569718081  0.5563759806963213  1.0000
+  Li  Li1       1.0  0.369215578296295  0.8124938604148384  0.5556514860444495  1.0000
+  Na  Na2       1.0  0.8704086544349682  0.3124660559762479  0.5558834077935481  1.0000
+  Cl  Cl3       1.0  0.86805808529436  0.31254655082613864  0.057050298016901445  1.0000
+  Cl  Cl4       1.0  0.3699323232313371  0.31296962577374016  0.557775973498353  1.0000

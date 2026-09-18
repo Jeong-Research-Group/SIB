@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       RuN2Na
+_chemical_formula_sum              "Ru1 N2 Na1"
+_cell_length_a       3.029894256626718
+_cell_length_b       3.054173592599179
+_cell_length_c       5.7415642738342285
+_cell_angle_alpha    90.57162104555125
+_cell_angle_beta     90.82850450397345
+_cell_angle_gamma    90.22423764573047
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ru  Ru1       1.0  0.2207532675948513  0.006308321032121409  0.26733550371067966  1.0000
+  N   N1        1.0  0.7187419544418073  0.5042902237173505  0.1823553436782335  1.0000
+  N   N2        1.0  0.22380517327208338  0.010838784722403018  0.5714607833918904  1.0000
+  Na  Na1       1.0  0.7238790989109052  0.5114195345724588  0.7313314073012526  1.0000

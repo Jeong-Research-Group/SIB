@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       BaPbBaNa2PbSb
+_chemical_formula_sum              "Ba2 Pb2 Na2 Sb1"
+_cell_length_a       5.638749989935783
+_cell_length_b       5.689248068595016
+_cell_length_c       8.808112144470215
+_cell_angle_alpha    108.04977996740257
+_cell_angle_beta     91.02353368262696
+_cell_angle_gamma    119.10484080913812
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.3628956971280001  0.6786971082526712  0.6399056310707472  1.0000
+  Pb  Pb1       1.0  0.7887858151074216  0.5326653131409037  0.9222901467673698  1.0000
+  Ba  Ba2       1.0  0.2160719041442704  0.38798922321028473  0.20051820539614731  1.0000
+  Na  Na1       1.0  0.0736873808918448  0.10039009083778931  0.772624551816563  1.0000
+  Na  Na2       1.0  0.5050908327346131  0.9633572695000274  0.06891269235010075  1.0000
+  Pb  Pb2       1.0  0.6466749909208493  0.2479768996188327  0.48932638795203004  1.0000
+  Sb  Sb1       1.0  0.9336556198214219  0.8214497555804741  0.3529612122730047  1.0000

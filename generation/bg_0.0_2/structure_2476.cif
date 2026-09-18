@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LiNaMnTe2
+_chemical_formula_sum              "Li1 Na1 Mn1 Te2"
+_cell_length_a       4.433999992458631
+_cell_length_b       4.433890503904615
+_cell_length_c       7.93704080581665
+_cell_angle_alpha    89.66457876353856
+_cell_angle_beta     89.45030204509656
+_cell_angle_gamma    61.66290914665124
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.9204705939999743  0.3172403877804799  0.7170809508894018  1.0000
+  Na  Na1       1.0  0.9041954280836065  0.3067944060572208  0.10813990976237992  1.0000
+  Mn  Mn1       1.0  0.5714574444594333  0.971895039245835  0.4978126880387644  1.0000
+  Te  Te1       1.0  0.23938080743288814  0.6387645607339114  0.372169733109853  1.0000
+  Te  Te2       1.0  0.5783399344811887  0.9764937165642908  0.8409999014439307  1.0000

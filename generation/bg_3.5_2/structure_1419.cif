@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AlNa3O2
+_chemical_formula_sum              "Al1 Na3 O2"
+_cell_length_a       2.905522097129806
+_cell_length_b       4.7384708903213895
+_cell_length_c       6.198523998260498
+_cell_angle_alpha    89.8530031698421
+_cell_angle_beta     90.02267190276874
+_cell_angle_gamma    89.9562005013986
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.13412828584303824  0.10543154998825302  0.7844285363617178  1.0000
+  Na  Na1       1.0  0.13664320205332128  0.10603973359757941  0.2843383547202665  1.0000
+  Na  Na2       1.0  0.6373672488075895  0.6037638195786216  0.5415959961019629  1.0000
+  Na  Na3       1.0  0.6321854608485805  0.6067271237015579  0.02691462629901339  1.0000
+  O   O1        1.0  0.638587058844724  0.10727398006580526  0.9850152139317049  1.0000
+  O   O2        1.0  0.6335611346557974  0.10680601729918225  0.5825289494449043  1.0000

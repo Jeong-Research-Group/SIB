@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       ZnPZnNaP2Na
+_chemical_formula_sum              "Zn2 P3 Na2"
+_cell_length_a       3.9385083250643023
+_cell_length_b       6.788401864821981
+_cell_length_c       7.180645942687988
+_cell_angle_alpha    121.12469156121992
+_cell_angle_beta     90.26614766409568
+_cell_angle_gamma    104.5706045272268
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.46561175661769266  0.902140856315444  0.7955546380790813  1.0000
+  P   P1        1.0  0.07219669303515264  0.14162339300565172  0.9973260765928794  1.0000
+  Zn  Zn2       1.0  0.07666546153505904  0.11900605303095015  0.6375800963280096  1.0000
+  Na  Na1       1.0  0.8524938814067019  0.6579339501123797  0.05652199633541326  1.0000
+  P   P2        1.0  0.26945212545308816  0.5114778284250072  0.715750932238982  1.0000
+  P   P3        1.0  0.46979758242546027  0.881487369003141  0.43535205761758644  1.0000
+  Na  Na2       1.0  0.6898571844537547  0.36373928173037323  0.37548711874277824  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       MnNaMnCaO5
+_chemical_formula_sum              "Mn2 Na1 Ca1 O5"
+_cell_length_a       3.195365660146861
+_cell_length_b       6.78370984757842
+_cell_length_c       5.50087833404541
+_cell_angle_alpha    92.16899748986155
+_cell_angle_beta     89.2900112086563
+_cell_angle_gamma    77.01840889469226
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.6950018985189739  0.5125053531736834  0.8525373331855314  1.0000
+  Na  Na1       1.0  0.9016346945871876  0.27837395682345306  0.36652743866109655  1.0000
+  Mn  Mn2       1.0  0.46524036075857567  0.039900582279351726  0.934350490761133  1.0000
+  Ca  Ca1       1.0  0.09058862843464008  0.7706895465479445  0.41743990772987283  1.0000
+  O   O1        1.0  0.4862038200406022  0.991309762013794  0.26166924748659337  1.0000
+  O   O2        1.0  0.32427337884582697  0.4658851622789416  0.6015118362123145  1.0000
+  O   O3        1.0  0.10052334536395509  0.5446293352195785  0.09228323459718961  1.0000
+  O   O4        1.0  0.5710724594225235  0.8114961389467806  0.7373221509421207  1.0000
+  O   O5        1.0  0.9033717505990768  0.18276359081688742  0.8777205342394617  1.0000

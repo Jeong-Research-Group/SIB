@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NaPtNaTe2
+_chemical_formula_sum              "Na2 Pt1 Te2"
+_cell_length_a       3.9009266078181213
+_cell_length_b       4.8816822332283065
+_cell_length_c       7.13287353515625
+_cell_angle_alpha    90.02055454499498
+_cell_angle_beta     89.67632667628645
+_cell_angle_gamma    90.23362230179062
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.7152106756670951  0.7637491822791919  0.6486765739686405  1.0000
+  Pt  Pt1       1.0  0.21703873545155314  0.2637031073233319  0.6506940129543036  1.0000
+  Na  Na2       1.0  0.21533814101789797  0.7645460372096228  0.14998505994183545  1.0000
+  Te  Te1       1.0  0.7125429517196064  0.26402422882302434  0.909219264444273  1.0000
+  Te  Te2       1.0  0.7147569643830369  0.26419728946691956  0.3873336907738411  1.0000

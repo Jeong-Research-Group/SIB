@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       PdCaHNa2H
+_chemical_formula_sum              "Pd1 Ca1 H2 Na2"
+_cell_length_a       4.8126323694713244
+_cell_length_b       4.722814633940379
+_cell_length_c       4.38493013381958
+_cell_angle_alpha    89.83889201079354
+_cell_angle_beta     90.16251319142614
+_cell_angle_gamma    90.05027952462973
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.5879800326391533  0.6176903248884079  0.11283885776018662  1.0000
+  Ca  Ca1       1.0  0.5884998449410651  0.11785031044311405  0.6128083472854952  1.0000
+  H   H1        1.0  0.08781616474589686  0.11906453231775899  0.6136869793080943  1.0000
+  Na  Na1       1.0  0.08752910728395487  0.618461131293056  0.6136931174034466  1.0000
+  Na  Na2       1.0  0.08756635256826377  0.11703149220659938  0.1133235699648087  1.0000
+  H   H2        1.0  0.5881199839826142  0.6194974775355238  0.6120117304856305  1.0000

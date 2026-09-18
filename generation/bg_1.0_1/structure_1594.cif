@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SnNa2Si2Sn
+_chemical_formula_sum              "Sn2 Na2 Si2"
+_cell_length_a       4.6766433198435315
+_cell_length_b       4.695653325031009
+_cell_length_c       7.227056980133057
+_cell_angle_alpha    109.20925318714728
+_cell_angle_beta     90.45104092269287
+_cell_angle_gamma    90.27232898896418
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.044426314131227614  0.6487024415790303  0.16326370783519642  1.0000
+  Na  Na1       1.0  0.04234633583513842  0.3108563124947004  0.49056461464512013  1.0000
+  Na  Na2       1.0  0.04374194072500747  0.9824702730512223  0.8304210894089785  1.0000
+  Si  Si1       1.0  0.5411878220286296  0.811247349507362  0.49287182132564855  1.0000
+  Si  Si2       1.0  0.5429233899364108  0.14757630289541102  0.16070996241666902  1.0000
+  Sn  Sn2       1.0  0.5423235306821953  0.48475262456734297  0.833741486422203  1.0000

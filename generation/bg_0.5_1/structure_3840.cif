@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Mg2NaMg4V
+_chemical_formula_sum              "Mg6 Na1 V1"
+_cell_length_a       4.4986954003493755
+_cell_length_b       6.253668861730289
+_cell_length_c       6.239328861236572
+_cell_angle_alpha    88.08192829794793
+_cell_angle_beta     90.22080202000932
+_cell_angle_gamma    90.35142257151021
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.3708313413232341  0.4498212344702096  0.12036941954663546  1.0000
+  Mg  Mg2       1.0  0.8709085590093785  0.6824072604169744  0.38538217539738734  1.0000
+  Na  Na1       1.0  0.8698148128766036  0.1981174049538101  0.3732862470856407  1.0000
+  Mg  Mg3       1.0  0.37147197149732286  0.9489047520088449  0.624332011504966  1.0000
+  Mg  Mg4       1.0  0.8712008009544471  0.21146386791314437  0.8578476316497113  1.0000
+  Mg  Mg5       1.0  0.36989879593709424  0.9403818839733243  0.1165764550992899  1.0000
+  Mg  Mg6       1.0  0.8702798491152758  0.6900886298788631  0.8643727891499032  1.0000
+  V   V1        1.0  0.37107923579005486  0.45958000418616424  0.630119324087419  1.0000

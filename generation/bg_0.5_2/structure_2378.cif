@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CuNaTe2Mn
+_chemical_formula_sum              "Cu1 Na1 Te2 Mn1"
+_cell_length_a       4.447365987164802
+_cell_length_b       4.44389297253037
+_cell_length_c       7.658636569976807
+_cell_angle_alpha    90.18203388090369
+_cell_angle_beta     90.34743370720467
+_cell_angle_gamma    60.0529854170645
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.49516725473591483  0.7113128896066141  0.692051887756999  1.0000
+  Na  Na1       1.0  0.8292027129211567  0.04447932791012269  0.32994157030915383  1.0000
+  Te  Te1       1.0  0.16028192597844573  0.3779783548674607  0.5812721853867754  1.0000
+  Te  Te2       1.0  0.49518859471375815  0.711600124459006  0.05851068694304408  1.0000
+  Mn  Mn1       1.0  0.16187286350369903  0.3786165111266035  0.9257153274875828  1.0000

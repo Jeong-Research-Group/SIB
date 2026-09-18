@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       TeNaONa3OSbO
+_chemical_formula_sum              "Te1 Na4 O3 Sb1"
+_cell_length_a       3.387360375326623
+_cell_length_b       5.650022284759753
+_cell_length_c       9.386937141418457
+_cell_angle_alpha    118.85635815745894
+_cell_angle_beta     89.90345095157606
+_cell_angle_gamma    89.92374344152125
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.5596764691934505  0.4501118668374016  0.41492354945513227  1.0000
+  Na  Na1       1.0  0.05866144583218136  0.9361413714192529  0.40394380693110377  1.0000
+  O   O1        1.0  0.5589439875902324  0.23661537553374457  0.5422573095524452  1.0000
+  Na  Na2       1.0  0.5589669334181643  0.07866207532229295  0.741736292734106  1.0000
+  Na  Na3       1.0  0.05892147979528271  0.1841588168868954  0.07400681818661926  1.0000
+  Na  Na4       1.0  0.05927415193445756  0.5490871077346576  0.7209185359105859  1.0000
+  O   O2        1.0  0.5586325535702353  0.8647574183723641  0.9095062607609607  1.0000
+  Sb  Sb1       1.0  0.557194055295064  0.6761612289822655  0.04778829178520422  1.0000
+  O   O3        1.0  0.05875428893868401  0.4186950920857026  0.9222956891506349  1.0000

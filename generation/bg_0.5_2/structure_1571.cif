@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Rb2KO2NaAuO
+_chemical_formula_sum              "Rb2 K1 O3 Na1 Au1"
+_cell_length_a       4.304840068556409
+_cell_length_b       6.549005305181107
+_cell_length_c       7.180996417999268
+_cell_angle_alpha    63.518978155986126
+_cell_angle_beta     85.87005368263623
+_cell_angle_gamma    71.8957433480827
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.3513911357859249  0.8725052472399358  0.9223433733697426  1.0000
+  Rb  Rb2       1.0  0.6444405310257105  0.33604496759797875  0.48325997600143195  1.0000
+  K   K1        1.0  0.012482516967242232  0.6734091040024295  0.6220265032511633  1.0000
+  O   O1        1.0  0.6286214589180473  0.3554798671066241  0.9142072791086308  1.0000
+  O   O2        1.0  0.9594151390159464  0.6667900676401834  0.23457865490700003  1.0000
+  Na  Na1       1.0  0.09619634498002338  0.3570097690071685  0.11750813601624178  1.0000
+  Au  Au1       1.0  0.6974809769857644  0.01721683399129589  0.1951062673333207  1.0000
+  O   O3        1.0  0.3900229039659768  0.994954825259181  0.4541811047278197  1.0000

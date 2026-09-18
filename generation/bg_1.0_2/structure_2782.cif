@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NaCoNaSeCoSe2
+_chemical_formula_sum              "Na2 Co2 Se3"
+_cell_length_a       4.016285786920265
+_cell_length_b       7.204938686460022
+_cell_length_c       6.933815002441406
+_cell_angle_alpha    123.10280840326097
+_cell_angle_beta     106.15903443984891
+_cell_angle_gamma    90.63630362523318
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.6293540593371663  0.6463096741796795  0.9303501249858828  1.0000
+  Co  Co1       1.0  0.8592236647104959  0.5054404743445172  0.3915135862664319  1.0000
+  Na  Na2       1.0  0.4948419925987131  0.03654039599010126  0.6591959590732344  1.0000
+  Se  Se1       1.0  0.06191316228257402  0.8427861927731798  0.794318497039591  1.0000
+  Co  Co2       1.0  0.26366204009770566  0.17715138188473734  0.2006272221558612  1.0000
+  Se  Se2       1.0  0.24858978297268244  0.49543175109188164  0.165850653453323  1.0000
+  Se  Se3       1.0  0.8752427108134014  0.18784207182518295  0.42767339964155743  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       HPdBaHNaH
+_chemical_formula_sum              "H3 Pd1 Ba1 Na1"
+_cell_length_a       4.737762193937259
+_cell_length_b       4.7518687921526634
+_cell_length_c       4.7498602867126465
+_cell_angle_alpha    101.72329182569261
+_cell_angle_beta     78.05701322010584
+_cell_angle_gamma    101.60877065070136
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.012873111511959062  0.34752151391341085  0.6803553106483232  1.0000
+  Pd  Pd1       1.0  0.7903459081517542  0.10726775984757232  0.4548085620412448  1.0000
+  Ba  Ba1       1.0  0.44235301068924443  0.4597046385436882  0.10587762391708216  1.0000
+  H   H2        1.0  0.017539000238130546  0.8838562373547935  0.22229327286812328  1.0000
+  Na  Na1       1.0  0.054806523851959964  0.8523069026336555  0.719633697628023  1.0000
+  H   H3        1.0  0.5544456243351675  0.8846279381981911  0.683809100629773  1.0000

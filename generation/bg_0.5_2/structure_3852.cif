@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Na2Bi2SrNa2P
+_chemical_formula_sum              "Na4 Bi2 Sr1 P1"
+_cell_length_a       5.368193332388712
+_cell_length_b       5.370400717932071
+_cell_length_c       8.495137214660645
+_cell_angle_alpha    89.86003143319776
+_cell_angle_beta     89.97159574657734
+_cell_angle_gamma    90.01698918579281
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.7849172353335954  0.5372633941034808  0.628984868926116  1.0000
+  Na  Na2       1.0  0.28547719053942017  0.03685767223074227  0.6296029684205455  1.0000
+  Bi  Bi1       1.0  0.7846106886921481  0.03694366607417362  0.8983569149789336  1.0000
+  Bi  Bi2       1.0  0.28483331191744465  0.5366483338545169  0.39901044906046557  1.0000
+  Sr  Sr1       1.0  0.28358173406992593  0.5364913339214497  0.8986054059503262  1.0000
+  Na  Na3       1.0  0.785381555446571  0.5371944902841934  0.16760152541287485  1.0000
+  Na  Na4       1.0  0.2854843439325264  0.036220237419769964  0.1681946818649108  1.0000
+  P   P1        1.0  0.7866157893377819  0.0369415358728639  0.3975750205058601  1.0000

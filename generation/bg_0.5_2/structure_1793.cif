@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       CuNa3CuNa2OsNaAu
+_chemical_formula_sum              "Cu2 Na6 Os1 Au1"
+_cell_length_a       4.787058449749204
+_cell_length_b       7.126478724995188
+_cell_length_c       7.204246520996094
+_cell_angle_alpha    79.4946047689214
+_cell_angle_beta     89.86419103750654
+_cell_angle_gamma    89.81788234605754
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.6321500535797034  0.5518292779172048  0.45048818009204905  1.0000
+  Na  Na1       1.0  0.6331078409505427  0.590359211196265  0.8592972761023326  1.0000
+  Na  Na2       1.0  0.632808386968883  0.9552468654687197  0.06592553147396635  1.0000
+  Na  Na3       1.0  0.6320762032639186  0.9593116646976089  0.5446462028015153  1.0000
+  Cu  Cu2       1.0  0.1318801940219063  0.6654338245950656  0.5888633132255311  1.0000
+  Na  Na4       1.0  0.13315680617481737  0.25494280452385193  0.5019447807667715  1.0000
+  Na  Na5       1.0  0.13298034601350392  0.25352919151852865  0.9833229777362629  1.0000
+  Os  Os1       1.0  0.631919563472187  0.31209915900808133  0.22588877437595706  1.0000
+  Na  Na6       1.0  0.13382619644082136  0.618233740208037  0.18605853650414111  1.0000
+  Au  Au1       1.0  0.13372375168850406  0.9011139280723863  0.8196218605346227  1.0000

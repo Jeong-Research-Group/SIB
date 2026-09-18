@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       KO2MnO
+_chemical_formula_sum              "K1 O3 Mn1"
+_cell_length_a       3.914563442970567
+_cell_length_b       3.9268104098367242
+_cell_length_c       3.9129090309143066
+_cell_angle_alpha    90.10679250684454
+_cell_angle_beta     90.04052601806066
+_cell_angle_gamma    90.00164174984728
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.20947934703541146  0.6312801251739146  0.08341557440373636  1.0000
+  O   O1        1.0  0.7100633388334613  0.13044753796251282  0.084150851278124  1.0000
+  O   O2        1.0  0.710187852004116  0.6316100958412164  0.5856303565251404  1.0000
+  Mn  Mn1       1.0  0.7123411893286219  0.13230016945747547  0.5827298755137675  1.0000
+  O   O3        1.0  0.20953865383642087  0.13092270560423752  0.5859228960460108  1.0000

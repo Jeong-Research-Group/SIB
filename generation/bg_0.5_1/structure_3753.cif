@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NaAuTeBiTeNa
+_chemical_formula_sum              "Na2 Au1 Te2 Bi1"
+_cell_length_a       4.845271161394875
+_cell_length_b       5.362688128359384
+_cell_length_c       7.194295883178711
+_cell_angle_alpha    84.8423560717885
+_cell_angle_beta     90.88059827420068
+_cell_angle_gamma    114.9975846476388
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.38864529061288244  0.7930420032928267  0.016429580161624453  1.0000
+  Au  Au1       1.0  0.7136296641362162  0.43742483896327955  0.8459361794515357  1.0000
+  Te  Te1       1.0  0.3694107221487416  0.7308187477348631  0.5841257571432317  1.0000
+  Bi  Bi1       1.0  0.045416813693301646  0.10210946872315074  0.697692036012318  1.0000
+  Te  Te2       1.0  0.06470735397192173  0.1653471436980633  0.10165645197913362  1.0000
+  Na  Na2       1.0  0.7171809084239608  0.4444247193266848  0.34064048575834655  1.0000

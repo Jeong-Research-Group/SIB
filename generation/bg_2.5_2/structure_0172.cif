@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       GaSeNa
+_chemical_formula_sum              "Ga1 Se1 Na1"
+_cell_length_a       4.002023889815566
+_cell_length_b       3.9984650938392385
+_cell_length_c       4.7913737297058105
+_cell_angle_alpha    90.04901594043207
+_cell_angle_beta     89.74764751038433
+_cell_angle_gamma    119.54376373124443
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.8238806135960817  0.5389274363515821  0.5755208127216823  1.0000
+  Se  Se1       1.0  0.1581568410020606  0.20428670824101  0.5745675570906308  1.0000
+  Na  Na1       1.0  0.49160224195686736  0.8716584444317443  0.07230781052206695  1.0000

@@ -1,0 +1,27 @@
+data_image0
+_chemical_formula_structural       LiCa
+_chemical_formula_sum              "Li1 Ca1"
+_cell_length_a       3.1931555058243406
+_cell_length_b       3.1691475063843035
+_cell_length_c       4.935234069824219
+_cell_angle_alpha    89.24531444608408
+_cell_angle_beta     90.08257948874537
+_cell_angle_gamma    108.61876896043985
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.8458875432728554  0.28991183755349575  0.33458223963107736  1.0000
+  Ca  Ca1       1.0  0.3425138589079592  0.7923703780381052  0.8351183541845482  1.0000

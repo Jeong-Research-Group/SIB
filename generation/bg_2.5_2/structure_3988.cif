@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Na3CoO3
+_chemical_formula_sum              "Na3 Co1 O3"
+_cell_length_a       3.2682311825135324
+_cell_length_b       3.372153020583401
+_cell_length_c       10.25780200958252
+_cell_angle_alpha    88.55450904682816
+_cell_angle_beta     89.97682084287192
+_cell_angle_gamma    88.12295031790232
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.5029100777071522  0.3309719549874678  0.39303842152121543  1.0000
+  Na  Na2       1.0  0.9996930376105567  0.8285638093066254  0.6216563581925449  1.0000
+  Na  Na3       1.0  0.49310830354635005  0.332119404974267  0.9285751579465301  1.0000
+  Co  Co1       1.0  0.9974321134621114  0.8324879400395058  0.21070755987770137  1.0000
+  O   O1        1.0  0.0009655730989308076  0.8307913534641099  0.39430415678678693  1.0000
+  O   O2        1.0  0.9922284484395911  0.8310418141697774  0.0516950265123294  1.0000
+  O   O3        1.0  0.99257612102852  0.8331267251001977  0.8073271511025567  1.0000

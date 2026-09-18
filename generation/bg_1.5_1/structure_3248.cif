@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Na2Mg2TaNa2
+_chemical_formula_sum              "Na4 Mg2 Ta1"
+_cell_length_a       5.039903145923374
+_cell_length_b       5.025325126475388
+_cell_length_c       9.230704307556152
+_cell_angle_alpha    75.38220058133186
+_cell_angle_beta     104.58138354254854
+_cell_angle_gamma    118.89739390175079
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.14128497290638165  0.4386829444155581  0.42649108193435875  1.0000
+  Na  Na2       1.0  0.7573758369569304  0.8232303862597203  0.27735391309824187  1.0000
+  Mg  Mg1       1.0  0.38689872587034047  0.1922016897151395  0.16409520793971027  1.0000
+  Mg  Mg2       1.0  0.6428278697603573  0.933299304038582  0.9380338792125238  1.0000
+  Ta  Ta1       1.0  0.012704671359896407  0.5630941987906336  0.05003416500283155  1.0000
+  Na  Na3       1.0  0.2705498639655002  0.30272960672858923  0.8217592239433071  1.0000
+  Na  Na4       1.0  0.8876403578234854  0.6891171334485939  0.6715669036941673  1.0000

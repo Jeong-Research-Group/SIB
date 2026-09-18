@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NaSnInNaIn
+_chemical_formula_sum              "Na2 Sn1 In2"
+_cell_length_a       5.149294433408961
+_cell_length_b       5.124014814308411
+_cell_length_c       6.1168036460876465
+_cell_angle_alpha    90.0236554497566
+_cell_angle_beta     115.41576838631498
+_cell_angle_gamma    90.11752957271106
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.5364871626107239  0.6216331122853371  0.15653975287566502  1.0000
+  Sn  Sn1       1.0  0.7117477068824312  0.12076140849461954  0.5090487013035873  1.0000
+  In  In1       1.0  0.8422040940191039  0.6214783191181654  0.7784029843621852  1.0000
+  Na  Na2       1.0  0.035330302808271714  0.1214870741628661  0.15919263727315644  1.0000
+  In  In2       1.0  0.34993770796512724  0.12134914087480064  0.7877461920082731  1.0000

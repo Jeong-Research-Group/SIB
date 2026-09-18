@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Na2PMnLiP
+_chemical_formula_sum              "Na2 P2 Mn1 Li1"
+_cell_length_a       4.421238707227725
+_cell_length_b       4.40451614909692
+_cell_length_c       6.405020713806152
+_cell_angle_alpha    89.51578990407066
+_cell_angle_beta     90.11162829097059
+_cell_angle_gamma    89.76940849164939
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.8563392761986471  0.04869256975366495  0.041025444339937725  1.0000
+  Na  Na2       1.0  0.35761746751817747  0.5500382181998343  0.0402511067731173  1.0000
+  P   P1        1.0  0.35676944366841107  0.04932680345172953  0.33093425575844465  1.0000
+  Mn  Mn1       1.0  0.8581375475437407  0.050415615536915086  0.5406962037474915  1.0000
+  Li  Li1       1.0  0.35591408617332215  0.5484106536084947  0.5407078863005311  1.0000
+  P   P2        1.0  0.8584761015300132  0.5496625304862472  0.7508417369848189  1.0000

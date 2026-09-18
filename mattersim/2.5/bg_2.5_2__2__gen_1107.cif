@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NaONaOGdO2In
+_chemical_formula_sum              "Na2 O4 Gd1 In1"
+_cell_length_a       3.330767048536312
+_cell_length_b       4.650505532960597
+_cell_length_c       8.24426555633545
+_cell_angle_alpha    55.70696483940165
+_cell_angle_beta     89.88415567642986
+_cell_angle_gamma    89.94969132920836
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.5796405673027039  0.3332337439060212  0.26368772983551025  1.0000
+  O   O1        1.0  0.579975426197052  0.8798101544380188  0.2159283459186554  1.0000
+  Na  Na2       1.0  0.07945532351732254  0.6119670271873475  0.4846296012401581  1.0000
+  O   O2        1.0  0.08065493404865265  0.0681043192744255  0.5304656624794006  1.0000
+  Gd  Gd1       1.0  0.580852746963501  0.8546752333641053  0.7440251111984253  1.0000
+  O   O3        1.0  0.5813984870910645  0.31022363901138306  0.7878233194351196  1.0000
+  O   O4        1.0  0.08022215217351913  0.6162253022193909  0.9806423187255859  1.0000
+  In  In1       1.0  0.0803002119064331  0.08352052420377731  0.013803137466311455  1.0000

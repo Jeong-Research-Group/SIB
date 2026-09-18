@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       PbAu2Na
+_chemical_formula_sum              "Pb1 Au2 Na1"
+_cell_length_a       5.098924931823191
+_cell_length_b       5.097822112487155
+_cell_length_c       5.0974202156066895
+_cell_angle_alpha    60.086883575299346
+_cell_angle_beta     60.23412579075087
+_cell_angle_gamma    60.037212556502965
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.253969370601044  0.28570625179511494  0.3601029520540808  1.0000
+  Au  Au1       1.0  0.5028240683865728  0.5347585685951183  0.6108343588376125  1.0000
+  Au  Au2       1.0  0.0037232641961585915  0.034928698155035603  0.11130917011096735  1.0000
+  Na  Na1       1.0  0.7531721002622573  0.7850793014691301  0.8607127663002354  1.0000

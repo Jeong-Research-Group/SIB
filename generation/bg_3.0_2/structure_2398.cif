@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       SbAlNaGaNaSb2
+_chemical_formula_sum              "Sb3 Al1 Na2 Ga1"
+_cell_length_a       4.075753899675134
+_cell_length_b       4.122635742398541
+_cell_length_c       11.890238761901855
+_cell_angle_alpha    89.96310582294475
+_cell_angle_beta     90.01843035584166
+_cell_angle_gamma    89.24859298181141
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.6378005736667236  0.37429961516266885  0.33914947527554695  1.0000
+  Al  Al1       1.0  0.631705940385607  0.3736974605814687  0.10468655845193324  1.0000
+  Na  Na1       1.0  0.1374281505524539  0.8749473084046508  0.3406506178747531  1.0000
+  Ga  Ga1       1.0  0.6386917222665048  0.3749286238126126  0.5755019190578836  1.0000
+  Na  Na2       1.0  0.63785815235345  0.3749964236651253  0.843040704515699  1.0000
+  Sb  Sb2       1.0  0.1378052096109381  0.8743804085823532  0.6437064405062896  1.0000
+  Sb  Sb3       1.0  0.13637047939944477  0.87525743287225  0.045699797276139466  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       FBiHNaF2O
+_chemical_formula_sum              "F3 Bi1 H1 Na1 O1"
+_cell_length_a       4.130366251206509
+_cell_length_b       6.074588540210335
+_cell_length_c       6.0795111656188965
+_cell_angle_alpha    84.74979989446811
+_cell_angle_beta     109.98161854998001
+_cell_angle_gamma    70.12508013165376
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.10824550019315766  0.7114289411465051  0.7423311475567596  1.0000
+  Bi  Bi1       1.0  0.8089839227542711  0.017627719325541313  0.44611665609650253  1.0000
+  H   H1        1.0  0.809627473025527  0.7686573863561112  0.1975522334925471  1.0000
+  Na  Na1       1.0  0.8087931270529571  0.5019918676427331  0.9298555851146914  1.0000
+  F   F2        1.0  0.5103291874608074  0.31421992267065346  0.14112146270332643  1.0000
+  F   F3        1.0  0.8113158356401302  0.2522991590932881  0.6839407678034128  1.0000
+  O   O1        1.0  0.3106399474457455  0.008511425720633115  0.4378810224494731  1.0000

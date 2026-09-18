@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       NaBiO
+_chemical_formula_sum              "Na1 Bi1 O1"
+_cell_length_a       3.411551160334018
+_cell_length_b       3.421106579276238
+_cell_length_c       5.6471381187438965
+_cell_angle_alpha    90.00212669314314
+_cell_angle_beta     89.03756731427322
+_cell_angle_gamma    119.64790776478779
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.9476233736261251  0.9326290499997711  0.761784434272074  1.0000
+  Bi  Bi1       1.0  0.2733819188063977  0.5979849705587731  0.2285090991219257  1.0000
+  O   O1        1.0  0.6120085121366219  0.2655954944875158  0.005071342978975423  1.0000

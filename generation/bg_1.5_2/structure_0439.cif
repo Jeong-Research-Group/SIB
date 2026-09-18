@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NaMgO2FeO
+_chemical_formula_sum              "Na1 Mg1 O3 Fe1"
+_cell_length_a       3.1193715997141673
+_cell_length_b       3.1120663876681167
+_cell_length_c       6.676234722137451
+_cell_angle_alpha    76.55468683689074
+_cell_angle_beta     76.71704651050895
+_cell_angle_gamma    90.4023348176443
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.13757033815155928  0.9416411532781829  0.4504184426155968  1.0000
+  Mg  Mg1       1.0  0.7945229415617113  0.5971916899871342  0.1372300086606955  1.0000
+  O   O1        1.0  0.6312263619918212  0.43450337625688823  0.4635934834144742  1.0000
+  O   O2        1.0  0.960685193248266  0.7647400505613989  0.8043424488048946  1.0000
+  Fe  Fe1       1.0  0.4775648114024285  0.28107413767255607  0.7702556847923674  1.0000
+  O   O3        1.0  0.3147514750600574  0.11774099720315775  0.09194990946356174  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       ZnNaAsZnPLi2
+_chemical_formula_sum              "Zn2 Na1 As1 P1 Li2"
+_cell_length_a       4.2911411993203
+_cell_length_b       4.30198516308568
+_cell_length_c       6.288697242736816
+_cell_angle_alpha    90.03607956452787
+_cell_angle_beta     89.90508336842684
+_cell_angle_gamma    90.2265598828083
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.35335552578440754  0.37350398314797156  0.9137927294718516  1.0000
+  Na  Na1       1.0  0.35290166830679764  0.8749758601636485  0.19419600120507524  1.0000
+  As  As1       1.0  0.8531894085873678  0.37480255916515043  0.1941547100488646  1.0000
+  Zn  Zn2       1.0  0.8530607821729459  0.8742722863167172  0.47592163010944444  1.0000
+  P   P1        1.0  0.3533514729439433  0.8729761835961318  0.6953939192624433  1.0000
+  Li  Li1       1.0  0.35324186039092825  0.37431052423729466  0.47239717806787396  1.0000
+  Li  Li2       1.0  0.8527252668905341  0.8742527951588822  0.9171242123282364  1.0000

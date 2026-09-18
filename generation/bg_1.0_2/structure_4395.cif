@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NaTeCu2TeNaTe
+_chemical_formula_sum              "Na2 Te3 Cu2"
+_cell_length_a       4.284531941371672
+_cell_length_b       4.3414076564997
+_cell_length_c       10.835826873779297
+_cell_angle_alpha    101.82606608145468
+_cell_angle_beta     90.07515506848442
+_cell_angle_gamma    90.01789760490934
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.9765616662044075  0.6422280065226733  0.7152780893915354  1.0000
+  Te  Te1       1.0  0.9775769710784398  0.84363561758027  0.11686482974121212  1.0000
+  Cu  Cu1       1.0  0.47762852855222776  0.07570779971059076  0.5888369677601877  1.0000
+  Cu  Cu2       1.0  0.9778288005673936  0.27317455502604077  0.9779734020697316  1.0000
+  Te  Te2       1.0  0.9772685159605735  0.0165344588872592  0.46351191376846135  1.0000
+  Na  Na2       1.0  0.47843569472816755  0.42666491937522305  0.2876018289669785  1.0000
+  Te  Te3       1.0  0.47688976006655165  0.19661581602151745  0.8257568482065714  1.0000

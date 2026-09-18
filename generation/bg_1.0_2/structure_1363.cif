@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NHfNaSnNS
+_chemical_formula_sum              "N2 Hf1 Na1 Sn1 S1"
+_cell_length_a       3.391507142693872
+_cell_length_b       3.397460419942677
+_cell_length_c       8.97753620147705
+_cell_angle_alpha    89.87515347137666
+_cell_angle_beta     90.0525129980758
+_cell_angle_gamma    119.94618349138607
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  N   N1        1.0  0.4804164186767305  0.5979113587979424  0.6908098455665079  1.0000
+  Hf  Hf1       1.0  0.14569163316427977  0.9323338879397062  0.7975031731384595  1.0000
+  Na  Na1       1.0  0.8127337092599616  0.2682829216626856  0.49092933552523205  1.0000
+  Sn  Sn1       1.0  0.1477646532817096  0.9380877623828485  0.12413689462902817  1.0000
+  N   N2        1.0  0.8136920932765207  0.26637029662094114  0.9678297046381188  1.0000
+  S   S1        1.0  0.4812831291524269  0.6027311686040012  0.28134715508166314  1.0000

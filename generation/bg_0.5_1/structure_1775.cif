@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NbHNaHNaH
+_chemical_formula_sum              "Nb1 H3 Na2"
+_cell_length_a       3.236211160109867
+_cell_length_b       5.856472655086472
+_cell_length_c       4.5702009201049805
+_cell_angle_alpha    113.06993345774923
+_cell_angle_beta     89.40114520590105
+_cell_angle_gamma    105.99840858293574
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.6669382465928513  0.708548010301495  0.38845205244405234  1.0000
+  H   H1        1.0  0.03442273683282428  0.4446847135103465  0.2540822031981532  1.0000
+  Na  Na1       1.0  0.9987823969667354  0.3692036866350496  0.7183947565348788  1.0000
+  H   H2        1.0  0.6676951658542332  0.708570659398307  0.8886315817065762  1.0000
+  Na  Na2       1.0  0.33720406898394045  0.04939726834525654  0.05942609995547249  1.0000
+  H   H3        1.0  0.30108532433770874  0.976109564671348  0.5223457806726403  1.0000

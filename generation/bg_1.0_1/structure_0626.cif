@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       NaTl2In
+_chemical_formula_sum              "Na1 Tl2 In1"
+_cell_length_a       4.0246155640245425
+_cell_length_b       5.074485646036038
+_cell_length_c       5.043520450592041
+_cell_angle_alpha    90.18205438123506
+_cell_angle_beta     90.12652493644607
+_cell_angle_gamma    90.17674048615605
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.02346061934392481  0.711904704103603  0.4863389138058903  1.0000
+  Tl  Tl1       1.0  0.5238922828719665  0.7122566112078866  0.986279190450769  1.0000
+  Tl  Tl2       1.0  0.5245974066527036  0.212078555604648  0.48616352651963296  1.0000
+  In  In1       1.0  0.02431641821516315  0.21261376190532658  0.9865512850757094  1.0000

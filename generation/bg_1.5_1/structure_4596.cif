@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BiAsNa2BiGa
+_chemical_formula_sum              "Bi2 As1 Na2 Ga1"
+_cell_length_a       4.592257704555356
+_cell_length_b       4.641325138133717
+_cell_length_c       7.6824049949646
+_cell_angle_alpha    89.83310001948834
+_cell_angle_beta     89.94504680057211
+_cell_angle_gamma    90.10563820952952
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.6017835148818719  0.9013217100274381  0.1859913911027216  1.0000
+  As  As1       1.0  0.1027806252529205  0.9007522464279392  0.41004458122646276  1.0000
+  Na  Na1       1.0  0.6015682228781712  0.40177595518929504  0.5278230900014118  1.0000
+  Na  Na2       1.0  0.101314432903214  0.9006530651113702  0.8216048479452406  1.0000
+  Bi  Bi2       1.0  0.6013448840476969  0.4000783566314665  0.9409092664293106  1.0000
+  Ga  Ga1       1.0  0.10164690668958423  0.40190663847248687  0.18374191287929298  1.0000

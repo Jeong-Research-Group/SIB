@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NaZnBr2NaBrO2
+_chemical_formula_sum              "Na2 Zn1 Br3 O2"
+_cell_length_a       3.894449700500165
+_cell_length_b       5.694098788592299
+_cell_length_c       8.45170783996582
+_cell_angle_alpha    86.90226582476053
+_cell_angle_beta     89.9399992886985
+_cell_angle_gamma    90.10640319247483
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.8454400889938394  0.7834137678366558  0.036665975769164326  1.0000
+  Zn  Zn1       1.0  0.8488435757316866  0.8234627837200776  0.5503618120628321  1.0000
+  Br  Br1       1.0  0.8480793248080819  0.33003419623034497  0.544375479409226  1.0000
+  Br  Br2       1.0  0.848315954538431  0.27791017343988667  0.04846952894675343  1.0000
+  Na  Na2       1.0  0.34766882610744787  0.29885876232143416  0.2937468883263054  1.0000
+  Br  Br3       1.0  0.34804564695612467  0.8062782280063622  0.7746843692385733  1.0000
+  O   O1        1.0  0.34704428816150595  0.7283296577759658  0.23348623529797488  1.0000
+  O   O2        1.0  0.34804958011940323  0.8711611635331948  0.3721488710203104  1.0000

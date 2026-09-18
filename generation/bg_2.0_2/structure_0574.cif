@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NaSbNa2SbAu
+_chemical_formula_sum              "Na3 Sb2 Au1"
+_cell_length_a       4.514276751888987
+_cell_length_b       4.538671554228513
+_cell_length_c       7.614762306213379
+_cell_angle_alpha    90.35831421408886
+_cell_angle_beta     89.9675454443216
+_cell_angle_gamma    90.59435872950719
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.7090955970721318  0.557975471250922  0.25302100164830926  1.0000
+  Sb  Sb1       1.0  0.20803119313013435  0.05894686006673921  0.3549946848295701  1.0000
+  Na  Na2       1.0  0.20876567083583142  0.5585212700837848  0.5958895681494715  1.0000
+  Na  Na3       1.0  0.2087428575893257  0.057950363278787435  0.9394317266059439  1.0000
+  Sb  Sb2       1.0  0.7095807794136366  0.5573481910612658  0.8368529081632896  1.0000
+  Au  Au1       1.0  0.7080955506680171  0.057918741575892774  0.5967360733206425  1.0000

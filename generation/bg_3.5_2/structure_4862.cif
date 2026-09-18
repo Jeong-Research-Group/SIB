@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CdMgO3NaMg
+_chemical_formula_sum              "Cd1 Mg2 O3 Na1"
+_cell_length_a       3.2227081004472136
+_cell_length_b       3.2268018953298805
+_cell_length_c       8.862685203552246
+_cell_angle_alpha    90.11251622139939
+_cell_angle_beta     89.874402167639
+_cell_angle_gamma    90.0028575234576
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.8467760674501265  0.42461231206233974  0.8791342971988374  1.0000
+  Mg  Mg1       1.0  0.3483173535221924  0.9238925562278906  0.14613786321690617  1.0000
+  O   O1        1.0  0.8475188032390896  0.4223332988393072  0.6312517527945848  1.0000
+  O   O2        1.0  0.3489803682307001  0.9231290805535897  0.36416432289984174  1.0000
+  O   O3        1.0  0.3467033788682531  0.9256152497506464  0.9272508023679075  1.0000
+  Na  Na1       1.0  0.34778019729224663  0.925228417075867  0.6368880873094893  1.0000
+  Mg  Mg2       1.0  0.8493239282112532  0.42204013494027603  0.40640115681874894  1.0000

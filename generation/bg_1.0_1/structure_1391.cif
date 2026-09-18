@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       AuNa2GaAu
+_chemical_formula_sum              "Au2 Na2 Ga1"
+_cell_length_a       4.7544240841695045
+_cell_length_b       4.73761020469054
+_cell_length_c       7.365248203277588
+_cell_angle_alpha    50.15326788819031
+_cell_angle_beta     50.12616202001113
+_cell_angle_gamma    60.16969141951674
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.11237911766908586  0.750179409818618  0.4030808514007334  1.0000
+  Na  Na1       1.0  0.4960063997555957  0.13395618029782702  0.8273869143434884  1.0000
+  Na  Na2       1.0  0.30054974649745264  0.9381517755309107  0.6209118963370949  1.0000
+  Ga  Ga1       1.0  0.8981810820026748  0.53552585805575  0.22493921203761724  1.0000
+  Au  Au2       1.0  0.6853088139360964  0.32318401299385857  0.044222958634619496  1.0000

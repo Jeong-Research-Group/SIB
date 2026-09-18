@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       CuNa2H5
+_chemical_formula_sum              "Cu1 Na2 H5"
+_cell_length_a       3.677803069402659
+_cell_length_b       5.583976456997808
+_cell_length_c       6.349747657775879
+_cell_angle_alpha    67.7087987533349
+_cell_angle_beta     89.67047321075599
+_cell_angle_gamma    90.17695223292971
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.21697293288823685  0.0027284084465383465  0.7030457855249129  1.0000
+  Na  Na1       1.0  0.21661938656585333  0.5023131377168044  0.20385061229856574  1.0000
+  Na  Na2       1.0  0.7172797927516442  0.5021597154642056  0.7036972638877078  1.0000
+  H   H1        1.0  0.7170923938583198  0.2425053573221771  0.1276360456300027  1.0000
+  H   H2        1.0  0.21847647404645784  0.6919547324232234  0.808061838392181  1.0000
+  H   H3        1.0  0.7168750768030125  0.0037217559344373905  0.20279824685270467  1.0000
+  H   H4        1.0  0.7190776465726517  0.7607089289930198  0.2799172693791447  1.0000
+  H   H5        1.0  0.21575078239710813  0.3135182560872826  0.5984461902746268  1.0000

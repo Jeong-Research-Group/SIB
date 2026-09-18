@@ -1,0 +1,27 @@
+data_image0
+_chemical_formula_structural       TeNa
+_chemical_formula_sum              "Te1 Na1"
+_cell_length_a       4.478206794228342
+_cell_length_b       4.525574353065115
+_cell_length_c       4.511632442474365
+_cell_angle_alpha    120.88141242303364
+_cell_angle_beta     90.46277516448055
+_cell_angle_gamma    119.83786823270319
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.4766505658626557  0.9481607079505919  0.09324783086776724  1.0000
+  Na  Na1       1.0  0.9769082069396974  0.9415369629859924  0.5921722054481505  1.0000

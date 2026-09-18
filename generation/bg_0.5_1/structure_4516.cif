@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       MgNa2Ga
+_chemical_formula_sum              "Mg1 Na2 Ga1"
+_cell_length_a       5.181923214889681
+_cell_length_b       5.1780229938313
+_cell_length_c       5.1831583976745605
+_cell_angle_alpha    60.019796567698506
+_cell_angle_beta     59.81759423040041
+_cell_angle_gamma    59.95554367972641
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.8354191787805506  0.3194118741379982  0.4313448965841332  1.0000
+  Na  Na1       1.0  0.5841686723862156  0.06797829233462312  0.18075087709285975  1.0000
+  Na  Na2       1.0  0.08344640493265157  0.5672895917646011  0.6814718832818608  1.0000
+  Ga  Ga1       1.0  0.3364364216286808  0.8189551819000803  0.9305074810888173  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NaMn2ONaO2
+_chemical_formula_sum              "Na2 Mn2 O3"
+_cell_length_a       5.6169403669320985
+_cell_length_b       3.1870702040914995
+_cell_length_c       5.778242111206055
+_cell_angle_alpha    89.91916037992817
+_cell_angle_beta     70.38330322491393
+_cell_angle_gamma    89.41283847898153
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.42518412978548137  0.9427757270202312  0.7508196245857409  1.0000
+  Mn  Mn1       1.0  0.4168856439817446  0.4409961699788037  0.27527612513376687  1.0000
+  Mn  Mn2       1.0  0.8878789549779196  0.9395768050153082  0.2857295867639748  1.0000
+  O   O1        1.0  0.16722391562604336  0.9370627407443377  0.4820285733601759  1.0000
+  Na  Na2       1.0  0.8938344127932661  0.4416743221272426  0.7574667339348865  1.0000
+  O   O2        1.0  0.6659288404484187  0.44122222069495004  0.48743790325628245  1.0000
+  O   O3        1.0  0.6434736847565796  0.9466486560737037  0.04944409438954422  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       NaOMoO2MoCaO2
+_chemical_formula_sum              "Na1 O5 Mo2 Ca1"
+_cell_length_a       4.003995895131695
+_cell_length_b       3.9052649103334844
+_cell_length_c       8.01528263092041
+_cell_angle_alpha    90.00969454304116
+_cell_angle_beta     90.05592126051174
+_cell_angle_gamma    89.89539816361045
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.18103402778990418  0.3064882764448431  0.7477784161365899  1.0000
+  O   O1        1.0  0.68151205780566  0.3055676228849338  0.4946545060120188  1.0000
+  Mo  Mo1       1.0  0.6803936961525929  0.8055465221670349  0.005429255166174718  1.0000
+  O   O2        1.0  0.180983410359441  0.8052381866120344  0.49455916878394124  1.0000
+  O   O3        1.0  0.6815019259903055  0.8057196733237135  0.7582687735172627  1.0000
+  Mo  Mo2       1.0  0.6808944337416906  0.8052224514174501  0.5096873042987018  1.0000
+  Ca  Ca1       1.0  0.18101805573027957  0.30494135701917874  0.2678579689463721  1.0000
+  O   O4        1.0  0.6814832676309447  0.8055033675316682  0.2596267168507245  1.0000
+  O   O5        1.0  0.18104755939137135  0.8063586348924383  0.023209515514302677  1.0000

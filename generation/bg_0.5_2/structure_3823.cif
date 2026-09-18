@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       NaBaSn
+_chemical_formula_sum              "Na1 Ba1 Sn1"
+_cell_length_a       3.617309019050313
+_cell_length_b       5.600681321400206
+_cell_length_c       5.635288715362549
+_cell_angle_alpha    120.39599034661566
+_cell_angle_beta     90.55806999257167
+_cell_angle_gamma    89.47678265842477
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.5144898288976233  0.0865915343405005  0.5703867673070823  1.0000
+  Ba  Ba1       1.0  0.20345085983448305  0.4179041686634301  0.23609514499007836  1.0000
+  Sn  Sn1       1.0  0.8344172835535656  0.7512947319628418  0.9038922190405536  1.0000

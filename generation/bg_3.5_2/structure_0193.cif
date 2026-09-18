@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       RbMoOFRbF3
+_chemical_formula_sum              "Rb2 Mo1 O1 F4"
+_cell_length_a       6.237110164453683
+_cell_length_b       6.347588660334566
+_cell_length_c       6.26978874206543
+_cell_angle_alpha    59.44399752161218
+_cell_angle_beta     61.300709381035105
+_cell_angle_gamma    58.839258566605174
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.3876012264464448  0.7839168319097538  0.5945822592487138  1.0000
+  Mo  Mo1       1.0  0.6102186435175939  0.05927416296407097  0.821228326176054  1.0000
+  O   O1        1.0  0.4134447881795445  0.25370514343006395  0.6249426601773875  1.0000
+  F   F1        1.0  0.8659452796708527  0.2404859356003564  0.6399924166764729  1.0000
+  Rb  Rb2       1.0  0.8848237398327544  0.28184786392860445  0.0984776474746465  1.0000
+  F   F2        1.0  0.8686338071114156  0.8002830153603908  0.6402667752668749  1.0000
+  F   F3        1.0  0.43216136097141844  0.8007161023236096  0.07791252493766676  1.0000
+  F   F4        1.0  0.4286404840710854  0.24006916617802834  0.07754544227635449  1.0000

@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       NaInN
+_chemical_formula_sum              "Na1 In1 N1"
+_cell_length_a       4.111416828386732
+_cell_length_b       4.122554843298994
+_cell_length_c       4.127982139587402
+_cell_angle_alpha    60.27239623322911
+_cell_angle_beta     60.214389326107316
+_cell_angle_gamma    59.87193781795517
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.10975771454794955  0.9636416428732956  0.20760713504098072  1.0000
+  In  In1       1.0  0.6105182771220086  0.46654796633928125  0.7078847878804853  1.0000
+  N   N1        1.0  0.3601098961787964  0.21296061499244978  0.4574300654010809  1.0000

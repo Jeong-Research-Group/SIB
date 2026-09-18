@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       VNaS2LiSNa
+_chemical_formula_sum              "V1 Na2 S3 Li1"
+_cell_length_a       3.6877007742255214
+_cell_length_b       6.172741751474491
+_cell_length_c       7.019690036773682
+_cell_angle_alpha    118.35329744269715
+_cell_angle_beta     90.02168835487365
+_cell_angle_gamma    90.45539172833945
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.003992215850567589  0.4398363836770209  0.7335096604346809  1.0000
+  Na  Na1       1.0  0.5038924208813319  0.6213633426680685  0.3827860059264577  1.0000
+  S   S1        1.0  0.5041249391640075  0.1613682351417923  0.5186039211897829  1.0000
+  S   S2        1.0  0.5051776163608684  0.7324653268388075  0.8134212499521788  1.0000
+  Li  Li1       1.0  0.5042080869627031  0.13795322263701912  0.8621486429211536  1.0000
+  S   S3        1.0  0.004809338357447697  0.39962705999676906  0.05218725272253535  1.0000
+  Na  Na2       1.0  0.006000981496474991  0.9739655857921821  0.1681567726688212  1.0000

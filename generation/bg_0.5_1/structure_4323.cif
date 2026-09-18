@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       RuNaO2MgO
+_chemical_formula_sum              "Ru1 Na1 O3 Mg1"
+_cell_length_a       3.0825473484917882
+_cell_length_b       3.107193330521313
+_cell_length_c       7.757983207702637
+_cell_angle_alpha    89.85210841703646
+_cell_angle_beta     89.91977510690117
+_cell_angle_gamma    119.53538612941368
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ru  Ru1       1.0  0.7365847814283984  0.6426962600205948  0.9428642397838835  1.0000
+  Na  Na1       1.0  0.06898037240820916  0.30771103556918594  0.2875983122702309  1.0000
+  O   O1        1.0  0.4005500982575812  0.9775828123862672  0.07678067738985228  1.0000
+  O   O2        1.0  0.7380103488453293  0.6408513195087283  0.4880867297545092  1.0000
+  Mg  Mg1       1.0  0.402390450540648  0.9747133837444815  0.6082064513268568  1.0000
+  O   O3        1.0  0.07348792379537465  0.3076846909545799  0.7917755837751845  1.0000

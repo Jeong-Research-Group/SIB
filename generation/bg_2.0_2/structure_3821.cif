@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Na2InClIClI
+_chemical_formula_sum              "Na2 In1 Cl2 I2"
+_cell_length_a       4.079576697476953
+_cell_length_b       7.436587452358138
+_cell_length_c       7.4380903244018555
+_cell_angle_alpha    111.49227711955848
+_cell_angle_beta     89.20121195407623
+_cell_angle_gamma    88.81812012615076
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.2873861778036273  0.3308188019176316  0.8224251865721164  1.0000
+  Na  Na2       1.0  0.2863283159203554  0.8307967188016366  0.3218371276936386  1.0000
+  In  In1       1.0  0.7879450316311576  0.33183935295714717  0.322720736478012  1.0000
+  Cl  Cl1       1.0  0.78771126168305  0.5579776757839078  0.09577639400767027  1.0000
+  I   I1        1.0  0.28493764919696163  0.5719032877249881  0.5622658728993145  1.0000
+  Cl  Cl2       1.0  0.7858803879536242  0.104638092753746  0.5476746560604051  1.0000
+  I   I2        1.0  0.2893427907627077  0.09035745222834526  0.0821394396597448  1.0000

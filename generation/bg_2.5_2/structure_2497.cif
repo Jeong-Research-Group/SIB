@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       HoNaFeNaO4
+_chemical_formula_sum              "Ho1 Na2 Fe1 O4"
+_cell_length_a       3.708747876160722
+_cell_length_b       3.720962152632483
+_cell_length_c       8.20871639251709
+_cell_angle_alpha    89.89061701718023
+_cell_angle_beta     89.78155940159121
+_cell_angle_gamma    89.96111823703312
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.06079168951613728  0.18005718263881929  0.7821326853358485  1.0000
+  Na  Na1       1.0  0.5601757181825466  0.6815491313528423  0.061624448332031456  1.0000
+  Fe  Fe1       1.0  0.5611131201342798  0.6800870898386937  0.5609336491099501  1.0000
+  Na  Na2       1.0  0.06066076830776211  0.18066975395071735  0.3375830948966604  1.0000
+  O   O1        1.0  0.06075670508916542  0.18001213774550004  0.046786285641334045  1.0000
+  O   O2        1.0  0.5611942411085603  0.18016016427876322  0.5560550694889159  1.0000
+  O   O3        1.0  0.560941518686566  0.6803200246924348  0.7928158046952475  1.0000
+  O   O4        1.0  0.06142815198279613  0.6799533956493283  0.5555535549670427  1.0000

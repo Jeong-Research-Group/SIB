@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ga3NaGa2
+_chemical_formula_sum              "Ga5 Na1"
+_cell_length_a       4.541133408403932
+_cell_length_b       5.6386764570188515
+_cell_length_c       5.627047538757324
+_cell_angle_alpha    120.10506565497882
+_cell_angle_beta     89.99741386276814
+_cell_angle_gamma    90.00114314614156
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.735107540381866  0.5912911883623037  0.28080928266089744  1.0000
+  Ga  Ga2       1.0  0.23277194720906033  0.7622901790122093  0.11472787629411524  1.0000
+  Ga  Ga3       1.0  0.23485770900524816  0.7634403701236983  0.6148863439278347  1.0000
+  Na  Na1       1.0  0.7343752373809975  0.26313021707826656  0.6147296421941404  1.0000
+  Ga  Ga4       1.0  0.23520469687952042  0.2621837565937063  0.11477272200452909  1.0000
+  Ga  Ga5       1.0  0.7331857671794088  0.9342362881953088  0.9481258399526112  1.0000

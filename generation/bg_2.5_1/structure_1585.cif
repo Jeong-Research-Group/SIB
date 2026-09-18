@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       ClOTiNaCl
+_chemical_formula_sum              "Cl2 O1 Ti1 Na1"
+_cell_length_a       4.4805782762110375
+_cell_length_b       4.862086621825792
+_cell_length_c       4.882829666137695
+_cell_angle_alpha    90.06559964319673
+_cell_angle_beta     90.05079862136013
+_cell_angle_gamma    90.071808286011
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.3432907451568117  0.20522771734948583  0.2897538247302318  1.0000
+  O   O1        1.0  0.8431884039536116  0.7048583023439411  0.289654164791792  1.0000
+  Ti  Ti1       1.0  0.3435653153222398  0.7045045504233957  0.2894457571075137  1.0000
+  Na  Na1       1.0  0.8431784521293018  0.20470301800178722  0.7889454957415397  1.0000
+  Cl  Cl2       1.0  0.34243649293655354  0.7048956155955823  0.7900022273997155  1.0000

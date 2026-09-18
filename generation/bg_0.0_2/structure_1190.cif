@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       O2NaReO
+_chemical_formula_sum              "O3 Na1 Re1"
+_cell_length_a       3.9160186523139875
+_cell_length_b       3.911732230799718
+_cell_length_c       3.9099795818328857
+_cell_angle_alpha    89.97861718177927
+_cell_angle_beta     89.96716295745344
+_cell_angle_gamma    89.98867122071442
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.7409274589109006  0.003646612403398772  0.7416139246448293  1.0000
+  O   O2        1.0  0.24080646160094102  0.0036624519348052273  0.24153994033078635  1.0000
+  Na  Na1       1.0  0.24089822257877638  0.5034915810609384  0.7416170231464387  1.0000
+  Re  Re1       1.0  0.7407153834301924  0.003130700254808026  0.2414998268733138  1.0000
+  O   O3        1.0  0.7407602657782238  0.503759145411346  0.2416225823666907  1.0000

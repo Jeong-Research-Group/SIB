@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       NaZrO
+_chemical_formula_sum              "Na1 Zr1 O1"
+_cell_length_a       3.2133587240656944
+_cell_length_b       3.2277759775794275
+_cell_length_c       6.033426761627197
+_cell_angle_alpha    75.09965678464486
+_cell_angle_beta     75.00677951316173
+_cell_angle_gamma    59.560485216355
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.8144591464900435  0.9730491036395466  0.5673917533250941  1.0000
+  Zr  Zr1       1.0  0.30436635052643674  0.46181735436492527  0.09070846439283178  1.0000
+  O   O1        1.0  0.5765650873149764  0.7326663724792112  0.2875269947973013  1.0000

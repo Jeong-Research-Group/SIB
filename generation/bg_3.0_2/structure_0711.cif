@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Na2MgGe2Si
+_chemical_formula_sum              "Na2 Mg1 Ge2 Si1"
+_cell_length_a       4.234222948706718
+_cell_length_b       4.232610880370655
+_cell_length_c       7.251278400421143
+_cell_angle_alpha    90.09171827949908
+_cell_angle_beta     90.00962624110268
+_cell_angle_gamma    90.22871139499715
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.1603225757727439  0.21892867950387157  0.004569255459816519  1.0000
+  Na  Na2       1.0  0.6605054146132121  0.7204419969018497  0.29152381358007384  1.0000
+  Mg  Mg1       1.0  0.6603814965095649  0.21944759805730096  0.6470796468181845  1.0000
+  Ge  Ge1       1.0  0.6607717869390385  0.7185990204573768  0.8699067828730435  1.0000
+  Ge  Ge2       1.0  0.16127853114226598  0.22016608794788897  0.42815986314372223  1.0000
+  Si  Si1       1.0  0.16125915881835226  0.7210821514395926  0.6487922075737965  1.0000

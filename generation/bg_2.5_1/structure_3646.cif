@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NaSeNaZnNaZnSe2
+_chemical_formula_sum              "Na3 Se3 Zn2"
+_cell_length_a       5.844383467792397
+_cell_length_b       5.870003884631941
+_cell_length_c       7.189189910888672
+_cell_angle_alpha    90.31274321421823
+_cell_angle_beta     52.37532168307739
+_cell_angle_gamma    75.6824090014665
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.11066754192288818  0.4762885275702972  0.5779892205808459  1.0000
+  Se  Se1       1.0  0.09763772843085584  0.9924989340245736  0.4556509554857471  1.0000
+  Na  Na2       1.0  0.7418453699979087  0.8507638570752808  0.3298512392342155  1.0000
+  Zn  Zn1       1.0  0.00865135358006342  0.9820073241672028  0.8225811715698829  1.0000
+  Na  Na3       1.0  0.3678707179152251  0.22491860423460153  0.9512832170143903  1.0000
+  Zn  Zn2       1.0  0.4775808157042543  0.7173116796366826  0.08670501379124941  1.0000
+  Se  Se2       1.0  0.39001074366127747  0.706898629223777  0.8087554574303772  1.0000
+  Se  Se3       1.0  0.7409386044150019  0.348007619309119  0.09948685048425705  1.0000

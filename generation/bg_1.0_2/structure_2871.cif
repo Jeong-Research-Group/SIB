@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NVNNaCrN
+_chemical_formula_sum              "N3 V1 Na1 Cr1"
+_cell_length_a       3.0464362177529125
+_cell_length_b       3.046642332521751
+_cell_length_c       8.1082181930542
+_cell_angle_alpha    89.85288706546649
+_cell_angle_beta     89.82206923864838
+_cell_angle_gamma    59.725025985286855
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  N   N1        1.0  0.9680467832843447  0.3229185948715244  0.5235711336397865  1.0000
+  V   V1        1.0  0.30262353814222315  0.6575911652528296  0.40362083929684944  1.0000
+  N   N2        1.0  0.6350036271186073  0.9907565714806643  0.2377630775272267  1.0000
+  Na  Na1       1.0  0.6347263444905797  0.9905845539254611  0.7422124746079822  1.0000
+  Cr  Cr1       1.0  0.969231961108754  0.32223025100369473  0.07847674890819181  1.0000
+  N   N3        1.0  0.30236470671371724  0.6570857772195641  0.9545822140123059  1.0000

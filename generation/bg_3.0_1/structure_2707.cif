@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Na2SnNaBiMgNaSn
+_chemical_formula_sum              "Na4 Sn2 Bi1 Mg1"
+_cell_length_a       5.369604408034591
+_cell_length_b       6.782558440995921
+_cell_length_c       6.77777099609375
+_cell_angle_alpha    119.95439346042515
+_cell_angle_beta     90.14001456563737
+_cell_angle_gamma    89.91646245073436
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.6119315616262813  0.6198226216078442  0.8691741821597188  1.0000
+  Na  Na2       1.0  0.1120914002574171  0.4597479993779654  0.03913178629108427  1.0000
+  Sn  Sn1       1.0  0.612676798459999  0.6203526250835916  0.37820196106804144  1.0000
+  Na  Na3       1.0  0.6127710341829167  0.13005097185848125  0.37604781972099605  1.0000
+  Bi  Bi1       1.0  0.6117019061651446  0.11287768849235183  0.8755149832339768  1.0000
+  Mg  Mg1       1.0  0.11262178499375684  0.9653772115423884  0.031791224683472494  1.0000
+  Na  Na4       1.0  0.11236912704783679  0.9594317079015922  0.5367552634988783  1.0000
+  Sn  Sn2       1.0  0.11272771606951451  0.4651635880300776  0.5332266691585423  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       MnBrOBrNaO2Br
+_chemical_formula_sum              "Mn1 Br3 O3 Na1"
+_cell_length_a       5.974806149748131
+_cell_length_b       6.286002648435102
+_cell_length_c       6.324467182159424
+_cell_angle_alpha    70.40346443086489
+_cell_angle_beta     67.97738274028883
+_cell_angle_gamma    67.30172055917792
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.6870980854690133  0.00019609971335559  0.25858241362417184  1.0000
+  Br  Br1       1.0  0.9308584928427972  0.23498360765090018  0.02615919661568072  1.0000
+  O   O1        1.0  0.39782312432493133  0.15458741813853477  0.4075220225064324  1.0000
+  Br  Br2       1.0  0.9276564121405627  0.7684759504610441  0.49908828718043097  1.0000
+  Na  Na1       1.0  0.9538633824406888  0.25508236890504343  0.5184341673647047  1.0000
+  O   O2        1.0  0.46593978922462226  0.4498040385696415  0.6988877649741502  1.0000
+  O   O3        1.0  0.6220011120572619  0.8499891749423875  0.11173834735179537  1.0000
+  Br  Br3       1.0  0.3307016786852806  0.610556484066535  0.864559352263537  1.0000

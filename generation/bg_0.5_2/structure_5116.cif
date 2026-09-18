@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       KO2Ti2O
+_chemical_formula_sum              "K1 O3 Ti2"
+_cell_length_a       3.8061755029456075
+_cell_length_b       3.8033667291512017
+_cell_length_c       6.258776664733887
+_cell_angle_alpha    90.11704463004675
+_cell_angle_beta     90.48125080401577
+_cell_angle_gamma    90.16542969159546
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.32828056881228407  0.6186984778361722  0.8979815841836607  1.0000
+  O   O1        1.0  0.8366195547408282  0.11880602662537769  0.5977654463458321  1.0000
+  O   O2        1.0  0.8220029464074571  0.1185159843986934  0.2033893760964777  1.0000
+  Ti  Ti1       1.0  0.32795512749153827  0.1169460049377863  0.3996941439785581  1.0000
+  Ti  Ti2       1.0  0.828708945807799  0.6185953606506335  0.3993558582464025  1.0000
+  O   O3        1.0  0.32674315580097396  0.6207988249585523  0.3968414062893406  1.0000

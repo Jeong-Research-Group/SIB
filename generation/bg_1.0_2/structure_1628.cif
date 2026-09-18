@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       STiS2CuNaNb
+_chemical_formula_sum              "S3 Ti1 Cu1 Na1 Nb1"
+_cell_length_a       3.930454649609077
+_cell_length_b       3.9478209431982916
+_cell_length_c       9.846365928649902
+_cell_angle_alpha    89.80472056264988
+_cell_angle_beta     90.165361399623
+_cell_angle_gamma    120.20063447246147
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.7436535346367635  0.9577116356946829  0.8426811700003348  1.0000
+  Ti  Ti1       1.0  0.41167351653390805  0.2898715742612264  0.7784107326766965  1.0000
+  S   S2        1.0  0.41211012089660354  0.29272151019915027  0.5501319169107677  1.0000
+  S   S3        1.0  0.744425891581928  0.9592349514976753  0.2646435197227676  1.0000
+  Cu  Cu1       1.0  0.41290903132525475  0.29358974138455807  0.3201834561221441  1.0000
+  Na  Na1       1.0  0.07823274927610635  0.6265527608641878  0.06503621460177031  1.0000
+  Nb  Nb1       1.0  0.7455829969392795  0.9586604244127573  0.5349804161468839  1.0000

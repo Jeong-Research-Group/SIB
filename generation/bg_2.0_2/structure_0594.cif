@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Na2Cl2MnNaCl2
+_chemical_formula_sum              "Na3 Cl4 Mn1"
+_cell_length_a       3.897704922748309
+_cell_length_b       5.4764962983546495
+_cell_length_c       7.909590721130371
+_cell_angle_alpha    90.08675273702796
+_cell_angle_beta     90.30283258155914
+_cell_angle_gamma    90.08809144832915
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.3155204957195398  0.5060908793096748  0.439822078361634  1.0000
+  Na  Na2       1.0  0.8155936605842568  0.005497756016075919  0.6909875278415978  1.0000
+  Cl  Cl1       1.0  0.3154600261077704  0.006527931679060537  0.4396030608576403  1.0000
+  Cl  Cl2       1.0  0.8159714330003665  0.5058127647119557  0.714858055199379  1.0000
+  Mn  Mn1       1.0  0.3166674079760152  0.5059860949161713  0.9392437333949692  1.0000
+  Na  Na3       1.0  0.816080212882959  0.006641520992760359  0.1872089806483533  1.0000
+  Cl  Cl3       1.0  0.8151308883542755  0.5067450399609352  0.16467030352682918  1.0000
+  Cl  Cl4       1.0  0.31569737296910805  0.005649515809200583  0.9389608500193017  1.0000

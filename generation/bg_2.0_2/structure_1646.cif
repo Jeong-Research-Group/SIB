@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       PbNbNdNa
+_chemical_formula_sum              "Pb1 Nb1 Nd1 Na1"
+_cell_length_a       5.361702769110855
+_cell_length_b       5.364979527334851
+_cell_length_c       5.355113983154297
+_cell_angle_alpha    60.27654953575677
+_cell_angle_beta     60.20878789039484
+_cell_angle_gamma    60.15730651027322
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.02156827604096103  0.9465966214985201  0.11646285724901756  1.0000
+  Nb  Nb1       1.0  0.7721797815910028  0.6961913104674682  0.8670881986143831  1.0000
+  Nd  Nd1       1.0  0.5217296476345437  0.44663885312930757  0.6170241823367901  1.0000
+  Na  Na1       1.0  0.2719022636649252  0.19618159460104015  0.36633154806781565  1.0000

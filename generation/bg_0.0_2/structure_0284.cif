@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Na3As2Cu
+_chemical_formula_sum              "Na3 As2 Cu1"
+_cell_length_a       3.9618250815402245
+_cell_length_b       5.470475946284104
+_cell_length_c       6.737828254699707
+_cell_angle_alpha    88.52457233388395
+_cell_angle_beta     89.83394695737289
+_cell_angle_gamma    111.49234525690704
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.7770230178899601  0.6055896274941307  0.19636571462187988  1.0000
+  Na  Na2       1.0  0.07743632756463907  0.20278042558017875  0.5068551302334064  1.0000
+  Na  Na3       1.0  0.47782015807350264  0.007365569476197387  0.8868501775903247  1.0000
+  As  As1       1.0  0.18248623621395987  0.41963380570109937  0.9163494712095005  1.0000
+  As  As2       1.0  0.37188673048852844  0.7933534374456052  0.4738102856217446  1.0000
+  Cu  Cu1       1.0  0.7784325483161904  0.6057107442906946  0.6969525815336228  1.0000

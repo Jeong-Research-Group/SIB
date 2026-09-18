@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       AlKNaFNaF4
+_chemical_formula_sum              "Al1 K1 Na2 F5"
+_cell_length_a       5.8004818304485
+_cell_length_b       5.814110276129391
+_cell_length_c       5.775984287261963
+_cell_angle_alpha    60.066050272985606
+_cell_angle_beta     60.11072012370952
+_cell_angle_gamma    59.158930865199665
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.935442626502012  0.8356418612009222  0.12865233382191138  1.0000
+  K   K1        1.0  0.20079016621018253  0.1012074053178254  0.3639743626142912  1.0000
+  Na  Na1       1.0  0.6929918520232617  0.5887864825974982  0.877477706395762  1.0000
+  F   F1        1.0  0.7254170171483911  0.6264678843469393  0.3344574269325558  1.0000
+  Na  Na2       1.0  0.4615020155091118  0.3628441995971171  0.6034625763333232  1.0000
+  F   F2        1.0  0.7413566122176217  0.08124932578431485  0.8835160728503232  1.0000
+  F   F3        1.0  0.7405139205375794  0.08389239086792759  0.31957763343364315  1.0000
+  F   F4        1.0  0.1802904161609945  0.64145630620296  0.8834700586864067  1.0000
+  F   F5        1.0  0.18113766648080992  0.640021561525454  0.32247331792854944  1.0000

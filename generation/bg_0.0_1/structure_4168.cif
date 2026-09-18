@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Na2BiZnNaLiAu
+_chemical_formula_sum              "Na3 Bi1 Zn1 Li1 Au1"
+_cell_length_a       5.185509739939464
+_cell_length_b       5.204331718809966
+_cell_length_c       7.6911301612854
+_cell_angle_alpha    90.02011741303566
+_cell_angle_beta     90.13030202803819
+_cell_angle_gamma    120.29871160976512
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.8683556924988334  0.06231970412717524  0.3102937040963028  1.0000
+  Na  Na2       1.0  0.8677020078769655  0.0612792339071692  0.8661446571107758  1.0000
+  Bi  Bi1       1.0  0.5349996694018455  0.3938537837294093  0.10518572470661143  1.0000
+  Zn  Zn1       1.0  0.5343757858477558  0.39405125341811714  0.43982347878026057  1.0000
+  Na  Na3       1.0  0.2009932386268177  0.727451979279402  0.6113003493964372  1.0000
+  Li  Li1       1.0  0.2029844979852338  0.7283033141656591  0.10509264519347106  1.0000
+  Au  Au1       1.0  0.5351352096103994  0.39525574463389856  0.7498763795596197  1.0000

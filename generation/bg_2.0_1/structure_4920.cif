@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NaTiNaMg3S
+_chemical_formula_sum              "Na2 Ti1 Mg3 S1"
+_cell_length_a       4.467507251353151
+_cell_length_b       4.471305785014739
+_cell_length_c       9.204628944396973
+_cell_angle_alpha    89.80942656112205
+_cell_angle_beta     90.36080725859571
+_cell_angle_gamma    119.54250436591668
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.4074170897155152  0.16502408682269598  0.08897237494861603  1.0000
+  Ti  Ti1       1.0  0.40767821724488373  0.1647060064683347  0.4045503134363633  1.0000
+  Na  Na2       1.0  0.7399745579912091  0.8301069740678645  0.9234259723162093  1.0000
+  Mg  Mg1       1.0  0.40532565168732193  0.1621896618929289  0.7178092602403765  1.0000
+  Mg  Mg2       1.0  0.7418471578619745  0.8309014435897757  0.3188410403927539  1.0000
+  Mg  Mg3       1.0  0.07431749925424945  0.4986335043931859  0.5233455898967166  1.0000
+  S   S1        1.0  0.07110030824242024  0.4954367573716184  0.8207973242326261  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       MoKO3
+_chemical_formula_sum              "Mo1 K1 O3"
+_cell_length_a       4.016290946965915
+_cell_length_b       4.0278129702819365
+_cell_length_c       4.014184951782227
+_cell_angle_alpha    90.0045172596014
+_cell_angle_beta     89.96477238878593
+_cell_angle_gamma    90.0075976753289
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.2831342509957255  0.7474734199480041  0.908058344779627  1.0000
+  K   K1        1.0  0.7849600325112628  0.25040966386411584  0.4088024205122021  1.0000
+  O   O1        1.0  0.2861630925002635  0.24901263522638084  0.9082635049722931  1.0000
+  O   O2        1.0  0.7842175969238073  0.7499748469492497  0.9094483842421406  1.0000
+  O   O3        1.0  0.28312173385450795  0.7500160330726364  0.41140308957500804  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       SrNb2Na
+_chemical_formula_sum              "Sr1 Nb2 Na1"
+_cell_length_a       5.059611667360227
+_cell_length_b       5.061817515668096
+_cell_length_c       5.0857954025268555
+_cell_angle_alpha    60.07524250655004
+_cell_angle_beta     60.08216277005672
+_cell_angle_gamma    60.24253521443819
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.6378077257873133  0.6165295843520832  0.6596227882986433  1.0000
+  Nb  Nb1       1.0  0.8882735378912046  0.8666223284047713  0.9100768562172511  1.0000
+  Nb  Nb2       1.0  0.13768428447006478  0.11600326013289515  0.16016668231679615  1.0000
+  Na  Na1       1.0  0.38749531022935085  0.36591499943169997  0.40915962979813914  1.0000

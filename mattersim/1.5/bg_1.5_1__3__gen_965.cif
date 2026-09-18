@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       KHNaH2K
+_chemical_formula_sum              "K2 H3 Na1"
+_cell_length_a       3.8419865647875433
+_cell_length_b       5.406339519318639
+_cell_length_c       6.664934158325195
+_cell_angle_alpha    114.52762589787972
+_cell_angle_beta     73.32771449659101
+_cell_angle_gamma    90.18553702707231
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.7545368075370789  0.6031520962715149  0.9218251109123231  1.0000
+  H   H1        1.0  0.7438148856163025  0.11408969759941101  0.9433273673057557  1.0000
+  Na  Na1       1.0  0.08679810166358948  0.2712230384349823  0.2573132812976837  1.0000
+  H   H2        1.0  0.42924943566322327  0.4291881620883942  0.5708546042442322  1.0000
+  H   H3        1.0  0.08635511249303818  0.7708648443222046  0.25655555725097656  1.0000
+  K   K2        1.0  0.419014036655426  0.9393437504768373  0.593376636505127  1.0000

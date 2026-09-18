@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       LuOTiO2NaTiO2
+_chemical_formula_sum              "Lu1 O5 Ti2 Na1"
+_cell_length_a       3.8317321949331595
+_cell_length_b       3.8285576558478427
+_cell_length_c       7.54034423828125
+_cell_angle_alpha    89.96683510725907
+_cell_angle_beta     89.94401543682656
+_cell_angle_gamma    89.9968332965504
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.1305053823893586  0.39803609206351775  0.337102829872762  1.0000
+  O   O1        1.0  0.6308423881115887  0.396661281661586  0.14875164572570806  1.0000
+  Ti  Ti1       1.0  0.6310604812478847  0.896362901784831  0.5907964111666656  1.0000
+  O   O2        1.0  0.6304243803483157  0.8968744287114331  0.8363820912723362  1.0000
+  O   O3        1.0  0.13059961775711143  0.8960167766005969  0.5229431394637484  1.0000
+  Na  Na1       1.0  0.1298482126150113  0.39682990393847173  0.8361871242489095  1.0000
+  Ti  Ti2       1.0  0.6309103966634654  0.8970010873974325  0.08200614892787077  1.0000
+  O   O4        1.0  0.6304339168271558  0.39619252019456214  0.5230843431416115  1.0000
+  O   O5        1.0  0.13105978107830848  0.896676779832685  0.14914041820330107  1.0000

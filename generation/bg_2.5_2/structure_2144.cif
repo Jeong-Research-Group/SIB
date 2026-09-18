@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NaTe2NaTeNaAlNa
+_chemical_formula_sum              "Na4 Te3 Al1"
+_cell_length_a       4.615683556829307
+_cell_length_b       7.42092241579594
+_cell_length_c       7.689487457275391
+_cell_angle_alpha    66.68056922558796
+_cell_angle_beta     90.00132073100941
+_cell_angle_gamma    89.81693977484416
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.9499125484082229  0.13163009348007018  0.8596115705748518  1.0000
+  Te  Te1       1.0  0.44989859968851187  0.37839272562596016  0.5651665326557149  1.0000
+  Te  Te2       1.0  0.4502089923093929  0.11758350555990774  0.15537455650592463  1.0000
+  Na  Na2       1.0  0.44870141225118687  0.7142927055039381  0.16600467312588826  1.0000
+  Te  Te3       1.0  0.949825049187635  0.6683232780904602  0.8773051504974623  1.0000
+  Na  Na3       1.0  0.4495711626251768  0.9309137463471643  0.5852805973602921  1.0000
+  Al  Al1       1.0  0.4497467883595901  0.45142182651094076  0.8726025232295489  1.0000
+  Na  Na4       1.0  0.9499996314478207  0.31579214362076946  0.3010861870615376  1.0000

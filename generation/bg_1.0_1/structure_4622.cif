@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       MgNaSbONaNiMg
+_chemical_formula_sum              "Mg2 Na2 Sb1 O1 Ni1"
+_cell_length_a       3.100315772530393
+_cell_length_b       3.0900549050390707
+_cell_length_c       13.177879333496094
+_cell_angle_alpha    89.39957424431704
+_cell_angle_beta     88.52481127554317
+_cell_angle_gamma    89.81510244676956
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.5006183393997493  0.6021100268285979  0.553293406872736  1.0000
+  Na  Na1       1.0  0.9494552005123152  0.07861284951718725  0.19711269469478304  1.0000
+  Sb  Sb1       1.0  0.013539412433510038  0.10064184823387781  0.4228949549507509  1.0000
+  O   O1        1.0  0.45710188302878174  0.5869677056107183  0.08172770567394107  1.0000
+  Na  Na2       1.0  0.9829151034025428  0.101128130558703  0.7181796432440309  1.0000
+  Ni  Ni1       1.0  0.4700436891616197  0.6008184554072881  0.8552739622201152  1.0000
+  Mg  Mg2       1.0  0.9595301747731421  0.09602967616856883  0.9876089099788423  1.0000

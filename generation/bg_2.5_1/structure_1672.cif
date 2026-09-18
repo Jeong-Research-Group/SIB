@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NaMoPtS2NaS2
+_chemical_formula_sum              "Na2 Mo1 Pt1 S4"
+_cell_length_a       3.6143557596214047
+_cell_length_b       5.270448206560631
+_cell_length_c       7.817513465881348
+_cell_angle_alpha    89.94031347896112
+_cell_angle_beta     89.96505242638241
+_cell_angle_gamma    89.89850589070141
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.7821262466844068  0.27941179196377697  0.41460350203517077  1.0000
+  Mo  Mo1       1.0  0.7826603658701726  0.2809519166006962  0.9174618717464331  1.0000
+  Pt  Pt1       1.0  0.2824428678177047  0.7805224660952078  0.16416223348264491  1.0000
+  S   S1        1.0  0.2816379355239731  0.27901679246621675  0.1361933495228471  1.0000
+  S   S2        1.0  0.7825477115256914  0.7796089061904982  0.3747684362527666  1.0000
+  Na  Na2       1.0  0.2822275166083121  0.7799862619901027  0.657751024286062  1.0000
+  S   S3        1.0  0.2822154463601161  0.2802298076105819  0.7016326194685618  1.0000
+  S   S4        1.0  0.7812115546165436  0.7809402948189001  0.9448121189790256  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CuNaCu2Se3
+_chemical_formula_sum              "Cu3 Na1 Se3"
+_cell_length_a       4.017407825021531
+_cell_length_b       4.016256128975503
+_cell_length_c       11.37116527557373
+_cell_angle_alpha    90.26424201550262
+_cell_angle_beta     89.93848981733393
+_cell_angle_gamma    120.20806566119832
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.8013188253422163  0.9440884001220144  0.9827268720326924  1.0000
+  Na  Na1       1.0  0.13125218306078726  0.6103259312303763  0.3467267157630059  1.0000
+  Cu  Cu2       1.0  0.46729847627445115  0.27867931025717985  0.12398424013183848  1.0000
+  Cu  Cu3       1.0  0.7983216048317098  0.9398910390514003  0.5646796821809221  1.0000
+  Se  Se1       1.0  0.7999827269093018  0.9444143772798937  0.20429602302909658  1.0000
+  Se  Se2       1.0  0.46938172081441265  0.2793650922553051  0.9137250186631481  1.0000
+  Se  Se3       1.0  0.13381175725916272  0.6045817741013749  0.595300376092722  1.0000

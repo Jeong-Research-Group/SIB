@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       VHO2NaO
+_chemical_formula_sum              "V1 H1 O3 Na1"
+_cell_length_a       4.121347906465315
+_cell_length_b       3.893802562001651
+_cell_length_c       3.9207935333251953
+_cell_angle_alpha    89.96729273108949
+_cell_angle_beta     90.06165861976132
+_cell_angle_gamma    83.97439609146738
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.09017183561081046  0.8950721037259601  0.4919321247064356  1.0000
+  H   H1        1.0  0.6851863274100042  0.6192241911611333  0.48967978444702887  1.0000
+  O   O1        1.0  0.0792089187715928  0.8824207795209976  0.9934769272894847  1.0000
+  O   O2        1.0  0.05138561949933476  0.38736414787933654  0.49393728440529433  1.0000
+  Na  Na1       1.0  0.5060909998867273  0.28490033673647885  0.9909933200096708  1.0000
+  O   O3        1.0  0.5785694730373225  0.8623800269763596  0.49346795771591917  1.0000

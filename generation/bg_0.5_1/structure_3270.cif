@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Na3NMnCuN
+_chemical_formula_sum              "Na3 N2 Mn1 Cu1"
+_cell_length_a       3.331756045501704
+_cell_length_b       5.119793408540246
+_cell_length_c       7.452643871307373
+_cell_angle_alpha    90.25815633869713
+_cell_angle_beta     90.27818245791727
+_cell_angle_gamma    89.52300255243794
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.906210602421331  0.18757751500837444  0.4434563520570944  1.0000
+  Na  Na2       1.0  0.40509936281136544  0.6875330206648189  0.7404747603830406  1.0000
+  Na  Na3       1.0  0.4052323985177086  0.687973438947416  0.22326686947323332  1.0000
+  N   N1        1.0  0.9065913568077802  0.18710079871958823  0.7745022768148748  1.0000
+  Mn  Mn1       1.0  0.9063696258359423  0.18779578746167122  0.04044966418439217  1.0000
+  Cu  Cu1       1.0  0.40626305208210073  0.18998536413937944  0.7570635677417261  1.0000
+  N   N2        1.0  0.40580892634669175  0.18984159801703457  0.1835554092578012  1.0000

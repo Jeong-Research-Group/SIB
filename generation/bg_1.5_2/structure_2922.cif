@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Zn2GeNaSeNaSe3
+_chemical_formula_sum              "Zn2 Ge1 Na2 Se4"
+_cell_length_a       5.928672992168136
+_cell_length_b       5.92678530384275
+_cell_length_c       6.875742435455322
+_cell_angle_alpha    102.25446728754866
+_cell_angle_beta     77.39874071355963
+_cell_angle_gamma    88.59900082855958
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.31954097733225106  0.2773354940295311  0.3899209799884158  1.0000
+  Zn  Zn2       1.0  0.818315923143641  0.7746973039352407  0.389573574474126  1.0000
+  Ge  Ge1       1.0  0.31766882456509843  0.7767882342452395  0.39882916181904243  1.0000
+  Na  Na1       1.0  0.4520938400514231  0.6372934575702605  0.8338181377487875  1.0000
+  Se  Se1       1.0  0.023308861641344755  0.5971744058576683  0.6209970123209926  1.0000
+  Na  Na2       1.0  0.9538111085264488  0.13398726268913697  0.8448901176492598  1.0000
+  Se  Se2       1.0  0.4953282768428946  0.06849689800150233  0.6204421526646351  1.0000
+  Se  Se3       1.0  0.615974783736561  0.48096045854077546  0.17195273964799962  1.0000
+  Se  Se4       1.0  0.13185770785772044  0.9650942088724408  0.18024152463963466  1.0000

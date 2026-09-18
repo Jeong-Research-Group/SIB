@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       HgPrHgNa
+_chemical_formula_sum              "Hg2 Pr1 Na1"
+_cell_length_a       5.314841944983962
+_cell_length_b       5.311039589954295
+_cell_length_c       5.309983730316162
+_cell_angle_alpha    59.89276842957602
+_cell_angle_beta     60.05137920342768
+_cell_angle_gamma    59.82890538738331
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.2896094030573038  0.847223340399956  0.7191627021985149  1.0000
+  Pr  Pr1       1.0  0.03959770408873026  0.5964728600355259  0.4686506693965636  1.0000
+  Hg  Hg2       1.0  0.789442182470452  0.34559765503519935  0.21856090301608053  1.0000
+  Na  Na1       1.0  0.5395923853112388  0.09671184322342717  0.9688920987692912  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       PdNaNAuN
+_chemical_formula_sum              "Pd1 Na1 N2 Au1"
+_cell_length_a       3.2884309633348106
+_cell_length_b       3.298885098431579
+_cell_length_c       8.982284545898438
+_cell_angle_alpha    90.19234063379895
+_cell_angle_beta     90.96424076013099
+_cell_angle_gamma    119.73373903210545
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.9095060815956937  0.5825390826472686  0.7740055924204108  1.0000
+  Na  Na1       1.0  0.5924335712219374  0.9255968346650512  0.027137287264956608  1.0000
+  N   N1        1.0  0.27297797852975514  0.2638958392725695  0.23408032904949963  1.0000
+  Au  Au1       1.0  0.9423408508342795  0.6055946343323904  0.29409092679100873  1.0000
+  N   N2        1.0  0.2480764521139076  0.2513273945142479  0.8277419205576368  1.0000

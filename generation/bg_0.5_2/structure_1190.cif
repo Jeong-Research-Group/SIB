@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NaMgNaGaNaSbNa
+_chemical_formula_sum              "Na4 Mg1 Ga1 Sb1"
+_cell_length_a       6.351822641829053
+_cell_length_b       6.337441174446546
+_cell_length_c       5.842255115509033
+_cell_angle_alpha    90.16844181525848
+_cell_angle_beta     89.90697532407427
+_cell_angle_gamma    116.27408026338267
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.23178870894100337  0.9870882031943287  0.44445109326645604  1.0000
+  Mg  Mg1       1.0  0.23170264095670953  0.48708686304950016  0.44603264309850577  1.0000
+  Na  Na2       1.0  0.7322486646918341  0.486863911995741  0.44510066556229727  1.0000
+  Ga  Ga1       1.0  0.7314066883432216  0.9871515042875425  0.4429584442009889  1.0000
+  Na  Na3       1.0  0.5698958632595852  0.14525798046761504  0.9433152673290558  1.0000
+  Sb  Sb1       1.0  0.2328724722828919  0.48596823285000096  0.9454371926681812  1.0000
+  Na  Na4       1.0  0.8931143286066678  0.8275497551302684  0.9437435869543115  1.0000

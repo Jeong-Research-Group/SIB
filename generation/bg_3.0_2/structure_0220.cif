@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       MgMoNaO3
+_chemical_formula_sum              "Mg1 Mo1 Na1 O3"
+_cell_length_a       4.45428771442836
+_cell_length_b       3.137694658440977
+_cell_length_c       5.502218246459961
+_cell_angle_alpha    105.94871205915813
+_cell_angle_beta     66.16323588505952
+_cell_angle_gamma    89.64058346095457
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.28884384033564625  0.8684224489713308  0.6260836726286068  1.0000
+  Mo  Mo1       1.0  0.6133998636846333  0.5412110674465059  0.9754425887237377  1.0000
+  Na  Na1       1.0  0.9499618407845841  0.20685781644536555  0.3039849706811923  1.0000
+  O   O1        1.0  0.13956905830726804  0.5177753562832085  0.9252381329054791  1.0000
+  O   O2        1.0  0.7634025216100336  0.8930922750249493  0.67359572640471  1.0000
+  O   O3        1.0  0.45202788699036206  0.20401376516006736  0.2986578056454503  1.0000

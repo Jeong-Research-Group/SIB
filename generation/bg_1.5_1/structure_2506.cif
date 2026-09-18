@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       MgBiMg4Na
+_chemical_formula_sum              "Mg5 Bi1 Na1"
+_cell_length_a       4.8471980382037465
+_cell_length_b       4.835721699262738
+_cell_length_c       8.526308059692383
+_cell_angle_alpha    90.34461285777873
+_cell_angle_beta     90.627205095713
+_cell_angle_gamma    90.00982431585896
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.45085695390545255  0.5884326696085731  0.2608203593391268  1.0000
+  Bi  Bi1       1.0  0.9518714543509302  0.5905917287503628  0.5159362558965791  1.0000
+  Mg  Mg2       1.0  0.9514451019835889  0.591445207305313  0.02745426230033358  1.0000
+  Mg  Mg3       1.0  0.9529005877702719  0.08861502991067954  0.7794525621217921  1.0000
+  Mg  Mg4       1.0  0.452640086309011  0.08963946226066309  0.5125819447137382  1.0000
+  Mg  Mg5       1.0  0.9496866464130671  0.08979413690834026  0.25596973262769573  1.0000
+  Na  Na1       1.0  0.4523429573782204  0.5907170173863616  0.7825834151122744  1.0000

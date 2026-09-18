@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ONiNaFeO2
+_chemical_formula_sum              "O3 Ni1 Na1 Fe1"
+_cell_length_a       3.0798478898034882
+_cell_length_b       3.0651525348530684
+_cell_length_c       7.770695686340332
+_cell_angle_alpha    89.97197823644277
+_cell_angle_beta     89.98717540981599
+_cell_angle_gamma    119.81608163004046
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.8081125617027283  0.5111040472984314  0.9874353408813475  1.0000
+  Ni  Ni1       1.0  0.8083903193473816  0.5103862285614014  0.5294958353042603  1.0000
+  Na  Na1       1.0  0.4749245047569275  0.8434994220733643  0.20223042368888852  1.0000
+  Fe  Fe1       1.0  0.14212827384471893  0.1776084303855896  0.857764184474945  1.0000
+  O   O2        1.0  0.47598057985305786  0.8414767384529114  0.6988641619682311  1.0000
+  O   O3        1.0  0.14146317541599274  0.17732086777687073  0.4035202264785766  1.0000

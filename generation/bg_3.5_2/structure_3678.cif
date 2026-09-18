@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       MgORb
+_chemical_formula_sum              "Mg1 O1 Rb1"
+_cell_length_a       2.999263067686094
+_cell_length_b       3.0032799924386304
+_cell_length_c       6.264414310455322
+_cell_angle_alpha    91.35728400125564
+_cell_angle_beta     90.38708299317001
+_cell_angle_gamma    90.14949485287727
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.5009936085077352  0.7622828494267047  0.8255920414366351  1.0000
+  O   O1        1.0  0.0008098720689660645  0.2662004239792011  0.8245431179557019  1.0000
+  Rb  Rb1       1.0  0.0039873127475113365  0.25872200777817955  0.31382301385796285  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       BiNa2BiNa2TlBiMn
+_chemical_formula_sum              "Bi3 Na4 Tl1 Mn1"
+_cell_length_a       4.844762111323268
+_cell_length_b       7.867626348576524
+_cell_length_c       8.297394752502441
+_cell_angle_alpha    118.8057443707262
+_cell_angle_beta     90.2281513131861
+_cell_angle_gamma    89.96858363345139
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.07902842674726175  0.013158724100710055  0.26526561357615375  1.0000
+  Na  Na1       1.0  0.578967393103852  0.6591581111144226  0.00015963770064247363  1.0000
+  Na  Na2       1.0  0.07926440290477692  0.8957175019569924  0.8310921787248209  1.0000
+  Bi  Bi2       1.0  0.5780988930954766  0.61316657093612  0.5812148448820906  1.0000
+  Na  Na3       1.0  0.5776932838438049  0.08487831856447965  0.5843076707268089  1.0000
+  Na  Na4       1.0  0.08014129889446588  0.6440563200580317  0.3273580368160599  1.0000
+  Tl  Tl1       1.0  0.5784410248539981  0.23647715198995958  0.15493446637079136  1.0000
+  Bi  Bi3       1.0  0.079201571776417  0.3290282194439267  0.8966063268456186  1.0000
+  Mn  Mn1       1.0  0.07881066994350544  0.39113295105614604  0.587877512465523  1.0000

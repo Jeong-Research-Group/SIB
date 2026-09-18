@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Na2NNaNNb2
+_chemical_formula_sum              "Na3 N2 Nb2"
+_cell_length_a       3.9310330120493346
+_cell_length_b       3.919882257851559
+_cell_length_c       10.761709213256836
+_cell_angle_alpha    90.83378414722077
+_cell_angle_beta     89.55223578388009
+_cell_angle_gamma    90.18788734200886
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.44171786316027356  0.18494334915127347  0.33320179571354536  1.0000
+  Na  Na2       1.0  0.9429848801990336  0.6716596496072802  0.12074006311406993  1.0000
+  N   N1        1.0  0.9441809646838171  0.1605103012931274  0.9105265135928575  1.0000
+  Na  Na3       1.0  0.9414396873288347  0.6964291326331918  0.5237419008710886  1.0000
+  N   N2        1.0  0.4434407047058394  0.6618143310175778  0.9158905150192737  1.0000
+  Nb  Nb1       1.0  0.4432673750605106  0.1613035202216295  0.9328105452094305  1.0000
+  Nb  Nb2       1.0  0.9434276823348646  0.6579506385613612  0.8275884389266586  1.0000

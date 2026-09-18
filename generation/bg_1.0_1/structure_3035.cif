@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Tl2Sr2
+_chemical_formula_sum              "Tl2 Sr2"
+_cell_length_a       5.900055973015976
+_cell_length_b       5.903579814613558
+_cell_length_c       5.899268627166748
+_cell_angle_alpha    60.260794815950355
+_cell_angle_beta     59.93829088126262
+_cell_angle_gamma    60.00511931016949
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.28760230559912925  0.49465584788695316  0.985959172309876  1.0000
+  Tl  Tl2       1.0  0.7882558709270943  0.994344592314878  0.48594972477799375  1.0000
+  Sr  Sr1       1.0  0.5399860135263841  0.7461706395964683  0.2360790829622568  1.0000
+  Sr  Sr2       1.0  0.03731790258404192  0.24252989939937264  0.7351590391957564  1.0000

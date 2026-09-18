@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NaOPdKO2
+_chemical_formula_sum              "Na1 O3 Pd1 K1"
+_cell_length_a       3.2334043302431286
+_cell_length_b       4.970799041028524
+_cell_length_c       6.046432971954346
+_cell_angle_alpha    114.625285854308
+_cell_angle_beta     105.90900223151267
+_cell_angle_gamma    89.94902813950385
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.8975142250806679  0.46794482985878305  0.050571110597709794  1.0000
+  O   O1        1.0  0.5529192672713132  0.6274932616350319  0.3529574871903169  1.0000
+  Pd  Pd1       1.0  0.5678697827313522  0.13326728329507093  0.38381937201463967  1.0000
+  K   K1        1.0  0.24020472236112522  0.8105301265939574  0.7318786980956228  1.0000
+  O   O2        1.0  0.9412613521831342  0.013278126462571952  0.13637720078638682  1.0000
+  O   O3        1.0  0.20043873677683255  0.2652849853961553  0.6444593069531046  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       ReNa2NCl
+_chemical_formula_sum              "Re1 Na2 N1 Cl1"
+_cell_length_a       4.201018795827905
+_cell_length_b       4.190314228317559
+_cell_length_c       7.347779750823975
+_cell_angle_alpha    89.68139469100522
+_cell_angle_beta     90.13083477616978
+_cell_angle_gamma    89.65941513216532
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Re  Re1       1.0  0.6651805630268809  0.043408765976859  0.3873860541546675  1.0000
+  Na  Na1       1.0  0.16470526240485844  0.5434123872246778  0.412197857672689  1.0000
+  Na  Na2       1.0  0.16287550410257734  0.5412173858711357  0.9222897289539419  1.0000
+  N   N1        1.0  0.6642748718164028  0.04301039121611976  0.15049631945977632  1.0000
+  Cl  Cl1       1.0  0.6641057135535493  0.043547020342652135  0.6957465404961363  1.0000

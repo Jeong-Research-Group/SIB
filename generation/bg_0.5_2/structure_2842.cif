@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       TlNaTiSe4
+_chemical_formula_sum              "Tl1 Na1 Ti1 Se4"
+_cell_length_a       3.626456723835648
+_cell_length_b       3.6267717611180696
+_cell_length_c       12.275236129760742
+_cell_angle_alpha    89.75744882877903
+_cell_angle_beta     90.08031186397402
+_cell_angle_gamma    89.93281393517643
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.7681496730410386  0.8985850805753893  0.20803505209559733  1.0000
+  Na  Na1       1.0  0.7683854691788866  0.8987830877787082  0.5128092763148151  1.0000
+  Ti  Ti1       1.0  0.26877451035791633  0.3993450398900967  0.8508023622643025  1.0000
+  Se  Se1       1.0  0.26670178735797767  0.3998136209092356  0.06504594516648421  1.0000
+  Se  Se2       1.0  0.768095195553121  0.8998695024476836  0.8566701413835447  1.0000
+  Se  Se3       1.0  0.2681963740684313  0.39727318286576396  0.34648668770897484  1.0000
+  Se  Se4       1.0  0.2679586406995057  0.4000990979297282  0.6519012455228654  1.0000

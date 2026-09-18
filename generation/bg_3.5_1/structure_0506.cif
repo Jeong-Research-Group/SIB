@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CaONaONa
+_chemical_formula_sum              "Ca1 O2 Na2"
+_cell_length_a       3.487623533423176
+_cell_length_b       3.5065598341581223
+_cell_length_c       8.400232315063477
+_cell_angle_alpha    89.57640782955471
+_cell_angle_beta     89.8185722004879
+_cell_angle_gamma    59.837883351872215
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.8106790764749359  0.40361929091853016  0.8020955318481406  1.0000
+  O   O1        1.0  0.4759637114123433  0.07184815548014409  0.645441233876713  1.0000
+  Na  Na1       1.0  0.14163728019673344  0.7401923534999755  0.5066134334156331  1.0000
+  O   O2        1.0  0.14660352417492947  0.7357568740623323  0.9608336689134569  1.0000
+  Na  Na2       1.0  0.4779911030573368  0.06746565571831925  0.10055594190815109  1.0000

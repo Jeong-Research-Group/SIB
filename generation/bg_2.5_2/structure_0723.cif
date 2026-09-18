@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       TeBrNa2TeMn2
+_chemical_formula_sum              "Te2 Br1 Na2 Mn2"
+_cell_length_a       4.415066603316467
+_cell_length_b       4.407784886823685
+_cell_length_c       11.813563346862793
+_cell_angle_alpha    104.97716543700527
+_cell_angle_beta     74.63941279768845
+_cell_angle_gamma    111.5483192619075
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.9963511230201033  0.07320898079570215  0.22788904628678194  1.0000
+  Br  Br1       1.0  0.5778203610340501  0.4899729184205997  0.9077156188884633  1.0000
+  Na  Na1       1.0  0.5702369800579613  0.4949371511198691  0.4085165264435685  1.0000
+  Na  Na2       1.0  0.07311114705618808  0.9956606619964721  0.9107133145621709  1.0000
+  Te  Te2       1.0  0.14781539257245124  0.9174858938283001  0.5876342653101991  1.0000
+  Mn  Mn1       1.0  0.3772328798401407  0.6912263634730744  0.15434585528833603  1.0000
+  Mn  Mn2       1.0  0.7664940344537224  0.29854735612172617  0.6654785874003093  1.0000

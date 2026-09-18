@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       FeNaLiO2
+_chemical_formula_sum              "Fe1 Na1 Li1 O2"
+_cell_length_a       3.376243911225139
+_cell_length_b       3.3495945368901827
+_cell_length_c       6.988549709320068
+_cell_angle_alpha    103.96168112139756
+_cell_angle_beta     75.39818439271383
+_cell_angle_gamma    118.72251280971534
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.7109073399247055  0.5449855337082565  0.21740671973522932  1.0000
+  Na  Na1       1.0  0.9217652664399045  0.33158504984632303  0.5741466290059193  1.0000
+  Li  Li1       1.0  0.4716124550008629  0.7825790060653609  0.9199636574183772  1.0000
+  O   O1        1.0  0.32979589554659644  0.9260640733921263  0.35054627061052823  1.0000
+  O   O2        1.0  0.8074600694304531  0.44651630651405544  0.9184690717316006  1.0000

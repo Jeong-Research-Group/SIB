@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NaTe2Ga2Te2Na
+_chemical_formula_sum              "Na2 Te4 Ga2"
+_cell_length_a       6.26416653746
+_cell_length_b       4.150107690602446
+_cell_length_c       8.89157772064209
+_cell_angle_alpha    89.44750164038331
+_cell_angle_beta     89.42506445906182
+_cell_angle_gamma    89.77836968643571
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.82732003863533  0.8183998467267072  0.49710449579713856  1.0000
+  Te  Te1       1.0  0.3282251661448636  0.817934036253315  0.5330953004326182  1.0000
+  Te  Te2       1.0  0.33173641517270247  0.8173519382263812  0.9705359932872402  1.0000
+  Ga  Ga1       1.0  0.823402761969065  0.8182451123266993  0.9935835008243527  1.0000
+  Ga  Ga2       1.0  0.3252063687095505  0.31975233503237355  0.7529904244062887  1.0000
+  Te  Te3       1.0  0.8262137776631754  0.3177314092596324  0.21402618344641264  1.0000
+  Te  Te4       1.0  0.8313891893757127  0.31802856928548656  0.7767372731177781  1.0000
+  Na  Na2       1.0  0.32533299956382505  0.31762444967491976  0.24921962629486266  1.0000

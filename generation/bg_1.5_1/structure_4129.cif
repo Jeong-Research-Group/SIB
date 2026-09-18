@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NaO2MgNaOBiO
+_chemical_formula_sum              "Na2 O4 Mg1 Bi1"
+_cell_length_a       3.3364288049300637
+_cell_length_b       4.769308198729104
+_cell_length_c       6.89591646194458
+_cell_angle_alpha    90.30013468152326
+_cell_angle_beta     90.18466350178066
+_cell_angle_gamma    90.26191976918108
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.3955295693391626  0.3441541496010884  0.45892965841220423  1.0000
+  O   O1        1.0  0.3963755965506176  0.8442678459259646  0.4131423528782588  1.0000
+  O   O2        1.0  0.39560368800868  0.8420832748759451  0.9630445236730195  1.0000
+  Mg  Mg1       1.0  0.39376237974926287  0.34519279082536053  0.9167698618014796  1.0000
+  Na  Na2       1.0  0.8949624898067089  0.8444009418309685  0.688770592098607  1.0000
+  O   O3        1.0  0.8955744502530233  0.34346133421190683  0.14705529836047532  1.0000
+  Bi  Bi1       1.0  0.8953989149912718  0.8442503209468539  0.19579540181673025  1.0000
+  O   O4        1.0  0.8948363078439749  0.34438183803811145  0.7229143377732327  1.0000

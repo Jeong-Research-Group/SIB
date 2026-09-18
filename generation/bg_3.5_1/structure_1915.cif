@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Na2AlSbAl
+_chemical_formula_sum              "Na2 Al2 Sb1"
+_cell_length_a       4.217195070520902
+_cell_length_b       4.773070086858276
+_cell_length_c       6.722449779510498
+_cell_angle_alpha    89.69215908032973
+_cell_angle_beta     90.49726078521365
+_cell_angle_gamma    90.51691122740326
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.23197989258918045  0.9471821191078507  0.32402992182090035  1.0000
+  Na  Na2       1.0  0.7349184156545213  0.4489996435495758  0.09137457568998612  1.0000
+  Al  Al1       1.0  0.23444475130835493  0.9508895878637736  0.8363738052578751  1.0000
+  Sb  Sb1       1.0  0.7316800953292941  0.9502254716077128  0.6250697963014816  1.0000
+  Al  Al2       1.0  0.7341424813153535  0.4485808021444968  0.605724155887958  1.0000

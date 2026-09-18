@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Se2ZnNaLi
+_chemical_formula_sum              "Se2 Zn1 Na1 Li1"
+_cell_length_a       4.173036524194388
+_cell_length_b       4.161398442267185
+_cell_length_c       7.794449329376221
+_cell_angle_alpha    89.9519726153821
+_cell_angle_beta     90.49974695001005
+_cell_angle_gamma    119.9934351525918
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.1950364126386695  0.9961575874203846  0.7305702571287421  1.0000
+  Se  Se2       1.0  0.5175187583023564  0.6568339467016734  0.2987782362909358  1.0000
+  Zn  Zn1       1.0  0.18719223187430645  0.9918873916464439  0.4174195826265094  1.0000
+  Na  Na1       1.0  0.5299082402982845  0.6653324358011848  0.9385983343453835  1.0000
+  Li  Li1       1.0  0.8617590080221336  0.3302625428552266  0.6759858136144825  1.0000

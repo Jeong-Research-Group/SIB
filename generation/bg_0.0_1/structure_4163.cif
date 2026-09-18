@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       NaCe2In
+_chemical_formula_sum              "Na1 Ce2 In1"
+_cell_length_a       5.998179683296702
+_cell_length_b       5.98280713832777
+_cell_length_c       5.955438137054443
+_cell_angle_alpha    60.24864293557939
+_cell_angle_beta     59.8859391919809
+_cell_angle_gamma    59.60807275055885
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.5550383920995544  0.14326588742981475  0.06126737346360624  1.0000
+  Ce  Ce1       1.0  0.8047428126879191  0.39274403365553956  0.3108829867374997  1.0000
+  Ce  Ce2       1.0  0.30463358728021145  0.8927177194205181  0.8113639354271519  1.0000
+  In  In1       1.0  0.054487578831511216  0.642395436124928  0.5611810685372371  1.0000

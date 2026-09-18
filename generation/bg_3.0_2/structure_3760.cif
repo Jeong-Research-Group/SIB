@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       PbNaGeNaSbGe2
+_chemical_formula_sum              "Pb1 Na2 Ge3 Sb1"
+_cell_length_a       4.675311033885588
+_cell_length_b       4.725030325665685
+_cell_length_c       8.084854125976562
+_cell_angle_alpha    90.3274212867296
+_cell_angle_beta     107.36809453518069
+_cell_angle_gamma    90.09262669371547
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.4175283301900603  0.09694216400963403  0.6661573649994769  1.0000
+  Na  Na1       1.0  0.9254390594292319  0.5976649519333309  0.6852320429536003  1.0000
+  Ge  Ge1       1.0  0.5593069185862838  0.5966247914069426  0.955695450001998  1.0000
+  Na  Na2       1.0  0.2302121068202693  0.596105695286449  0.29644048216183655  1.0000
+  Sb  Sb1       1.0  0.06454508853939218  0.09912209935163317  0.9693251256977181  1.0000
+  Ge  Ge2       1.0  0.6405944222461284  0.09425861427586119  0.12249606899725637  1.0000
+  Ge  Ge3       1.0  0.7986049644111362  0.097652456834274  0.4327701926565752  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Na2F4In
+_chemical_formula_sum              "Na2 F4 In1"
+_cell_length_a       4.436107817631734
+_cell_length_b       4.409259010020314
+_cell_length_c       5.861345291137695
+_cell_angle_alpha    111.85877085220987
+_cell_angle_beta     112.26234784395692
+_cell_angle_gamma    90.0225424342357
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.3258371052038321  0.3346613639403965  0.06385242991822727  1.0000
+  Na  Na2       1.0  0.8291097873768875  0.8359097241082721  0.06944619910990121  1.0000
+  F   F1        1.0  0.37037029765893364  0.8785488017307983  0.152414829234732  1.0000
+  F   F2        1.0  0.0771799524790727  0.08492238121814369  0.5671815877471137  1.0000
+  F   F3        1.0  0.5771893850154568  0.585015417235645  0.5666324502702855  1.0000
+  F   F4        1.0  0.7852130545083775  0.29181003685104967  0.9812406307223122  1.0000
+  In  In1       1.0  0.577062129278954  0.08545108980398029  0.5671785474814925  1.0000

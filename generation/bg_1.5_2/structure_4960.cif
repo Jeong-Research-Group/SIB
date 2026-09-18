@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       TbIrOIrO2NaO2
+_chemical_formula_sum              "Tb1 Ir2 O5 Na1"
+_cell_length_a       3.943733930623349
+_cell_length_b       3.976838326251217
+_cell_length_c       7.800973892211914
+_cell_angle_alpha    90.01881284567011
+_cell_angle_beta     89.99975661765302
+_cell_angle_gamma    90.02644899647707
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.6750097274505809  0.17655913443257334  0.743735373233918  1.0000
+  Ir  Ir1       1.0  0.17554487288791912  0.6775127051383448  0.490143895382458  1.0000
+  O   O1        1.0  0.17518574114576327  0.6770278802218688  0.24362942633931062  1.0000
+  Ir  Ir2       1.0  0.17479026237818354  0.6766449201617851  0.9961044195480667  1.0000
+  O   O2        1.0  0.17550908043507477  0.17698402730789276  0.9296739691881446  1.0000
+  O   O3        1.0  0.6752823595154779  0.6773614895124743  0.9291043877665808  1.0000
+  Na  Na1       1.0  0.6748067137038886  0.17702095111809432  0.24387988500298152  1.0000
+  O   O4        1.0  0.6754981864675955  0.6770804521436805  0.5576373337002419  1.0000
+  O   O5        1.0  0.1747662430958331  0.17806649290934753  0.5570167901919604  1.0000

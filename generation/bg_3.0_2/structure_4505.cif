@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Na2ErPb
+_chemical_formula_sum              "Na2 Er1 Pb1"
+_cell_length_a       5.401683721056771
+_cell_length_b       5.411129914644309
+_cell_length_c       5.411273002624512
+_cell_angle_alpha    59.98259255937656
+_cell_angle_beta     59.983432161770445
+_cell_angle_gamma    60.05145322879695
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.8420962097332286  0.22233696389184934  0.9370720975787699  1.0000
+  Na  Na2       1.0  0.340629131089112  0.7221373328517796  0.4363831269127687  1.0000
+  Er  Er1       1.0  0.09214880405929267  0.4733579754299538  0.1865231696745275  1.0000
+  Pb  Pb1       1.0  0.5920059686496649  0.9716600187201733  0.6860166778511537  1.0000

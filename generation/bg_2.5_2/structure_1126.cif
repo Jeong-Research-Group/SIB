@@ -1,0 +1,27 @@
+data_image0
+_chemical_formula_structural       NaSi
+_chemical_formula_sum              "Na1 Si1"
+_cell_length_a       2.9915097884100263
+_cell_length_b       2.982995452388051
+_cell_length_c       4.885242938995361
+_cell_angle_alpha    89.90622401041541
+_cell_angle_beta     89.82658400577215
+_cell_angle_gamma    89.20765955845899
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.2727850083784245  0.06080506892406453  0.6873140926952325  1.0000
+  Si  Si1       1.0  0.7722770585691977  0.5642147660248763  0.18882369910724323  1.0000

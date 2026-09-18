@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       BrAlNaBr2NaBr
+_chemical_formula_sum              "Br4 Al1 Na2"
+_cell_length_a       6.706288002050688
+_cell_length_b       6.242498886043378
+_cell_length_c       7.005077838897705
+_cell_angle_alpha    61.98661548488234
+_cell_angle_beta     54.3870710445464
+_cell_angle_gamma    64.71542694911926
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.08131721532889909  0.3381980654208805  0.8575108050587664  1.0000
+  Al  Al1       1.0  0.18245080147406512  0.23238444403843528  0.17337635079076752  1.0000
+  Na  Na1       1.0  0.7707830677219015  0.6421275134011595  0.5823872084085665  1.0000
+  Br  Br2       1.0  0.8081440933483462  0.14865705423570835  0.5305597173091952  1.0000
+  Br  Br3       1.0  0.4914594884624061  0.9129253617172209  0.279469938324156  1.0000
+  Na  Na2       1.0  0.018292286259581188  0.8941696878493848  0.8388152717164548  1.0000
+  Br  Br4       1.0  0.2822643520128218  0.5881505005311294  0.0911406199191219  1.0000

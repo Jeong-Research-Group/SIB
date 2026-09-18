@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Na3O3Tb
+_chemical_formula_sum              "Na3 O3 Tb1"
+_cell_length_a       3.353672227515507
+_cell_length_b       4.579189988274876
+_cell_length_c       6.594189643859863
+_cell_angle_alpha    90.16832567965527
+_cell_angle_beta     90.15404375975115
+_cell_angle_gamma    89.98561812639657
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.12543889881419104  0.28949981840495503  0.44127190105812475  1.0000
+  Na  Na2       1.0  0.6254794002446511  0.7898119697573842  0.168946370959125  1.0000
+  Na  Na3       1.0  0.12616169323698592  0.29010450876249455  0.8986325859717532  1.0000
+  O   O1        1.0  0.625741540852196  0.2893005312018767  0.6701261403943943  1.0000
+  O   O2        1.0  0.1265055088389693  0.7896447778897172  0.9024659991204632  1.0000
+  O   O3        1.0  0.12515977061601954  0.7893650525302435  0.4370960594005252  1.0000
+  Tb  Tb1       1.0  0.6255009769825086  0.7890924223428967  0.669503510322758  1.0000

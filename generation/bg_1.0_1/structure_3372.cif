@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       TeNaGa
+_chemical_formula_sum              "Te1 Na1 Ga1"
+_cell_length_a       4.736428028960666
+_cell_length_b       4.362069345073162
+_cell_length_c       4.383874416351318
+_cell_angle_alpha    90.06804485410967
+_cell_angle_beta     91.32314662774309
+_cell_angle_gamma    91.63025249660387
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.16253335741383587  0.28217446857647355  0.7419865729347536  1.0000
+  Na  Na1       1.0  0.1635516428346889  0.7829363943856386  0.2410939643106045  1.0000
+  Ga  Ga1       1.0  0.6652872571575924  0.2830943762451796  0.7414358255048438  1.0000

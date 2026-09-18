@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       FeClNaCl3
+_chemical_formula_sum              "Fe1 Cl4 Na1"
+_cell_length_a       3.6477703249056974
+_cell_length_b       6.31073971333191
+_cell_length_c       6.369782447814941
+_cell_angle_alpha    107.69397543428731
+_cell_angle_beta     90.29635757476112
+_cell_angle_gamma    89.93239729171351
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.03474700539782036  0.12802018224584463  0.5274164677619291  1.0000
+  Cl  Cl1       1.0  0.03553985889795352  0.8991356489055609  0.7567492119769137  1.0000
+  Na  Na1       1.0  0.034669068257458725  0.6288110020882799  0.02623982362018153  1.0000
+  Cl  Cl2       1.0  0.5342939502925417  0.3471568533011259  0.746022225346654  1.0000
+  Cl  Cl3       1.0  0.5354629747660675  0.9084137686333851  0.30836874262229275  1.0000
+  Cl  Cl4       1.0  0.033335578325604937  0.3574810027952507  0.2971404794163269  1.0000

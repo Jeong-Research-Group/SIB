@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       FNaF3TaF2
+_chemical_formula_sum              "F6 Na1 Ta1"
+_cell_length_a       6.005590089252575
+_cell_length_b       4.2275427513433
+_cell_length_c       5.9748921394348145
+_cell_angle_alpha    89.96414401291125
+_cell_angle_beta     89.94760129195906
+_cell_angle_gamma    89.98653337107797
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.7552051543258415  0.5738708380834191  0.2716802952568071  1.0000
+  Na  Na1       1.0  0.0294144813370848  0.5734973538999473  0.5426784160915828  1.0000
+  F   F2        1.0  0.0293419446611869  0.07386087571251544  0.5445255047202755  1.0000
+  F   F3        1.0  0.3022362882743491  0.5740979322302676  0.27141129897148103  1.0000
+  F   F4        1.0  0.3007422087726147  0.574194073207347  0.8175135859119161  1.0000
+  Ta  Ta1       1.0  0.5307679769647811  0.5745814448939295  0.044479735994479665  1.0000
+  F   F5        1.0  0.5261905188048982  0.0737852762236005  0.04507848584364446  1.0000
+  F   F6        1.0  0.7565598487591454  0.5744296900375048  0.8175421945183867  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       AlClNaClInCl3
+_chemical_formula_sum              "Al1 Cl5 Na1 In1"
+_cell_length_a       7.291949163747856
+_cell_length_b       7.2762657346120045
+_cell_length_c       7.135682106018066
+_cell_angle_alpha    60.17610577891234
+_cell_angle_beta     60.158320500155874
+_cell_angle_gamma    55.780983372742824
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.19348311381144506  0.7231435784459135  0.9736462824911241  1.0000
+  Cl  Cl1       1.0  0.448047012304723  0.5137781499867458  0.720867872278061  1.0000
+  Na  Na1       1.0  0.4660601912411489  0.9951792365190866  0.2030204685646945  1.0000
+  Cl  Cl2       1.0  0.9858635667167099  0.9776363971586082  0.18363498121513852  1.0000
+  In  In1       1.0  0.7228851320684228  0.2519414124352275  0.44700640447958184  1.0000
+  Cl  Cl3       1.0  0.9786927106098257  0.5089211467518209  0.1889607899058077  1.0000
+  Cl  Cl4       1.0  0.44813838591266475  0.5145776267828033  0.18397521957127191  1.0000
+  Cl  Cl5       1.0  0.9858268505023842  0.9777036314110684  0.7201607813451328  1.0000

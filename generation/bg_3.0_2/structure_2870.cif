@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CoO2TeNaI
+_chemical_formula_sum              "Co1 O2 Te1 Na1 I1"
+_cell_length_a       3.9233743464599935
+_cell_length_b       5.5839624269249555
+_cell_length_c       5.781001567840576
+_cell_angle_alpha    88.87483129730919
+_cell_angle_beta     89.74286636558216
+_cell_angle_gamma    89.3262316623963
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.9650449765171119  0.17046914993605408  0.7900849579721878  1.0000
+  O   O1        1.0  0.46658900317797136  0.17878267176268647  0.8339317442499926  1.0000
+  O   O2        1.0  0.963078080730892  0.1774783577396482  0.4317352766693262  1.0000
+  Te  Te1       1.0  0.464411735736327  0.1694744531716496  0.20507632136464488  1.0000
+  Na  Na1       1.0  0.46558925589314715  0.6722381118766869  0.5372158890362727  1.0000
+  I   I1        1.0  0.9648207435823556  0.6801630859335474  0.010726751431038233  1.0000

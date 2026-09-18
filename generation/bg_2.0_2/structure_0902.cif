@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NaKMgOCl2
+_chemical_formula_sum              "Na1 K1 Mg1 O1 Cl2"
+_cell_length_a       3.885050234549577
+_cell_length_b       6.680162780387996
+_cell_length_c       7.229312896728516
+_cell_angle_alpha    62.83987256876413
+_cell_angle_beta     74.7007998512426
+_cell_angle_gamma    89.35715885202639
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.8210835457539198  0.8806178566274702  0.5736405850965671  1.0000
+  K   K1        1.0  0.6113307463026996  0.16990715266348563  0.9891351467339032  1.0000
+  Mg  Mg1       1.0  0.4099395864257259  0.3851218826332396  0.3842462597367631  1.0000
+  O   O1        1.0  0.9888804545365636  0.34252184660760143  0.22397413853287076  1.0000
+  Cl  Cl1       1.0  0.24244898685620017  0.059465766266295086  0.727760492841876  1.0000
+  Cl  Cl2       1.0  0.39672717428425097  0.7062322491595316  0.4161025883196007  1.0000

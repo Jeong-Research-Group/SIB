@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       SiNaZrLiS3
+_chemical_formula_sum              "Si1 Na1 Zr1 Li1 S3"
+_cell_length_a       3.900556351708612
+_cell_length_b       3.913139551668824
+_cell_length_c       10.375665664672852
+_cell_angle_alpha    89.58195394089726
+_cell_angle_beta     89.89007743862976
+_cell_angle_gamma    89.3975115067219
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.5212017898609241  0.4527347674381565  0.708197891320656  1.0000
+  Na  Na1       1.0  0.023819427236902887  0.9526810646712289  0.9558082221065545  1.0000
+  Zr  Zr1       1.0  0.5275573139519827  0.4504948558514822  0.21557098590241353  1.0000
+  Li  Li1       1.0  0.029266222013403752  0.9534965149886754  0.45886194719751255  1.0000
+  S   S1        1.0  0.027207432099261866  0.9516602151587356  0.2371536347383681  1.0000
+  S   S2        1.0  0.032121298157772864  0.9593536262880975  0.6824068427903579  1.0000
+  S   S3        1.0  0.5256383416049487  0.452778370265947  0.9550412301501601  1.0000

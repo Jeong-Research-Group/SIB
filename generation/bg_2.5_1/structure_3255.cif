@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NNaInNaNNa
+_chemical_formula_sum              "N2 Na3 In1"
+_cell_length_a       3.2217495063154638
+_cell_length_b       6.030849793449772
+_cell_length_c       6.0186662673950195
+_cell_angle_alpha    77.18113093620424
+_cell_angle_beta     74.95660500296293
+_cell_angle_gamma    91.04866208325673
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  N   N1        1.0  0.5345413685850396  0.7689623228383647  0.4924148917712466  1.0000
+  Na  Na1       1.0  0.8974756598218777  0.8635914916168765  0.7596302636943849  1.0000
+  In  In1       1.0  0.13096412939732677  0.6510271424260172  0.2945223151441599  1.0000
+  Na  Na2       1.0  0.6306006896621212  0.151682212538459  0.29394665308865986  1.0000
+  N   N2        1.0  0.7301287060814405  0.5344677568511079  0.09748103377254971  1.0000
+  Na  Na3       1.0  0.36246970313655064  0.4391056895496905  0.8303417555977283  1.0000

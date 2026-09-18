@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NiCaONaONi
+_chemical_formula_sum              "Ni2 Ca1 O2 Na1"
+_cell_length_a       3.339666496828933
+_cell_length_b       3.5031865500063404
+_cell_length_c       7.549023628234863
+_cell_angle_alpha    90.2338272291813
+_cell_angle_beta     90.32729836115561
+_cell_angle_gamma    90.08923892511089
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.514830113079506  0.3318476384163274  0.7516757840012126  1.0000
+  Ca  Ca1       1.0  0.01295029130071122  0.833319903570687  0.013108583771355847  1.0000
+  O   O1        1.0  0.5124263762073663  0.3344679778649562  0.010194347341085186  1.0000
+  Na  Na1       1.0  0.018021266384863722  0.8330019699834134  0.5081877105960045  1.0000
+  O   O2        1.0  0.5156627904776202  0.33256259434321145  0.5092864627841182  1.0000
+  Ni  Ni2       1.0  0.5148425685142763  0.33327889477317607  0.2681038374854007  1.0000

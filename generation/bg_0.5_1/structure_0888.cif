@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       PdNa2O2Cu
+_chemical_formula_sum              "Pd1 Na2 O2 Cu1"
+_cell_length_a       3.3214980012238255
+_cell_length_b       3.786245111771589
+_cell_length_c       7.206742286682129
+_cell_angle_alpha    89.8323077031337
+_cell_angle_beta     89.89069214884795
+_cell_angle_gamma    90.00405280669644
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.4264415508910193  0.3418845531011568  0.8819296355135653  1.0000
+  Na  Na1       1.0  0.9270701991235502  0.8423272384144038  0.6219572429878388  1.0000
+  Na  Na2       1.0  0.42522272344462714  0.3426266609044527  0.30268469455723257  1.0000
+  O   O1        1.0  0.42676547125877795  0.3432303961961997  0.6139270665700861  1.0000
+  O   O2        1.0  0.9256626956093309  0.342427193301435  0.06990552668963386  1.0000
+  Cu  Cu1       1.0  0.9245142340226993  0.8412629974180772  0.07519780113353604  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Na2H2PdH
+_chemical_formula_sum              "Na2 H3 Pd1"
+_cell_length_a       3.7939315015602246
+_cell_length_b       5.365441847139257
+_cell_length_c       5.670607089996338
+_cell_angle_alpha    106.5812496102858
+_cell_angle_beta     109.94774650072179
+_cell_angle_gamma    89.65483845848783
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.8919063802246  0.8521445988946743  0.10792694150934524  1.0000
+  Na  Na2       1.0  0.5534978496027577  0.37875175448469567  0.4406731716466148  1.0000
+  H   H1        1.0  0.3424726416515505  0.03800393693991481  0.010649428292958733  1.0000
+  H   H2        1.0  0.0982828592514564  0.1662598995441968  0.5225137477901547  1.0000
+  Pd  Pd1       1.0  0.17902842092521862  0.9516699316967439  0.6894079440590116  1.0000
+  H   H3        1.0  0.06955138523715468  0.6580283635193892  0.4730465107868515  1.0000

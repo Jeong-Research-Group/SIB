@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NaClFCaFO
+_chemical_formula_sum              "Na1 Cl1 F2 Ca1 O1"
+_cell_length_a       3.682087080888558
+_cell_length_b       4.484826629898009
+_cell_length_c       8.540847778320312
+_cell_angle_alpha    89.56095114266363
+_cell_angle_beta     115.35347831083273
+_cell_angle_gamma    89.90918144971975
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.9334170212478042  0.8834986100188117  0.8508952259539719  1.0000
+  Cl  Cl1       1.0  0.4340053794614396  0.3804534078532921  0.855569958435591  1.0000
+  F   F1        1.0  0.6331957569772413  0.8809294704958884  0.5507298705217255  1.0000
+  Ca  Ca1       1.0  0.9357297431632314  0.8817965989011994  0.35323545409747786  1.0000
+  F   F2        1.0  0.23936861776136165  0.8825924995787037  0.15483246771154374  1.0000
+  O   O1        1.0  0.9342520241425197  0.38282123310636446  0.35094928744935827  1.0000

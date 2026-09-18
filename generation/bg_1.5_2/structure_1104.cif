@@ -1,0 +1,27 @@
+data_image0
+_chemical_formula_structural       NaTi
+_chemical_formula_sum              "Na1 Ti1"
+_cell_length_a       3.1100737598290302
+_cell_length_b       3.104493071119365
+_cell_length_c       4.860856056213379
+_cell_angle_alpha    89.61320892656485
+_cell_angle_beta     89.74438950259308
+_cell_angle_gamma    89.67866260499768
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.7041677838401587  0.7784989465492496  0.6768006684905529  1.0000
+  Ti  Ti1       1.0  0.2043212053441222  0.27874046502506833  0.17658662732681685  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Na2FeAlO4
+_chemical_formula_sum              "Na2 Fe1 Al1 O4"
+_cell_length_a       2.9916307953365786
+_cell_length_b       5.648335708168608
+_cell_length_c       5.177779674530029
+_cell_angle_alpha    107.8144112865267
+_cell_angle_beta     89.99755729675464
+_cell_angle_gamma    89.90433204512918
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.9168424612519328  0.7528893939562165  0.5390167231442689  1.0000
+  Na  Na2       1.0  0.4169462626417511  0.7523329257072464  0.03838981656967059  1.0000
+  Fe  Fe1       1.0  0.9169830671350031  0.2526910006168597  0.03909048115521479  1.0000
+  Al  Al1       1.0  0.4163073882270868  0.25238674791368565  0.5382205242588294  1.0000
+  O   O1        1.0  0.41612884398690986  0.44943943687752164  0.281936168308342  1.0000
+  O   O2        1.0  0.9157518146712262  0.05897149028122801  0.3202858559284165  1.0000
+  O   O3        1.0  0.9157760744428896  0.445918053818529  0.756540774811803  1.0000
+  O   O4        1.0  0.4162476071293625  0.05542574089721222  0.7948755620401932  1.0000

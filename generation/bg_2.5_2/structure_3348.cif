@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Br2OBrTeBrNaBiOBr
+_chemical_formula_sum              "Br5 O2 Te1 Na1 Bi1"
+_cell_length_a       5.7409492900462125
+_cell_length_b       7.367424042422667
+_cell_length_c       8.278787612915039
+_cell_angle_alpha    73.73540226896549
+_cell_angle_beta     89.80422196749656
+_cell_angle_gamma    90.1686535344711
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.7980686432149766  0.9432119725922019  0.9548357727915698  1.0000
+  Br  Br2       1.0  0.3022712470714409  0.15340384837247611  0.17181132700020008  1.0000
+  O   O1        1.0  0.7989964482407681  0.9536465403299366  0.48471140812759855  1.0000
+  Br  Br3       1.0  0.8008889560389185  0.4965278502838198  0.3406814932643876  1.0000
+  Te  Te1       1.0  0.2988853149062356  0.7805123925413773  0.33630061190765903  1.0000
+  Br  Br4       1.0  0.29983204536181174  0.22560979408660292  0.6425687670523069  1.0000
+  Na  Na1       1.0  0.8003980521779557  0.21198757042869507  0.1567432429547675  1.0000
+  Bi  Bi1       1.0  0.7996158012242452  0.22284641890739848  0.6527244446718716  1.0000
+  O   O2        1.0  0.2990403174057633  0.6869357228430586  0.1032337542408493  1.0000
+  Br  Br5       1.0  0.8029155723906259  0.483563960041315  0.8358970284172009  1.0000

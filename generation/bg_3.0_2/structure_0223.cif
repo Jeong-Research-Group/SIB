@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       BaNaW2O3
+_chemical_formula_sum              "Ba1 Na1 W2 O3"
+_cell_length_a       3.950782172865993
+_cell_length_b       5.729750679743118
+_cell_length_c       5.911882400512695
+_cell_angle_alpha    89.7470532968463
+_cell_angle_beta     89.93874253195678
+_cell_angle_gamma    90.11667579124158
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.6873175511118257  0.10270532234704084  0.9700998658366156  1.0000
+  Na  Na1       1.0  0.6863088023897469  0.5597500213475973  0.46935400445414516  1.0000
+  W   W1        1.0  0.187127083343676  0.59122598134392  0.9687553636632983  1.0000
+  W   W2        1.0  0.18679140557068888  0.07729759868403967  0.4702300727708753  1.0000
+  O   O1        1.0  0.1881962864468896  0.3458877798062603  0.2188228362445354  1.0000
+  O   O2        1.0  0.1882651148406889  0.34667152125796  0.7200027707439163  1.0000
+  O   O3        1.0  0.6862748851666581  0.02165480568381731  0.4698850215215911  1.0000

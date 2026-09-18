@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       CuONaCuO2CuO
+_chemical_formula_sum              "Cu3 O4 Na1"
+_cell_length_a       3.056670502406722
+_cell_length_b       5.295341377723212
+_cell_length_c       5.271420478820801
+_cell_angle_alpha    79.70167606781222
+_cell_angle_beta     106.03671181345702
+_cell_angle_gamma    89.72309988526727
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.3052594951195231  0.8599658601581226  0.49816602519104297  1.0000
+  O   O1        1.0  0.9252829552501506  0.008069362052621138  0.7331641313917463  1.0000
+  Na  Na1       1.0  0.05283695699627113  0.6124948864582526  0.992316245509689  1.0000
+  Cu  Cu2       1.0  0.7991133937090017  0.36456108145613014  0.4862317736828738  1.0000
+  O   O2        1.0  0.41174447498360983  0.4710927602511999  0.7085537903082308  1.0000
+  O   O3        1.0  0.18009097891180437  0.2164980910896719  0.25044059790021894  1.0000
+  Cu  Cu3       1.0  0.5528019081639969  0.11225989385436339  0.9919295315464495  1.0000
+  O   O4        1.0  0.6937009095118815  0.7537444825088788  0.27704033313728255  1.0000

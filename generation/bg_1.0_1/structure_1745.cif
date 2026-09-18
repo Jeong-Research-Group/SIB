@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NaPdAuO2
+_chemical_formula_sum              "Na1 Pd1 Au1 O2"
+_cell_length_a       3.0978430834557336
+_cell_length_b       3.758868488830487
+_cell_length_c       6.666678428649902
+_cell_angle_alpha    89.79075284008236
+_cell_angle_beta     89.82786806442529
+_cell_angle_gamma    89.80615491065974
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.5457268345887626  0.9984507570936763  0.9313035604964218  1.0000
+  Pd  Pd1       1.0  0.04478005567572943  0.49893945386454064  0.6340117453503258  1.0000
+  Au  Au1       1.0  0.04735717149026743  0.4987726516078954  0.2186647349319846  1.0000
+  O   O1        1.0  0.5452311623483898  0.49789786425226507  0.4391189522195065  1.0000
+  O   O2        1.0  0.04533236927191392  0.4977889950387904  0.9244775767938804  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Li2SnNa
+_chemical_formula_sum              "Li2 Sn1 Na1"
+_cell_length_a       4.907790616572393
+_cell_length_b       4.909824661467374
+_cell_length_c       4.915628910064697
+_cell_angle_alpha    59.625134091925425
+_cell_angle_beta     59.58050169724703
+_cell_angle_gamma    59.61535339368615
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.6675635584027443  0.32708272260983934  0.6449921717578689  1.0000
+  Li  Li2       1.0  0.1685127310588226  0.8284509777426705  0.14544269529757903  1.0000
+  Sn  Sn1       1.0  0.4184721706942648  0.07735201024278765  0.3946779962961648  1.0000
+  Na  Na1       1.0  0.9172364466171817  0.5780683762903434  0.8945587286980917  1.0000

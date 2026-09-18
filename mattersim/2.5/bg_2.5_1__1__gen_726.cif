@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NaCl3NaBiCl
+_chemical_formula_sum              "Na2 Cl4 Bi1"
+_cell_length_a       4.065372938569248
+_cell_length_b       7.039347213478559
+_cell_length_c       7.650883197784424
+_cell_angle_alpha    60.99850822935388
+_cell_angle_beta     105.55820931843648
+_cell_angle_gamma    90.24869636946346
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.09586624056100845  0.3794139623641967  0.8682066202163696  1.0000
+  Cl  Cl1       1.0  0.6864969730377196  0.47423088550567627  0.051052004098892226  1.0000
+  Cl  Cl2       1.0  0.4404161274433135  0.3739210367202759  0.553092360496521  1.0000
+  Cl  Cl3       1.0  0.9276399612426758  0.83201265335083  0.5277998447418213  1.0000
+  Na  Na2       1.0  0.5203632712364197  0.9278156757354736  0.7094497680664062  1.0000
+  Bi  Bi1       1.0  0.8065766096115111  0.6542190313339233  0.2890157401561737  1.0000
+  Cl  Cl4       1.0  0.1739352643489838  0.932323396205902  0.025716731324791967  1.0000

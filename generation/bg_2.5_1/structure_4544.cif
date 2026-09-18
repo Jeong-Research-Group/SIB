@@ -1,0 +1,27 @@
+data_image0
+_chemical_formula_structural       NaO
+_chemical_formula_sum              "Na1 O1"
+_cell_length_a       3.302950784548905
+_cell_length_b       3.289165278585464
+_cell_length_c       3.3170292377471924
+_cell_angle_alpha    90.18777124598125
+_cell_angle_beta     120.24059047789676
+_cell_angle_gamma    60.23031077023996
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.266798078756833  0.7769410020130714  0.07669940671631865  1.0000
+  O   O1        1.0  0.263732941727709  0.2716312094758293  0.5773922210026172  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Mg3WMg3Na
+_chemical_formula_sum              "Mg6 W1 Na1"
+_cell_length_a       5.004322040562642
+_cell_length_b       6.303708318939274
+_cell_length_c       6.313964366912842
+_cell_angle_alpha    119.53645533401024
+_cell_angle_beta     89.84997740522591
+_cell_angle_gamma    89.88775518345953
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.37574440222255445  0.2646482583582506  0.4296125167440561  1.0000
+  Mg  Mg2       1.0  0.8752834192318494  0.07245817852210297  0.5803648838980602  1.0000
+  Mg  Mg3       1.0  0.3752705753707108  0.7555627231100839  0.9201016430175941  1.0000
+  W   W1        1.0  0.3750908675287073  0.7610680459324121  0.4229130154349231  1.0000
+  Mg  Mg4       1.0  0.8752465838248857  0.6042486426575662  0.580056727349769  1.0000
+  Mg  Mg5       1.0  0.3753465412374887  0.2650161983546312  0.9211013908719925  1.0000
+  Mg  Mg6       1.0  0.8753269322583113  0.6053494814930913  0.112325587091502  1.0000
+  Na  Na1       1.0  0.874868273073322  0.09447686426492155  0.09211338296505908  1.0000

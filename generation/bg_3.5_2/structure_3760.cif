@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NaFNaF3CrF
+_chemical_formula_sum              "Na2 F5 Cr1"
+_cell_length_a       5.826778191370252
+_cell_length_b       5.906312531946383
+_cell_length_c       3.937314510345459
+_cell_angle_alpha    109.68296146249392
+_cell_angle_beta     110.1035096091912
+_cell_angle_gamma    67.38831243133204
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.9630702130727977  0.8800643682394309  0.32074451456654934  1.0000
+  F   F1        1.0  0.8279774778906349  0.28635144212802016  0.4550527636072275  1.0000
+  Na  Na2       1.0  0.21415281285787066  0.34941756686264464  0.6804493664649732  1.0000
+  F   F2        1.0  0.8763036721737739  0.7410394543592669  0.7079352130739868  1.0000
+  F   F3        1.0  0.5910880556318966  0.6135767701448392  0.0035036807575209517  1.0000
+  F   F4        1.0  0.3039303120618003  0.4837289451943869  0.29253250339108494  1.0000
+  Cr  Cr1       1.0  0.5891435747399246  0.6119396695944653  0.5005981940560915  1.0000
+  F   F5        1.0  0.35217693430041613  0.9403325914681587  0.5463287244684698  1.0000

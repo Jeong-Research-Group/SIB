@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Cl2INaCl2ScSb
+_chemical_formula_sum              "Cl4 I1 Na1 Sc1 Sb1"
+_cell_length_a       5.690087858959349
+_cell_length_b       5.155555222691918
+_cell_length_c       8.029337882995605
+_cell_angle_alpha    89.7968726795077
+_cell_angle_beta     89.80216607102274
+_cell_angle_gamma    89.72006039481342
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.03276149493723895  0.0928786397175193  0.5619682666036547  1.0000
+  Cl  Cl2       1.0  0.032246384616437106  0.5893239983252386  0.870317697698624  1.0000
+  I   I1        1.0  0.5319581031022373  0.09071926760384078  0.869678199639415  1.0000
+  Na  Na1       1.0  0.5317305925875966  0.09163930355274391  0.37106543797322467  1.0000
+  Cl  Cl3       1.0  0.03238691809368477  0.09367710362315754  0.1772394334491049  1.0000
+  Cl  Cl4       1.0  0.5343978400995497  0.591389656230954  0.3689782019834796  1.0000
+  Sc  Sc1       1.0  0.032514986165753136  0.09338361680877501  0.8709968327847719  1.0000
+  Sb  Sb1       1.0  0.03253299012314783  0.5911145208286164  0.3725465831042725  1.0000

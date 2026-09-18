@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Cl4CsGaBi
+_chemical_formula_sum              "Cl4 Cs1 Ga1 Bi1"
+_cell_length_a       6.560514089748879
+_cell_length_b       6.529309368382592
+_cell_length_c       6.560842990875244
+_cell_angle_alpha    68.00519396942359
+_cell_angle_beta     68.00273561138081
+_cell_angle_gamma    68.08583223650186
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.3980958166756755  0.4249111410909353  0.5888660549314813  1.0000
+  Cl  Cl2       1.0  0.02564733088981004  0.5489999650445213  0.2329981622205088  1.0000
+  Cl  Cl3       1.0  0.5108650929191454  0.06647077940116897  0.23592454189751988  1.0000
+  Cl  Cl4       1.0  0.027050704970963433  0.06452120798332964  0.7186181555848645  1.0000
+  Cs  Cs1       1.0  0.6435468785128377  0.6773251300933361  0.8450956942468988  1.0000
+  Ga  Ga1       1.0  0.24683852472305268  0.287114560197325  0.4525931174672623  1.0000
+  Bi  Bi1       1.0  0.02681640260501281  0.06011205250123775  0.22823475270094493  1.0000

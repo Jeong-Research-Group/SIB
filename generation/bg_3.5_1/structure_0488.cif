@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       Na2Sn
+_chemical_formula_sum              "Na2 Sn1"
+_cell_length_a       3.173382395073275
+_cell_length_b       5.347085720433993
+_cell_length_c       5.353073596954346
+_cell_angle_alpha    60.18240965845193
+_cell_angle_beta     89.41766053264475
+_cell_angle_gamma    89.58678286378168
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.5915381902051604  0.6107355962788579  0.7964143750176175  1.0000
+  Na  Na2       1.0  0.8611477611428755  0.9437621246316105  0.1322420093541953  1.0000
+  Sn  Sn1       1.0  0.22614008033521193  0.2764944733453045  0.46438068092965007  1.0000

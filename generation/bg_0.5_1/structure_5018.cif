@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Br2PbBr2RbBrRbBrW
+_chemical_formula_sum              "Br6 Pb1 Rb2 W1"
+_cell_length_a       7.792036447728842
+_cell_length_b       7.8001603680923655
+_cell_length_c       7.7952094078063965
+_cell_angle_alpha    59.8001909327201
+_cell_angle_beta     59.72525080891571
+_cell_angle_gamma    59.73827669790836
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.4894273576624831  0.643270015367667  0.8041492703395433  1.0000
+  Br  Br2       1.0  0.9657323960319907  0.6429207926160171  0.8038739556840591  1.0000
+  Pb  Pb1       1.0  0.22764551670299563  0.904628277040146  0.5424618719497608  1.0000
+  Br  Br3       1.0  0.9665392631116526  0.16689816176503092  0.8039314147116977  1.0000
+  Br  Br4       1.0  0.9660053848601748  0.16640675107820685  0.28008758968629277  1.0000
+  Rb  Rb1       1.0  0.4780003422740848  0.1549770678399115  0.7918609981264622  1.0000
+  Br  Br5       1.0  0.4895025786060115  0.1666318178120456  0.2803841530638332  1.0000
+  Rb  Rb2       1.0  0.9772791864555542  0.6547745471235801  0.2924478353373333  1.0000
+  Br  Br6       1.0  0.4890702369708218  0.6428584461437942  0.28027418258742715  1.0000
+  W   W1        1.0  0.7276634574029885  0.40441209102986203  0.04191486499400497  1.0000

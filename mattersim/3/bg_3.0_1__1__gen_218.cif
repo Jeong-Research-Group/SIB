@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NaLiTiO3
+_chemical_formula_sum              "Na1 Li1 Ti1 O3"
+_cell_length_a       3.7497761526384714
+_cell_length_b       3.842956960103321
+_cell_length_c       5.770374298095703
+_cell_angle_alpha    70.4333528026737
+_cell_angle_beta     70.94894562435015
+_cell_angle_gamma    89.868733207755
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.9267615079879762  0.4233567118644715  0.5824946165084839  1.0000
+  Li  Li1       1.0  0.2478289604187012  0.7419525980949402  0.9425650238990784  1.0000
+  Ti  Ti1       1.0  0.6158247590065004  0.11145488917827606  0.20889046788215637  1.0000
+  O   O1        1.0  0.44227549433708196  0.9386923313140869  0.5527027249336243  1.0000
+  O   O2        1.0  0.6652460098266603  0.6587878465652467  0.1121118292212486  1.0000
+  O   O3        1.0  0.17236508429050448  0.1702835410833359  0.09096474200487137  1.0000

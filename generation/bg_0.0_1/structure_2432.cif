@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       SbNaSbKCu
+_chemical_formula_sum              "Sb2 Na1 K1 Cu1"
+_cell_length_a       4.583290235458751
+_cell_length_b       4.650904801229943
+_cell_length_c       6.7892746925354
+_cell_angle_alpha    89.35537612274612
+_cell_angle_beta     89.6828153598842
+_cell_angle_gamma    90.53814630811024
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.6567265987838483  0.8101993788501581  0.5884497763446559  1.0000
+  Na  Na1       1.0  0.15820029331430174  0.3073637784364812  0.517836510634477  1.0000
+  Sb  Sb2       1.0  0.15690040481569345  0.3091120120371226  0.031118135692233463  1.0000
+  K   K1        1.0  0.6565629849002276  0.809713661759183  0.12471310844344635  1.0000
+  Cu  Cu1       1.0  0.6584147223355059  0.30930060216237915  0.8024021985969592  1.0000

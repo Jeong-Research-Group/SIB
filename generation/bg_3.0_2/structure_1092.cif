@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       HNaHBaH3
+_chemical_formula_sum              "H5 Na1 Ba1"
+_cell_length_a       4.839605010185863
+_cell_length_b       3.4814429493874672
+_cell_length_c       5.607304573059082
+_cell_angle_alpha    90.10188843617436
+_cell_angle_beta     83.10207801310676
+_cell_angle_gamma    90.13030886957738
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.19444997634300004  0.9470942609288419  0.9180095196563619  1.0000
+  Na  Na1       1.0  0.6963540913417471  0.4498259723991775  0.9193862671032539  1.0000
+  H   H2        1.0  0.6873421080410836  0.9484492530084115  0.501920998615288  1.0000
+  Ba  Ba1       1.0  0.1951971655808842  0.44695732067847566  0.41959214250757876  1.0000
+  H   H3        1.0  0.7028018236489387  0.9485966550840591  0.3382683987314535  1.0000
+  H   H4        1.0  0.3715707354405608  0.946538090036128  0.044964370285510466  1.0000
+  H   H5        1.0  0.023021172109890586  0.9495518803947157  0.7974479207661562  1.0000

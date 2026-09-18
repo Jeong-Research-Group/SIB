@@ -1,0 +1,27 @@
+data_image0
+_chemical_formula_structural       NaRe
+_chemical_formula_sum              "Na1 Re1"
+_cell_length_a       2.903915054889804
+_cell_length_b       2.905441616526015
+_cell_length_c       4.994307041168213
+_cell_angle_alpha    89.62115236474132
+_cell_angle_beta     89.76605485276237
+_cell_angle_gamma    97.15915467285029
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.9809452282142197  0.21257357248171807  0.3251024192309657  1.0000
+  Re  Re1       1.0  0.47866314811539395  0.7135279780480991  0.8301009528890425  1.0000

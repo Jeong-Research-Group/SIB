@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NaYNaPb2
+_chemical_formula_sum              "Na2 Y1 Pb2"
+_cell_length_a       5.3831543172951335
+_cell_length_b       6.3888301937455045
+_cell_length_c       5.381361961364746
+_cell_angle_alpha    89.85996313749774
+_cell_angle_beta     60.067362192141054
+_cell_angle_gamma    89.91251460794781
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.5045757888737913  0.5101244453950429  0.7502803208389758  1.0000
+  Y   Y1        1.0  0.8376951212530346  0.17604248288326332  0.08555606766678768  1.0000
+  Na  Na2       1.0  0.17104145852798283  0.8279698492241352  0.41773894464449324  1.0000
+  Pb  Pb1       1.0  0.5035887960865948  0.0058988130518577465  0.7505570044594417  1.0000
+  Pb  Pb2       1.0  0.8398762338753794  0.6803166860816674  0.08475922819816664  1.0000

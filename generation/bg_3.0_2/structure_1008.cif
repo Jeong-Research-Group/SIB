@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       MgNaCoNaO3
+_chemical_formula_sum              "Mg1 Na2 Co1 O3"
+_cell_length_a       2.9406603824837756
+_cell_length_b       2.9563171985666177
+_cell_length_c       10.19206714630127
+_cell_angle_alpha    90.86988177320634
+_cell_angle_beta     90.57105412223683
+_cell_angle_gamma    89.62609743786507
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.24311077663096944  0.3313361118435201  0.03361626301669044  1.0000
+  Na  Na1       1.0  0.2721456294311534  0.37466910312701734  0.7372834683739761  1.0000
+  Co  Co1       1.0  0.7467741380092676  0.8427873238030439  0.2428144809491432  1.0000
+  Na  Na2       1.0  0.25888609929973916  0.3637451541621072  0.49806430908188576  1.0000
+  O   O1        1.0  0.7432160383727878  0.8320084804299723  0.02097778918051182  1.0000
+  O   O2        1.0  0.2469972964312025  0.34347152605443776  0.24632822006619118  1.0000
+  O   O3        1.0  0.7654410602707483  0.8705762625365228  0.6182700990653913  1.0000

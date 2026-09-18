@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       HNaIHLiHCl
+_chemical_formula_sum              "H3 Na1 I1 Li1 Cl1"
+_cell_length_a       4.177858510397017
+_cell_length_b       4.167968885532697
+_cell_length_c       10.020341873168945
+_cell_angle_alpha    78.26734283615328
+_cell_angle_beta     78.03489173648053
+_cell_angle_gamma    61.14615778161763
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.7048592565423633  0.8821011769572114  0.47510650768458024  1.0000
+  Na  Na1       1.0  0.0805895920581022  0.2543708966411116  0.36788857044094864  1.0000
+  I   I1        1.0  0.2487363528130631  0.4090171150076517  0.8761296867422962  1.0000
+  H   H2        1.0  0.658079862446524  0.8508285874770829  0.5804262757877036  1.0000
+  Li  Li1       1.0  0.5506837373403475  0.7137506000624204  0.9765625599694884  1.0000
+  H   H3        1.0  0.991517902334283  0.1612825543984538  0.6381523007926887  1.0000
+  Cl  Cl1       1.0  0.4640285974553154  0.6339310997593076  0.2192703184335683  1.0000

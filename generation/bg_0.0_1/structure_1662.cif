@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       K2ONaOCu
+_chemical_formula_sum              "K2 O2 Na1 Cu1"
+_cell_length_a       3.7272671411799814
+_cell_length_b       5.718168729195136
+_cell_length_c       5.64596700668335
+_cell_angle_alpha    86.76265679801264
+_cell_angle_beta     89.96177393468844
+_cell_angle_gamma    89.97913627637855
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.3415644752891991  0.8983815908335874  0.759721755620322  1.0000
+  K   K2        1.0  0.8419777759438383  0.398200005029669  0.5496270657143039  1.0000
+  O   O1        1.0  0.3424252859279235  0.14973267856143588  0.30097958516867024  1.0000
+  Na  Na1       1.0  0.8413410789764342  0.9403800364051118  0.2183108179239824  1.0000
+  O   O2        1.0  0.8410502679611093  0.5935148592714838  0.9925110929432901  1.0000
+  Cu  Cu1       1.0  0.34184089407450957  0.43195390622294033  0.088704704662262  1.0000

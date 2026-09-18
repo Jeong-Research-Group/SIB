@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Cl2NaOLi
+_chemical_formula_sum              "Cl2 Na1 O1 Li1"
+_cell_length_a       5.0077863494544745
+_cell_length_b       4.740147999246401
+_cell_length_c       5.059093952178955
+_cell_angle_alpha    89.85046235268932
+_cell_angle_beta     89.99005091903484
+_cell_angle_gamma    89.95811295425257
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.7668629291563763  0.8930453053438311  0.4525401298256867  1.0000
+  Cl  Cl2       1.0  0.26663786125781785  0.8948612215589655  0.9517297141090849  1.0000
+  Na  Na1       1.0  0.7663234462342235  0.39355739987138233  0.952021480513643  1.0000
+  O   O1        1.0  0.26666474374854704  0.3945916899414655  0.45193269786760254  1.0000
+  Li  Li1       1.0  0.26658162404716484  0.8952781552198701  0.45272913554323024  1.0000

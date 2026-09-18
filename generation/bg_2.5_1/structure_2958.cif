@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       O2LaO3BaNaW
+_chemical_formula_sum              "O5 La1 Ba1 Na1 W1"
+_cell_length_a       6.121326965309334
+_cell_length_b       6.145961887367823
+_cell_length_c       6.046933174133301
+_cell_angle_alpha    60.70765799996451
+_cell_angle_beta     60.341784803015194
+_cell_angle_gamma    60.097933247716085
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.1639201928457539  0.3651073579019109  0.9579517255573184  1.0000
+  O   O2        1.0  0.7142429952748272  0.8140162225687435  0.9585625533828305  1.0000
+  La  La1       1.0  0.4360149808240396  0.08679667811719652  0.236160724770067  1.0000
+  O   O3        1.0  0.16341544728093058  0.3650021853201976  0.5087706449017664  1.0000
+  O   O4        1.0  0.7142198687544151  0.8145827060550157  0.5083944197301095  1.0000
+  O   O5        1.0  0.702494978857519  0.353428930907399  0.9697320453409852  1.0000
+  Ba  Ba1       1.0  0.6828761106730811  0.3339104052939991  0.4892828758773687  1.0000
+  Na  Na1       1.0  0.1824459576040961  0.8337889910873614  0.9901793004844265  1.0000
+  W   W1        1.0  0.9198744889196547  0.570038319137468  0.7533007851367542  1.0000

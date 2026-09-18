@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NaCdNa2Cl3
+_chemical_formula_sum              "Na3 Cd1 Cl3"
+_cell_length_a       3.985681035636011
+_cell_length_b       5.53070871430282
+_cell_length_c       7.8387532234191895
+_cell_angle_alpha    89.97817321920947
+_cell_angle_beta     89.95608438853621
+_cell_angle_gamma    90.0001117875164
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.796837509718733  0.9155566689570721  0.7864272597434572  1.0000
+  Cd  Cd1       1.0  0.29701092904053417  0.41670769449068235  0.5568309428558562  1.0000
+  Na  Na2       1.0  0.7966705551943284  0.9157754185152727  0.32411715409691494  1.0000
+  Na  Na3       1.0  0.29648917840317845  0.41582021141939374  0.05709975926161247  1.0000
+  Cl  Cl1       1.0  0.7971387516714493  0.41610539008200736  0.30622100887487835  1.0000
+  Cl  Cl2       1.0  0.29650786448175864  0.9161350126011396  0.5550035838797803  1.0000
+  Cl  Cl3       1.0  0.7970398077931343  0.41621634332077434  0.8066831227701096  1.0000

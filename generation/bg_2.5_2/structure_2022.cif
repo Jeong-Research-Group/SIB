@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       WMgNaPNa2P
+_chemical_formula_sum              "W1 Mg1 Na3 P2"
+_cell_length_a       3.7894201259061746
+_cell_length_b       3.795835797993471
+_cell_length_c       12.812589645385742
+_cell_angle_alpha    90.3471741635225
+_cell_angle_beta     90.42826222560197
+_cell_angle_gamma    60.234182671535294
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  W   W1        1.0  0.26204854246771303  0.5005662427265214  0.5379186271977049  1.0000
+  Mg  Mg1       1.0  0.5829488635061637  0.8325814607454357  0.9335348606969648  1.0000
+  Na  Na1       1.0  0.9174624665669541  0.16920630688559815  0.10342197865201766  1.0000
+  P   P1        1.0  0.9266383045382058  0.1666421431344561  0.45901739591700524  1.0000
+  Na  Na2       1.0  0.923654854298418  0.1652236731214663  0.7451210020597544  1.0000
+  Na  Na3       1.0  0.5918667910554543  0.8350275762237434  0.32592543961375103  1.0000
+  P   P2        1.0  0.24799081723244754  0.4972102356710102  0.9350854155058681  1.0000

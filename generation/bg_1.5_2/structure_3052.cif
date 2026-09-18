@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       MgCoHO3Na
+_chemical_formula_sum              "Mg1 Co1 H1 O3 Na1"
+_cell_length_a       4.133992065570937
+_cell_length_b       3.6968885206888316
+_cell_length_c       6.948802471160889
+_cell_angle_alpha    120.67393648085378
+_cell_angle_beta     117.79990545875802
+_cell_angle_gamma    90.31253815388486
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.9724668277743472  0.6317452204966639  0.7849861981880819  1.0000
+  Co  Co1       1.0  0.4694817951850183  0.1298714588753338  0.7834223504320131  1.0000
+  H   H1        1.0  0.4304222774765803  0.5929237003091626  0.2528555989268615  1.0000
+  O   O1        1.0  0.4791299416053179  0.6368356348609179  0.7915910487633511  1.0000
+  O   O2        1.0  0.8170167792545702  0.9025688179573647  0.5377951854602091  1.0000
+  O   O3        1.0  0.12887816248870584  0.3638044589801331  0.039678730734792785  1.0000
+  Na  Na1       1.0  0.9691576352600034  0.1324797570351259  0.2908516529404541  1.0000

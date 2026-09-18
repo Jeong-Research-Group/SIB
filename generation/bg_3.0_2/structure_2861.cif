@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NaHFeHFeH2
+_chemical_formula_sum              "Na1 H4 Fe2"
+_cell_length_a       4.176142329699578
+_cell_length_b       3.973319490222824
+_cell_length_c       5.246610164642334
+_cell_angle_alpha    90.14562896304297
+_cell_angle_beta     89.66328103816024
+_cell_angle_gamma    89.08860254397797
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.7928044204856577  0.29125761939297545  0.1317300795680228  1.0000
+  H   H1        1.0  0.7915536762389436  0.7928604473797499  0.13072030197595436  1.0000
+  Fe  Fe1       1.0  0.2910829473753312  0.7942270643432147  0.6308270684057043  1.0000
+  H   H2        1.0  0.29196944873945396  0.2922817476921246  0.13172097555152798  1.0000
+  Fe  Fe2       1.0  0.2906792758999004  0.7914171213525724  0.13141860116823764  1.0000
+  H   H3        1.0  0.792298674470151  0.1269848057974386  0.6300897003354494  1.0000
+  H   H4        1.0  0.78790378595315  0.42853611702244915  0.6320737006816946  1.0000

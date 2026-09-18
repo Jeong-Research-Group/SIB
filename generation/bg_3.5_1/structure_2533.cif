@@ -1,0 +1,27 @@
+data_image0
+_chemical_formula_structural       BiK
+_chemical_formula_sum              "Bi1 K1"
+_cell_length_a       3.6590827221302136
+_cell_length_b       3.638199227881239
+_cell_length_c       5.000197410583496
+_cell_angle_alpha    90.34744738557579
+_cell_angle_beta     90.12461248933198
+_cell_angle_gamma    90.05262911120546
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.5576344718843546  0.7540704018448094  0.6077546469037237  1.0000
+  K   K1        1.0  0.05848662514531075  0.25289616071804055  0.10811217906042746  1.0000

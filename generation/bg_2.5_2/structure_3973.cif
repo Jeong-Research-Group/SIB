@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       H2NaH2NaInH2
+_chemical_formula_sum              "H6 Na2 In1"
+_cell_length_a       4.24002891886351
+_cell_length_b       5.267224226978099
+_cell_length_c       5.284448146820068
+_cell_angle_alpha    120.2631424048649
+_cell_angle_beta     90.55364397562293
+_cell_angle_gamma    89.86918391765383
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.9155695436166408  0.6111699936662848  0.7228693966170788  1.0000
+  H   H2        1.0  0.9143055072162646  0.6125615242649723  0.22990164099750873  1.0000
+  Na  Na1       1.0  0.984944224473591  0.10891519564252042  0.22105261685471225  1.0000
+  H   H3        1.0  0.4645145540147407  0.9393558496363246  0.8811574577588557  1.0000
+  H   H4        1.0  0.4636744562039229  0.9425755147940703  0.38755241032533955  1.0000
+  Na  Na2       1.0  0.39460864598533485  0.44175767987225045  0.8878613115633301  1.0000
+  In  In1       1.0  0.6900576358481197  0.7765375375750817  0.5547644498763801  1.0000
+  H   H5        1.0  0.46190637267503454  0.44738608539534697  0.38861447466076765  1.0000
+  H   H6        1.0  0.9183326949972587  0.10552903989044579  0.721054375015257  1.0000

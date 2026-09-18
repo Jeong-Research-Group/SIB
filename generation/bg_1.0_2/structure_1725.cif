@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       MgNaSNaOTiS
+_chemical_formula_sum              "Mg1 Na2 S2 O1 Ti1"
+_cell_length_a       4.374494119113908
+_cell_length_b       4.029683282372311
+_cell_length_c       6.886597633361816
+_cell_angle_alpha    89.88058347835403
+_cell_angle_beta     90.06036087787429
+_cell_angle_gamma    89.96088601166637
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.8147658118072227  0.3654834638434221  0.4188215738658381  1.0000
+  Na  Na1       1.0  0.31229892307752416  0.3674981307460325  0.08776813697485915  1.0000
+  S   S1        1.0  0.8114856487891166  0.36991709590398275  0.7450469141812169  1.0000
+  Na  Na2       1.0  0.3131589885264159  0.8640081874050324  0.5789371135383912  1.0000
+  O   O1        1.0  0.3109064107780706  0.8697523474497137  0.9163511994435873  1.0000
+  Ti  Ti1       1.0  0.8116910458863063  0.8701199280908649  0.9160662887261619  1.0000
+  S   S2        1.0  0.8119357820944251  0.8669579027478034  0.2563393122001669  1.0000

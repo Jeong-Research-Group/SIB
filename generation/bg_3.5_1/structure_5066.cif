@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NaBrNaBrYOTeO
+_chemical_formula_sum              "Na2 Br2 Y1 O2 Te1"
+_cell_length_a       4.00498295941209
+_cell_length_b       3.984703264745254
+_cell_length_c       12.15026569366455
+_cell_angle_alpha    90.19302366138527
+_cell_angle_beta     89.960230313692
+_cell_angle_gamma    90.69908599811332
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.35433042032080125  0.5599763401221124  0.4503629800898696  1.0000
+  Br  Br1       1.0  0.8549030428266013  0.058793791097071633  0.44619584099468834  1.0000
+  Na  Na2       1.0  0.8518964646155159  0.06278526113565461  0.18044471737575796  1.0000
+  Br  Br2       1.0  0.3529864549789742  0.5649241210600049  0.6852679251538565  1.0000
+  Y   Y1        1.0  0.3519013216328671  0.5672819609722426  0.9033119675714976  1.0000
+  O   O1        1.0  0.35430303205539926  0.5571362977107013  0.22957970206730433  1.0000
+  Te  Te1       1.0  0.852330744113423  0.06664945178060115  0.9022503491939745  1.0000
+  O   O2        1.0  0.3520986445445598  0.5678554172223916  0.10697657586994003  1.0000

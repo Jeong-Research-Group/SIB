@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       NaSrNaHg
+_chemical_formula_sum              "Na2 Sr1 Hg1"
+_cell_length_a       5.499681994083576
+_cell_length_b       5.493012064729958
+_cell_length_c       5.502274990081787
+_cell_angle_alpha    59.7874131074984
+_cell_angle_beta     59.776745081904906
+_cell_angle_gamma    59.776232225687984
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.9754180308976506  0.9943343997086933  0.720510840489031  1.0000
+  Sr  Sr1       1.0  0.22494566479067074  0.24469391936104654  0.9709277152942725  1.0000
+  Na  Na2       1.0  0.7252176414157522  0.7447788710900739  0.47062319433438626  1.0000
+  Hg  Hg1       1.0  0.4749303459280578  0.4949124162412956  0.22084037965289163  1.0000

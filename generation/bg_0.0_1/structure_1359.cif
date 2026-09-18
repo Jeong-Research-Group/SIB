@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NaMg2WMg2CuNa
+_chemical_formula_sum              "Na2 Mg4 W1 Cu1"
+_cell_length_a       6.40244723036987
+_cell_length_b       4.9325962196044575
+_cell_length_c       6.209903240203857
+_cell_angle_alpha    89.72514205120837
+_cell_angle_beta     121.17797978032254
+_cell_angle_gamma    89.9134640015294
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.09485839989979332  0.2821575102501703  0.007138376812955933  1.0000
+  Mg  Mg1       1.0  0.7732933756325798  0.7823206775095304  0.345053703054234  1.0000
+  Mg  Mg2       1.0  0.25839245360821644  0.7819764616118061  0.3522631228398059  1.0000
+  W   W1        1.0  0.7430056921234782  0.7811748982166498  0.8310984366699126  1.0000
+  Mg  Mg3       1.0  0.6107574707872232  0.28252175458905276  0.5310047867899796  1.0000
+  Mg  Mg4       1.0  0.6219074128646607  0.2824968097626522  0.9971858267240047  1.0000
+  Cu  Cu1       1.0  0.09304018262727964  0.2828300899976972  0.4906954763453522  1.0000
+  Na  Na2       1.0  0.2580130391054435  0.7823103662784613  0.8278486129640875  1.0000

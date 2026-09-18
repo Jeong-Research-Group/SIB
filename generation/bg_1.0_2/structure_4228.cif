@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NiCdNa2PtNa3
+_chemical_formula_sum              "Ni1 Cd1 Na5 Pt1"
+_cell_length_a       5.082792111013713
+_cell_length_b       6.338051156275797
+_cell_length_c       6.345776081085205
+_cell_angle_alpha    120.76694022422693
+_cell_angle_beta     89.9526419751932
+_cell_angle_gamma    90.12774753154913
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.38567587687314925  0.9625307914907426  0.7272387738655801  1.0000
+  Cd  Cd1       1.0  0.38546389372038936  0.45486253453742087  0.23511624334753492  1.0000
+  Na  Na1       1.0  0.3857323835050974  0.9794116022182886  0.23852770059516198  1.0000
+  Na  Na2       1.0  0.38531482278962953  0.45168599444797264  0.7105051274102115  1.0000
+  Pt  Pt1       1.0  0.8861815324484061  0.3049853440557296  0.38495731390800914  1.0000
+  Na  Na3       1.0  0.8858528139515256  0.7994751923841531  0.4076693348713873  1.0000
+  Na  Na4       1.0  0.8852441914680832  0.8070138693679432  0.8837593792964971  1.0000
+  Na  Na5       1.0  0.8852031829887163  0.28198537199107143  0.890245198719578  1.0000

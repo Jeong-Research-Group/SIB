@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       NaCuTiSe2TiSe4
+_chemical_formula_sum              "Na1 Cu1 Ti2 Se6"
+_cell_length_a       6.174324861861502
+_cell_length_b       6.188731255296324
+_cell_length_c       6.863016605377197
+_cell_angle_alpha    89.78885403796517
+_cell_angle_beta     89.63919773806023
+_cell_angle_gamma    60.158742927750914
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.799359917827635  0.3003732258645779  0.7843053341332441  1.0000
+  Cu  Cu1       1.0  0.7992244357972002  0.29947289894053614  0.28366762384786065  1.0000
+  Ti  Ti1       1.0  0.46586504657475175  0.964702010128504  0.28575131227602135  1.0000
+  Se  Se1       1.0  0.13802391366696676  0.9596035479261767  0.4995389585544274  1.0000
+  Se  Se2       1.0  0.799929260963353  0.9595704080177979  0.06920713993003408  1.0000
+  Ti  Ti2       1.0  0.13239063382264626  0.6326757065366372  0.2827353773543567  1.0000
+  Se  Se3       1.0  0.14066371263860913  0.2988027034387155  0.06981880229853303  1.0000
+  Se  Se4       1.0  0.7982643839548599  0.639954327628902  0.49962490830966094  1.0000
+  Se  Se5       1.0  0.45948466680461725  0.6401348702730991  0.06834547959788866  1.0000
+  Se  Se6       1.0  0.4581757482257806  0.3000307372993622  0.49948581991360924  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       GaTeNaTeLi
+_chemical_formula_sum              "Ga1 Te2 Na1 Li1"
+_cell_length_a       4.499783022515453
+_cell_length_b       4.385725638743231
+_cell_length_c       7.499386787414551
+_cell_angle_alpha    106.82076350234757
+_cell_angle_beta     89.24653020616444
+_cell_angle_gamma    89.82232879047434
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.04196727289767157  0.6770211460057948  0.5527125003865971  1.0000
+  Te  Te1       1.0  0.04333439874212679  0.060750016088982256  0.3186445234692613  1.0000
+  Na  Na1       1.0  0.5464013225755147  0.4592747391006778  0.11021240737995297  1.0000
+  Te  Te2       1.0  0.5424256332816455  0.7882622477303605  0.771721184121261  1.0000
+  Li  Li1       1.0  0.5409079194992078  0.17604930617330095  0.5480687621828914  1.0000

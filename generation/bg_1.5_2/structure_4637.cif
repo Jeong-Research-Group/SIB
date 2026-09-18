@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NaONbO2
+_chemical_formula_sum              "Na1 O3 Nb1"
+_cell_length_a       4.0022346590234275
+_cell_length_b       4.00503923553411
+_cell_length_c       4.008473873138428
+_cell_angle_alpha    89.99421050409579
+_cell_angle_beta     89.98188201078258
+_cell_angle_gamma    90.03265763921378
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.80662930087564  0.29076340745909324  0.5674061170561918  1.0000
+  O   O1        1.0  0.3062170445420193  0.7891940462367123  0.5670068856067919  1.0000
+  Nb  Nb1       1.0  0.3060568857737876  0.7899943581309506  0.06777115287658587  1.0000
+  O   O2        1.0  0.8064128149588208  0.7893861542495619  0.06681321604465025  1.0000
+  O   O3        1.0  0.3068258475325232  0.29037195554801243  0.06665688844380464  1.0000

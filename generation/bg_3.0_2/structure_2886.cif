@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       GaONaO
+_chemical_formula_sum              "Ga1 O2 Na1"
+_cell_length_a       2.990233975094286
+_cell_length_b       2.9968197375547527
+_cell_length_c       5.590747833251953
+_cell_angle_alpha    105.66938348376938
+_cell_angle_beta     74.50420114858062
+_cell_angle_gamma    120.41246715797601
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.22154513019426877  0.3695063304543991  0.5165706880585396  1.0000
+  O   O1        1.0  0.9556166528932643  0.6352231516178054  0.31850942904423535  1.0000
+  Na  Na1       1.0  0.7211109419277953  0.8697589654115985  0.015632389580137882  1.0000
+  O   O2        1.0  0.48776897854513457  0.10386206375056638  0.7144070857808816  1.0000

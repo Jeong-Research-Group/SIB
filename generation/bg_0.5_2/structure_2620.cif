@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Cu2NaPWP
+_chemical_formula_sum              "Cu2 Na1 P2 W1"
+_cell_length_a       3.8881301581381367
+_cell_length_b       3.803630061596834
+_cell_length_c       6.859917163848877
+_cell_angle_alpha    89.76360964518949
+_cell_angle_beta     89.98123314383592
+_cell_angle_gamma    90.09379466264544
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.3116242299729078  0.20297282977226014  0.35290879023933824  1.0000
+  Cu  Cu2       1.0  0.81138718021557  0.19973050038790927  0.016630131608068584  1.0000
+  Na  Na1       1.0  0.8102817526317587  0.701074421450171  0.6402408485244532  1.0000
+  P   P1        1.0  0.310883671903854  0.19935652500313167  0.7830470795334826  1.0000
+  W   W1        1.0  0.3117191204273684  0.7011270532701145  0.020565412332684597  1.0000
+  P   P2        1.0  0.8121119148419672  0.70136141853937  0.24487364221347552  1.0000

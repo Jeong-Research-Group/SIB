@@ -1,0 +1,27 @@
+data_image0
+_chemical_formula_structural       NaSr
+_chemical_formula_sum              "Na1 Sr1"
+_cell_length_a       4.089287774496277
+_cell_length_b       4.089355383225911
+_cell_length_c       4.145337104797363
+_cell_angle_alpha    90.06075020580572
+_cell_angle_beta     90.00516612744482
+_cell_angle_gamma    90.00725616582751
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.5516035548977384  0.8021371959116541  0.62842822190567  1.0000
+  Sr  Sr1       1.0  0.05056897939944292  0.3015308667176973  0.1281642919945471  1.0000

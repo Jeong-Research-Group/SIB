@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NaWOClKO
+_chemical_formula_sum              "Na1 W1 O2 Cl1 K1"
+_cell_length_a       4.253466924231741
+_cell_length_b       4.297989195213394
+_cell_length_c       6.742476463317871
+_cell_angle_alpha    88.95621973532016
+_cell_angle_beta     88.40026957187936
+_cell_angle_gamma    90.03265764029491
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.8004772666590384  0.8216248756977866  0.3350241785601335  1.0000
+  W   W1        1.0  0.3011854896297682  0.3249837168093802  0.3211248821607967  1.0000
+  O   O1        1.0  0.8027648318776294  0.32639873029982797  0.31030693633584977  1.0000
+  Cl  Cl1       1.0  0.29397138936570794  0.820920049722114  0.5977617508339969  1.0000
+  K   K1        1.0  0.7948408727465487  0.3195776052590855  0.8701824544065571  1.0000
+  O   O2        1.0  0.3103370066614021  0.8295567026708349  0.15604259050243488  1.0000

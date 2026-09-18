@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       CsS4CsGaNa
+_chemical_formula_sum              "Cs2 S4 Ga1 Na1"
+_cell_length_a       4.766709835669721
+_cell_length_b       7.450531179354744
+_cell_length_c       7.65539026260376
+_cell_angle_alpha    70.71892474108351
+_cell_angle_beta     90.08525008976387
+_cell_angle_gamma    108.79720153540536
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.12783579528331757  0.5864119529724121  0.6932056546211243  1.0000
+  S   S1        1.0  0.44613385200500494  0.22367523610591886  0.5499371290206909  1.0000
+  S   S2        1.0  0.7598562240600586  0.8510715365409851  0.38126480579376226  1.0000
+  S   S3        1.0  0.024871252477169037  0.3805995583534241  0.1971987634897232  1.0000
+  S   S4        1.0  0.7827535271644592  0.8927420377731323  0.8197174072265625  1.0000
+  Cs  Cs2       1.0  0.37090134620666504  0.0660979226231575  0.05702495947480202  1.0000
+  Ga  Ga1       1.0  0.8929967880249025  0.11350782960653305  0.500602662563324  1.0000
+  Na  Na1       1.0  0.6171410083770752  0.5652492046356201  0.20174270868301392  1.0000

@@ -1,0 +1,27 @@
+data_image0
+_chemical_formula_structural       AsNa
+_chemical_formula_sum              "As1 Na1"
+_cell_length_a       3.6684801831464044
+_cell_length_b       3.609025957737346
+_cell_length_c       3.5400588512420654
+_cell_angle_alpha    89.90009733031326
+_cell_angle_beta     90.06233480716105
+_cell_angle_gamma    90.02950209365116
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.8870854985867045  0.3783831597676175  0.28592240698785526  1.0000
+  Na  Na1       1.0  0.3880714488154383  0.8850232370443164  0.7849034057502431  1.0000

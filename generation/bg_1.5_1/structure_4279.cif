@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Na2CeHg
+_chemical_formula_sum              "Na2 Ce1 Hg1"
+_cell_length_a       5.33050094138535
+_cell_length_b       5.329238696483249
+_cell_length_c       5.320552825927734
+_cell_angle_alpha    59.97261953314953
+_cell_angle_beta     60.14515092868538
+_cell_angle_gamma    60.038168668048606
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.8847301008289945  0.21376171643767175  0.6408341528071397  1.0000
+  Na  Na2       1.0  0.38559937552617723  0.7144921422853034  0.14071488300513657  1.0000
+  Ce  Ce1       1.0  0.6349080798666888  0.9637283692204363  0.3924647276566295  1.0000
+  Hg  Hg1       1.0  0.13494065322230084  0.4639455089939148  0.8912885194915208  1.0000

@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       PbSnNa
+_chemical_formula_sum              "Pb1 Sn1 Na1"
+_cell_length_a       3.34452694502763
+_cell_length_b       5.3615697547398256
+_cell_length_c       5.364959239959717
+_cell_angle_alpha    60.51599477425239
+_cell_angle_beta     89.493673786605
+_cell_angle_gamma    89.57430414225382
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.8947371831721378  0.9222097389767931  0.3004242779296841  1.0000
+  Sn  Sn1       1.0  0.5444632185515373  0.5878641607696584  0.9688072206631936  1.0000
+  Na  Na1       1.0  0.22151060417848722  0.25538074970670627  0.6340467932521576  1.0000

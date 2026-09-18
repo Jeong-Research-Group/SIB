@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       SiPbNa
+_chemical_formula_sum              "Si1 Pb1 Na1"
+_cell_length_a       3.3076793468481216
+_cell_length_b       5.301603018328955
+_cell_length_c       5.324523448944092
+_cell_angle_alpha    119.656238623349
+_cell_angle_beta     90.50351725753481
+_cell_angle_gamma    89.84915096840645
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.5761781341915858  0.5279152987589508  0.9032823447051234  1.0000
+  Pb  Pb1       1.0  0.9386873852842303  0.8587074884054725  0.5701332100796426  1.0000
+  Na  Na1       1.0  0.2614331255285927  0.19188026990471344  0.23549640203397118  1.0000

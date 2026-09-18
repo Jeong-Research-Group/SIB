@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NaHAlH2MgH
+_chemical_formula_sum              "Na1 H4 Al1 Mg1"
+_cell_length_a       3.023589408532704
+_cell_length_b       5.636008834635855
+_cell_length_c       4.939921855926514
+_cell_angle_alpha    109.16385349777212
+_cell_angle_beta     90.41530532435674
+_cell_angle_gamma    91.45794057325334
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.04611817345578347  0.42029488095118317  0.48166537236788975  1.0000
+  H   H1        1.0  0.04661289619792774  0.738544940135374  0.2331903119936444  1.0000
+  Al  Al1       1.0  0.045606969683112536  0.9204925902599692  0.9849956042015929  1.0000
+  H   H2        1.0  0.5472823389755347  0.7393856049380765  0.778189777682874  1.0000
+  H   H3        1.0  0.5460413693940053  0.10130897955849419  0.18979582155383723  1.0000
+  Mg  Mg1       1.0  0.5459982745230597  0.9208143362409933  0.4835395211098364  1.0000
+  H   H4        1.0  0.04726629102306314  0.10327357822458731  0.7344987390590226  1.0000

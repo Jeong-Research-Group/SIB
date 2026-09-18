@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CoNaCoCl2BrCl
+_chemical_formula_sum              "Co2 Na1 Cl3 Br1"
+_cell_length_a       3.7506987597764336
+_cell_length_b       7.005112507516093
+_cell_length_c       5.986618518829346
+_cell_angle_alpha    89.23814269744123
+_cell_angle_beta     89.5166368275198
+_cell_angle_gamma    89.48725335965295
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.9780969622830491  0.36789295020269497  0.5987038012207949  1.0000
+  Na  Na1       1.0  0.477407037771311  0.8690192102297976  0.09455756846514901  1.0000
+  Co  Co2       1.0  0.9771677245521327  0.36636927726043694  0.09659586039772586  1.0000
+  Cl  Cl1       1.0  0.47815656612269375  0.5027317407975856  0.8472377662541897  1.0000
+  Cl  Cl2       1.0  0.9777970312157606  0.08571472025170554  0.8465990429075974  1.0000
+  Br  Br1       1.0  0.977286161261943  0.6550761459640133  0.35150322287917013  1.0000
+  Cl  Cl3       1.0  0.476219474779652  0.22801567543127566  0.34998911627514656  1.0000

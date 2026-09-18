@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CuNaBrCuBrCl2
+_chemical_formula_sum              "Cu2 Na1 Br2 Cl2"
+_cell_length_a       6.379661874121236
+_cell_length_b       3.6959474519821383
+_cell_length_c       6.8936944007873535
+_cell_angle_alpha    90.69155913751302
+_cell_angle_beta     70.42463688940761
+_cell_angle_gamma    90.11845167101882
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.8763142228126526  0.615295112133026  0.7180829644203187  1.0000
+  Na  Na1       1.0  0.8765923380851746  0.11459286510944366  0.21822597086429593  1.0000
+  Br  Br1       1.0  0.12309996038675308  0.11176407337188721  0.5067274570465088  1.0000
+  Cu  Cu2       1.0  0.37639960646629333  0.11467573046684264  0.718561589717865  1.0000
+  Br  Br2       1.0  0.6310478448867798  0.1177138090133667  0.9293560981750488  1.0000
+  Cl  Cl1       1.0  0.6167796850204468  0.6202731132507324  0.5031443238258362  1.0000
+  Cl  Cl2       1.0  0.13663335144519806  0.6113114953041076  0.9326013922691345  1.0000

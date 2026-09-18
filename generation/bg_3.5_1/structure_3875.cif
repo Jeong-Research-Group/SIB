@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       NaGaS2
+_chemical_formula_sum              "Na1 Ga1 S2"
+_cell_length_a       3.8595777875292416
+_cell_length_b       3.8576739592321077
+_cell_length_c       6.428336143493652
+_cell_angle_alpha    90.54139061562879
+_cell_angle_beta     89.86259276599797
+_cell_angle_gamma    89.38230071368453
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.5899096724717541  0.3945968449804677  0.13457897229869298  1.0000
+  Ga  Ga1       1.0  0.09045240320468005  0.8943070176098191  0.6348772043297007  1.0000
+  S   S1        1.0  0.5926614992438081  0.8952623004100502  0.42939937162140285  1.0000
+  S   S2        1.0  0.08781270009404736  0.39566722453030734  0.84012848101249  1.0000

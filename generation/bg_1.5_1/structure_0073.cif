@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NaInNaInO4
+_chemical_formula_sum              "Na2 In2 O4"
+_cell_length_a       3.271941361425464
+_cell_length_b       5.641014447060797
+_cell_length_c       5.8264336585998535
+_cell_angle_alpha    80.8054266226003
+_cell_angle_beta     106.27582491298368
+_cell_angle_gamma    90.07810594414566
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.12162293359926242  0.19571596382406017  0.22819787284816315  1.0000
+  In  In1       1.0  0.37222564293296706  0.4464654324698555  0.7294877165251701  1.0000
+  Na  Na2       1.0  0.6217350357997575  0.696024417007456  0.22829380719285441  1.0000
+  In  In2       1.0  0.8723670240583369  0.9462603927668558  0.7313655012662023  1.0000
+  O   O1        1.0  0.9785674804285122  0.5767163043382889  0.9422133556979784  1.0000
+  O   O2        1.0  0.7650293113104225  0.31538823326575294  0.5164104107322769  1.0000
+  O   O3        1.0  0.47852811222241676  0.07749655171129277  0.9425021405420947  1.0000
+  O   O4        1.0  0.26519775540702417  0.8147427445181167  0.5164449813953346  1.0000

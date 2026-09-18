@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       OTlHONa
+_chemical_formula_sum              "O2 Tl1 H1 Na1"
+_cell_length_a       3.445709809670441
+_cell_length_b       3.463596408265701
+_cell_length_c       8.497149467468262
+_cell_angle_alpha    88.63073389374583
+_cell_angle_beta     102.15575870009161
+_cell_angle_gamma    119.5257049045481
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.8113768093081482  0.8443698294719082  0.93887460196861  1.0000
+  Tl  Tl1       1.0  0.7939188490335833  0.35894006430248204  0.4460192022704873  1.0000
+  H   H1        1.0  0.8838326332939147  0.8728675231827697  0.05377741880916435  1.0000
+  O   O2        1.0  0.23647149038805018  0.0736611786975951  0.5982166529392363  1.0000
+  Na  Na1       1.0  0.05398115870926883  0.4720210442871641  0.8021410703562116  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CuTiNaSe2
+_chemical_formula_sum              "Cu1 Ti1 Na1 Se2"
+_cell_length_a       4.101060650690838
+_cell_length_b       4.083199761730993
+_cell_length_c       7.243088245391846
+_cell_angle_alpha    89.95581117709177
+_cell_angle_beta     90.16002700016632
+_cell_angle_gamma    120.29050623379086
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.06966016443514707  0.8043324942441219  0.026750426233323573  1.0000
+  Ti  Ti1       1.0  0.737360120434292  0.13691085651986143  0.24986882503836705  1.0000
+  Na  Na1       1.0  0.40273767789088516  0.4708465930476418  0.6620633595662613  1.0000
+  Se  Se1       1.0  0.7349979294974045  0.13800977234603923  0.9115762114313707  1.0000
+  Se  Se2       1.0  0.06911482648505783  0.8031345613798989  0.38844850683862686  1.0000

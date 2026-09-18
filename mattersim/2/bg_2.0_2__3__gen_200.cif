@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NaKTe3Sb
+_chemical_formula_sum              "Na1 K1 Te3 Sb1"
+_cell_length_a       4.431047119436105
+_cell_length_b       4.461681977020219
+_cell_length_c       11.529924392700195
+_cell_angle_alpha    89.82174824555185
+_cell_angle_beta     90.62469843283158
+_cell_angle_gamma    120.60137410175176
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.5882850885391235  0.9506494402885438  0.8233093619346619  1.0000
+  K   K1        1.0  0.2579473853111267  0.28297844529151917  0.15359917283058167  1.0000
+  Te  Te1       1.0  0.5909045338630676  0.9498236179351807  0.34545332193374634  1.0000
+  Te  Te2       1.0  0.9264626502990723  0.6167581081390381  0.9770871400833129  1.0000
+  Te  Te3       1.0  0.25710612535476685  0.2824294865131378  0.6477763056755066  1.0000
+  Sb  Sb1       1.0  0.9240131974220276  0.6173076033592224  0.49699887633323664  1.0000

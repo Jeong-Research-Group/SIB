@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       MoN2NaBi
+_chemical_formula_sum              "Mo1 N2 Na1 Bi1"
+_cell_length_a       3.8961587543439467
+_cell_length_b       3.568852106974987
+_cell_length_c       6.952354907989502
+_cell_angle_alpha    105.1557872547342
+_cell_angle_beta     106.33893537356174
+_cell_angle_gamma    89.95587256183838
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.15302488103259887  0.07366252776825387  0.3766578433297383  1.0000
+  N   N1        1.0  0.09863415387532107  0.521596611703108  0.27125769895719987  1.0000
+  N   N2        1.0  0.299038917777122  0.223509475822243  0.6845931412219728  1.0000
+  Na  Na1       1.0  0.497651131045271  0.4209381633041692  0.06741120672516765  1.0000
+  Bi  Bi1       1.0  0.8078585262550435  0.7315818071430377  0.6945596338234823  1.0000

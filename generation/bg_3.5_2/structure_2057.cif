@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NaO2CoMg
+_chemical_formula_sum              "Na1 O2 Co1 Mg1"
+_cell_length_a       3.9729220498285636
+_cell_length_b       3.9319887173095576
+_cell_length_c       4.724564552307129
+_cell_angle_alpha    91.43177409940584
+_cell_angle_beta     91.23881433081549
+_cell_angle_gamma    89.92243204797384
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.1213826245191002  0.27664929589173387  0.9958032967233361  1.0000
+  O   O1        1.0  0.6229760044883347  0.776839493672098  0.49373951539516425  1.0000
+  O   O2        1.0  0.12227589003019709  0.277760355896971  0.49634367244630934  1.0000
+  Co  Co1       1.0  0.12230339603057129  0.7772768747610072  0.4953145978450215  1.0000
+  Mg  Mg1       1.0  0.622355760240877  0.2771737288529837  0.49595695660241107  1.0000

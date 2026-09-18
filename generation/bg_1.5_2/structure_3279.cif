@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       LiCdNa2AsCdAs
+_chemical_formula_sum              "Li1 Cd2 Na2 As2"
+_cell_length_a       4.72670675422649
+_cell_length_b       4.736897122866093
+_cell_length_c       6.857107162475586
+_cell_angle_alpha    90.05315503744751
+_cell_angle_beta     90.14900991378371
+_cell_angle_gamma    89.92461769882033
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.08592298704997456  0.1272220154628405  0.44340461464642467  1.0000
+  Cd  Cd1       1.0  0.5870308281883815  0.6269186139675786  0.9830704922967055  1.0000
+  Na  Na1       1.0  0.0862235643666717  0.1262131343211003  0.0006592270185994229  1.0000
+  Na  Na2       1.0  0.5870378012661811  0.12624196757903483  0.7059156900932263  1.0000
+  As  As1       1.0  0.5864995714669083  0.12596319612322032  0.22955374415435734  1.0000
+  Cd  Cd2       1.0  0.5849111671336301  0.6273594495283221  0.4424622953636147  1.0000
+  As  As2       1.0  0.08620232315633074  0.6273175486274958  0.7075565452182716  1.0000

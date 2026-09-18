@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CuNa2SiTeNa
+_chemical_formula_sum              "Cu1 Na3 Si1 Te1"
+_cell_length_a       4.696073769561692
+_cell_length_b       4.726889145277594
+_cell_length_c       6.653390884399414
+_cell_angle_alpha    89.93178939710684
+_cell_angle_beta     89.75573447542925
+_cell_angle_gamma    89.9419732090701
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.26478284518382633  0.6874668588171438  0.17232260126592863  1.0000
+  Na  Na1       1.0  0.26351413236913745  0.6864853495198607  0.6845585111470703  1.0000
+  Na  Na2       1.0  0.7651293269862106  0.1882895082243243  0.17341941555279697  1.0000
+  Si  Si1       1.0  0.7650178065811996  0.6892045746253156  0.9545308344382003  1.0000
+  Te  Te1       1.0  0.26525434910080703  0.18860632162432892  0.4099002477261  1.0000
+  Na  Na3       1.0  0.7645477661048  0.18839405491156758  0.6892724631796545  1.0000

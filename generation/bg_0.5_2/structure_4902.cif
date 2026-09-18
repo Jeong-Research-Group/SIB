@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       MgSrBi
+_chemical_formula_sum              "Mg1 Sr1 Bi1"
+_cell_length_a       5.416895093769707
+_cell_length_b       5.4195392945097565
+_cell_length_c       3.3809444904327393
+_cell_angle_alpha    89.53976390158915
+_cell_angle_beta     89.66742010210581
+_cell_angle_gamma    59.76631204528435
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.73365950679789  0.28980073301910575  0.47885832071931156  1.0000
+  Sr  Sr1       1.0  0.4003981949112354  0.9558308128442173  0.16151282211041015  1.0000
+  Bi  Bi1       1.0  0.0680883602007928  0.6221585874851843  0.8067255012170758  1.0000

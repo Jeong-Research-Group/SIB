@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       KOBiO2
+_chemical_formula_sum              "K1 O3 Bi1"
+_cell_length_a       4.274749287035439
+_cell_length_b       4.2853949480166715
+_cell_length_c       4.288142204284668
+_cell_angle_alpha    90.0206911487953
+_cell_angle_beta     89.99649178742438
+_cell_angle_gamma    90.05138601745361
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.06043208123018444  0.29363581498711094  0.5392741557556303  1.0000
+  O   O1        1.0  0.5602324608383284  0.7935787437694589  0.5390929589320822  1.0000
+  Bi  Bi1       1.0  0.5599149468351476  0.7933750751651643  0.03892619208760783  1.0000
+  O   O2        1.0  0.5608672490708506  0.29355591566296974  0.038832191270666144  1.0000
+  O   O3        1.0  0.060288343253495885  0.7935016749908838  0.03869916821263462  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       InNaTeNa2TeGaAs
+_chemical_formula_sum              "In1 Na3 Te2 Ga1 As1"
+_cell_length_a       4.565568759465548
+_cell_length_b       4.572487561528079
+_cell_length_c       12.936891555786133
+_cell_angle_alpha    100.12553221090675
+_cell_angle_beta     79.77905406678882
+_cell_angle_gamma    119.61631185262026
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.41392549814528534  0.6043247573942189  0.14379763602466486  1.0000
+  Na  Na1       1.0  0.19726219797846262  0.8172345168606416  0.7870604989798236  1.0000
+  Te  Te1       1.0  0.28239661393614096  0.7354385841604454  0.539456367469547  1.0000
+  Na  Na2       1.0  0.0036433498895882886  0.014743801863459985  0.374133944417809  1.0000
+  Na  Na3       1.0  0.8009816404416034  0.21599312115016464  0.9775004388475789  1.0000
+  Te  Te2       1.0  0.4968447984214953  0.5202072865520855  0.8922197815454357  1.0000
+  Ga  Ga1       1.0  0.5977678293102233  0.4178027805783977  0.5870276093357434  1.0000
+  As  As1       1.0  0.7226012346991169  0.29541358261888856  0.2210224868923543  1.0000

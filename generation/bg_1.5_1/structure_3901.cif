@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NaRuNaH2
+_chemical_formula_sum              "Na2 Ru1 H2"
+_cell_length_a       3.2266333740976636
+_cell_length_b       4.389841753870147
+_cell_length_c       5.461827278137207
+_cell_angle_alpha    113.35454262970018
+_cell_angle_beta     90.21271509540601
+_cell_angle_gamma    90.1898885851321
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.5915785439350751  0.47179189317071313  0.6775633688145085  1.0000
+  Ru  Ru1       1.0  0.09118393098584915  0.8199894431526243  0.3729221220851926  1.0000
+  Na  Na2       1.0  0.5870096688420215  0.16915677411175536  0.0667880698531307  1.0000
+  H   H1        1.0  0.09348224989098639  0.6378298407408166  0.02150910077865332  1.0000
+  H   H2        1.0  0.5920478119964668  0.9167072782843826  0.5592558980179222  1.0000

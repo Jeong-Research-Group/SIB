@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Na2SeAlSeNaSe2
+_chemical_formula_sum              "Na3 Se4 Al1"
+_cell_length_a       6.362561151048635
+_cell_length_b       6.231978140629761
+_cell_length_c       6.210940837860107
+_cell_angle_alpha    89.20079530811975
+_cell_angle_beta     89.51459462472944
+_cell_angle_gamma    89.25687787126301
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.17963187356076787  0.7820497149705135  0.9578878876357565  1.0000
+  Na  Na2       1.0  0.17966176568897385  0.2803626067614666  0.4586359262700362  1.0000
+  Se  Se1       1.0  0.9035596849964282  0.5565648677760382  0.2343454509955884  1.0000
+  Al  Al1       1.0  0.6799012415424978  0.778961420764908  0.45757639414442164  1.0000
+  Se  Se2       1.0  0.45840987549933093  0.5571992989484227  0.6797521118134372  1.0000
+  Na  Na3       1.0  0.6790770296711077  0.2801992295603525  0.9583659773007779  1.0000
+  Se  Se3       1.0  0.9019790895696329  0.9999270438190471  0.6784344913289373  1.0000
+  Se  Se4       1.0  0.45954182764786294  0.9991513495779886  0.23690719946959654  1.0000

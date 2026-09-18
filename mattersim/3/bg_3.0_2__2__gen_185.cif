@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       GaCsCl2CsCl3
+_chemical_formula_sum              "Ga1 Cs2 Cl5"
+_cell_length_a       7.393364229788797
+_cell_length_b       7.414876159058298
+_cell_length_c       7.419818878173828
+_cell_angle_alpha    59.92431669665491
+_cell_angle_beta     59.95590506466915
+_cell_angle_gamma    59.95647810235878
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.6773837804794312  0.172258660197258  0.469742089509964  1.0000
+  Cs  Cs1       1.0  0.9059592485427856  0.44198629260063177  0.7449749708175659  1.0000
+  Cl  Cl1       1.0  0.8725512623786926  0.4203082323074341  0.27884453535079956  1.0000
+  Cl  Cl2       1.0  0.42952555418014515  0.9722578525543214  0.7160869240760803  1.0000
+  Cs  Cs2       1.0  0.405296891927719  0.9435468912124635  0.243291899561882  1.0000
+  Cl  Cl3       1.0  0.8720033764839172  0.9762028455734253  0.7202205061912538  1.0000
+  Cl  Cl4       1.0  0.430364727973938  0.4206559360027314  0.2747378945350647  1.0000
+  Cl  Cl5       1.0  0.8966926336288452  0.9550118446350098  0.2529220283031465  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       K2F4Pb
+_chemical_formula_sum              "K2 F4 Pb1"
+_cell_length_a       4.228945908722022
+_cell_length_b       5.863085036224431
+_cell_length_c       5.952780723571777
+_cell_angle_alpha    63.9848001694582
+_cell_angle_beta     91.42618684935083
+_cell_angle_gamma    91.46503699682411
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.8885529047057866  0.8981565836795183  0.5652111759220488  1.0000
+  K   K2        1.0  0.469082534071754  0.5839622612863339  0.25217848973168666  1.0000
+  F   F1        1.0  0.9529520272070782  0.3762603998215088  0.549636901074944  1.0000
+  F   F2        1.0  0.9517768021816249  0.8824482556675406  0.039547249882761704  1.0000
+  F   F3        1.0  0.4047819677405145  0.6008716222789378  0.7773610949991259  1.0000
+  F   F4        1.0  0.40262550150911286  0.10850003325407606  0.26666075044355053  1.0000
+  Pb  Pb1       1.0  0.1767797466439118  0.24191451144070383  0.9079326982167575  1.0000

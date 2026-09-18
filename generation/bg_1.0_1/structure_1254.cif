@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Na2AgPNaPNa
+_chemical_formula_sum              "Na4 Ag1 P2"
+_cell_length_a       4.866907051506996
+_cell_length_b       4.861743357941126
+_cell_length_c       8.910324096679688
+_cell_angle_alpha    105.35728498752343
+_cell_angle_beta     74.59470695370817
+_cell_angle_gamma    119.79104154380182
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.41736218371412415  0.3307307366706598  0.051154993982206395  1.0000
+  Na  Na2       1.0  0.8084857471339317  0.938779711602744  0.8744288087113758  1.0000
+  Ag  Ag1       1.0  0.2134343986399247  0.5336940286887407  0.6645612121663186  1.0000
+  P   P1        1.0  0.11917857811592013  0.6279982326345485  0.9431698921030766  1.0000
+  Na  Na3       1.0  0.009269676839901726  0.7388080959944249  0.2801189122425899  1.0000
+  P   P2        1.0  0.308559893880571  0.44061037894014154  0.3853723707771402  1.0000
+  Na  Na4       1.0  0.6191730491989995  0.13024042525776466  0.45586624742374604  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       HNaSnHLiNaH3
+_chemical_formula_sum              "H5 Na2 Sn1 Li1"
+_cell_length_a       3.686341743353599
+_cell_length_b       4.019657410394329
+_cell_length_c       8.659907341003418
+_cell_angle_alpha    89.10537739949392
+_cell_angle_beta     90.0579908122272
+_cell_angle_gamma    89.56634697305975
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.21319155439445148  0.1728305369825497  0.025125616820283695  1.0000
+  Na  Na1       1.0  0.7032066570356563  0.292540609025594  0.498720497345382  1.0000
+  Sn  Sn1       1.0  0.2020100659426616  0.7967056641267724  0.1943924723868235  1.0000
+  H   H2        1.0  0.21384942430382284  0.4165739719550304  0.025805840738107693  1.0000
+  Li  Li1       1.0  0.20609107487026107  0.8080710762495095  0.654095173248506  1.0000
+  Na  Na2       1.0  0.7100471256997319  0.30380871959067884  0.8496512171134568  1.0000
+  H   H3        1.0  0.2051598125263605  0.9084203254028012  0.4094758635272777  1.0000
+  H   H4        1.0  0.7069915538492758  0.8082833278061893  0.6877456312178063  1.0000
+  H   H5        1.0  0.20655067196274393  0.3101713049218216  0.670155167711013  1.0000

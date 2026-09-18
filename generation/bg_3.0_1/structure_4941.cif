@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Na2BiH4
+_chemical_formula_sum              "Na2 Bi1 H4"
+_cell_length_a       4.11578707861011
+_cell_length_b       4.1285157691628305
+_cell_length_c       7.115422248840332
+_cell_angle_alpha    106.89685167670997
+_cell_angle_beta     107.13081216157985
+_cell_angle_gamma    90.02030199438242
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.9184364079156436  0.9106798162186235  0.530838906400454  1.0000
+  Na  Na2       1.0  0.6002456541581755  0.5932291137869065  0.8983589403647853  1.0000
+  Bi  Bi1       1.0  0.25952809931991855  0.25216367776398896  0.2150108815061052  1.0000
+  H   H1        1.0  0.0949169317477336  0.08848228239077725  0.8880273104276287  1.0000
+  H   H2        1.0  0.4239090074540512  0.4165173467141105  0.541212916129627  1.0000
+  H   H3        1.0  0.7603320474315189  0.25030872181443176  0.21532851455996155  1.0000
+  H   H4        1.0  0.25958597616049234  0.752680004852074  0.2149254681125051  1.0000

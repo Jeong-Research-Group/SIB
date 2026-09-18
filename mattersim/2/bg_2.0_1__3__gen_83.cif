@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ScNaGaNaGe2
+_chemical_formula_sum              "Sc1 Na2 Ga1 Ge2"
+_cell_length_a       4.273070909937164
+_cell_length_b       4.285486872484388
+_cell_length_c       7.259104251861572
+_cell_angle_alpha    90.03158530298612
+_cell_angle_beta     89.8305182065484
+_cell_angle_gamma    90.04747914872877
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.23225101828575134  0.4038643538951874  0.208008274435997  1.0000
+  Na  Na1       1.0  0.23258820176124573  0.9051482081413269  0.8470134735107422  1.0000
+  Ga  Ga1       1.0  0.7322937846183777  0.904964029788971  0.20790675282478333  1.0000
+  Na  Na2       1.0  0.7330456376075745  0.40521249175071716  0.5675994753837585  1.0000
+  Ge  Ge1       1.0  0.7319766283035278  0.40619155764579773  0.984388291835785  1.0000
+  Ge  Ge2       1.0  0.23348866403102875  0.903898298740387  0.4294742047786713  1.0000

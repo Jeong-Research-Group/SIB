@@ -1,0 +1,27 @@
+data_image0
+_chemical_formula_structural       CuNa
+_chemical_formula_sum              "Cu1 Na1"
+_cell_length_a       2.9162563304364566
+_cell_length_b       2.9123892111115253
+_cell_length_c       4.178377628326416
+_cell_angle_alpha    89.93559381768843
+_cell_angle_beta     90.21683368638473
+_cell_angle_gamma    89.95469102615183
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.3521125325349166  0.41911586965080033  0.546553730122917  1.0000
+  Na  Na1       1.0  0.851981817173665  0.9186991442890761  0.04638836091357423  1.0000

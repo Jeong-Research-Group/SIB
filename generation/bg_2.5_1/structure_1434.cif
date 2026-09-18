@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       VO3SnO3
+_chemical_formula_sum              "V1 O6 Sn1"
+_cell_length_a       3.830622036637491
+_cell_length_b       5.337398616389769
+_cell_length_c       5.347624778747559
+_cell_angle_alpha    90.07339288148215
+_cell_angle_beta     90.0466731886524
+_cell_angle_gamma    90.09930662852221
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.3658127197928378  0.9105985754038943  0.01523350454708553  1.0000
+  O   O1        1.0  0.36313053934054546  0.14791178655799225  0.25540062753837767  1.0000
+  O   O2        1.0  0.3647849571233082  0.6681267626345725  0.25381705221341516  1.0000
+  O   O3        1.0  0.8652532092838762  0.40625649603234115  0.5116136076022898  1.0000
+  Sn  Sn1       1.0  0.3648838101647683  0.4079568395415882  0.5139006975163009  1.0000
+  O   O4        1.0  0.36098840818888367  0.1505907626401194  0.7726253274811192  1.0000
+  O   O5        1.0  0.36435660713106094  0.6685203916351722  0.7715385564557803  1.0000
+  O   O6        1.0  0.8643233776898572  0.9089670783272421  0.015101906296685308  1.0000

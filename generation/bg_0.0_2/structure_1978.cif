@@ -1,0 +1,27 @@
+data_image0
+_chemical_formula_structural       SrSe
+_chemical_formula_sum              "Sr1 Se1"
+_cell_length_a       3.844035041122298
+_cell_length_b       3.8579905014931155
+_cell_length_c       3.8665974140167236
+_cell_angle_alpha    90.36977529441829
+_cell_angle_beta     89.94455502734087
+_cell_angle_gamma    90.25849100308038
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.9186481237201084  0.8284589657332221  0.279989480597024  1.0000
+  Se  Se1       1.0  0.41167238356764774  0.3292597521898699  0.7724146255217234  1.0000

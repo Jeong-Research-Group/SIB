@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       TiTeNaTeNaTeAl
+_chemical_formula_sum              "Ti1 Te3 Na2 Al1"
+_cell_length_a       4.1362119560054165
+_cell_length_b       4.150467951459071
+_cell_length_c       13.581646919250488
+_cell_angle_alpha    81.54010974891258
+_cell_angle_beta     98.24864475320815
+_cell_angle_gamma    119.69575817035863
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.22743068732742056  0.7872028948981387  0.47642019366885846  1.0000
+  Te  Te1       1.0  0.5991874937117195  0.41506201103122836  0.5980764033537973  1.0000
+  Na  Na1       1.0  0.9839491255437991  0.03338796227350309  0.752459466208943  1.0000
+  Te  Te2       1.0  0.8549502507823857  0.1605090507222673  0.35468298230664064  1.0000
+  Na  Na2       1.0  0.4711117437824887  0.5461385249695493  0.19834335109576548  1.0000
+  Te  Te3       1.0  0.37046647030019764  0.650630593593161  0.9138261080118592  1.0000
+  Al  Al1       1.0  0.728119970638332  0.2915201194270167  0.9892944097867817  1.0000
